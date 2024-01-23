@@ -1,0 +1,152 @@
+condition	vocab_id	code	description
+migraine	ICD10	G43	Migraine
+migraine	Read2	1474.00	H/O: migraine
+migraine	Read2	1474000	H/O migraine with aura
+migraine	Read2	8B6N.00	Migraine prophylaxis
+migraine	Read2	F26..00	Migraine
+migraine	Read2	F260.00	Classical migraine
+migraine	Read2	F260.11	Migraine with aura
+migraine	Read2	F261.00	Common migraine
+migraine	Read2	F261.11	Migraine without aura
+migraine	Read2	F261000	Atypical migraine
+migraine	Read2	F261z00	Common migraine NOS
+migraine	Read2	F262.00	Migraine variants
+migraine	Read2	F262200	Abdominal migraine
+migraine	Read2	F262300	Basilar migraine
+migraine	Read2	F262400	Ophthalmic migraine
+migraine	Read2	F262800	Migraine induced by oestrogen contraceptive
+migraine	Read2	F262z00	Migraine variant NOS
+migraine	Read2	F26y.00	Other forms of migraine
+migraine	Read2	F26y000	Hemiplegic migraine
+migraine	Read2	F26y100	Ophthalmoplegic migraine
+migraine	Read2	F26y111	Moebius' ophthalmoplegic migraine
+migraine	Read2	F26y200	Status migrainosus
+migraine	Read2	F26y300	Complicated migraine
+migraine	Read2	F26yz00	Other forms of migraine NOS
+migraine	Read2	F26z.00	Migraine NOS
+migraine	Read2	Fyu5300	[X]Other migraine
+migraine	Read2	K584.11	Migraine - menstrual
+migraine	CTV3	1474.Ya04R	H/O: migraine
+migraine	CTV3	XaXkvYauUp	H/O migraine with aura
+migraine	CTV3	XaJLOYamL6	Migraine prophylaxis
+migraine	CTV3	F26..Y00Q4	Migraine
+migraine	CTV3	F260.Y00QF	Classical migraine
+migraine	CTV3	X007JY00QH	Migraine with typical aura
+migraine	CTV3	F260.Y00QE	Migraine with aura
+migraine	CTV3	F261.Y00QC	Common migraine
+migraine	CTV3	F261.Y00QB	Migraine without aura
+migraine	CTV3	F2610Y00QA	Atypical migraine
+migraine	CTV3	F261zY00QD	Common migraine NOS
+migraine	CTV3	F262.Y00Q8	Migraine variants
+migraine	CTV3	F2622Y00QV	Abdominal migraine
+migraine	CTV3	F2623Y00QM	Basilar migraine
+migraine	CTV3	F2624Y00QG	Ophthalmic migraine
+migraine	CTV3	XaXkrYauUn	Migraine induced by oestrogen contraceptive
+migraine	CTV3	F262zY00Q9	Migraine variant NOS
+migraine	CTV3	F26y.Y00Q6	Other forms of migraine
+migraine	CTV3	F26y0Y00QJ	Hemiplegic migraine
+migraine	CTV3	F26y1Y00QQ	Ophthalmoplegic migraine
+migraine	CTV3	X007RY00QW	Status migrainosus
+migraine	CTV3	F26y3YMAhW	Complicated migraine
+migraine	CTV3	F26yzY00Q7	Other forms of migraine NOS
+migraine	CTV3	F26z.Y00Q5	Migraine NOS
+migraine	CTV3	Fyu53YMADT	[X]Other migraine
+migraine	CTV3	Xa07HYa15V	Migraine - menstrual
+migraine	medcodeid	7595017	Migraine with aura
+migraine	medcodeid	82623012	Ophthalmoplegic migraine
+migraine	medcodeid	93294013	Migraine without aura
+migraine	medcodeid	98501012	Hemiplegic migraine
+migraine	medcodeid	158460019	Ophthalmic migraine
+migraine	medcodeid	251645017	H/O: migraine
+migraine	medcodeid	2159945013	Migraine prophylaxis
+migraine	medcodeid	1746951000000114	Migraine induced by oestrogen contraceptive
+migraine	medcodeid	7596016	Classical migraine
+migraine	medcodeid	297355013	Other forms of migraine NOS
+migraine	medcodeid	299338017	[X]Other migraine
+migraine	medcodeid	221281000000113	Migraine - menstrual
+migraine	medcodeid	1747081000000119	H/O migraine with aura
+migraine	medcodeid	297351016	Migraine variant NOS
+migraine	medcodeid	297356014	Migraine NOS
+migraine	medcodeid	297337016	Migraine variants
+migraine	medcodeid	126030010	Abdominal migraine
+migraine	medcodeid	700211000006115	Moebius' ophthalmoplegic migraine
+migraine	medcodeid	345355014	Status migrainosus
+migraine	medcodeid	138248010	Basilar migraine
+migraine	medcodeid	93295014	Common migraine
+migraine	medcodeid	93296010	Atypical migraine
+migraine	medcodeid	297354012	Complicated migraine
+migraine	medcodeid	63055014	Migraine
+migraine	medcodeid	297336013	Common migraine NOS
+migraine	medcodeid	297352011	Other forms of migraine
+migraine	SNOMEDCT	4473006	Migraine with aura
+migraine	SNOMEDCT	49605003	Ophthalmoplegic migraine
+migraine	SNOMEDCT	56097005	Migraine without aura
+migraine	SNOMEDCT	59292006	Hemiplegic migraine
+migraine	SNOMEDCT	95655001	Ophthalmic migraine
+migraine	SNOMEDCT	161481007	H/O: migraine
+migraine	SNOMEDCT	408381007	Migraine prophylaxis
+migraine	SNOMEDCT	781381000000100	Migraine induced by oestrogen contraceptive
+migraine	SNOMEDCT	230462002	Classical migraine
+migraine	SNOMEDCT	37796009	Other forms of migraine NOS
+migraine	SNOMEDCT	37796009	[X]Other migraine
+migraine	SNOMEDCT	23186000	Migraine - menstrual
+migraine	SNOMEDCT	608837004	H/O migraine with aura
+migraine	SNOMEDCT	193030005	Migraine variant NOS
+migraine	SNOMEDCT	37796009	Migraine NOS
+migraine	SNOMEDCT	193030005	Migraine variants
+migraine	SNOMEDCT	75879005	Abdominal migraine
+migraine	SNOMEDCT	49605003	Moebius' ophthalmoplegic migraine
+migraine	SNOMEDCT	230467008	Status migrainosus
+migraine	SNOMEDCT	83351003	Basilar migraine
+migraine	SNOMEDCT	56097005	Common migraine
+migraine	SNOMEDCT	56097005	Atypical migraine
+migraine	SNOMEDCT	193039006	Complicated migraine
+migraine	SNOMEDCT	37796009	Migraine
+migraine	SNOMEDCT	56097005	Common migraine NOS
+migraine	SNOMEDCT	37796009	Other forms of migraine
+migraine	Read2_5digit	1474.	H/O: migraine
+migraine	Read2_5digit	14740	H/O migraine with aura
+migraine	Read2_5digit	8B6N.	Migraine prophylaxis
+migraine	Read2_5digit	F26..	Migraine
+migraine	Read2_5digit	F260.	Classical migraine
+migraine	Read2_5digit	F261.	Common migraine
+migraine	Read2_5digit	F2610	Atypical migraine
+migraine	Read2_5digit	F261z	Common migraine NOS
+migraine	Read2_5digit	F262.	Migraine variants
+migraine	Read2_5digit	F2622	Abdominal migraine
+migraine	Read2_5digit	F2623	Basilar migraine
+migraine	Read2_5digit	F2624	Ophthalmic migraine
+migraine	Read2_5digit	F2628	Migraine induced by oestrogen contraceptive
+migraine	Read2_5digit	F262z	Migraine variant NOS
+migraine	Read2_5digit	F26y.	Other forms of migraine
+migraine	Read2_5digit	F26y0	Hemiplegic migraine
+migraine	Read2_5digit	F26y1	Ophthalmoplegic migraine
+migraine	Read2_5digit	F26y2	Status migrainosus
+migraine	Read2_5digit	F26y3	Complicated migraine
+migraine	Read2_5digit	F26yz	Other forms of migraine NOS
+migraine	Read2_5digit	F26z.	Migraine NOS
+migraine	Read2_5digit	Fyu53	[X]Other migraine
+migraine	CTV3_5digit	1474.	H/O: migraine
+migraine	CTV3_5digit	XaXkv	H/O migraine with aura
+migraine	CTV3_5digit	XaJLO	Migraine prophylaxis
+migraine	CTV3_5digit	F26..	Migraine
+migraine	CTV3_5digit	F260.	Classical migraine
+migraine	CTV3_5digit	X007J	Migraine with typical aura
+migraine	CTV3_5digit	F261.	Common migraine
+migraine	CTV3_5digit	F2610	Atypical migraine
+migraine	CTV3_5digit	F261z	Common migraine NOS
+migraine	CTV3_5digit	F262.	Migraine variants
+migraine	CTV3_5digit	F2622	Abdominal migraine
+migraine	CTV3_5digit	F2623	Basilar migraine
+migraine	CTV3_5digit	F2624	Ophthalmic migraine
+migraine	CTV3_5digit	XaXkr	Migraine induced by oestrogen contraceptive
+migraine	CTV3_5digit	F262z	Migraine variant NOS
+migraine	CTV3_5digit	F26y.	Other forms of migraine
+migraine	CTV3_5digit	F26y0	Hemiplegic migraine
+migraine	CTV3_5digit	F26y1	Ophthalmoplegic migraine
+migraine	CTV3_5digit	X007R	Status migrainosus
+migraine	CTV3_5digit	F26y3	Complicated migraine
+migraine	CTV3_5digit	F26yz	Other forms of migraine NOS
+migraine	CTV3_5digit	F26z.	Migraine NOS
+migraine	CTV3_5digit	Fyu53	[X]Other migraine
+migraine	CTV3_5digit	Xa07H	Migraine - menstrual

@@ -1,0 +1,516 @@
+condition	vocab_id	code	description
+tendon	ICD10	M65.3	Trigger finger
+tendon	ICD10	M65.4	Radial styloid tenosynovitis [de Quervain]
+tendon	ICD10	M66.2	Spontaneous rupture of extensor tendons
+tendon	ICD10	M66.3	Spontaneous rupture of flexor tendons
+tendon	ICD10	M66.4	Spontaneous rupture of other tendons
+tendon	ICD10	M66.5	Spontaneous rupture of unspecified tendon
+tendon	ICD10	M66.8	Spontaneous rupture of other tendons
+tendon	ICD10	M66.9	Spontaneous rupture of unspecified tendon
+tendon	ICD10	M70.8	Other soft tissue disorders related to use, overuse and pressure
+tendon	ICD10	M70.9	Unspecified soft tissue disorder related to use, overuse and pressure
+tendon	ICD10	M75.2	Bicipital tendinitis
+tendon	ICD10	M75.4	Impingement syndrome of shoulder
+tendon	ICD10	M76.0	Gluteal tendinitis
+tendon	ICD10	M76.1	Psoas tendinitis
+tendon	ICD10	M76.3	Iliotibial band syndrome
+tendon	ICD10	M76.5	Patellar tendinitis
+tendon	ICD10	M76.6	Achilles tendinitis
+tendon	ICD10	M76.7	Peroneal tendinitis
+tendon	ICD10	M77.0	Medial epicondylitis
+tendon	ICD10	M77.1	Lateral epicondylitis
+tendon	Read2	N211011	Supraspinatus syndrome
+tendon	Read2	N211300	Supraspinatus tendinitis
+tendon	Read2	N212200	Subacromial impingement
+tendon	Read2	N212300	Coracoid impingement
+tendon	Read2	N212400	Impingement syndrome of shoulder
+tendon	Read2	N212500	Shoulder tendonitis
+tendon	Read2	N213100	Medial epicondylitis of the elbow
+tendon	Read2	N213111	Golfer's elbow
+tendon	Read2	N213200	Lateral epicondylitis of the elbow
+tendon	Read2	N213211	Tennis elbow
+tendon	Read2	N213400	Biceps tendinitis
+tendon	Read2	N213500	Triceps tendinitis
+tendon	Read2	N215200	Gluteal tendinitis
+tendon	Read2	N215400	Psoas tendinitis
+tendon	Read2	N215500	Trochanteric tendinitis
+tendon	Read2	N215600	Adductor tendinitis
+tendon	Read2	N215800	Snapping hip
+tendon	Read2	N215900	Iliotibial band syndrome
+tendon	Read2	N216100	Pes anserinus tendinitis and bursitis
+tendon	Read2	N216400	Patellar tendinitis
+tendon	Read2	N216800	Biceps femoris tendinitis
+tendon	Read2	N216900	Semimembranosus tendinitis
+tendon	Read2	N217400	Achilles tendinitis
+tendon	Read2	N217500	Tibialis anterior tendinitis
+tendon	Read2	N217600	Tibialis posterior tendinitis
+tendon	Read2	N217800	Peroneal tendinitis
+tendon	Read2	N217B00	Anterior ankle impingement
+tendon	Read2	N217C00	Fibular impingement
+tendon	Read2	N21z200	Tendinitis NOS
+tendon	Read2	N21z211	Tendonitis NOS
+tendon	Read2	N21z212	Bicepital tendonitis
+tendon	Read2	N21z213	Tendonitis bicepital
+tendon	Read2	N21z214	Adductor tendonitis
+tendon	Read2	N21z215	Tendonitis adductor
+tendon	Read2	N21z216	Supraspinatus tendonitis
+tendon	Read2	N220300	Trigger finger - acquired
+tendon	Read2	N220311	Trigger thumb
+tendon	Read2	N220312	Snapping fingers
+tendon	Read2	N220313	Finger trigger
+tendon	Read2	N220400	Radial styloid tenosynovitis
+tendon	Read2	N220411	De Quervain's disease
+tendon	Read2	N220412	Trigger thumb - acquired
+tendon	Read2	N220413	Thumb trigger
+tendon	Read2	N220500	Other tenosynovitis of hand or wrist
+tendon	Read2	N220511	Other tenosynovitis of the hand
+tendon	Read2	N220512	Other tenosynovitis of the wrist
+tendon	Read2	N220513	Tensynovitis of fingers
+tendon	Read2	N220514	Tendonitis of thumb
+tendon	Read2	N220600	Tenosynovitis of ankle
+tendon	Read2	N220700	Tenosynovitis of foot
+tendon	Read2	N220A00	Flexor tenosynovitis of wrist
+tendon	Read2	N220B00	Flexor tenosynovitis of finger
+tendon	Read2	N220C00	Flexor tenosynovitis of thumb
+tendon	Read2	N220D00	Extensor tenosynovitis of wrist
+tendon	Read2	N220E00	Extensor tenosynovitis of finger
+tendon	Read2	N220F00	Extensor tenosynovitis of thumb
+tendon	Read2	N220G00	Acquired trigger thumb
+tendon	Read2	N220H00	Achilles tenosynovitis
+tendon	Read2	N220J00	Tibialis anterior tenosynovitis
+tendon	Read2	N220K00	Tibialis posterior tenosynovitis
+tendon	Read2	N220L00	Extensor hallucis longus tenosynovitis
+tendon	Read2	N220M00	Extensor digitorum longus tenosynovitis
+tendon	Read2	N220N00	Peroneus longus tenosynovitis
+tendon	Read2	N220P00	Peroneus brevis tenosynovitis
+tendon	Read2	N222000	Beat elbow
+tendon	Read2	N222100	Beat hand
+tendon	Read2	N222200	Beat knee
+tendon	Read2	N222400	Miners' knee
+tendon	Read2	N226.00	Nontraumatic tendon rupture
+tendon	Read2	N226000	Nontraumatic tendon rupture, unspecified
+tendon	Read2	N226200	Biceps tendon rupture
+tendon	Read2	N226300	Hand and wrist extensor tendon rupture
+tendon	Read2	N226400	Hand and wrist flexor tendon rupture
+tendon	Read2	N226500	Quadriceps tendon rupture
+tendon	Read2	N226600	Nontraumatic rupture of patellar tendon
+tendon	Read2	N226700	Nontraumatic rupture of Achilles tendon
+tendon	Read2	N226800	Extensor digitorum communis rupture
+tendon	Read2	N226900	Extensor pollicis longus rupture
+tendon	Read2	N226A00	Long head of biceps rupture
+tendon	Read2	N226C00	Flexor digitorum sublimis tendon rupture
+tendon	Read2	N226D00	Flexor digitorum profundus tendon rupture
+tendon	Read2	N226E00	Flexor pollicis longus tendon rupture
+tendon	Read2	N226F00	Tibialis posterior rupture
+tendon	Read2	N226G00	Peroneus longus rupture
+tendon	Read2	N226M00	Spontaneous rupture of flexor tendons
+tendon	Read2	N226N00	Spontaneous rupture of extensor tendons
+tendon	Read2	N226y00	Other foot and ankle tendon rupture
+tendon	Read2	N226z00	Other nontraumatic tendon rupture
+tendon	CTV3	S5Q2.Y70SU	Supraspinatus tear
+tendon	CTV3	S5Q2.YM1kQ	Rupture supraspinatus tendon
+tendon	CTV3	X706FY70Se	Painful arc syndrome
+tendon	CTV3	N2113Y70SZ	Supraspinatus tendinitis
+tendon	CTV3	N2122Y70Sh	Subacromial impingement
+tendon	CTV3	N2123Y70Si	Coracoid impingement
+tendon	CTV3	X706HY70Sg	Impingement syndrome of shoulder region
+tendon	CTV3	N2125YaeWz	Shoulder tendinitis
+tendon	CTV3	N2131Y70Sz	Medial epicondylitis
+tendon	CTV3	N2131Y70T0	Medial epicondylitis of elbow
+tendon	CTV3	N2131Y70T1	Golfer's elbow
+tendon	CTV3	N2132Y70T2	Lateral epicondylitis
+tendon	CTV3	N2132Y70T3	Lateral epicondylitis of elbow
+tendon	CTV3	N2132Y70T4	Tennis elbow
+tendon	CTV3	N2134Y70Sb	Biceps tendinitis
+tendon	CTV3	N2135Y70We	Triceps tendinitis
+tendon	CTV3	N2152Y70U2	Gluteal tendinitis
+tendon	CTV3	N2154Y70U3	Psoas tendinitis
+tendon	CTV3	N2155Y70U4	Trochanteric tendinitis
+tendon	CTV3	N2156Y70U5	Adductor tendinitis
+tendon	CTV3	N2158Y70UF	Snapping hip
+tendon	CTV3	N2158Y70UE	Iliotibial band syndrome
+tendon	CTV3	N2161Y70UU	Pes anserinus tendinitis and bursitis
+tendon	CTV3	N2164Y70UV	Patellar tendinitis
+tendon	CTV3	N2168Y70UW	Biceps femoris tendinitis
+tendon	CTV3	N2169Y70UX	Semimembranosus tendinitis
+tendon	CTV3	N2174Y70V1	Achilles tendinitis
+tendon	CTV3	N2175Y70Wa	Tibialis anterior tendinitis
+tendon	CTV3	N2176Y70WZ	Tibialis posterior tendinitis
+tendon	CTV3	N2178Y70V2	Peroneal tendinitis
+tendon	CTV3	N217BY70VQ	Anterior ankle impingement
+tendon	CTV3	N217CY70VS	Fibular impingement
+tendon	CTV3	XE1FSY70WX	Tendinitis NOS
+tendon	CTV3	N2134Y70Sc	Bicipital tendinitis
+tendon	CTV3	N2156Y70Wc	Tendonitis adductor
+tendon	CTV3	XE1FUY70Tk	Trigger finger - acquired
+tendon	CTV3	XE1FUY70Tl	Trigger finger
+tendon	CTV3	XE1FUY70Tm	Snapping finger
+tendon	CTV3	N220GY70Tg	Trigger thumb
+tendon	CTV3	XE1FVY70TG	Radial styloid tenosynovitis
+tendon	CTV3	X40HSY41MB	De Quervain's thyroiditis
+tendon	CTV3	XE1FVY70TF	De Quervain's tenosynovitis
+tendon	CTV3	N220GY70Tf	Trigger thumb - acquired
+tendon	CTV3	XE1FWY70TE	Other tenosynovitis of hand or wrist
+tendon	CTV3	X706XY70TD	Other tenosynovitis of the hand
+tendon	CTV3	X706WY70TC	Other tenosynovitis of the wrist
+tendon	CTV3	X707tYae5T	Tenosynovitis of fingers
+tendon	CTV3	N2206Y70Uz	Tenosynovitis of ankle
+tendon	CTV3	N2207Y70VX	Tenosynovitis of foot
+tendon	CTV3	N220AY70X9	Flexor tenosynovitis of wrist
+tendon	CTV3	N220BY70TI	Flexor tenosynovitis of finger
+tendon	CTV3	N220CY70TJ	Flexor tenosynovitis of thumb
+tendon	CTV3	N220DY70TN	Extensor tenosynovitis of wrist
+tendon	CTV3	N220EY70TL	Extensor tenosynovitis of finger
+tendon	CTV3	N220FY70TM	Extensor tenosynovitis of thumb
+tendon	CTV3	N220HY70X4	Achilles tenosynovitis
+tendon	CTV3	N220JY70X3	Tibialis anterior tenosynovitis
+tendon	CTV3	N220KY70X2	Tibialis posterior tenosynovitis
+tendon	CTV3	N220LY70X1	Extensor hallucis longus tenosynovitis
+tendon	CTV3	N220MY70X0	Extensor digitorum longus tenosynovitis
+tendon	CTV3	N220NYa249	Peroneus longus tenosynovitis
+tendon	CTV3	N220PY70Wz	Peroneus brevis tenosynovitis
+tendon	CTV3	N2220Y70W4	Beat elbow
+tendon	CTV3	N2221Y70W3	Beat hand
+tendon	CTV3	N2222Y70W2	Beat knee
+tendon	CTV3	N2224Y70W0	Miners' knee
+tendon	CTV3	XE1FaYad1d	Non-traumatic tendon rupture
+tendon	CTV3	N2260Yad1h	Non-traumatic tendon rupture, unspecified
+tendon	CTV3	S5Q4.YM1gj	Rupture biceps tendon
+tendon	CTV3	N2263YM0n2	Hand and wrist extensor tendon rupture
+tendon	CTV3	N2264YM0n3	Hand and wrist flexor tendon rupture
+tendon	CTV3	N2265Y70UZ	Quadriceps tendon rupture
+tendon	CTV3	N2266Yad1g	Non-traumatic rupture of patellar tendon
+tendon	CTV3	N2267Yad1f	Non-traumatic rupture of Achilles tendon
+tendon	CTV3	N2268YM0n4	Extensor digitorum communis rupture
+tendon	CTV3	S5S1.Y70se	Mallet thumb
+tendon	CTV3	S5S1.YA0uG	Rupture extensor pollicis longus
+tendon	CTV3	N226AY70SX	Long head of biceps rupture
+tendon	CTV3	S5T0.Ya16K	Flexor digitorum sublimis tendon rupture
+tendon	CTV3	S5T1.YA0u9	Rupture flexor digitorum profundus tendon
+tendon	CTV3	N226EYaXI9	Flexor pollicis longus tendon rupture
+tendon	CTV3	N226FY70V6	Tibialis posterior rupture
+tendon	CTV3	N226GY70V7	Peroneus longus rupture
+tendon	CTV3	XaK9AYanMe	Spontaneous rupture of flexor tendons
+tendon	CTV3	XaK9BYanMf	Spontaneous rupture of extensor tendons
+tendon	CTV3	N226yYM0nA	Other foot and ankle tendon rupture
+tendon	CTV3	N226zYad1e	Other non-traumatic tendon rupture
+tendon	medcodeid	125702014	Psoas tendinitis
+tendon	medcodeid	311325017	Supraspinatus tendinitis
+tendon	medcodeid	311336012	Subacromial impingement
+tendon	medcodeid	311353017	Adductor tendinitis
+tendon	medcodeid	311354011	Tendonitis adductor
+tendon	medcodeid	311364019	Pes anserinus tendinitis and bursitis
+tendon	medcodeid	311370013	Biceps femoris tendinitis
+tendon	medcodeid	311383014	Tibialis anterior tendinitis
+tendon	medcodeid	311384015	Tibialis posterior tendinitis
+tendon	medcodeid	311389013	Anterior ankle impingement
+tendon	medcodeid	311439018	Tenosynovitis of foot
+tendon	medcodeid	311442012	Flexor tenosynovitis of wrist
+tendon	medcodeid	311443019	Flexor tenosynovitis of finger
+tendon	medcodeid	311444013	Flexor tenosynovitis of thumb
+tendon	medcodeid	311445014	Extensor tenosynovitis of wrist
+tendon	medcodeid	311446010	Extensor tenosynovitis of finger
+tendon	medcodeid	311448011	Achilles tenosynovitis
+tendon	medcodeid	311449015	Tibialis anterior tenosynovitis
+tendon	medcodeid	311451016	Extensor hallucis longus tenosynovitis
+tendon	medcodeid	311519015	Flexor pollicis longus tendon rupture
+tendon	medcodeid	311521013	Peroneus longus rupture
+tendon	medcodeid	320526010	Flexor digitorum sublimis tendon rupture
+tendon	medcodeid	493441015	Trigger thumb - acquired
+tendon	medcodeid	496608016	Golfer's elbow
+tendon	medcodeid	1233051016	Quadriceps tendon rupture
+tendon	medcodeid	311520014	Tibialis posterior rupture
+tendon	medcodeid	311526015	Other foot and ankle tendon rupture
+tendon	medcodeid	400302019	Other tenosynovitis of hand or wrist
+tendon	medcodeid	25511000006117	Other nontraumatic tendon rupture
+tendon	medcodeid	109031000006116	Tendonitis of thumb
+tendon	medcodeid	109341000006111	Tensynovitis of fingers
+tendon	medcodeid	221621000000110	Tendonitis bicepital
+tendon	medcodeid	221631000000112	Adductor tendonitis
+tendon	medcodeid	297691000006118	Nontraumatic tendon rupture
+tendon	medcodeid	454631000006115	Acquired trigger thumb
+tendon	medcodeid	657981000006117	Extensor pollicis longus rupture
+tendon	medcodeid	713261000006110	Medial epicondylitis of the elbow
+tendon	medcodeid	761911000006119	Flexor digitorum profundus tendon rupture
+tendon	medcodeid	784571000006116	Impingement syndrome of shoulder
+tendon	medcodeid	1778711014	Supraspinatus syndrome
+tendon	medcodeid	49155011	Beat hand
+tendon	medcodeid	62220010	Beat knee
+tendon	medcodeid	128927013	Beat elbow
+tendon	medcodeid	140831000006110	Shoulder tendonitis
+tendon	medcodeid	2532988017	Spontaneous rupture of flexor tendons
+tendon	medcodeid	311345013	Biceps tendinitis
+tendon	medcodeid	311438014	Tenosynovitis of ankle
+tendon	medcodeid	311510016	Hand and wrist flexor tendon rupture
+tendon	medcodeid	311515014	Long head of biceps rupture
+tendon	medcodeid	36572013	Radial styloid tenosynovitis
+tendon	medcodeid	221611000000116	Bicepital tendonitis
+tendon	medcodeid	36573015	de Quervain's disease
+tendon	medcodeid	2532989013	Spontaneous rupture of extensor tendons
+tendon	medcodeid	493439016	Trigger thumb
+tendon	medcodeid	1231110011	Miners' knee
+tendon	medcodeid	311343018	Tennis elbow
+tendon	medcodeid	311347017	Triceps tendinitis
+tendon	medcodeid	311513019	Extensor digitorum communis rupture
+tendon	medcodeid	48884013	Trochanteric tendinitis
+tendon	medcodeid	2649445015	Iliotibial band syndrome
+tendon	medcodeid	109021000006119	Tendonitis NOS
+tendon	medcodeid	20001010	Snapping hip
+tendon	medcodeid	311337015	Coracoid impingement
+tendon	medcodeid	311371012	Semimembranosus tendinitis
+tendon	medcodeid	311452011	Extensor digitorum longus tenosynovitis
+tendon	medcodeid	311454012	Peroneus brevis tenosynovitis
+tendon	medcodeid	311509014	Hand and wrist extensor tendon rupture
+tendon	medcodeid	20135010	Achilles tendinitis
+tendon	medcodeid	88489011	Peroneal tendinitis
+tendon	medcodeid	221641000000115	Supraspinatus tendonitis
+tendon	medcodeid	297701000006118	Nontraumatic tendon rupture, unspecified
+tendon	medcodeid	749561000006115	Lateral epicondylitis of the elbow
+tendon	medcodeid	297671000006119	Nontraumatic rupture of Achilles tendon
+tendon	medcodeid	297681000006116	Nontraumatic rupture of patellar tendon
+tendon	medcodeid	311391017	Fibular impingement
+tendon	medcodeid	311447018	Extensor tenosynovitis of thumb
+tendon	medcodeid	311450015	Tibialis posterior tenosynovitis
+tendon	medcodeid	311453018	Peroneus longus tenosynovitis
+tendon	medcodeid	97681017	Gluteal tendinitis
+tendon	medcodeid	359560012	Other tenosynovitis of the wrist
+tendon	medcodeid	359561011	Other tenosynovitis of the hand
+tendon	medcodeid	400300010	Tendinitis NOS
+tendon	medcodeid	87741000006114	Trigger finger - acquired
+tendon	medcodeid	101011000006114	Thumb trigger
+tendon	medcodeid	137921000006118	Snapping fingers
+tendon	medcodeid	240041000006111	Patellar tendinitis
+tendon	medcodeid	510491000006113	Biceps tendon rupture
+tendon	medcodeid	710181000006116	Finger trigger
+tendon	SNOMEDCT	75680005	Psoas tendinitis
+tendon	SNOMEDCT	202841003	Supraspinatus tendinitis
+tendon	SNOMEDCT	202849001	Subacromial impingement
+tendon	SNOMEDCT	202863007	Adductor tendinitis
+tendon	SNOMEDCT	202863007	Tendonitis adductor
+tendon	SNOMEDCT	202868003	Pes anserinus tendinitis and bursitis
+tendon	SNOMEDCT	202872004	Biceps femoris tendinitis
+tendon	SNOMEDCT	202880006	Tibialis anterior tendinitis
+tendon	SNOMEDCT	202881005	Tibialis posterior tendinitis
+tendon	SNOMEDCT	202884002	Anterior ankle impingement
+tendon	SNOMEDCT	202908000	Tenosynovitis of foot
+tendon	SNOMEDCT	202911004	Flexor tenosynovitis of wrist
+tendon	SNOMEDCT	202912006	Flexor tenosynovitis of finger
+tendon	SNOMEDCT	202913001	Flexor tenosynovitis of thumb
+tendon	SNOMEDCT	202914007	Extensor tenosynovitis of wrist
+tendon	SNOMEDCT	202915008	Extensor tenosynovitis of finger
+tendon	SNOMEDCT	202917000	Achilles tenosynovitis
+tendon	SNOMEDCT	202918005	Tibialis anterior tenosynovitis
+tendon	SNOMEDCT	202920008	Extensor hallucis longus tenosynovitis
+tendon	SNOMEDCT	202971005	Flexor pollicis longus tendon rupture
+tendon	SNOMEDCT	202973008	Peroneus longus rupture
+tendon	SNOMEDCT	209771004	Flexor digitorum sublimis tendon rupture
+tendon	SNOMEDCT	42786005	Trigger thumb - acquired
+tendon	SNOMEDCT	53286005	Golfer's elbow
+tendon	SNOMEDCT	6849006	Quadriceps tendon rupture
+tendon	SNOMEDCT	699312008	Tibialis posterior rupture
+tendon	SNOMEDCT	281550008	Other foot and ankle tendon rupture
+tendon	SNOMEDCT	67801009	Other tenosynovitis of hand or wrist
+tendon	SNOMEDCT	268002004	Other nontraumatic tendon rupture
+tendon	SNOMEDCT	67801009	Tendonitis of thumb
+tendon	SNOMEDCT	240036003	Tensynovitis of fingers
+tendon	SNOMEDCT	202856007	Tendonitis bicepital
+tendon	SNOMEDCT	202863007	Adductor tendonitis
+tendon	SNOMEDCT	268002004	Nontraumatic tendon rupture
+tendon	SNOMEDCT	42786005	Acquired trigger thumb
+tendon	SNOMEDCT	209767002	Extensor pollicis longus rupture
+tendon	SNOMEDCT	53286005	Medial epicondylitis of the elbow
+tendon	SNOMEDCT	209772006	Flexor digitorum profundus tendon rupture
+tendon	SNOMEDCT	239960007	Impingement syndrome of shoulder
+tendon	SNOMEDCT	202841003	Supraspinatus syndrome
+tendon	SNOMEDCT	57356000	Beat hand
+tendon	SNOMEDCT	17059001	Beat knee
+tendon	SNOMEDCT	712484007	Beat elbow
+tendon	SNOMEDCT	442520000	Shoulder tendonitis
+tendon	SNOMEDCT	415575007	Spontaneous rupture of flexor tendons
+tendon	SNOMEDCT	202856007	Biceps tendinitis
+tendon	SNOMEDCT	202907005	Tenosynovitis of ankle
+tendon	SNOMEDCT	202962001	Hand and wrist flexor tendon rupture
+tendon	SNOMEDCT	202967007	Long head of biceps rupture
+tendon	SNOMEDCT	21794005	Radial styloid tenosynovitis
+tendon	SNOMEDCT	202856007	Bicepital tendonitis
+tendon	SNOMEDCT	21794005	de Quervain's disease
+tendon	SNOMEDCT	415574006	Spontaneous rupture of extensor tendons
+tendon	SNOMEDCT	42786005	Trigger thumb
+tendon	SNOMEDCT	52334005	Miners' knee
+tendon	SNOMEDCT	202855006	Tennis elbow
+tendon	SNOMEDCT	202857003	Triceps tendinitis
+tendon	SNOMEDCT	202965004	Extensor digitorum communis rupture
+tendon	SNOMEDCT	29210001	Trochanteric tendinitis
+tendon	SNOMEDCT	423849004	Iliotibial band syndrome
+tendon	SNOMEDCT	34840004	Tendonitis NOS
+tendon	SNOMEDCT	11568002	Snapping hip
+tendon	SNOMEDCT	202850001	Coracoid impingement
+tendon	SNOMEDCT	202873009	Semimembranosus tendinitis
+tendon	SNOMEDCT	202921007	Extensor digitorum longus tenosynovitis
+tendon	SNOMEDCT	202923005	Peroneus brevis tenosynovitis
+tendon	SNOMEDCT	202961008	Hand and wrist extensor tendon rupture
+tendon	SNOMEDCT	11654001	Achilles tendinitis
+tendon	SNOMEDCT	53208009	Peroneal tendinitis
+tendon	SNOMEDCT	202841003	Supraspinatus tendonitis
+tendon	SNOMEDCT	268002004	Nontraumatic tendon rupture, unspecified
+tendon	SNOMEDCT	202855006	Lateral epicondylitis of the elbow
+tendon	SNOMEDCT	202964000	Nontraumatic rupture of Achilles tendon
+tendon	SNOMEDCT	202963006	Nontraumatic rupture of patellar tendon
+tendon	SNOMEDCT	202885001	Fibular impingement
+tendon	SNOMEDCT	202916009	Extensor tenosynovitis of thumb
+tendon	SNOMEDCT	202919002	Tibialis posterior tenosynovitis
+tendon	SNOMEDCT	202922000	Peroneus longus tenosynovitis
+tendon	SNOMEDCT	58781003	Gluteal tendinitis
+tendon	SNOMEDCT	442048005	Other tenosynovitis of the wrist
+tendon	SNOMEDCT	423778009	Other tenosynovitis of the hand
+tendon	SNOMEDCT	34840004	Tendinitis NOS
+tendon	SNOMEDCT	1539003	Trigger finger - acquired
+tendon	SNOMEDCT	42786005	Thumb trigger
+tendon	SNOMEDCT	1539003	Snapping fingers
+tendon	SNOMEDCT	37785001	Patellar tendinitis
+tendon	SNOMEDCT	428883008	Biceps tendon rupture
+tendon	SNOMEDCT	1539003	Finger trigger
+tendon	Read2_5digit	N2110	Supraspinatus syndrome
+tendon	Read2_5digit	N2113	Supraspinatus tendinitis
+tendon	Read2_5digit	N2122	Subacromial impingement
+tendon	Read2_5digit	N2123	Coracoid impingement
+tendon	Read2_5digit	N2124	Impingement syndrome of shoulder
+tendon	Read2_5digit	N2125	Shoulder tendonitis
+tendon	Read2_5digit	N2131	Medial epicondylitis of the elbow
+tendon	Read2_5digit	N2132	Lateral epicondylitis of the elbow
+tendon	Read2_5digit	N2134	Biceps tendinitis
+tendon	Read2_5digit	N2135	Triceps tendinitis
+tendon	Read2_5digit	N2152	Gluteal tendinitis
+tendon	Read2_5digit	N2154	Psoas tendinitis
+tendon	Read2_5digit	N2155	Trochanteric tendinitis
+tendon	Read2_5digit	N2156	Adductor tendinitis
+tendon	Read2_5digit	N2158	Snapping hip
+tendon	Read2_5digit	N2159	Iliotibial band syndrome
+tendon	Read2_5digit	N2161	Pes anserinus tendinitis and bursitis
+tendon	Read2_5digit	N2164	Patellar tendinitis
+tendon	Read2_5digit	N2168	Biceps femoris tendinitis
+tendon	Read2_5digit	N2169	Semimembranosus tendinitis
+tendon	Read2_5digit	N2174	Achilles tendinitis
+tendon	Read2_5digit	N2175	Tibialis anterior tendinitis
+tendon	Read2_5digit	N2176	Tibialis posterior tendinitis
+tendon	Read2_5digit	N2178	Peroneal tendinitis
+tendon	Read2_5digit	N217B	Anterior ankle impingement
+tendon	Read2_5digit	N217C	Fibular impingement
+tendon	Read2_5digit	N21z2	Tendinitis NOS
+tendon	Read2_5digit	N2203	Trigger finger - acquired
+tendon	Read2_5digit	N2204	Radial styloid tenosynovitis
+tendon	Read2_5digit	N2205	Other tenosynovitis of hand or wrist
+tendon	Read2_5digit	N2206	Tenosynovitis of ankle
+tendon	Read2_5digit	N2207	Tenosynovitis of foot
+tendon	Read2_5digit	N220A	Flexor tenosynovitis of wrist
+tendon	Read2_5digit	N220B	Flexor tenosynovitis of finger
+tendon	Read2_5digit	N220C	Flexor tenosynovitis of thumb
+tendon	Read2_5digit	N220D	Extensor tenosynovitis of wrist
+tendon	Read2_5digit	N220E	Extensor tenosynovitis of finger
+tendon	Read2_5digit	N220F	Extensor tenosynovitis of thumb
+tendon	Read2_5digit	N220G	Acquired trigger thumb
+tendon	Read2_5digit	N220H	Achilles tenosynovitis
+tendon	Read2_5digit	N220J	Tibialis anterior tenosynovitis
+tendon	Read2_5digit	N220K	Tibialis posterior tenosynovitis
+tendon	Read2_5digit	N220L	Extensor hallucis longus tenosynovitis
+tendon	Read2_5digit	N220M	Extensor digitorum longus tenosynovitis
+tendon	Read2_5digit	N220N	Peroneus longus tenosynovitis
+tendon	Read2_5digit	N220P	Peroneus brevis tenosynovitis
+tendon	Read2_5digit	N2220	Beat elbow
+tendon	Read2_5digit	N2221	Beat hand
+tendon	Read2_5digit	N2222	Beat knee
+tendon	Read2_5digit	N2224	Miners' knee
+tendon	Read2_5digit	N226.	Nontraumatic tendon rupture
+tendon	Read2_5digit	N2260	Nontraumatic tendon rupture, unspecified
+tendon	Read2_5digit	N2262	Biceps tendon rupture
+tendon	Read2_5digit	N2263	Hand and wrist extensor tendon rupture
+tendon	Read2_5digit	N2264	Hand and wrist flexor tendon rupture
+tendon	Read2_5digit	N2265	Quadriceps tendon rupture
+tendon	Read2_5digit	N2266	Nontraumatic rupture of patellar tendon
+tendon	Read2_5digit	N2267	Nontraumatic rupture of Achilles tendon
+tendon	Read2_5digit	N2268	Extensor digitorum communis rupture
+tendon	Read2_5digit	N2269	Extensor pollicis longus rupture
+tendon	Read2_5digit	N226A	Long head of biceps rupture
+tendon	Read2_5digit	N226C	Flexor digitorum sublimis tendon rupture
+tendon	Read2_5digit	N226D	Flexor digitorum profundus tendon rupture
+tendon	Read2_5digit	N226E	Flexor pollicis longus tendon rupture
+tendon	Read2_5digit	N226F	Tibialis posterior rupture
+tendon	Read2_5digit	N226G	Peroneus longus rupture
+tendon	Read2_5digit	N226M	Spontaneous rupture of flexor tendons
+tendon	Read2_5digit	N226N	Spontaneous rupture of extensor tendons
+tendon	Read2_5digit	N226y	Other foot and ankle tendon rupture
+tendon	Read2_5digit	N226z	Other nontraumatic tendon rupture
+tendon	CTV3_5digit	S5Q2.	Supraspinatus tear
+tendon	CTV3_5digit	X706F	Painful arc syndrome
+tendon	CTV3_5digit	N2113	Supraspinatus tendinitis
+tendon	CTV3_5digit	N2122	Subacromial impingement
+tendon	CTV3_5digit	N2123	Coracoid impingement
+tendon	CTV3_5digit	X706H	Impingement syndrome of shoulder region
+tendon	CTV3_5digit	N2125	Shoulder tendinitis
+tendon	CTV3_5digit	N2131	Medial epicondylitis
+tendon	CTV3_5digit	N2132	Lateral epicondylitis
+tendon	CTV3_5digit	N2134	Biceps tendinitis
+tendon	CTV3_5digit	N2135	Triceps tendinitis
+tendon	CTV3_5digit	N2152	Gluteal tendinitis
+tendon	CTV3_5digit	N2154	Psoas tendinitis
+tendon	CTV3_5digit	N2155	Trochanteric tendinitis
+tendon	CTV3_5digit	N2156	Adductor tendinitis
+tendon	CTV3_5digit	N2158	Snapping hip
+tendon	CTV3_5digit	N2161	Pes anserinus tendinitis and bursitis
+tendon	CTV3_5digit	N2164	Patellar tendinitis
+tendon	CTV3_5digit	N2168	Biceps femoris tendinitis
+tendon	CTV3_5digit	N2169	Semimembranosus tendinitis
+tendon	CTV3_5digit	N2174	Achilles tendinitis
+tendon	CTV3_5digit	N2175	Tibialis anterior tendinitis
+tendon	CTV3_5digit	N2176	Tibialis posterior tendinitis
+tendon	CTV3_5digit	N2178	Peroneal tendinitis
+tendon	CTV3_5digit	N217B	Anterior ankle impingement
+tendon	CTV3_5digit	N217C	Fibular impingement
+tendon	CTV3_5digit	XE1FS	Tendinitis NOS
+tendon	CTV3_5digit	XE1FU	Trigger finger - acquired
+tendon	CTV3_5digit	N220G	Trigger thumb
+tendon	CTV3_5digit	XE1FV	Radial styloid tenosynovitis
+tendon	CTV3_5digit	X40HS	De Quervain's thyroiditis
+tendon	CTV3_5digit	XE1FW	Other tenosynovitis of hand or wrist
+tendon	CTV3_5digit	X706X	Other tenosynovitis of the hand
+tendon	CTV3_5digit	X706W	Other tenosynovitis of the wrist
+tendon	CTV3_5digit	X707t	Tenosynovitis of fingers
+tendon	CTV3_5digit	N2206	Tenosynovitis of ankle
+tendon	CTV3_5digit	N2207	Tenosynovitis of foot
+tendon	CTV3_5digit	N220A	Flexor tenosynovitis of wrist
+tendon	CTV3_5digit	N220B	Flexor tenosynovitis of finger
+tendon	CTV3_5digit	N220C	Flexor tenosynovitis of thumb
+tendon	CTV3_5digit	N220D	Extensor tenosynovitis of wrist
+tendon	CTV3_5digit	N220E	Extensor tenosynovitis of finger
+tendon	CTV3_5digit	N220F	Extensor tenosynovitis of thumb
+tendon	CTV3_5digit	N220H	Achilles tenosynovitis
+tendon	CTV3_5digit	N220J	Tibialis anterior tenosynovitis
+tendon	CTV3_5digit	N220K	Tibialis posterior tenosynovitis
+tendon	CTV3_5digit	N220L	Extensor hallucis longus tenosynovitis
+tendon	CTV3_5digit	N220M	Extensor digitorum longus tenosynovitis
+tendon	CTV3_5digit	N220N	Peroneus longus tenosynovitis
+tendon	CTV3_5digit	N220P	Peroneus brevis tenosynovitis
+tendon	CTV3_5digit	N2220	Beat elbow
+tendon	CTV3_5digit	N2221	Beat hand
+tendon	CTV3_5digit	N2222	Beat knee
+tendon	CTV3_5digit	N2224	Miners' knee
+tendon	CTV3_5digit	XE1Fa	Non-traumatic tendon rupture
+tendon	CTV3_5digit	N2260	Non-traumatic tendon rupture, unspecified
+tendon	CTV3_5digit	S5Q4.	Rupture biceps tendon
+tendon	CTV3_5digit	N2263	Hand and wrist extensor tendon rupture
+tendon	CTV3_5digit	N2264	Hand and wrist flexor tendon rupture
+tendon	CTV3_5digit	N2265	Quadriceps tendon rupture
+tendon	CTV3_5digit	N2266	Non-traumatic rupture of patellar tendon
+tendon	CTV3_5digit	N2267	Non-traumatic rupture of Achilles tendon
+tendon	CTV3_5digit	N2268	Extensor digitorum communis rupture
+tendon	CTV3_5digit	S5S1.	Mallet thumb
+tendon	CTV3_5digit	N226A	Long head of biceps rupture
+tendon	CTV3_5digit	S5T0.	Flexor digitorum sublimis tendon rupture
+tendon	CTV3_5digit	S5T1.	Rupture flexor digitorum profundus tendon
+tendon	CTV3_5digit	N226E	Flexor pollicis longus tendon rupture
+tendon	CTV3_5digit	N226F	Tibialis posterior rupture
+tendon	CTV3_5digit	N226G	Peroneus longus rupture
+tendon	CTV3_5digit	XaK9A	Spontaneous rupture of flexor tendons
+tendon	CTV3_5digit	XaK9B	Spontaneous rupture of extensor tendons
+tendon	CTV3_5digit	N226y	Other foot and ankle tendon rupture
+tendon	CTV3_5digit	N226z	Other non-traumatic tendon rupture

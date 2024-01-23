@@ -1,0 +1,786 @@
+condition	vocab_id	code	description
+intervert_disc	ICD10	M50	Cervical disc disorders
+intervert_disc	ICD10	M51	Other intervertebral disc disorders
+intervert_disc	Read2	7J20.00	Primary excision of cervical intervertebral disc
+intervert_disc	Read2	7J20000	Primary laminectomy excision of cervical intervertebral disc
+intervert_disc	Read2	7J20100	Primary hemilaminectomy excision of cervical intervertebral disc
+intervert_disc	Read2	7J20200	Primary fenestration excision of cervical intervertebral disc
+intervert_disc	Read2	7J20300	Primary anterior excision of cervical intervertebral disc and interbody fusion of joint of cervical spine
+intervert_disc	Read2	7J20400	Primary posterior excision of cervical intervertebral disc
+intervert_disc	Read2	7J20600	Primary anterior excision of cervical intervertebral disc NEC
+intervert_disc	Read2	7J20700	Primary microdiscectomy of cervical intervertebral disc
+intervert_disc	Read2	7J20800	Primary laser excision of cervical intervertebral disc
+intervert_disc	Read2	7J20y00	Other specified primary excision of cervical intervertebral disc
+intervert_disc	Read2	7J20z00	Primary excision of cervical intervertebral disc NOS
+intervert_disc	Read2	7J21.00	Revisional excision of cervical intervertebral disc operations
+intervert_disc	Read2	7J21000	Revisional laminectomy excision of cervical intervertebral disc
+intervert_disc	Read2	7J21100	Revisional hemilaminectomy excision of cervical intervertebral disc
+intervert_disc	Read2	7J21200	Revisional fenestration excision of cervical intervertebral disc
+intervert_disc	Read2	7J21300	Revision anterior excision cervical disc and fusion
+intervert_disc	Read2	7J21400	Revisional posterior excision of cervical intervertebral disc NEC
+intervert_disc	Read2	7J21600	Revisional anterior excision of cervical intervertebral disc NEC
+intervert_disc	Read2	7J21700	Revisional microdiscectomy of cervical intervertebral disc
+intervert_disc	Read2	7J21y00	Other specified revisional excision of cervical intervertebral disc
+intervert_disc	Read2	7J21z00	Revisional excision of cervical intervertebral disc NOS
+intervert_disc	Read2	7J23000	Primary anterior excision thoracic disc and fusion
+intervert_disc	Read2	7J23100	Primary anterolateral excision of thoracic intervertebral disc NEC
+intervert_disc	Read2	7J23200	Primary costotransversectomy of thoracic intervertebral disc
+intervert_disc	Read2	7J23300	Primary posterior decompression of thoracic disc
+intervert_disc	Read2	7J23400	Primary anterolateral biopsy of thoracic intervertebral disc
+intervert_disc	Read2	7J23900	Excision of thoracic intervertebral disc NEC
+intervert_disc	Read2	7J23w00	Other specified primary excision of thoracic intervertebral disc
+intervert_disc	Read2	7J23x00	Primary excision of thoracic intervertebral disc NOS
+intervert_disc	Read2	7J24600	Revisional excision of thoracic intervertebral disc NEC
+intervert_disc	Read2	7J24A00	Revisional anterolateral excision of thoracic intervertebral disc and graft HFQ
+intervert_disc	Read2	7J24B00	Revisional percutaneous endoscopic excision of thoracic intervertebral disc
+intervert_disc	Read2	7J24x00	Revisional excision thoracic intervertebral disc NOS
+intervert_disc	Read2	7J27000	Prosthetic replacement of cervical intervertebral disc
+intervert_disc	Read2	7J27200	Prosthetic replacement of lumbar intervertebral disc
+intervert_disc	Read2	7J32.00	Primary lumbar discectomy
+intervert_disc	Read2	7J32.11	Primary excision of lumbar intervertebral disc
+intervert_disc	Read2	7J32.12	Primary removal of lumbar intervertebral disc
+intervert_disc	Read2	7J32000	Primary laminectomy excision of lumbar intervertebral disc
+intervert_disc	Read2	7J32100	Primary fenestration excision of lumbar disc
+intervert_disc	Read2	7J32111	Primary fenestration of lumbar intervertebral disc
+intervert_disc	Read2	7J32200	Primary anterior excision of lumbar disc and fusion
+intervert_disc	Read2	7J32211	Freebody anterior excision of lumbar intervertebral disc and interbody fusion of joint of lumbar spine
+intervert_disc	Read2	7J32300	Primary anterior excision of lumbar disc NEC
+intervert_disc	Read2	7J32400	Primary anterior excision of lumbar disc and posterior fusion
+intervert_disc	Read2	7J32500	Primary anterior excision of lumbar disc and posterior instrumentation
+intervert_disc	Read2	7J32600	Primary lumbar microdiscectomy
+intervert_disc	Read2	7J32700	Primary posterior excision of lumbar disc
+intervert_disc	Read2	7J32800	Primary laser excision of lumbar intervertebral disc
+intervert_disc	Read2	7J32900	Primary percutaneous intradiscal lumbar discectomy
+intervert_disc	Read2	7J32y00	Other specified primary lumbar discectomy
+intervert_disc	Read2	7J32z00	Primary excision of lumbar intervertebral disc NOS
+intervert_disc	Read2	7J33.00	Revisional lumbar discectomy
+intervert_disc	Read2	7J33.11	Revisional excision of lumbar intervertebral disc
+intervert_disc	Read2	7J33.12	Revisional removal of lumbar intervertebral disc
+intervert_disc	Read2	7J33000	Revisional laminectomy excision of lumbar intervertebral disc
+intervert_disc	Read2	7J33100	Revisional fenestration excision of lumbar intervertebral disc
+intervert_disc	Read2	7J33200	Revisional anterior excision of lumbar disc and fusion
+intervert_disc	Read2	7J33400	Revisional anterior excision of lumbar disc and posterior fusion
+intervert_disc	Read2	7J33411	Revisional anterior excision of lumbar disc and posterior fusion with graft
+intervert_disc	Read2	7J33600	Revisional lumbar microdiscectomy
+intervert_disc	Read2	7J33700	Revisional posterior excision of lumbar disc
+intervert_disc	Read2	7J33y00	Other specified revisional lumbar discectomy
+intervert_disc	Read2	7J33z00	Revisional excision of lumbar intervertebral disc NOS
+intervert_disc	Read2	7J4H000	Primary automated percutaneous mechanical excision of cervical intervertebral disc
+intervert_disc	Read2	7J4J000	Revisional automated percutaneous mechanical excision of cervical intervertebral disc
+intervert_disc	Read2	7J4K000	Primary percutaneous decompression using coblation to cervical intervertebral disc
+intervert_disc	Read2	7J4L000	Revisional percutaneous decompression using coblation to cervical intervertebral disc
+intervert_disc	Read2	7J4M000	Primary percutaneous intradiscal radiofrequency thermocoagulation to cervical intervertebral disc
+intervert_disc	Read2	F163000	Myelopathy due to intervertebral disc disease
+intervert_disc	Read2	F337100	Nerve root and plexus compressions in intervertebral disc disorders
+intervert_disc	Read2	N12..00	Intervertebral disc disorders
+intervert_disc	Read2	N120.00	Cervical disc displacement without myelopathy
+intervert_disc	Read2	N120.11	Prolapsed cervical intervertebral disc without myelopathy
+intervert_disc	Read2	N120.12	Cervical disc displacement
+intervert_disc	Read2	N121.00	Thoracic disc displacement without myelopathy
+intervert_disc	Read2	N121.11	Prolapsed thoracic intervertebral disc without myelopathy
+intervert_disc	Read2	N122.00	Lumbar disc displacement
+intervert_disc	Read2	N122.11	Prolapsed lumbar intervertebral disc
+intervert_disc	Read2	N123.00	Disc displacement, site unspecified, without myelopathy
+intervert_disc	Read2	N123.11	Intervertebral disc prolapse NOS
+intervert_disc	Read2	N123.12	Prolapsed intervertebral disc without myelopathy
+intervert_disc	Read2	N124.00	Schmorl's nodes
+intervert_disc	Read2	N124000	Schmorl's nodes of unspecified region
+intervert_disc	Read2	N124100	Schmorl's nodes of the thoracic region
+intervert_disc	Read2	N124200	Schmorl's nodes of the lumbar region
+intervert_disc	Read2	N124z00	Schmorl's nodes, region NOS
+intervert_disc	Read2	N125.00	Cervical disc degeneration
+intervert_disc	Read2	N126.00	Thoracic disc degeneration
+intervert_disc	Read2	N127.00	Lumbar disc degeneration
+intervert_disc	Read2	N128.00	Degenerative disc disease NOS
+intervert_disc	Read2	N129.00	Disc disorder with myelopathy
+intervert_disc	Read2	N129.11	Prolapsed intervertebral disc with associated myelopathy
+intervert_disc	Read2	N129000	Unspecified disc disorder with myelopathy
+intervert_disc	Read2	N129100	Cervical disc disorder with myelopathy
+intervert_disc	Read2	N129200	Thoracic disc disorder with myelopathy
+intervert_disc	Read2	N129300	Lumbar disc disorder with myelopathy
+intervert_disc	Read2	N129z00	Disc disorder with myelopathy NOS
+intervert_disc	Read2	N12B.00	Disc prolapse with myelopathy
+intervert_disc	Read2	N12B000	Cervical disc prolapse with myelopathy
+intervert_disc	Read2	N12B100	Thoracic disc prolapse with myelopathy
+intervert_disc	Read2	N12B200	Lumbar disc prolapse with myelopathy
+intervert_disc	Read2	N12C.00	Disc prolapse with radiculopathy
+intervert_disc	Read2	N12C000	Cervical disc prolapse with radiculopathy
+intervert_disc	Read2	N12C100	Thoracic disc prolapse with radiculopathy
+intervert_disc	Read2	N12C200	Lumbar disc prolapse with radiculopathy
+intervert_disc	Read2	N12C300	Lumbar disc prolapse with cauda equina compression
+intervert_disc	Read2	N12C400	Prolapsed lumbar intervertebral disc with sciatica
+intervert_disc	Read2	N12z.00	Other and unspecified disc disorders
+intervert_disc	Read2	N12z000	Other disc disorders of unspecified site
+intervert_disc	Read2	N12z100	Other cervical disc disorders
+intervert_disc	Read2	N12z200	Other thoracic disc disorders
+intervert_disc	Read2	N12z300	Other lumbar disc disorders
+intervert_disc	Read2	N12z500	Annular tear of cervical disc
+intervert_disc	Read2	N12z600	Resorption of cervical disc
+intervert_disc	Read2	N12z700	Calcification of cervical disc
+intervert_disc	Read2	N12z900	Annular tear of thoracic disc
+intervert_disc	Read2	N12zB00	Calcification of thoracic disc
+intervert_disc	Read2	N12zD00	Annular tear of lumbar disc
+intervert_disc	Read2	N12zE00	Resorption of lumbar disc
+intervert_disc	Read2	N12zF00	Calcification of lumbar disc
+intervert_disc	Read2	N12zH00	Cervical disc disorder with radiculopathy
+intervert_disc	Read2	N12zz00	Disc disorders NOS
+intervert_disc	Read2	Nyu7000	[X]Other cervical disc displacement
+intervert_disc	Read2	Nyu7100	[X]Other cervical disc degeneration
+intervert_disc	Read2	Nyu7200	[X]Other cervical disc disorders
+intervert_disc	Read2	Nyu7300	[X]Lumbar and other intervertebral disc disorders with myelopathy
+intervert_disc	Read2	Nyu7400	[X]Lumbar and other intervertebral disc disorders with radiculopathy
+intervert_disc	Read2	Nyu7500	[X]Other specified intervertebral disc displacement
+intervert_disc	Read2	Nyu7600	[X]Other specified intervertebral disc degeneration
+intervert_disc	Read2	Nyu7700	[X]Other specified intervertebral disc disorders
+intervert_disc	Read2	Nyu7B00	[X]Cervical disc disorder, unspecified
+intervert_disc	Read2	Zw04000	[Q] Central disc prolapse
+intervert_disc	Read2	Zw04100	[Q] Posterolateral disc prolapse
+intervert_disc	Read2	Zw04200	[Q] Sequestrated disc prolapse
+intervert_disc	CTV3	7J20.Y60gW	Primary excision of cervical intervertebral disc
+intervert_disc	CTV3	7J200Y60gX	Primary laminectomy excision of cervical intervertebral disc
+intervert_disc	CTV3	7J201Y60gY	Primary hemilaminectomy excision of cervical intervertebral disc
+intervert_disc	CTV3	7J202Y60gZ	Primary fenestration excision of cervical intervertebral disc
+intervert_disc	CTV3	XE0IcY60ga	Primary anterior excision of cervical intervertebral disc and interbody fusion of joint of cervical spine
+intervert_disc	CTV3	7J204Y60gg	Primary posterior excision of cervical intervertebral disc
+intervert_disc	CTV3	7J206Y60gi	Primary anterior excision of cervical intervertebral disc NEC
+intervert_disc	CTV3	7J207Y60gj	Primary microdiscectomy of cervical intervertebral disc
+intervert_disc	CTV3	XaBDNYaaV7	Primary laser excision of cervical intervertebral disc
+intervert_disc	CTV3	7J20yY60gk	Other specified primary excision of cervical intervertebral disc
+intervert_disc	CTV3	7J20zY60gl	Primary excision of cervical intervertebral disc NOS
+intervert_disc	CTV3	7J21.Y60gm	Revisional excision of cervical intervertebral disc operations
+intervert_disc	CTV3	7J210Y60gn	Revisional laminectomy excision of cervical intervertebral disc
+intervert_disc	CTV3	7J211Y60go	Revisional hemilaminectomy excision of cervical intervertebral disc
+intervert_disc	CTV3	7J212Y60gp	Revisional fenestration excision of cervical intervertebral disc
+intervert_disc	CTV3	7J213Y60gq	Revision anterior excision cervical disc and fusion
+intervert_disc	CTV3	7J214Y60gr	Revisional posterior excision of cervical intervertebral disc NEC
+intervert_disc	CTV3	7J216Y60gt	Revisional anterior excision of cervical intervertebral disc NEC
+intervert_disc	CTV3	7J217Y60gu	Revisional microdiscectomy of cervical intervertebral disc
+intervert_disc	CTV3	7J21yY60gv	Other specified revisional excision of cervical intervertebral disc
+intervert_disc	CTV3	7J21zY60gw	Revisional excision of cervical intervertebral disc NOS
+intervert_disc	CTV3	7J230Y60h0	Primary anterior excision thoracic disc and fusion
+intervert_disc	CTV3	7J231Y60h1	Primary anterolateral excision of thoracic intervertebral disc NEC
+intervert_disc	CTV3	7J232Y60h2	Primary costotransversectomy of thoracic intervertebral disc
+intervert_disc	CTV3	7J233Y60iH	Primary posterior decompression of thoracic disc
+intervert_disc	CTV3	7J234Y60hk	Primary anterolateral biopsy of thoracic intervertebral disc
+intervert_disc	CTV3	7J239Y60gy	Excision of thoracic intervertebral disc NEC
+intervert_disc	CTV3	7J23wY60h3	Other specified primary excision of thoracic intervertebral disc
+intervert_disc	CTV3	7J23xY60h4	Primary excision of thoracic intervertebral disc NOS
+intervert_disc	CTV3	7J246Y60h8	Revisional excision of thoracic intervertebral disc NEC
+intervert_disc	CTV3	XaLx9Yap4D	Revisional anterolateral excision of thoracic intervertebral disc and graft HFQ
+intervert_disc	CTV3	XaLxAYap4E	Revisional percutaneous endoscopic excision of thoracic intervertebral disc
+intervert_disc	CTV3	7J24xY60hA	Revisional excision thoracic intervertebral disc NOS
+intervert_disc	CTV3	XaLxfYap4k	Prosthetic replacement of cervical intervertebral disc
+intervert_disc	CTV3	XaLxhYap4m	Prosthetic replacement of lumbar intervertebral disc
+intervert_disc	CTV3	7J32.Y60hD	Primary lumbar discectomy
+intervert_disc	CTV3	7J32.Y60hF	Primary excision of lumbar intervertebral disc
+intervert_disc	CTV3	7J32.Y60hE	Primary removal of lumbar intervertebral disc
+intervert_disc	CTV3	7J320Y60hG	Primary laminectomy excision of lumbar intervertebral disc
+intervert_disc	CTV3	7J321Y60hH	Primary fenestration excision of lumbar disc
+intervert_disc	CTV3	7J321Y60hI	Primary fenestration of lumbar intervertebral disc
+intervert_disc	CTV3	XE0IhY60hJ	Primary anterior excision of lumbar disc and fusion
+intervert_disc	CTV3	7J322Y60hK	Freebody anterior excision of lumbar intervertebral disc and interbody fusion of joint of lumbar spine
+intervert_disc	CTV3	7J323Y60hL	Primary anterior excision of lumbar disc NEC
+intervert_disc	CTV3	7J324Y60hM	Primary anterior excision of lumbar disc and posterior fusion
+intervert_disc	CTV3	7J325Y60hN	Primary anterior excision of lumbar disc and posterior instrumentation
+intervert_disc	CTV3	7J326Y60hO	Primary lumbar microdiscectomy
+intervert_disc	CTV3	7J327Y60hP	Primary posterior excision of lumbar disc
+intervert_disc	CTV3	XaBDMYaaV5	Primary laser excision of lumbar intervertebral disc
+intervert_disc	CTV3	XaC0JYabUD	Primary percutaneous intradiscal lumbar discectomy
+intervert_disc	CTV3	7J32yY60hQ	Other specified primary lumbar discectomy
+intervert_disc	CTV3	7J32zY60hR	Primary excision of lumbar intervertebral disc NOS
+intervert_disc	CTV3	7J33.Y60hS	Revisional lumbar discectomy
+intervert_disc	CTV3	7J33.Y60hU	Revisional excision of lumbar intervertebral disc
+intervert_disc	CTV3	7J33.Y60hT	Revisional removal of lumbar intervertebral disc
+intervert_disc	CTV3	7J330Y60hV	Revisional laminectomy excision of lumbar intervertebral disc
+intervert_disc	CTV3	7J331Y60hW	Revisional fenestration excision of lumbar intervertebral disc
+intervert_disc	CTV3	7J332Y60hX	Revisional anterior excision of lumbar disc and fusion
+intervert_disc	CTV3	XE0IiY60hZ	Revisional anterior excision of lumbar disc and posterior fusion
+intervert_disc	CTV3	7J334Y60ha	Revisional anterior excision of lumbar disc and posterior fusion with graft
+intervert_disc	CTV3	7J336Y60hc	Revisional lumbar microdiscectomy
+intervert_disc	CTV3	7J337Y60hd	Revisional posterior excision of lumbar disc
+intervert_disc	CTV3	7J33yY60he	Other specified revisional lumbar discectomy
+intervert_disc	CTV3	7J33zY60hf	Revisional excision of lumbar intervertebral disc NOS
+intervert_disc	CTV3	XaM7TYapFW	Primary automated percutaneous mechanical excision of cervical intervertebral disc
+intervert_disc	CTV3	XaM7dYapFg	Revisional automated percutaneous mechanical excision of cervical intervertebral disc
+intervert_disc	CTV3	XaM7lYapFp	Primary percutaneous decompression using coblation to cervical intervertebral disc
+intervert_disc	CTV3	XaM9nYapIA	Revisional percutaneous decompression using coblation to cervical intervertebral disc
+intervert_disc	CTV3	XaM96YapHV	Primary percutaneous intradiscal radiofrequency thermocoagulation to cervical intervertebral disc
+intervert_disc	CTV3	F1630Y008I	Myelopathy due to intervertebral disc disease
+intervert_disc	CTV3	F3371YMAi2	Nerve root and plexus compressions in intervertebral disc disorders
+intervert_disc	CTV3	XE1EzY70o3	Disorder of intervertebral disc
+intervert_disc	CTV3	XE1F0Y70oo	Cervical disc displacement without myelopathy
+intervert_disc	CTV3	X70CjY70ok	Prolapsed cervical intervertebral disc
+intervert_disc	CTV3	XE1F0Y70on	Prolapsed cervical intervertebral disc without myelopathy
+intervert_disc	CTV3	N121.Y70ot	Thoracic disc displacement without myelopathy
+intervert_disc	CTV3	N121.Y70os	Prolapsed thoracic intervertebral disc without myelopathy
+intervert_disc	CTV3	N122.Y70ou	Prolapsed lumbar intervertebral disc
+intervert_disc	CTV3	XE1F1Y70oj	Disc displacement, site unspecified, without myelopathy
+intervert_disc	CTV3	X70CiY70oi	Intervertebral disc prolapse NOS
+intervert_disc	CTV3	X70ChY70oh	Prolapsed intervertebral disc without myelopathy
+intervert_disc	CTV3	N124.Y70p3	Schmorl's nodes
+intervert_disc	CTV3	N1240Y70p7	Schmorl's nodes of unspecified region
+intervert_disc	CTV3	N1241Y70p6	Schmorl's nodes of the thoracic region
+intervert_disc	CTV3	N1242Y70p5	Schmorl's nodes of the lumbar region
+intervert_disc	CTV3	N124zY70p4	Schmorl's nodes, region NOS
+intervert_disc	CTV3	N125.Y70oO	Cervical disc degeneration
+intervert_disc	CTV3	N126.Y70oN	Thoracic disc degeneration
+intervert_disc	CTV3	N127.Y70oM	Lumbar disc degeneration
+intervert_disc	CTV3	N128.Y70oL	Degenerative disc disease NOS
+intervert_disc	CTV3	XE1F2Y70oD	Disc disorder with myelopathy
+intervert_disc	CTV3	N12B.Y70og	Disc prolapse with myelopathy
+intervert_disc	CTV3	N1290Y70oJ	Unspecified disc disorder with myelopathy
+intervert_disc	CTV3	N1291Y70oI	Cervical disc disorder with myelopathy
+intervert_disc	CTV3	N1292Y70oH	Thoracic disc disorder with myelopathy
+intervert_disc	CTV3	N1293Y70oG	Lumbar disc disorder with myelopathy
+intervert_disc	CTV3	N129zY70oF	Disc disorder with myelopathy NOS
+intervert_disc	CTV3	N12B0Y70om	Cervical disc prolapse with myelopathy
+intervert_disc	CTV3	N12B1Y70or	Thoracic disc prolapse with myelopathy
+intervert_disc	CTV3	N12B2Y70oy	Lumbar disc prolapse with myelopathy
+intervert_disc	CTV3	N12C.Y70of	Disc prolapse with radiculopathy
+intervert_disc	CTV3	N12C0Y70ol	Cervical disc prolapse with radiculopathy
+intervert_disc	CTV3	N12C1Y70oq	Thoracic disc prolapse with radiculopathy
+intervert_disc	CTV3	N12C2Y70ox	Lumbar disc prolapse with radiculopathy
+intervert_disc	CTV3	N12C3Y70ow	Lumbar disc prolapse with cauda equina compression
+intervert_disc	CTV3	XaD2pYad4V	Prolapsed lumbar intervertebral disc with sciatica
+intervert_disc	CTV3	N12z.Y70o8	Other and unspecified disc disorders
+intervert_disc	CTV3	N12z0Y70oC	Other disc disorders of unspecified site
+intervert_disc	CTV3	N12z1Y70oB	Other cervical disc disorders
+intervert_disc	CTV3	N12z2Y70oA	Other thoracic disc disorders
+intervert_disc	CTV3	N12z3Y70o9	Other lumbar disc disorders
+intervert_disc	CTV3	N12z5Y70oX	Annular tear of cervical disc
+intervert_disc	CTV3	N12z6Y70o7	Resorption of cervical disc
+intervert_disc	CTV3	N12z7Y70oQ	Calcification of cervical disc
+intervert_disc	CTV3	N12z9Y70oW	Annular tear of thoracic disc
+intervert_disc	CTV3	N12zBY70oR	Calcification of thoracic disc
+intervert_disc	CTV3	N12zDY70oV	Annular tear of lumbar disc
+intervert_disc	CTV3	N12zEY70o4	Resorption of lumbar disc
+intervert_disc	CTV3	N12zFY70oS	Calcification of lumbar disc
+intervert_disc	CTV3	N12zHYMArE	Cervical disc disorder with radiculopathy
+intervert_disc	CTV3	N12zzY70o6	Disc disorders NOS
+intervert_disc	CTV3	Nyu70YMANv	[X]Other cervical disc displacement
+intervert_disc	CTV3	Nyu71YMANw	[X]Other cervical disc degeneration
+intervert_disc	CTV3	Nyu72YMANx	[X]Other cervical disc disorders
+intervert_disc	CTV3	Nyu73YMANy	[X]Lumbar and other intervertebral disc disorders with myelopathy
+intervert_disc	CTV3	Nyu74YMANz	[X]Lumbar and other intervertebral disc disorders with radiculopathy
+intervert_disc	CTV3	Nyu75YMAO0	[X]Other specified intervertebral disc displacement
+intervert_disc	CTV3	Nyu76YMAO1	[X]Other specified intervertebral disc degeneration
+intervert_disc	CTV3	Nyu77YMAO2	[X]Other specified intervertebral disc disorders
+intervert_disc	CTV3	Nyu7BYMAO6	[X]Cervical disc disorder, unspecified
+intervert_disc	CTV3	Zw040YM0dV	[Q] Central disc prolapse
+intervert_disc	CTV3	Zw041YM0dW	[Q] Posterolateral disc prolapse
+intervert_disc	CTV3	Zw042YM0dX	[Q] Sequestrated disc prolapse
+intervert_disc	medcodeid	276261011	Primary excision of cervical intervertebral disc
+intervert_disc	medcodeid	276274017	Primary posterior excision of cervical intervertebral disc
+intervert_disc	medcodeid	276277012	Primary microdiscectomy of cervical intervertebral disc
+intervert_disc	medcodeid	276291018	Revisional microdiscectomy of cervical intervertebral disc
+intervert_disc	medcodeid	276310015	Primary anterior excision thoracic disc and fusion
+intervert_disc	medcodeid	276313018	Primary posterior decompression of thoracic disc
+intervert_disc	medcodeid	276314012	Primary anterolateral biopsy of thoracic intervertebral disc
+intervert_disc	medcodeid	276388015	Primary lumbar discectomy
+intervert_disc	medcodeid	276389011	Primary removal of lumbar intervertebral disc
+intervert_disc	medcodeid	276391015	Primary laminectomy excision of lumbar intervertebral disc
+intervert_disc	medcodeid	276392010	Primary fenestration excision of lumbar disc
+intervert_disc	medcodeid	276393017	Primary fenestration of lumbar intervertebral disc
+intervert_disc	medcodeid	276400013	Primary lumbar microdiscectomy
+intervert_disc	medcodeid	276401012	Primary posterior excision of lumbar disc
+intervert_disc	medcodeid	276406019	Revisional lumbar discectomy
+intervert_disc	medcodeid	276408018	Revisional removal of lumbar intervertebral disc
+intervert_disc	medcodeid	276411017	Revisional anterior excision of lumbar disc and fusion
+intervert_disc	medcodeid	297148015	Myelopathy due to intervertebral disc disease
+intervert_disc	medcodeid	311147012	Thoracic disc disorder with myelopathy
+intervert_disc	medcodeid	311162014	Lumbar disc prolapse with myelopathy
+intervert_disc	medcodeid	311163016	Disc prolapse with radiculopathy
+intervert_disc	medcodeid	311164010	Cervical disc prolapse with radiculopathy
+intervert_disc	medcodeid	311167015	Thoracic disc prolapse with radiculopathy
+intervert_disc	medcodeid	311170016	Lumbar disc prolapse with cauda equina compression
+intervert_disc	medcodeid	311179015	Annular tear of cervical disc
+intervert_disc	medcodeid	311180017	Resorption of cervical disc
+intervert_disc	medcodeid	311181018	Calcification of cervical disc
+intervert_disc	medcodeid	311187019	Annular tear of lumbar disc
+intervert_disc	medcodeid	311189016	Calcification of lumbar disc
+intervert_disc	medcodeid	394580015	Primary anterior excision of lumbar disc and fusion
+intervert_disc	medcodeid	400273014	Cervical disc displacement without myelopathy
+intervert_disc	medcodeid	453172019	Primary percutaneous intradiscal lumbar discectomy
+intervert_disc	medcodeid	2674323010	Prosthetic replacement of lumbar intervertebral disc
+intervert_disc	medcodeid	276293015	Revisional excision of cervical intervertebral disc NOS
+intervert_disc	medcodeid	276323010	Primary excision of thoracic intervertebral disc NOS
+intervert_disc	medcodeid	276397016	Primary anterior excision of lumbar disc NEC
+intervert_disc	medcodeid	276404016	Other specified primary lumbar discectomy
+intervert_disc	medcodeid	276405015	Primary excision of lumbar intervertebral disc NOS
+intervert_disc	medcodeid	311137014	Schmorl's nodes of unspecified region
+intervert_disc	medcodeid	311140014	Schmorl's nodes, region NOS
+intervert_disc	medcodeid	311141013	Degenerative disc disease NOS
+intervert_disc	medcodeid	311149010	Disc disorder with myelopathy NOS
+intervert_disc	medcodeid	311173019	Other and unspecified disc disorders
+intervert_disc	medcodeid	311175014	Other cervical disc disorders
+intervert_disc	medcodeid	311176010	Other thoracic disc disorders
+intervert_disc	medcodeid	311192017	Disc disorders NOS
+intervert_disc	medcodeid	312620017	[X]Other cervical disc displacement
+intervert_disc	medcodeid	312621018	[X]Other cervical disc degeneration
+intervert_disc	medcodeid	312626011	[X]Other specified intervertebral disc degeneration
+intervert_disc	medcodeid	400274015	Disc displacement, site unspecified, without myelopathy
+intervert_disc	medcodeid	106481000006117	Thoracic disc degeneration
+intervert_disc	medcodeid	167461000006112	Revisional anterior excision cervical intervert disc NEC
+intervert_disc	medcodeid	167501000006112	Revisional anterior excision of lumbar disc and post fusion
+intervert_disc	medcodeid	167621000006115	Revisional excision of cervical intervertebral disc ops
+intervert_disc	medcodeid	167701000006118	Revisional fenestration excision of cervical intervert disc
+intervert_disc	medcodeid	167771000006112	Revisional hemilaminectomy excision cervical intervert disc
+intervert_disc	medcodeid	167881000006117	Revisional posterior excision of cervical intervert disc NEC
+intervert_disc	medcodeid	209161000006114	Primary anterior excision of lumbar disc and posterior fusn
+intervert_disc	medcodeid	210491000006116	Primary excision of thoracic intervertebral disc OS
+intervert_disc	medcodeid	210631000006117	Primary fenestration excision of cervical intervert disc
+intervert_disc	medcodeid	210761000006117	Primary hemilaminectomy excision of cervical IV disc
+intervert_disc	medcodeid	395361000006115	[X]Lumbar+other intervertebral disc disordrs with myelopathy
+intervert_disc	medcodeid	543591000006113	Cervical disc displacement
+intervert_disc	medcodeid	733661000006118	Lumbar disc degeneration
+intervert_disc	medcodeid	794381000006113	Freebody anterior excision lumbar IV disc & interbody fusion
+intervert_disc	medcodeid	1552411000006114	Revision percutan endosc exc thoracic intervertebral disc
+intervert_disc	medcodeid	1552961000006119	Primary automated percutan mech excis cerv intervert disc
+intervert_disc	medcodeid	1553081000006119	Primary percutaneous decompres coblat cerv intervert disc
+intervert_disc	medcodeid	1553141000006112	Revisional percutaneous decompres coblat cerv intervert disc
+intervert_disc	medcodeid	461573010	[Q] Central disc prolapse
+intervert_disc	medcodeid	461574016	[Q] Posterolateral disc prolapse
+intervert_disc	medcodeid	461575015	[Q] Sequestrated disc prolapse
+intervert_disc	medcodeid	1552401000006111	Revis anterol exc thoracic intervertebral disc graft HFQ
+intervert_disc	medcodeid	167711000006115	Revisional fenestration excision of lumbar intervert disc
+intervert_disc	medcodeid	400275019	Disc disorder with myelopathy
+intervert_disc	medcodeid	451069017	Primary laser excision of lumbar intervertebral disc
+intervert_disc	medcodeid	451070016	Primary laser excision of cervical intervertebral disc
+intervert_disc	medcodeid	311132015	Prolapsed lumbar intervertebral disc
+intervert_disc	medcodeid	311148019	Lumbar disc disorder with myelopathy
+intervert_disc	medcodeid	311168013	Lumbar disc prolapse with radiculopathy
+intervert_disc	medcodeid	276407011	Revisional excision of lumbar intervertebral disc
+intervert_disc	medcodeid	276417018	Revisional lumbar microdiscectomy
+intervert_disc	medcodeid	209141000006110	Primary anterior excision of cervical intervertebr disc NEC
+intervert_disc	medcodeid	209201000006115	Primary anterolateral excision thoracic intervert disc NEC
+intervert_disc	medcodeid	311174013	Other disc disorders of unspecified site
+intervert_disc	medcodeid	312625010	[X]Other specified intervertebral disc displacement
+intervert_disc	medcodeid	312622013	[X]Other cervical disc disorders
+intervert_disc	medcodeid	543561000006117	Cervical disc degeneration
+intervert_disc	medcodeid	276340018	Revisional excision thoracic intervertebral disc NOS
+intervert_disc	medcodeid	155341000006118	Schmorl's nodes of the thoracic region
+intervert_disc	medcodeid	312631013	[X]Cervical disc disorder, unspecified
+intervert_disc	medcodeid	276281012	Primary excision of cervical intervertebral disc NOS
+intervert_disc	medcodeid	455431014	Prolapsed lumbar intervertebral disc with sciatica
+intervert_disc	medcodeid	311159011	Disc prolapse with myelopathy
+intervert_disc	medcodeid	733681000006111	Lumbar disc displacement
+intervert_disc	medcodeid	1553021000006118	Revisional automated percutan mech exc cerv intervert disc
+intervert_disc	medcodeid	395351000006117	[X]Lumbar+other intervertbrl disc disordrs with radiculopthy
+intervert_disc	medcodeid	359855017	Intervertebral disc prolapse NOS
+intervert_disc	medcodeid	311145016	Unspecified disc disorder with myelopathy
+intervert_disc	medcodeid	311177018	Other lumbar disc disorders
+intervert_disc	medcodeid	312627019	[X]Other specified intervertebral disc disorders
+intervert_disc	medcodeid	276319019	Excision of thoracic intervertebral disc NEC
+intervert_disc	medcodeid	2674324016	Prosthetic replacement of cervical intervertebral disc
+intervert_disc	medcodeid	359854018	Prolapsed intervertebral disc without myelopathy
+intervert_disc	medcodeid	400272016	Prolapsed cervical intervertebral disc without myelopathy
+intervert_disc	medcodeid	311130011	Prolapsed thoracic intervertebral disc without myelopathy
+intervert_disc	medcodeid	311131010	Thoracic disc displacement without myelopathy
+intervert_disc	medcodeid	311146015	Cervical disc disorder with myelopathy
+intervert_disc	medcodeid	311160018	Cervical disc prolapse with myelopathy
+intervert_disc	medcodeid	311183015	Annular tear of thoracic disc
+intervert_disc	medcodeid	311185010	Calcification of thoracic disc
+intervert_disc	medcodeid	276287011	Revision anterior excision cervical disc and fusion
+intervert_disc	medcodeid	276390019	Primary excision of lumbar intervertebral disc
+intervert_disc	medcodeid	276418011	Revisional posterior excision of lumbar disc
+intervert_disc	medcodeid	167781000006110	Revisional laminectomy excision of cervical intervert disc
+intervert_disc	medcodeid	204651000006119	Primary laminectomy excision of cervical intervert disc
+intervert_disc	medcodeid	219621000000118	Intervertebral disc disorders
+intervert_disc	medcodeid	276333019	Revisional excision of thoracic intervertebral disc NEC
+intervert_disc	medcodeid	311161019	Thoracic disc prolapse with myelopathy
+intervert_disc	medcodeid	311188012	Resorption of lumbar disc
+intervert_disc	medcodeid	311191012	Cervical disc disorder with radiculopathy
+intervert_disc	medcodeid	276312011	Primary costotransversectomy of thoracic intervertebral disc
+intervert_disc	medcodeid	75341011	Schmorl's nodes
+intervert_disc	medcodeid	1553201000006117	Primary percut intrad radio thermocoag cerv intervert disc
+intervert_disc	medcodeid	276419015	Other specified revisional lumbar discectomy
+intervert_disc	medcodeid	276420014	Revisional excision of lumbar intervertebral disc NOS
+intervert_disc	medcodeid	155331000006111	Schmorl's nodes of the lumbar region
+intervert_disc	medcodeid	167491000006116	Revisional anterior excision of lumbar disc and post fusion
+intervert_disc	medcodeid	167631000006117	Revisional excision of cervical intervertebral disc OS
+intervert_disc	medcodeid	167791000006113	Revisional laminectomy excision of lumbar intervert disc
+intervert_disc	medcodeid	202401000006112	Prolapsed intervertebral disc with associated myelopathy
+intervert_disc	medcodeid	209111000006111	Primary ant excision lumbar disc+post instrumentation
+intervert_disc	medcodeid	209131000006117	Primary anterior excis cervical IV disc & interbody fusion
+intervert_disc	medcodeid	210441000006113	Primary excision of cervical intervertebral disc OS
+intervert_disc	medcodeid	677791000006119	Nerve root and plexus compressions in intervert disc disord
+intervert_disc	SNOMEDCT	178517008	Primary excision of cervical intervertebral disc
+intervert_disc	SNOMEDCT	178523003	Primary posterior excision of cervical intervertebral disc
+intervert_disc	SNOMEDCT	178526006	Primary microdiscectomy of cervical intervertebral disc
+intervert_disc	SNOMEDCT	178538002	Revisional microdiscectomy of cervical intervertebral disc
+intervert_disc	SNOMEDCT	178551007	Primary anterior excision thoracic disc and fusion
+intervert_disc	SNOMEDCT	178554004	Primary posterior decompression of thoracic disc
+intervert_disc	SNOMEDCT	178555003	Primary anterolateral biopsy of thoracic intervertebral disc
+intervert_disc	SNOMEDCT	178618008	Primary lumbar discectomy
+intervert_disc	SNOMEDCT	178618008	Primary removal of lumbar intervertebral disc
+intervert_disc	SNOMEDCT	178619000	Primary laminectomy excision of lumbar intervertebral disc
+intervert_disc	SNOMEDCT	178620006	Primary fenestration excision of lumbar disc
+intervert_disc	SNOMEDCT	178620006	Primary fenestration of lumbar intervertebral disc
+intervert_disc	SNOMEDCT	178625001	Primary lumbar microdiscectomy
+intervert_disc	SNOMEDCT	178626000	Primary posterior excision of lumbar disc
+intervert_disc	SNOMEDCT	178631003	Revisional lumbar discectomy
+intervert_disc	SNOMEDCT	178631003	Revisional removal of lumbar intervertebral disc
+intervert_disc	SNOMEDCT	178634006	Revisional anterior excision of lumbar disc and fusion
+intervert_disc	SNOMEDCT	192905004	Myelopathy due to intervertebral disc disease
+intervert_disc	SNOMEDCT	202718000	Thoracic disc disorder with myelopathy
+intervert_disc	SNOMEDCT	202731005	Lumbar disc prolapse with myelopathy
+intervert_disc	SNOMEDCT	202732003	Disc prolapse with radiculopathy
+intervert_disc	SNOMEDCT	202733008	Cervical disc prolapse with radiculopathy
+intervert_disc	SNOMEDCT	202734002	Thoracic disc prolapse with radiculopathy
+intervert_disc	SNOMEDCT	202736000	Lumbar disc prolapse with cauda equina compression
+intervert_disc	SNOMEDCT	202745004	Annular tear of cervical disc
+intervert_disc	SNOMEDCT	202746003	Resorption of cervical disc
+intervert_disc	SNOMEDCT	202747007	Calcification of cervical disc
+intervert_disc	SNOMEDCT	202753007	Annular tear of lumbar disc
+intervert_disc	SNOMEDCT	202755000	Calcification of lumbar disc
+intervert_disc	SNOMEDCT	265714002	Primary anterior excision of lumbar disc and fusion
+intervert_disc	SNOMEDCT	267974002	Cervical disc displacement without myelopathy
+intervert_disc	SNOMEDCT	309702009	Primary percutaneous intradiscal lumbar discectomy
+intervert_disc	SNOMEDCT	425594003	Prosthetic replacement of lumbar intervertebral disc
+intervert_disc	SNOMEDCT	178530009	Revisional excision of cervical intervertebral disc NOS
+intervert_disc	SNOMEDCT	273995009	Primary excision of thoracic intervertebral disc NOS
+intervert_disc	SNOMEDCT	178618008	Primary anterior excision of lumbar disc NEC
+intervert_disc	SNOMEDCT	178618008	Other specified primary lumbar discectomy
+intervert_disc	SNOMEDCT	178618008	Primary excision of lumbar intervertebral disc NOS
+intervert_disc	SNOMEDCT	45181002	Schmorl's nodes of unspecified region
+intervert_disc	SNOMEDCT	45181002	Schmorl's nodes, region NOS
+intervert_disc	SNOMEDCT	77547008	Degenerative disc disease NOS
+intervert_disc	SNOMEDCT	267976000	Disc disorder with myelopathy NOS
+intervert_disc	SNOMEDCT	36427004	Other and unspecified disc disorders
+intervert_disc	SNOMEDCT	425878001	Other cervical disc disorders
+intervert_disc	SNOMEDCT	36427004	Other thoracic disc disorders
+intervert_disc	SNOMEDCT	36427004	Disc disorders NOS
+intervert_disc	SNOMEDCT	73589001	[X]Other cervical disc displacement
+intervert_disc	SNOMEDCT	69195002	[X]Other cervical disc degeneration
+intervert_disc	SNOMEDCT	77547008	[X]Other specified intervertebral disc degeneration
+intervert_disc	SNOMEDCT	240213002	Disc displacement, site unspecified, without myelopathy
+intervert_disc	SNOMEDCT	68675004	Thoracic disc degeneration
+intervert_disc	SNOMEDCT	178530009	Revisional anterior excision cervical intervert disc NEC
+intervert_disc	SNOMEDCT	265715001	Revisional anterior excision of lumbar disc and post fusion
+intervert_disc	SNOMEDCT	178530009	Revisional excision of cervical intervertebral disc ops
+intervert_disc	SNOMEDCT	178533006	Revisional fenestration excision of cervical intervert disc
+intervert_disc	SNOMEDCT	178532001	Revisional hemilaminectomy excision cervical intervert disc
+intervert_disc	SNOMEDCT	178530009	Revisional posterior excision of cervical intervert disc NEC
+intervert_disc	SNOMEDCT	178623008	Primary anterior excision of lumbar disc and posterior fusn
+intervert_disc	SNOMEDCT	273995009	Primary excision of thoracic intervertebral disc OS
+intervert_disc	SNOMEDCT	31694007	Primary fenestration excision of cervical intervert disc
+intervert_disc	SNOMEDCT	178520000	Primary hemilaminectomy excision of cervical IV disc
+intervert_disc	SNOMEDCT	36427004	[X]Lumbar+other intervertebral disc disordrs with myelopathy
+intervert_disc	SNOMEDCT	240215009	Cervical disc displacement
+intervert_disc	SNOMEDCT	26538006	Lumbar disc degeneration
+intervert_disc	SNOMEDCT	265714002	Freebody anterior excision lumbar IV disc & interbody fusion
+intervert_disc	SNOMEDCT	230601000000107	Revision percutan endosc exc thoracic intervertebral disc
+intervert_disc	SNOMEDCT	238001000000100	Primary automated percutan mech excis cerv intervert disc
+intervert_disc	SNOMEDCT	238281000000103	Primary percutaneous decompres coblat cerv intervert disc
+intervert_disc	SNOMEDCT	236631000000103	Revisional percutaneous decompres coblat cerv intervert disc
+intervert_disc	SNOMEDCT	73589001	[Q] Central disc prolapse
+intervert_disc	SNOMEDCT	73589001	[Q] Posterolateral disc prolapse
+intervert_disc	SNOMEDCT	73589001	[Q] Sequestrated disc prolapse
+intervert_disc	SNOMEDCT	273996005	Revis anterol exc thoracic intervertebral disc graft HFQ
+intervert_disc	SNOMEDCT	178633000	Revisional fenestration excision of lumbar intervert disc
+intervert_disc	SNOMEDCT	267976000	Disc disorder with myelopathy
+intervert_disc	SNOMEDCT	307720007	Primary laser excision of lumbar intervertebral disc
+intervert_disc	SNOMEDCT	307721006	Primary laser excision of cervical intervertebral disc
+intervert_disc	SNOMEDCT	202708005	Prolapsed lumbar intervertebral disc
+intervert_disc	SNOMEDCT	202719008	Lumbar disc disorder with myelopathy
+intervert_disc	SNOMEDCT	202735001	Lumbar disc prolapse with radiculopathy
+intervert_disc	SNOMEDCT	178631003	Revisional excision of lumbar intervertebral disc
+intervert_disc	SNOMEDCT	178638009	Revisional lumbar microdiscectomy
+intervert_disc	SNOMEDCT	448206004	Primary anterior excision of cervical intervertebr disc NEC
+intervert_disc	SNOMEDCT	273995009	Primary anterolateral excision thoracic intervert disc NEC
+intervert_disc	SNOMEDCT	36427004	Other disc disorders of unspecified site
+intervert_disc	SNOMEDCT	73589001	[X]Other specified intervertebral disc displacement
+intervert_disc	SNOMEDCT	425878001	[X]Other cervical disc disorders
+intervert_disc	SNOMEDCT	69195002	Cervical disc degeneration
+intervert_disc	SNOMEDCT	273996005	Revisional excision thoracic intervertebral disc NOS
+intervert_disc	SNOMEDCT	86804002	Schmorl's nodes of the thoracic region
+intervert_disc	SNOMEDCT	425878001	[X]Cervical disc disorder, unspecified
+intervert_disc	SNOMEDCT	178517008	Primary excision of cervical intervertebral disc NOS
+intervert_disc	SNOMEDCT	311804006	Prolapsed lumbar intervertebral disc with sciatica
+intervert_disc	SNOMEDCT	202728009	Disc prolapse with myelopathy
+intervert_disc	SNOMEDCT	202708005	Lumbar disc displacement
+intervert_disc	SNOMEDCT	707838007	Revisional automated percutan mech exc cerv intervert disc
+intervert_disc	SNOMEDCT	202732003	[X]Lumbar+other intervertbrl disc disordrs with radiculopthy
+intervert_disc	SNOMEDCT	73589001	Intervertebral disc prolapse NOS
+intervert_disc	SNOMEDCT	267976000	Unspecified disc disorder with myelopathy
+intervert_disc	SNOMEDCT	443700006	Other lumbar disc disorders
+intervert_disc	SNOMEDCT	36427004	[X]Other specified intervertebral disc disorders
+intervert_disc	SNOMEDCT	302481001	Excision of thoracic intervertebral disc NEC
+intervert_disc	SNOMEDCT	427424009	Prosthetic replacement of cervical intervertebral disc
+intervert_disc	SNOMEDCT	240213002	Prolapsed intervertebral disc without myelopathy
+intervert_disc	SNOMEDCT	267974002	Prolapsed cervical intervertebral disc without myelopathy
+intervert_disc	SNOMEDCT	202707000	Prolapsed thoracic intervertebral disc without myelopathy
+intervert_disc	SNOMEDCT	202707000	Thoracic disc displacement without myelopathy
+intervert_disc	SNOMEDCT	202717005	Cervical disc disorder with myelopathy
+intervert_disc	SNOMEDCT	202729001	Cervical disc prolapse with myelopathy
+intervert_disc	SNOMEDCT	202749005	Annular tear of thoracic disc
+intervert_disc	SNOMEDCT	202751009	Calcification of thoracic disc
+intervert_disc	SNOMEDCT	178534000	Revision anterior excision cervical disc and fusion
+intervert_disc	SNOMEDCT	178618008	Primary excision of lumbar intervertebral disc
+intervert_disc	SNOMEDCT	178639001	Revisional posterior excision of lumbar disc
+intervert_disc	SNOMEDCT	178531008	Revisional laminectomy excision of cervical intervert disc
+intervert_disc	SNOMEDCT	178518003	Primary laminectomy excision of cervical intervert disc
+intervert_disc	SNOMEDCT	36427004	Intervertebral disc disorders
+intervert_disc	SNOMEDCT	273996005	Revisional excision of thoracic intervertebral disc NEC
+intervert_disc	SNOMEDCT	202730006	Thoracic disc prolapse with myelopathy
+intervert_disc	SNOMEDCT	202754001	Resorption of lumbar disc
+intervert_disc	SNOMEDCT	202757008	Cervical disc disorder with radiculopathy
+intervert_disc	SNOMEDCT	178553005	Primary costotransversectomy of thoracic intervertebral disc
+intervert_disc	SNOMEDCT	45181002	Schmorl's nodes
+intervert_disc	SNOMEDCT	429558007	Primary percut intrad radio thermocoag cerv intervert disc
+intervert_disc	SNOMEDCT	178631003	Other specified revisional lumbar discectomy
+intervert_disc	SNOMEDCT	178631003	Revisional excision of lumbar intervertebral disc NOS
+intervert_disc	SNOMEDCT	29574001	Schmorl's nodes of the lumbar region
+intervert_disc	SNOMEDCT	178530009	Revisional excision of cervical intervertebral disc OS
+intervert_disc	SNOMEDCT	178632005	Revisional laminectomy excision of lumbar intervert disc
+intervert_disc	SNOMEDCT	202728009	Prolapsed intervertebral disc with associated myelopathy
+intervert_disc	SNOMEDCT	178624002	Primary ant excision lumbar disc+post instrumentation
+intervert_disc	SNOMEDCT	265709001	Primary anterior excis cervical IV disc & interbody fusion
+intervert_disc	SNOMEDCT	178517008	Primary excision of cervical intervertebral disc OS
+intervert_disc	SNOMEDCT	193119005	Nerve root and plexus compressions in intervert disc disord
+intervert_disc	Read2_5digit	7J20.	Primary excision of cervical intervertebral disc
+intervert_disc	Read2_5digit	7J200	Primary laminectomy excision of cervical intervertebral disc
+intervert_disc	Read2_5digit	7J201	Primary hemilaminectomy excision of cervical intervertebral disc
+intervert_disc	Read2_5digit	7J202	Primary fenestration excision of cervical intervertebral disc
+intervert_disc	Read2_5digit	7J203	Primary anterior excision of cervical intervertebral disc and interbody fusion of joint of cervical spine
+intervert_disc	Read2_5digit	7J204	Primary posterior excision of cervical intervertebral disc
+intervert_disc	Read2_5digit	7J206	Primary anterior excision of cervical intervertebral disc NEC
+intervert_disc	Read2_5digit	7J207	Primary microdiscectomy of cervical intervertebral disc
+intervert_disc	Read2_5digit	7J208	Primary laser excision of cervical intervertebral disc
+intervert_disc	Read2_5digit	7J20y	Other specified primary excision of cervical intervertebral disc
+intervert_disc	Read2_5digit	7J20z	Primary excision of cervical intervertebral disc NOS
+intervert_disc	Read2_5digit	7J21.	Revisional excision of cervical intervertebral disc operations
+intervert_disc	Read2_5digit	7J210	Revisional laminectomy excision of cervical intervertebral disc
+intervert_disc	Read2_5digit	7J211	Revisional hemilaminectomy excision of cervical intervertebral disc
+intervert_disc	Read2_5digit	7J212	Revisional fenestration excision of cervical intervertebral disc
+intervert_disc	Read2_5digit	7J213	Revision anterior excision cervical disc and fusion
+intervert_disc	Read2_5digit	7J214	Revisional posterior excision of cervical intervertebral disc NEC
+intervert_disc	Read2_5digit	7J216	Revisional anterior excision of cervical intervertebral disc NEC
+intervert_disc	Read2_5digit	7J217	Revisional microdiscectomy of cervical intervertebral disc
+intervert_disc	Read2_5digit	7J21y	Other specified revisional excision of cervical intervertebral disc
+intervert_disc	Read2_5digit	7J21z	Revisional excision of cervical intervertebral disc NOS
+intervert_disc	Read2_5digit	7J230	Primary anterior excision thoracic disc and fusion
+intervert_disc	Read2_5digit	7J231	Primary anterolateral excision of thoracic intervertebral disc NEC
+intervert_disc	Read2_5digit	7J232	Primary costotransversectomy of thoracic intervertebral disc
+intervert_disc	Read2_5digit	7J233	Primary posterior decompression of thoracic disc
+intervert_disc	Read2_5digit	7J234	Primary anterolateral biopsy of thoracic intervertebral disc
+intervert_disc	Read2_5digit	7J239	Excision of thoracic intervertebral disc NEC
+intervert_disc	Read2_5digit	7J23w	Other specified primary excision of thoracic intervertebral disc
+intervert_disc	Read2_5digit	7J23x	Primary excision of thoracic intervertebral disc NOS
+intervert_disc	Read2_5digit	7J246	Revisional excision of thoracic intervertebral disc NEC
+intervert_disc	Read2_5digit	7J24A	Revisional anterolateral excision of thoracic intervertebral disc and graft HFQ
+intervert_disc	Read2_5digit	7J24B	Revisional percutaneous endoscopic excision of thoracic intervertebral disc
+intervert_disc	Read2_5digit	7J24x	Revisional excision thoracic intervertebral disc NOS
+intervert_disc	Read2_5digit	7J270	Prosthetic replacement of cervical intervertebral disc
+intervert_disc	Read2_5digit	7J272	Prosthetic replacement of lumbar intervertebral disc
+intervert_disc	Read2_5digit	7J32.	Primary lumbar discectomy
+intervert_disc	Read2_5digit	7J320	Primary laminectomy excision of lumbar intervertebral disc
+intervert_disc	Read2_5digit	7J321	Primary fenestration excision of lumbar disc
+intervert_disc	Read2_5digit	7J322	Primary anterior excision of lumbar disc and fusion
+intervert_disc	Read2_5digit	7J323	Primary anterior excision of lumbar disc NEC
+intervert_disc	Read2_5digit	7J324	Primary anterior excision of lumbar disc and posterior fusion
+intervert_disc	Read2_5digit	7J325	Primary anterior excision of lumbar disc and posterior instrumentation
+intervert_disc	Read2_5digit	7J326	Primary lumbar microdiscectomy
+intervert_disc	Read2_5digit	7J327	Primary posterior excision of lumbar disc
+intervert_disc	Read2_5digit	7J328	Primary laser excision of lumbar intervertebral disc
+intervert_disc	Read2_5digit	7J329	Primary percutaneous intradiscal lumbar discectomy
+intervert_disc	Read2_5digit	7J32y	Other specified primary lumbar discectomy
+intervert_disc	Read2_5digit	7J32z	Primary excision of lumbar intervertebral disc NOS
+intervert_disc	Read2_5digit	7J33.	Revisional lumbar discectomy
+intervert_disc	Read2_5digit	7J330	Revisional laminectomy excision of lumbar intervertebral disc
+intervert_disc	Read2_5digit	7J331	Revisional fenestration excision of lumbar intervertebral disc
+intervert_disc	Read2_5digit	7J332	Revisional anterior excision of lumbar disc and fusion
+intervert_disc	Read2_5digit	7J334	Revisional anterior excision of lumbar disc and posterior fusion
+intervert_disc	Read2_5digit	7J336	Revisional lumbar microdiscectomy
+intervert_disc	Read2_5digit	7J337	Revisional posterior excision of lumbar disc
+intervert_disc	Read2_5digit	7J33y	Other specified revisional lumbar discectomy
+intervert_disc	Read2_5digit	7J33z	Revisional excision of lumbar intervertebral disc NOS
+intervert_disc	Read2_5digit	7J4H0	Primary automated percutaneous mechanical excision of cervical intervertebral disc
+intervert_disc	Read2_5digit	7J4J0	Revisional automated percutaneous mechanical excision of cervical intervertebral disc
+intervert_disc	Read2_5digit	7J4K0	Primary percutaneous decompression using coblation to cervical intervertebral disc
+intervert_disc	Read2_5digit	7J4L0	Revisional percutaneous decompression using coblation to cervical intervertebral disc
+intervert_disc	Read2_5digit	7J4M0	Primary percutaneous intradiscal radiofrequency thermocoagulation to cervical intervertebral disc
+intervert_disc	Read2_5digit	F1630	Myelopathy due to intervertebral disc disease
+intervert_disc	Read2_5digit	F3371	Nerve root and plexus compressions in intervertebral disc disorders
+intervert_disc	Read2_5digit	N120.	Cervical disc displacement without myelopathy
+intervert_disc	Read2_5digit	N121.	Thoracic disc displacement without myelopathy
+intervert_disc	Read2_5digit	N122.	Lumbar disc displacement
+intervert_disc	Read2_5digit	N123.	Disc displacement, site unspecified, without myelopathy
+intervert_disc	Read2_5digit	N124.	Schmorl's nodes
+intervert_disc	Read2_5digit	N1240	Schmorl's nodes of unspecified region
+intervert_disc	Read2_5digit	N1241	Schmorl's nodes of the thoracic region
+intervert_disc	Read2_5digit	N1242	Schmorl's nodes of the lumbar region
+intervert_disc	Read2_5digit	N124z	Schmorl's nodes, region NOS
+intervert_disc	Read2_5digit	N125.	Cervical disc degeneration
+intervert_disc	Read2_5digit	N126.	Thoracic disc degeneration
+intervert_disc	Read2_5digit	N127.	Lumbar disc degeneration
+intervert_disc	Read2_5digit	N128.	Degenerative disc disease NOS
+intervert_disc	Read2_5digit	N129.	Disc disorder with myelopathy
+intervert_disc	Read2_5digit	N1290	Unspecified disc disorder with myelopathy
+intervert_disc	Read2_5digit	N1291	Cervical disc disorder with myelopathy
+intervert_disc	Read2_5digit	N1292	Thoracic disc disorder with myelopathy
+intervert_disc	Read2_5digit	N1293	Lumbar disc disorder with myelopathy
+intervert_disc	Read2_5digit	N129z	Disc disorder with myelopathy NOS
+intervert_disc	Read2_5digit	N12B.	Disc prolapse with myelopathy
+intervert_disc	Read2_5digit	N12B0	Cervical disc prolapse with myelopathy
+intervert_disc	Read2_5digit	N12B1	Thoracic disc prolapse with myelopathy
+intervert_disc	Read2_5digit	N12B2	Lumbar disc prolapse with myelopathy
+intervert_disc	Read2_5digit	N12C.	Disc prolapse with radiculopathy
+intervert_disc	Read2_5digit	N12C0	Cervical disc prolapse with radiculopathy
+intervert_disc	Read2_5digit	N12C1	Thoracic disc prolapse with radiculopathy
+intervert_disc	Read2_5digit	N12C2	Lumbar disc prolapse with radiculopathy
+intervert_disc	Read2_5digit	N12C3	Lumbar disc prolapse with cauda equina compression
+intervert_disc	Read2_5digit	N12C4	Prolapsed lumbar intervertebral disc with sciatica
+intervert_disc	Read2_5digit	N12z.	Other and unspecified disc disorders
+intervert_disc	Read2_5digit	N12z0	Other disc disorders of unspecified site
+intervert_disc	Read2_5digit	N12z1	Other cervical disc disorders
+intervert_disc	Read2_5digit	N12z2	Other thoracic disc disorders
+intervert_disc	Read2_5digit	N12z3	Other lumbar disc disorders
+intervert_disc	Read2_5digit	N12z5	Annular tear of cervical disc
+intervert_disc	Read2_5digit	N12z6	Resorption of cervical disc
+intervert_disc	Read2_5digit	N12z7	Calcification of cervical disc
+intervert_disc	Read2_5digit	N12z9	Annular tear of thoracic disc
+intervert_disc	Read2_5digit	N12zB	Calcification of thoracic disc
+intervert_disc	Read2_5digit	N12zD	Annular tear of lumbar disc
+intervert_disc	Read2_5digit	N12zE	Resorption of lumbar disc
+intervert_disc	Read2_5digit	N12zF	Calcification of lumbar disc
+intervert_disc	Read2_5digit	N12zH	Cervical disc disorder with radiculopathy
+intervert_disc	Read2_5digit	N12zz	Disc disorders NOS
+intervert_disc	Read2_5digit	Nyu70	[X]Other cervical disc displacement
+intervert_disc	Read2_5digit	Nyu71	[X]Other cervical disc degeneration
+intervert_disc	Read2_5digit	Nyu72	[X]Other cervical disc disorders
+intervert_disc	Read2_5digit	Nyu73	[X]Lumbar and other intervertebral disc disorders with myelopathy
+intervert_disc	Read2_5digit	Nyu74	[X]Lumbar and other intervertebral disc disorders with radiculopathy
+intervert_disc	Read2_5digit	Nyu75	[X]Other specified intervertebral disc displacement
+intervert_disc	Read2_5digit	Nyu76	[X]Other specified intervertebral disc degeneration
+intervert_disc	Read2_5digit	Nyu77	[X]Other specified intervertebral disc disorders
+intervert_disc	Read2_5digit	Nyu7B	[X]Cervical disc disorder, unspecified
+intervert_disc	Read2_5digit	Zw040	[Q] Central disc prolapse
+intervert_disc	Read2_5digit	Zw041	[Q] Posterolateral disc prolapse
+intervert_disc	Read2_5digit	Zw042	[Q] Sequestrated disc prolapse
+intervert_disc	CTV3_5digit	7J20.	Primary excision of cervical intervertebral disc
+intervert_disc	CTV3_5digit	7J200	Primary laminectomy excision of cervical intervertebral disc
+intervert_disc	CTV3_5digit	7J201	Primary hemilaminectomy excision of cervical intervertebral disc
+intervert_disc	CTV3_5digit	7J202	Primary fenestration excision of cervical intervertebral disc
+intervert_disc	CTV3_5digit	XE0Ic	Primary anterior excision of cervical intervertebral disc and interbody fusion of joint of cervical spine
+intervert_disc	CTV3_5digit	7J204	Primary posterior excision of cervical intervertebral disc
+intervert_disc	CTV3_5digit	7J206	Primary anterior excision of cervical intervertebral disc NEC
+intervert_disc	CTV3_5digit	7J207	Primary microdiscectomy of cervical intervertebral disc
+intervert_disc	CTV3_5digit	XaBDN	Primary laser excision of cervical intervertebral disc
+intervert_disc	CTV3_5digit	7J20y	Other specified primary excision of cervical intervertebral disc
+intervert_disc	CTV3_5digit	7J20z	Primary excision of cervical intervertebral disc NOS
+intervert_disc	CTV3_5digit	7J21.	Revisional excision of cervical intervertebral disc operations
+intervert_disc	CTV3_5digit	7J210	Revisional laminectomy excision of cervical intervertebral disc
+intervert_disc	CTV3_5digit	7J211	Revisional hemilaminectomy excision of cervical intervertebral disc
+intervert_disc	CTV3_5digit	7J212	Revisional fenestration excision of cervical intervertebral disc
+intervert_disc	CTV3_5digit	7J213	Revision anterior excision cervical disc and fusion
+intervert_disc	CTV3_5digit	7J214	Revisional posterior excision of cervical intervertebral disc NEC
+intervert_disc	CTV3_5digit	7J216	Revisional anterior excision of cervical intervertebral disc NEC
+intervert_disc	CTV3_5digit	7J217	Revisional microdiscectomy of cervical intervertebral disc
+intervert_disc	CTV3_5digit	7J21y	Other specified revisional excision of cervical intervertebral disc
+intervert_disc	CTV3_5digit	7J21z	Revisional excision of cervical intervertebral disc NOS
+intervert_disc	CTV3_5digit	7J230	Primary anterior excision thoracic disc and fusion
+intervert_disc	CTV3_5digit	7J231	Primary anterolateral excision of thoracic intervertebral disc NEC
+intervert_disc	CTV3_5digit	7J232	Primary costotransversectomy of thoracic intervertebral disc
+intervert_disc	CTV3_5digit	7J233	Primary posterior decompression of thoracic disc
+intervert_disc	CTV3_5digit	7J234	Primary anterolateral biopsy of thoracic intervertebral disc
+intervert_disc	CTV3_5digit	7J239	Excision of thoracic intervertebral disc NEC
+intervert_disc	CTV3_5digit	7J23w	Other specified primary excision of thoracic intervertebral disc
+intervert_disc	CTV3_5digit	7J23x	Primary excision of thoracic intervertebral disc NOS
+intervert_disc	CTV3_5digit	7J246	Revisional excision of thoracic intervertebral disc NEC
+intervert_disc	CTV3_5digit	XaLx9	Revisional anterolateral excision of thoracic intervertebral disc and graft HFQ
+intervert_disc	CTV3_5digit	XaLxA	Revisional percutaneous endoscopic excision of thoracic intervertebral disc
+intervert_disc	CTV3_5digit	7J24x	Revisional excision thoracic intervertebral disc NOS
+intervert_disc	CTV3_5digit	XaLxf	Prosthetic replacement of cervical intervertebral disc
+intervert_disc	CTV3_5digit	XaLxh	Prosthetic replacement of lumbar intervertebral disc
+intervert_disc	CTV3_5digit	7J32.	Primary lumbar discectomy
+intervert_disc	CTV3_5digit	7J320	Primary laminectomy excision of lumbar intervertebral disc
+intervert_disc	CTV3_5digit	7J321	Primary fenestration excision of lumbar disc
+intervert_disc	CTV3_5digit	XE0Ih	Primary anterior excision of lumbar disc and fusion
+intervert_disc	CTV3_5digit	7J322	Freebody anterior excision of lumbar intervertebral disc and interbody fusion of joint of lumbar spine
+intervert_disc	CTV3_5digit	7J323	Primary anterior excision of lumbar disc NEC
+intervert_disc	CTV3_5digit	7J324	Primary anterior excision of lumbar disc and posterior fusion
+intervert_disc	CTV3_5digit	7J325	Primary anterior excision of lumbar disc and posterior instrumentation
+intervert_disc	CTV3_5digit	7J326	Primary lumbar microdiscectomy
+intervert_disc	CTV3_5digit	7J327	Primary posterior excision of lumbar disc
+intervert_disc	CTV3_5digit	XaBDM	Primary laser excision of lumbar intervertebral disc
+intervert_disc	CTV3_5digit	XaC0J	Primary percutaneous intradiscal lumbar discectomy
+intervert_disc	CTV3_5digit	7J32y	Other specified primary lumbar discectomy
+intervert_disc	CTV3_5digit	7J32z	Primary excision of lumbar intervertebral disc NOS
+intervert_disc	CTV3_5digit	7J33.	Revisional lumbar discectomy
+intervert_disc	CTV3_5digit	7J330	Revisional laminectomy excision of lumbar intervertebral disc
+intervert_disc	CTV3_5digit	7J331	Revisional fenestration excision of lumbar intervertebral disc
+intervert_disc	CTV3_5digit	7J332	Revisional anterior excision of lumbar disc and fusion
+intervert_disc	CTV3_5digit	XE0Ii	Revisional anterior excision of lumbar disc and posterior fusion
+intervert_disc	CTV3_5digit	7J334	Revisional anterior excision of lumbar disc and posterior fusion with graft
+intervert_disc	CTV3_5digit	7J336	Revisional lumbar microdiscectomy
+intervert_disc	CTV3_5digit	7J337	Revisional posterior excision of lumbar disc
+intervert_disc	CTV3_5digit	7J33y	Other specified revisional lumbar discectomy
+intervert_disc	CTV3_5digit	7J33z	Revisional excision of lumbar intervertebral disc NOS
+intervert_disc	CTV3_5digit	XaM7T	Primary automated percutaneous mechanical excision of cervical intervertebral disc
+intervert_disc	CTV3_5digit	XaM7d	Revisional automated percutaneous mechanical excision of cervical intervertebral disc
+intervert_disc	CTV3_5digit	XaM7l	Primary percutaneous decompression using coblation to cervical intervertebral disc
+intervert_disc	CTV3_5digit	XaM9n	Revisional percutaneous decompression using coblation to cervical intervertebral disc
+intervert_disc	CTV3_5digit	XaM96	Primary percutaneous intradiscal radiofrequency thermocoagulation to cervical intervertebral disc
+intervert_disc	CTV3_5digit	F1630	Myelopathy due to intervertebral disc disease
+intervert_disc	CTV3_5digit	F3371	Nerve root and plexus compressions in intervertebral disc disorders
+intervert_disc	CTV3_5digit	XE1Ez	Disorder of intervertebral disc
+intervert_disc	CTV3_5digit	XE1F0	Cervical disc displacement without myelopathy
+intervert_disc	CTV3_5digit	X70Cj	Prolapsed cervical intervertebral disc
+intervert_disc	CTV3_5digit	N121.	Thoracic disc displacement without myelopathy
+intervert_disc	CTV3_5digit	N122.	Prolapsed lumbar intervertebral disc
+intervert_disc	CTV3_5digit	XE1F1	Disc displacement, site unspecified, without myelopathy
+intervert_disc	CTV3_5digit	X70Ci	Intervertebral disc prolapse NOS
+intervert_disc	CTV3_5digit	X70Ch	Prolapsed intervertebral disc without myelopathy
+intervert_disc	CTV3_5digit	N124.	Schmorl's nodes
+intervert_disc	CTV3_5digit	N1240	Schmorl's nodes of unspecified region
+intervert_disc	CTV3_5digit	N1241	Schmorl's nodes of the thoracic region
+intervert_disc	CTV3_5digit	N1242	Schmorl's nodes of the lumbar region
+intervert_disc	CTV3_5digit	N124z	Schmorl's nodes, region NOS
+intervert_disc	CTV3_5digit	N125.	Cervical disc degeneration
+intervert_disc	CTV3_5digit	N126.	Thoracic disc degeneration
+intervert_disc	CTV3_5digit	N127.	Lumbar disc degeneration
+intervert_disc	CTV3_5digit	N128.	Degenerative disc disease NOS
+intervert_disc	CTV3_5digit	XE1F2	Disc disorder with myelopathy
+intervert_disc	CTV3_5digit	N12B.	Disc prolapse with myelopathy
+intervert_disc	CTV3_5digit	N1290	Unspecified disc disorder with myelopathy
+intervert_disc	CTV3_5digit	N1291	Cervical disc disorder with myelopathy
+intervert_disc	CTV3_5digit	N1292	Thoracic disc disorder with myelopathy
+intervert_disc	CTV3_5digit	N1293	Lumbar disc disorder with myelopathy
+intervert_disc	CTV3_5digit	N129z	Disc disorder with myelopathy NOS
+intervert_disc	CTV3_5digit	N12B0	Cervical disc prolapse with myelopathy
+intervert_disc	CTV3_5digit	N12B1	Thoracic disc prolapse with myelopathy
+intervert_disc	CTV3_5digit	N12B2	Lumbar disc prolapse with myelopathy
+intervert_disc	CTV3_5digit	N12C.	Disc prolapse with radiculopathy
+intervert_disc	CTV3_5digit	N12C0	Cervical disc prolapse with radiculopathy
+intervert_disc	CTV3_5digit	N12C1	Thoracic disc prolapse with radiculopathy
+intervert_disc	CTV3_5digit	N12C2	Lumbar disc prolapse with radiculopathy
+intervert_disc	CTV3_5digit	N12C3	Lumbar disc prolapse with cauda equina compression
+intervert_disc	CTV3_5digit	XaD2p	Prolapsed lumbar intervertebral disc with sciatica
+intervert_disc	CTV3_5digit	N12z.	Other and unspecified disc disorders
+intervert_disc	CTV3_5digit	N12z0	Other disc disorders of unspecified site
+intervert_disc	CTV3_5digit	N12z1	Other cervical disc disorders
+intervert_disc	CTV3_5digit	N12z2	Other thoracic disc disorders
+intervert_disc	CTV3_5digit	N12z3	Other lumbar disc disorders
+intervert_disc	CTV3_5digit	N12z5	Annular tear of cervical disc
+intervert_disc	CTV3_5digit	N12z6	Resorption of cervical disc
+intervert_disc	CTV3_5digit	N12z7	Calcification of cervical disc
+intervert_disc	CTV3_5digit	N12z9	Annular tear of thoracic disc
+intervert_disc	CTV3_5digit	N12zB	Calcification of thoracic disc
+intervert_disc	CTV3_5digit	N12zD	Annular tear of lumbar disc
+intervert_disc	CTV3_5digit	N12zE	Resorption of lumbar disc
+intervert_disc	CTV3_5digit	N12zF	Calcification of lumbar disc
+intervert_disc	CTV3_5digit	N12zH	Cervical disc disorder with radiculopathy
+intervert_disc	CTV3_5digit	N12zz	Disc disorders NOS
+intervert_disc	CTV3_5digit	Nyu70	[X]Other cervical disc displacement
+intervert_disc	CTV3_5digit	Nyu71	[X]Other cervical disc degeneration
+intervert_disc	CTV3_5digit	Nyu72	[X]Other cervical disc disorders
+intervert_disc	CTV3_5digit	Nyu73	[X]Lumbar and other intervertebral disc disorders with myelopathy
+intervert_disc	CTV3_5digit	Nyu74	[X]Lumbar and other intervertebral disc disorders with radiculopathy
+intervert_disc	CTV3_5digit	Nyu75	[X]Other specified intervertebral disc displacement
+intervert_disc	CTV3_5digit	Nyu76	[X]Other specified intervertebral disc degeneration
+intervert_disc	CTV3_5digit	Nyu77	[X]Other specified intervertebral disc disorders
+intervert_disc	CTV3_5digit	Nyu7B	[X]Cervical disc disorder, unspecified
+intervert_disc	CTV3_5digit	Zw040	[Q] Central disc prolapse
+intervert_disc	CTV3_5digit	Zw041	[Q] Posterolateral disc prolapse
+intervert_disc	CTV3_5digit	Zw042	[Q] Sequestrated disc prolapse

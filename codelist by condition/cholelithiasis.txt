@@ -1,0 +1,303 @@
+condition	vocab_id	code	description
+cholelithiasis	ICD10	K80	Cholelithiasis
+cholelithiasis	Read2	14CE.00	H/O: gall stones
+cholelithiasis	Read2	1965.00	Biliary colic
+cholelithiasis	Read2	1965.11	Biliary colic symptom
+cholelithiasis	Read2	4775.00	Faeces: gall stones present
+cholelithiasis	Read2	4G2..00	O/E: gall stone
+cholelithiasis	Read2	4G21.00	O/E: cholesterol gall stone
+cholelithiasis	Read2	4G22.00	O/E: pigment gall stone
+cholelithiasis	Read2	4G2Z.00	O/E: gall stone NOS
+cholelithiasis	Read2	7648700	Enterotomy and removal of gallstone
+cholelithiasis	Read2	8CMWD00	On gallstone care pathway
+cholelithiasis	Read2	J503000	Gallstone ileus
+cholelithiasis	Read2	J64..00	Cholelithiasis
+cholelithiasis	Read2	J64..11	Bile duct calculus
+cholelithiasis	Read2	J64..12	Calculus - biliary
+cholelithiasis	Read2	J64..13	Cystic duct calculus
+cholelithiasis	Read2	J64..14	Gallbladder calculus
+cholelithiasis	Read2	J64..15	Gallstones
+cholelithiasis	Read2	J64..16	Stone - biliary
+cholelithiasis	Read2	J640.00	Gallbladder calculus with acute cholecystitis
+cholelithiasis	Read2	J640000	Gallbladder calculus with acute cholecystitis and no obstruction
+cholelithiasis	Read2	J640100	Gallbladder calculus with acute cholecystitis and obstruction
+cholelithiasis	Read2	J640z00	Gallbladder calculus with acute cholecystitis and obstruction NOS
+cholelithiasis	Read2	J641.00	Gallbladder calculus with other cholecystitis
+cholelithiasis	Read2	J641000	Gallbladder calculus with other cholecystitis and no obstruction
+cholelithiasis	Read2	J641100	Gallbladder calculus with other cholecystitis and obstruction
+cholelithiasis	Read2	J641z00	Gallbladder calculus with other cholecystitis and obstruction NOS
+cholelithiasis	Read2	J642.00	Gallbladder calculus without mention of cholecystitis
+cholelithiasis	Read2	J642.11	Gallbladder calculus without mention of cholecystitis
+cholelithiasis	Read2	J642000	Gallbladder calculus without mention of cholecystitis and no obstruction
+cholelithiasis	Read2	J642100	Gallbladder calculus without mention of cholecystitis and with obstruction
+cholelithiasis	Read2	J642200	Biliary colic
+cholelithiasis	Read2	J642z00	Gallbladder calculus without mention of cholecystitis and obstruction NOS
+cholelithiasis	Read2	J643.00	Bile duct calculus with acute cholecystitis
+cholelithiasis	Read2	J643000	Bile duct calculus with acute cholecystitis and no obstruction
+cholelithiasis	Read2	J643100	Bile duct calculus + acute cholecystitis and obstruction
+cholelithiasis	Read2	J643z00	Bile duct calculus with acute cholecystitis and obstruction NOS
+cholelithiasis	Read2	J644.00	Bile duct calculus with other cholecystitis
+cholelithiasis	Read2	J644000	Bile duct calculus with other cholecystitis and no obstruction
+cholelithiasis	Read2	J644100	Bile duct calculus + other cholecystitis and obstruction
+cholelithiasis	Read2	J644z00	Bile duct calculus with other cholecystitis and obstruction NOS
+cholelithiasis	Read2	J645.00	Bile duct calculus without mention of cholecystitis
+cholelithiasis	Read2	J645.11	Choledocholithiasis
+cholelithiasis	Read2	J645000	Bile duct calculus without mention of cholecystitis and no obstruction
+cholelithiasis	Read2	J645100	Bile duct calculus with no mention of cholecystitis and with obstruction
+cholelithiasis	Read2	J645200	Bile duct calculus NOS
+cholelithiasis	Read2	J645z00	Bile duct calculus without mention of cholecystitis and obstruction NOS
+cholelithiasis	Read2	J646.00	Calculus of bile duct with cholangitis
+cholelithiasis	Read2	J64z.00	Cholelithiasis NOS
+cholelithiasis	Read2	J64z000	Cholelithiasis without obstruction NOS
+cholelithiasis	Read2	J64z100	Cholelithiasis with obstruction NOS
+cholelithiasis	Read2	J64zz00	Cholelithiasis NOS
+cholelithiasis	Read2	J670500	Gallstone acute pancreatitis
+cholelithiasis	Read2	J671100	Gallstone chronic pancreatitis
+cholelithiasis	Read2	Jyu8000	[X]Other cholelithiasis
+cholelithiasis	CTV3	XaJCMYamAL	H/O: gall stones
+cholelithiasis	CTV3	1965.Y7Cni	Biliary colic
+cholelithiasis	CTV3	1965.Y7Cnh	Biliary colic symptom
+cholelithiasis	CTV3	4775.Y7FP9	Faeces: gallstones present
+cholelithiasis	CTV3	4G2..YM0XD	O/E: gallstone
+cholelithiasis	CTV3	4G21.YM0XE	O/E: cholesterol gallstone
+cholelithiasis	CTV3	4G22.YM0XF	O/E: pigment gallstone
+cholelithiasis	CTV3	4G2Z.YM0XG	O/E: gallstone NOS
+cholelithiasis	CTV3	XaB9cYaaPa	Enterotomy and removal of gallstone
+cholelithiasis	CTV3	XaaBJYaw3k	On gallstone care pathway
+cholelithiasis	CTV3	J5030Y30Hf	Gallstone ileus
+cholelithiasis	CTV3	XE0bDY30QJ	Cholelithiasis
+cholelithiasis	CTV3	X308JY30Qe	Bile duct calculus
+cholelithiasis	CTV3	XE0bDY30QI	Calculus - biliary
+cholelithiasis	CTV3	X308IY30Qd	Cystic duct calculus
+cholelithiasis	CTV3	X308AY30Px	Gallbladder calculus
+cholelithiasis	CTV3	X308AY30QQ	Gallstones
+cholelithiasis	CTV3	XE0bDYM1kz	Stone - biliary
+cholelithiasis	CTV3	J640.Y30QZ	Gallbladder calculus with acute cholecystitis
+cholelithiasis	CTV3	J6400Y30Qc	Gallbladder calculus with acute cholecystitis and no obstruction
+cholelithiasis	CTV3	J6401Y30Qb	Gallbladder calculus with acute cholecystitis and obstruction
+cholelithiasis	CTV3	J640zY30Qa	Gallbladder calculus with acute cholecystitis and obstruction NOS
+cholelithiasis	CTV3	J641.Y30QV	Gallbladder calculus with other cholecystitis
+cholelithiasis	CTV3	J6410Y30QY	Gallbladder calculus with other cholecystitis and no obstruction
+cholelithiasis	CTV3	J6411Y30QX	Gallbladder calculus with other cholecystitis and obstruction
+cholelithiasis	CTV3	J641zY30QW	Gallbladder calculus with other cholecystitis and obstruction NOS
+cholelithiasis	CTV3	J642.Y30QR	Gallbladder calculus without mention of cholecystitis
+cholelithiasis	CTV3	J6420Y30QU	Gallbladder calculus without mention of cholecystitis and no obstruction
+cholelithiasis	CTV3	J6421Y30QT	Gallbladder calculus without mention of cholecystitis and with obstruction
+cholelithiasis	CTV3	J642zY30QS	Gallbladder calculus without mention of cholecystitis and obstruction NOS
+cholelithiasis	CTV3	J643.Y30Qp	Bile duct calculus with acute cholecystitis
+cholelithiasis	CTV3	J6430Y30Qs	Bile duct calculus with acute cholecystitis and no obstruction
+cholelithiasis	CTV3	J6431Yae8e	Bile duct calculus with acute cholecystitis and obstruction
+cholelithiasis	CTV3	J643zY30Qq	Bile duct calculus with acute cholecystitis and obstruction NOS
+cholelithiasis	CTV3	J644.Y30Ql	Bile duct calculus with other cholecystitis
+cholelithiasis	CTV3	J6440Y30Qo	Bile duct calculus with other cholecystitis and no obstruction
+cholelithiasis	CTV3	J6441Yae8Z	Bile duct calculus with other cholecystitis and obstruction
+cholelithiasis	CTV3	J644zY30Qm	Bile duct calculus with other cholecystitis and obstruction NOS
+cholelithiasis	CTV3	XE0bEY30Qh	Bile duct calculus without mention of cholecystitis
+cholelithiasis	CTV3	X308JY30Qg	Choledocholithiasis
+cholelithiasis	CTV3	J6450Y30Qk	Bile duct calculus without mention of cholecystitis and no obstruction
+cholelithiasis	CTV3	J6451Y30Qj	Bile duct calculus with no mention of cholecystitis and with obstruction
+cholelithiasis	CTV3	XaE6vYaeN7	Bile duct calculus NOS
+cholelithiasis	CTV3	J645zY30Qi	Bile duct calculus without mention of cholecystitis and obstruction NOS
+cholelithiasis	CTV3	J646.YMB8X	Calculus of bile duct with cholangitis
+cholelithiasis	CTV3	J64z.Y30QK	Cholelithiasis NOS
+cholelithiasis	CTV3	J64z0Y30QM	Cholelithiasis without obstruction NOS
+cholelithiasis	CTV3	J64z1Y30QL	Cholelithiasis with obstruction NOS
+cholelithiasis	CTV3	X308iY30S1	Gallstone acute pancreatitis
+cholelithiasis	CTV3	X308uY30SF	Gallstone chronic pancreatitis
+cholelithiasis	CTV3	Jyu80YMAKk	[X]Other cholelithiasis
+cholelithiasis	medcodeid	62377013	Biliary colic
+cholelithiasis	medcodeid	63341012	Gallstone ileus
+cholelithiasis	medcodeid	396398017	Stone - biliary
+cholelithiasis	medcodeid	486708013	Biliary colic symptom
+cholelithiasis	medcodeid	1231999012	Gallbladder calculus with acute cholecystitis
+cholelithiasis	medcodeid	303544014	Gallbladder calculus with other cholecystitis
+cholelithiasis	medcodeid	303548012	Gallbladder calculus without mention of cholecystitis
+cholelithiasis	medcodeid	303557018	Bile duct calculus with other cholecystitis
+cholelithiasis	medcodeid	303569014	Cholelithiasis NOS
+cholelithiasis	medcodeid	303570010	Cholelithiasis without obstruction NOS
+cholelithiasis	medcodeid	303571014	Cholelithiasis with obstruction NOS
+cholelithiasis	medcodeid	303789013	[X]Other cholelithiasis
+cholelithiasis	medcodeid	270801000006117	O/E: cholesterol gall stone
+cholelithiasis	medcodeid	270911000006114	O/E: gall stone NOS
+cholelithiasis	medcodeid	271011000006117	O/E: pigment gall stone
+cholelithiasis	medcodeid	511631000006119	Bile duct calculus + acute cholecystitis - obstruct NOS
+cholelithiasis	medcodeid	511651000006114	Bile duct calculus + acute cholecystitis and obstruction
+cholelithiasis	medcodeid	511661000006111	Bile duct calculus + other cholecystitis - obstruction NOS
+cholelithiasis	medcodeid	511671000006116	Bile duct calculus + other cholecystitis and no obstruction
+cholelithiasis	medcodeid	511721000006113	Bile duct calculus without cholecystitis NOS
+cholelithiasis	medcodeid	551611000006117	Cholelithiasis NOS
+cholelithiasis	medcodeid	797961000006111	Gallbladder calculus with acute cholecystitis +no obstruct
+cholelithiasis	medcodeid	797971000006116	Gallbladder calculus with acute cholecystitis - obst NOS
+cholelithiasis	medcodeid	798041000006110	Gallbladder calculus without mention cholecystitis +no obstr
+cholelithiasis	medcodeid	2159237010	H/O: gall stones
+cholelithiasis	medcodeid	797991000006115	Gallbladder calculus with other cholecystitis + obstruct
+cholelithiasis	medcodeid	798001000006113	Gallbladder calculus with other cholecystitis +no obstruct
+cholelithiasis	medcodeid	798011000006111	Gallbladder calculus with other cholecystitis - obstruct NOS
+cholelithiasis	medcodeid	456802011	Bile duct calculus NOS
+cholelithiasis	medcodeid	353657018	Gallstones
+cholelithiasis	medcodeid	221151000000113	Cystic duct calculus
+cholelithiasis	medcodeid	396401019	Bile duct calculus without mention of cholecystitis
+cholelithiasis	medcodeid	396399013	Calculus - biliary
+cholelithiasis	medcodeid	353686015	Gallstone acute pancreatitis
+cholelithiasis	medcodeid	551551000006117	Choledocholithiasis
+cholelithiasis	medcodeid	798021000006115	Gallbladder calculus without cholecystitis and obstruct NOS
+cholelithiasis	medcodeid	798031000006117	Gallbladder calculus without mention cholecystitis + obstruc
+cholelithiasis	medcodeid	396396018	Cholelithiasis
+cholelithiasis	medcodeid	353697015	Gallstone chronic pancreatitis
+cholelithiasis	medcodeid	270901000006111	O/E: gall stone
+cholelithiasis	medcodeid	797951000006114	Gallbladder calculus with acute cholecystitis + obstruction
+cholelithiasis	medcodeid	798051000006112	Gallbladder calculus without mention of cholecystitis
+cholelithiasis	medcodeid	511641000006112	Bile duct calculus + acute cholecystitis and no obstruction
+cholelithiasis	medcodeid	511681000006118	Bile duct calculus + other cholecystitis and obstruction
+cholelithiasis	medcodeid	511731000006111	Bile duct calculus without cholecystitis with obstruction
+cholelithiasis	medcodeid	2247781000000110	On gallstone care pathway
+cholelithiasis	medcodeid	450846014	Enterotomy and removal of gallstone
+cholelithiasis	medcodeid	353659015	Gallbladder calculus
+cholelithiasis	medcodeid	303553019	Bile duct calculus with acute cholecystitis
+cholelithiasis	medcodeid	303568018	Calculus of bile duct with cholangitis
+cholelithiasis	medcodeid	221141000000110	Bile duct calculus
+cholelithiasis	medcodeid	511741000006118	Bile duct calculus without cholecystitis, no obstruction
+cholelithiasis	medcodeid	511901000006117	Biliary colic
+cholelithiasis	medcodeid	662491000006118	Faeces: gall stones present
+cholelithiasis	SNOMEDCT	37389005	Biliary colic
+cholelithiasis	SNOMEDCT	37976006	Gallstone ileus
+cholelithiasis	SNOMEDCT	266474003	Stone - biliary
+cholelithiasis	SNOMEDCT	37389005	Biliary colic symptom
+cholelithiasis	SNOMEDCT	59771005	Gallbladder calculus with acute cholecystitis
+cholelithiasis	SNOMEDCT	25924004	Gallbladder calculus with other cholecystitis
+cholelithiasis	SNOMEDCT	235919008	Gallbladder calculus without mention of cholecystitis
+cholelithiasis	SNOMEDCT	30093007	Bile duct calculus with other cholecystitis
+cholelithiasis	SNOMEDCT	266474003	Cholelithiasis NOS
+cholelithiasis	SNOMEDCT	70342003	Cholelithiasis without obstruction NOS
+cholelithiasis	SNOMEDCT	77528005	Cholelithiasis with obstruction NOS
+cholelithiasis	SNOMEDCT	266474003	[X]Other cholelithiasis
+cholelithiasis	SNOMEDCT	168037002	O/E: cholesterol gall stone
+cholelithiasis	SNOMEDCT	168036006	O/E: gall stone NOS
+cholelithiasis	SNOMEDCT	168038007	O/E: pigment gall stone
+cholelithiasis	SNOMEDCT	197389006	Bile duct calculus + acute cholecystitis - obstruct NOS
+cholelithiasis	SNOMEDCT	197391003	Bile duct calculus + acute cholecystitis and obstruction
+cholelithiasis	SNOMEDCT	30093007	Bile duct calculus + other cholecystitis - obstruction NOS
+cholelithiasis	SNOMEDCT	30093007	Bile duct calculus + other cholecystitis and no obstruction
+cholelithiasis	SNOMEDCT	30093007	Bile duct calculus without cholecystitis NOS
+cholelithiasis	SNOMEDCT	197377009	Gallbladder calculus with acute cholecystitis +no obstruct
+cholelithiasis	SNOMEDCT	59771005	Gallbladder calculus with acute cholecystitis - obst NOS
+cholelithiasis	SNOMEDCT	70342003	Gallbladder calculus without mention cholecystitis +no obstr
+cholelithiasis	SNOMEDCT	407637009	H/O: gall stones
+cholelithiasis	SNOMEDCT	235919008	Gallbladder calculus with other cholecystitis + obstruct
+cholelithiasis	SNOMEDCT	235919008	Gallbladder calculus with other cholecystitis +no obstruct
+cholelithiasis	SNOMEDCT	235919008	Gallbladder calculus with other cholecystitis - obstruct NOS
+cholelithiasis	SNOMEDCT	30093007	Bile duct calculus NOS
+cholelithiasis	SNOMEDCT	235919008	Gallstones
+cholelithiasis	SNOMEDCT	65082000	Cystic duct calculus
+cholelithiasis	SNOMEDCT	30093007	Bile duct calculus without mention of cholecystitis
+cholelithiasis	SNOMEDCT	266474003	Calculus - biliary
+cholelithiasis	SNOMEDCT	235941008	Gallstone acute pancreatitis
+cholelithiasis	SNOMEDCT	30093007	Choledocholithiasis
+cholelithiasis	SNOMEDCT	235919008	Gallbladder calculus without cholecystitis and obstruct NOS
+cholelithiasis	SNOMEDCT	711564007	Gallbladder calculus without mention cholecystitis + obstruc
+cholelithiasis	SNOMEDCT	266474003	Cholelithiasis
+cholelithiasis	SNOMEDCT	235951009	Gallstone chronic pancreatitis
+cholelithiasis	SNOMEDCT	168036006	O/E: gall stone
+cholelithiasis	SNOMEDCT	197378004	Gallbladder calculus with acute cholecystitis + obstruction
+cholelithiasis	SNOMEDCT	197390002	Bile duct calculus + acute cholecystitis and no obstruction
+cholelithiasis	SNOMEDCT	30093007	Bile duct calculus + other cholecystitis and obstruction
+cholelithiasis	SNOMEDCT	4661003	Bile duct calculus without cholecystitis with obstruction
+cholelithiasis	SNOMEDCT	869671000000109	On gallstone care pathway
+cholelithiasis	SNOMEDCT	307555006	Enterotomy and removal of gallstone
+cholelithiasis	SNOMEDCT	235919008	Gallbladder calculus
+cholelithiasis	SNOMEDCT	197389006	Bile duct calculus with acute cholecystitis
+cholelithiasis	SNOMEDCT	197402000	Calculus of bile duct with cholangitis
+cholelithiasis	SNOMEDCT	30093007	Bile duct calculus
+cholelithiasis	SNOMEDCT	30093007	Bile duct calculus without cholecystitis, no obstruction
+cholelithiasis	SNOMEDCT	167642008	Faeces: gall stones present
+cholelithiasis	Read2_5digit	14CE.	H/O: gall stones
+cholelithiasis	Read2_5digit	1965.	Biliary colic
+cholelithiasis	Read2_5digit	4775.	Faeces: gall stones present
+cholelithiasis	Read2_5digit	4G2..	O/E: gall stone
+cholelithiasis	Read2_5digit	4G21.	O/E: cholesterol gall stone
+cholelithiasis	Read2_5digit	4G22.	O/E: pigment gall stone
+cholelithiasis	Read2_5digit	4G2Z.	O/E: gall stone NOS
+cholelithiasis	Read2_5digit	76487	Enterotomy and removal of gallstone
+cholelithiasis	Read2_5digit	8CMWD	On gallstone care pathway
+cholelithiasis	Read2_5digit	J5030	Gallstone ileus
+cholelithiasis	Read2_5digit	J64..	Cholelithiasis
+cholelithiasis	Read2_5digit	J640.	Gallbladder calculus with acute cholecystitis
+cholelithiasis	Read2_5digit	J6400	Gallbladder calculus with acute cholecystitis and no obstruction
+cholelithiasis	Read2_5digit	J6401	Gallbladder calculus with acute cholecystitis and obstruction
+cholelithiasis	Read2_5digit	J640z	Gallbladder calculus with acute cholecystitis and obstruction NOS
+cholelithiasis	Read2_5digit	J641.	Gallbladder calculus with other cholecystitis
+cholelithiasis	Read2_5digit	J6410	Gallbladder calculus with other cholecystitis and no obstruction
+cholelithiasis	Read2_5digit	J6411	Gallbladder calculus with other cholecystitis and obstruction
+cholelithiasis	Read2_5digit	J641z	Gallbladder calculus with other cholecystitis and obstruction NOS
+cholelithiasis	Read2_5digit	J642.	Gallbladder calculus without mention of cholecystitis
+cholelithiasis	Read2_5digit	J6420	Gallbladder calculus without mention of cholecystitis and no obstruction
+cholelithiasis	Read2_5digit	J6421	Gallbladder calculus without mention of cholecystitis and with obstruction
+cholelithiasis	Read2_5digit	J6422	Biliary colic
+cholelithiasis	Read2_5digit	J642z	Gallbladder calculus without mention of cholecystitis and obstruction NOS
+cholelithiasis	Read2_5digit	J643.	Bile duct calculus with acute cholecystitis
+cholelithiasis	Read2_5digit	J6430	Bile duct calculus with acute cholecystitis and no obstruction
+cholelithiasis	Read2_5digit	J6431	Bile duct calculus + acute cholecystitis and obstruction
+cholelithiasis	Read2_5digit	J643z	Bile duct calculus with acute cholecystitis and obstruction NOS
+cholelithiasis	Read2_5digit	J644.	Bile duct calculus with other cholecystitis
+cholelithiasis	Read2_5digit	J6440	Bile duct calculus with other cholecystitis and no obstruction
+cholelithiasis	Read2_5digit	J6441	Bile duct calculus + other cholecystitis and obstruction
+cholelithiasis	Read2_5digit	J644z	Bile duct calculus with other cholecystitis and obstruction NOS
+cholelithiasis	Read2_5digit	J645.	Bile duct calculus without mention of cholecystitis
+cholelithiasis	Read2_5digit	J6450	Bile duct calculus without mention of cholecystitis and no obstruction
+cholelithiasis	Read2_5digit	J6451	Bile duct calculus with no mention of cholecystitis and with obstruction
+cholelithiasis	Read2_5digit	J6452	Bile duct calculus NOS
+cholelithiasis	Read2_5digit	J645z	Bile duct calculus without mention of cholecystitis and obstruction NOS
+cholelithiasis	Read2_5digit	J646.	Calculus of bile duct with cholangitis
+cholelithiasis	Read2_5digit	J64z.	Cholelithiasis NOS
+cholelithiasis	Read2_5digit	J64z0	Cholelithiasis without obstruction NOS
+cholelithiasis	Read2_5digit	J64z1	Cholelithiasis with obstruction NOS
+cholelithiasis	Read2_5digit	J64zz	Cholelithiasis NOS
+cholelithiasis	Read2_5digit	J6705	Gallstone acute pancreatitis
+cholelithiasis	Read2_5digit	J6711	Gallstone chronic pancreatitis
+cholelithiasis	Read2_5digit	Jyu80	[X]Other cholelithiasis
+cholelithiasis	CTV3_5digit	XaJCM	H/O: gall stones
+cholelithiasis	CTV3_5digit	1965.	Biliary colic
+cholelithiasis	CTV3_5digit	4775.	Faeces: gallstones present
+cholelithiasis	CTV3_5digit	4G2..	O/E: gallstone
+cholelithiasis	CTV3_5digit	4G21.	O/E: cholesterol gallstone
+cholelithiasis	CTV3_5digit	4G22.	O/E: pigment gallstone
+cholelithiasis	CTV3_5digit	4G2Z.	O/E: gallstone NOS
+cholelithiasis	CTV3_5digit	XaB9c	Enterotomy and removal of gallstone
+cholelithiasis	CTV3_5digit	XaaBJ	On gallstone care pathway
+cholelithiasis	CTV3_5digit	J5030	Gallstone ileus
+cholelithiasis	CTV3_5digit	XE0bD	Cholelithiasis
+cholelithiasis	CTV3_5digit	X308J	Bile duct calculus
+cholelithiasis	CTV3_5digit	X308I	Cystic duct calculus
+cholelithiasis	CTV3_5digit	X308A	Gallbladder calculus
+cholelithiasis	CTV3_5digit	J640.	Gallbladder calculus with acute cholecystitis
+cholelithiasis	CTV3_5digit	J6400	Gallbladder calculus with acute cholecystitis and no obstruction
+cholelithiasis	CTV3_5digit	J6401	Gallbladder calculus with acute cholecystitis and obstruction
+cholelithiasis	CTV3_5digit	J640z	Gallbladder calculus with acute cholecystitis and obstruction NOS
+cholelithiasis	CTV3_5digit	J641.	Gallbladder calculus with other cholecystitis
+cholelithiasis	CTV3_5digit	J6410	Gallbladder calculus with other cholecystitis and no obstruction
+cholelithiasis	CTV3_5digit	J6411	Gallbladder calculus with other cholecystitis and obstruction
+cholelithiasis	CTV3_5digit	J641z	Gallbladder calculus with other cholecystitis and obstruction NOS
+cholelithiasis	CTV3_5digit	J642.	Gallbladder calculus without mention of cholecystitis
+cholelithiasis	CTV3_5digit	J6420	Gallbladder calculus without mention of cholecystitis and no obstruction
+cholelithiasis	CTV3_5digit	J6421	Gallbladder calculus without mention of cholecystitis and with obstruction
+cholelithiasis	CTV3_5digit	J642z	Gallbladder calculus without mention of cholecystitis and obstruction NOS
+cholelithiasis	CTV3_5digit	J643.	Bile duct calculus with acute cholecystitis
+cholelithiasis	CTV3_5digit	J6430	Bile duct calculus with acute cholecystitis and no obstruction
+cholelithiasis	CTV3_5digit	J6431	Bile duct calculus with acute cholecystitis and obstruction
+cholelithiasis	CTV3_5digit	J643z	Bile duct calculus with acute cholecystitis and obstruction NOS
+cholelithiasis	CTV3_5digit	J644.	Bile duct calculus with other cholecystitis
+cholelithiasis	CTV3_5digit	J6440	Bile duct calculus with other cholecystitis and no obstruction
+cholelithiasis	CTV3_5digit	J6441	Bile duct calculus with other cholecystitis and obstruction
+cholelithiasis	CTV3_5digit	J644z	Bile duct calculus with other cholecystitis and obstruction NOS
+cholelithiasis	CTV3_5digit	XE0bE	Bile duct calculus without mention of cholecystitis
+cholelithiasis	CTV3_5digit	J6450	Bile duct calculus without mention of cholecystitis and no obstruction
+cholelithiasis	CTV3_5digit	J6451	Bile duct calculus with no mention of cholecystitis and with obstruction
+cholelithiasis	CTV3_5digit	XaE6v	Bile duct calculus NOS
+cholelithiasis	CTV3_5digit	J645z	Bile duct calculus without mention of cholecystitis and obstruction NOS
+cholelithiasis	CTV3_5digit	J646.	Calculus of bile duct with cholangitis
+cholelithiasis	CTV3_5digit	J64z.	Cholelithiasis NOS
+cholelithiasis	CTV3_5digit	J64z0	Cholelithiasis without obstruction NOS
+cholelithiasis	CTV3_5digit	J64z1	Cholelithiasis with obstruction NOS
+cholelithiasis	CTV3_5digit	X308i	Gallstone acute pancreatitis
+cholelithiasis	CTV3_5digit	X308u	Gallstone chronic pancreatitis
+cholelithiasis	CTV3_5digit	Jyu80	[X]Other cholelithiasis

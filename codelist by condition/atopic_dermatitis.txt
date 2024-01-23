@@ -1,0 +1,23 @@
+condition	vocab_id	code	description
+atopic_dermatitis	ICD10	L20	Atopic dermatitis
+atopic_dermatitis	Read2	M11..00	Atopic dermatitis and related conditions
+atopic_dermatitis	Read2	M111.00	Atopic dermatitis/eczema
+atopic_dermatitis	Read2	M11z.00	Atopic dermatitis NOS
+atopic_dermatitis	CTV3	M11..Y50Ca	Atopic dermatitis and related conditions
+atopic_dermatitis	CTV3	M111.Y50Co	Atopic dermatitis
+atopic_dermatitis	CTV3	M111.Y50Cr	Atopic eczema
+atopic_dermatitis	CTV3	XE1C6Ya6ZY	Atopic eczema/dermatitis NOS
+atopic_dermatitis	CTV3	M11z.Y50Ct	Atopic dermatitis NOS
+atopic_dermatitis	medcodeid	308485016	Atopic dermatitis and related conditions
+atopic_dermatitis	medcodeid	308497015	Atopic dermatitis NOS
+atopic_dermatitis	medcodeid	497341000006116	Atopic dermatitis/eczema
+atopic_dermatitis	SNOMEDCT	24079001	Atopic dermatitis and related conditions
+atopic_dermatitis	SNOMEDCT	24079001	Atopic dermatitis NOS
+atopic_dermatitis	SNOMEDCT	24079001	Atopic dermatitis/eczema
+atopic_dermatitis	Read2_5digit	M11..	Atopic dermatitis and related conditions
+atopic_dermatitis	Read2_5digit	M111.	Atopic dermatitis/eczema
+atopic_dermatitis	Read2_5digit	M11z.	Atopic dermatitis NOS
+atopic_dermatitis	CTV3_5digit	M11..	Atopic dermatitis and related conditions
+atopic_dermatitis	CTV3_5digit	M111.	Atopic dermatitis
+atopic_dermatitis	CTV3_5digit	XE1C6	Atopic eczema/dermatitis NOS
+atopic_dermatitis	CTV3_5digit	M11z.	Atopic dermatitis NOS

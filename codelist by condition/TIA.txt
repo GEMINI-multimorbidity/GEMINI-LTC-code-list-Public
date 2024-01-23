@@ -1,0 +1,107 @@
+condition	vocab_id	code	description
+TIA	ICD10	G45	Transient cerebral ischaemic attacks and related syndromes
+TIA	ICD10	G46.0	Middle cerebral artery syndrome
+TIA	ICD10	G46.1	Anterior cerebral artery syndrome
+TIA	ICD10	G46.2	Posterior cerebral artery syndrome
+TIA	ICD10	I65	Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction
+TIA	ICD10	I66	Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction
+TIA	Read2	14AB.00	H/O: TIA
+TIA	Read2	14AB000	H/O amaurosis fugax
+TIA	Read2	1B1S.00	Transient global amnesia
+TIA	Read2	8CRB.00	Transient ischaemic attack clinical management plan
+TIA	Read2	F423600	Amaurosis fugax
+TIA	Read2	Fyu5500	[X]Other transient cerebral ischaemic attacks and related syndromes
+TIA	Read2	G65..00	Transient cerebral ischaemia
+TIA	Read2	G65..12	Transient ischaemic attack
+TIA	Read2	G65..13	Vertebro-basilar insufficiency
+TIA	Read2	G650.11	Insufficiency - basilar artery
+TIA	Read2	G655.00	Transient global amnesia
+TIA	Read2	G656.00	Vertebrobasilar insufficiency
+TIA	Read2	G657.00	Carotid territory transient ischaemic attack
+TIA	Read2	G65y.00	Other transient cerebral ischaemia
+TIA	Read2	G65z.00	Transient cerebral ischaemia NOS
+TIA	Read2	G65z100	Intermittent cerebral ischaemia
+TIA	Read2	G65zz00	Transient cerebral ischaemia NOS
+TIA	Read2	Z7CE700	Transient global amnesia
+TIA	Read2	Z7CE711	TGA - Transient global amnesia
+TIA	Read2	ZV12D00	[V]Personal history of transient ischaemic attack
+TIA	CTV3	14AB.Ya04s	H/O: TIA
+TIA	CTV3	XaZIYYavQV	H/O amaurosis fugax
+TIA	CTV3	X00E2Y00ev	Transient global amnesia
+TIA	CTV3	XaQveYatQl	Transient ischaemic attack clinical management plan
+TIA	CTV3	F4236Y00dy	Amaurosis fugax
+TIA	CTV3	Fyu55YMADV	[X]Other transient cerebral ischaemic attacks and related syndromes
+TIA	CTV3	XE0VKY00ds	Transient cerebral ischaemia
+TIA	CTV3	XE0VKY00dq	Transient ischaemic attack
+TIA	CTV3	X00DWY00e5	Vertebrobasilar insufficiency
+TIA	CTV3	G650.Y00e4	Insufficiency - basilar artery
+TIA	CTV3	X00DUY00dw	Carotid territory transient ischaemic attack
+TIA	CTV3	G65y.Y00dv	Other transient cerebral ischaemia
+TIA	CTV3	G65z.Y00du	Transient cerebral ischaemia NOS
+TIA	CTV3	G65z1Y00cZ	Intermittent cerebral ischaemia
+TIA	CTV3	XaX16YatuJ	[V]Personal history of transient ischaemic attack
+TIA	medcodeid	106394016	Vertebrobasilar insufficiency
+TIA	medcodeid	145925010	Amaurosis fugax
+TIA	medcodeid	251692018	H/O: TIA
+TIA	medcodeid	345718011	Transient global amnesia
+TIA	medcodeid	395783012	Transient ischaemic attack
+TIA	medcodeid	395788015	Transient cerebral ischaemia
+TIA	medcodeid	499739014	Insufficiency - basilar artery
+TIA	medcodeid	1667741000000110	[V]Personal history of transient ischaemic attack
+TIA	medcodeid	95931000006111	Transient cerebral ischaemia NOS
+TIA	medcodeid	95961000006119	Transient global amnesia
+TIA	medcodeid	416991000006112	[X]Other transnt cerebral ischaemic attacks+related syndroms
+TIA	medcodeid	67511000006117	Vertebro-basilar insufficiency
+TIA	medcodeid	2171081000000116	H/O amaurosis fugax
+TIA	medcodeid	300353019	Intermittent cerebral ischaemia
+TIA	medcodeid	300348012	Other transient cerebral ischaemia
+TIA	medcodeid	345684012	Carotid territory transient ischaemic attack
+TIA	medcodeid	1148331000000111	Transient ischaemic attack clinical management plan
+TIA	medcodeid	300349016	Transient cerebral ischaemia NOS
+TIA	SNOMEDCT	64009001	Vertebrobasilar insufficiency
+TIA	SNOMEDCT	88032003	Amaurosis fugax
+TIA	SNOMEDCT	161511000	H/O: TIA
+TIA	SNOMEDCT	230736007	Transient global amnesia
+TIA	SNOMEDCT	266257000	Transient ischaemic attack
+TIA	SNOMEDCT	266257000	Transient cerebral ischaemia
+TIA	SNOMEDCT	64009001	Insufficiency - basilar artery
+TIA	SNOMEDCT	751371000000107	[V]Personal history of transient ischaemic attack
+TIA	SNOMEDCT	266257000	Transient cerebral ischaemia NOS
+TIA	SNOMEDCT	266257000	[X]Other transnt cerebral ischaemic attacks+related syndroms
+TIA	SNOMEDCT	64009001	Vertebro-basilar insufficiency
+TIA	SNOMEDCT	13016361000119100	H/O amaurosis fugax
+TIA	SNOMEDCT	195206000	Intermittent cerebral ischaemia
+TIA	SNOMEDCT	266257000	Other transient cerebral ischaemia
+TIA	SNOMEDCT	230716006	Carotid territory transient ischaemic attack
+TIA	SNOMEDCT	736288002	Transient ischaemic attack clinical management plan
+TIA	Read2_5digit	14AB.	H/O: TIA
+TIA	Read2_5digit	14AB0	H/O amaurosis fugax
+TIA	Read2_5digit	1B1S.	Transient global amnesia
+TIA	Read2_5digit	8CRB.	Transient ischaemic attack clinical management plan
+TIA	Read2_5digit	F4236	Amaurosis fugax
+TIA	Read2_5digit	Fyu55	[X]Other transient cerebral ischaemic attacks and related syndromes
+TIA	Read2_5digit	G65..	Transient cerebral ischaemia
+TIA	Read2_5digit	G650.	Insufficiency - basilar artery
+TIA	Read2_5digit	G655.	Transient global amnesia
+TIA	Read2_5digit	G656.	Vertebrobasilar insufficiency
+TIA	Read2_5digit	G657.	Carotid territory transient ischaemic attack
+TIA	Read2_5digit	G65y.	Other transient cerebral ischaemia
+TIA	Read2_5digit	G65z.	Transient cerebral ischaemia NOS
+TIA	Read2_5digit	G65z1	Intermittent cerebral ischaemia
+TIA	Read2_5digit	G65zz	Transient cerebral ischaemia NOS
+TIA	Read2_5digit	Z7CE7	Transient global amnesia
+TIA	Read2_5digit	ZV12D	[V]Personal history of transient ischaemic attack
+TIA	CTV3_5digit	14AB.	H/O: TIA
+TIA	CTV3_5digit	XaZIY	H/O amaurosis fugax
+TIA	CTV3_5digit	X00E2	Transient global amnesia
+TIA	CTV3_5digit	XaQve	Transient ischaemic attack clinical management plan
+TIA	CTV3_5digit	F4236	Amaurosis fugax
+TIA	CTV3_5digit	Fyu55	[X]Other transient cerebral ischaemic attacks and related syndromes
+TIA	CTV3_5digit	XE0VK	Transient cerebral ischaemia
+TIA	CTV3_5digit	X00DW	Vertebrobasilar insufficiency
+TIA	CTV3_5digit	G650.	Insufficiency - basilar artery
+TIA	CTV3_5digit	X00DU	Carotid territory transient ischaemic attack
+TIA	CTV3_5digit	G65y.	Other transient cerebral ischaemia
+TIA	CTV3_5digit	G65z.	Transient cerebral ischaemia NOS
+TIA	CTV3_5digit	G65z1	Intermittent cerebral ischaemia
+TIA	CTV3_5digit	XaX16	[V]Personal history of transient ischaemic attack

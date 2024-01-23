@@ -1,0 +1,527 @@
+condition	vocab_id	code	description
+depression	ICD10	F32	Depressive episode
+depression	ICD10	F33	Recurrent depressive disorder
+depression	ICD10	F34.1	Dysthymia
+depression	Read2	1465.00	H/O: depression
+depression	Read2	212S.00	Depression resolved
+depression	Read2	8BK0.00	Depression management programme
+depression	Read2	8CAa.00	Patient given advice about management of depression
+depression	Read2	8HHq.00	Referral for guided self-help for depression
+depression	Read2	9H90.00	Depression annual review
+depression	Read2	9H91.00	Depression medication review
+depression	Read2	9H92.00	Depression interim review
+depression	Read2	9HA0.00	On depression register
+depression	Read2	9k4..00	Depression - enhanced services administration
+depression	Read2	9k40.00	Depression - enhanced service completed
+depression	Read2	9kQ..00	On full dose long term treatment for depression - enhanced services administration
+depression	Read2	9Ov..00	Depression monitoring administration
+depression	Read2	9Ov0.00	Depression monitoring first letter
+depression	Read2	9Ov1.00	Depression monitoring second letter
+depression	Read2	9Ov2.00	Depression monitoring third letter
+depression	Read2	9Ov3.00	Depression monitoring verbal invite
+depression	Read2	9Ov4.00	Depression monitoring telephone invite
+depression	Read2	E001300	Presenile dementia with depression
+depression	Read2	E002100	Senile dementia with depression
+depression	Read2	E004300	Arteriosclerotic dementia with depression
+depression	Read2	E11..12	Depressive psychoses
+depression	Read2	E112.11	Agitated depression
+depression	Read2	E112.12	Endogenous depression first episode
+depression	Read2	E112.13	Endogenous depression first episode
+depression	Read2	E112.14	Endogenous depression
+depression	Read2	E113.00	Recurrent major depressive episode
+depression	Read2	E113.11	Endogenous depression - recurrent
+depression	Read2	E113000	Recurrent major depressive episodes, unspecified
+depression	Read2	E113100	Recurrent major depressive episodes, mild
+depression	Read2	E113200	Recurrent major depressive episodes, moderate
+depression	Read2	E113300	Recurrent major depressive episodes, severe, without mention of psychosis
+depression	Read2	E113400	Recurrent major depressive episodes, severe, with psychosis
+depression	Read2	E113500	Recurrent major depressive episodes, in partial or unspecified remission
+depression	Read2	E113600	Recurrent major depressive episodes, in full remission
+depression	Read2	E113700	Recurrent depression
+depression	Read2	E113z00	Recurrent major depressive episode NOS
+depression	Read2	E118.00	Seasonal affective disorder
+depression	Read2	E11y200	Atypical depressive disorder
+depression	Read2	E11z200	Masked depression
+depression	Read2	E130.00	Reactive depressive psychosis
+depression	Read2	E130.11	Psychotic reactive depression
+depression	Read2	E135.00	Agitated depression
+depression	Read2	E200300	Anxiety with depression
+depression	Read2	E291.00	Prolonged depressive reaction
+depression	Read2	E2B..00	Depressive disorder NEC
+depression	Read2	E2B1.00	Chronic depression
+depression	Read2	Eu20400	[X]Post-schizophrenic depression
+depression	Read2	Eu25100	[X]Schizoaffective disorder, depressive type
+depression	Read2	Eu25111	[X]Schizoaffective psychosis, depressive type
+depression	Read2	Eu25112	[X]Schizophreniform psychosis, depressive type
+depression	Read2	Eu32.00	[X]Depressive episode
+depression	Read2	Eu32000	[X]Mild depressive episode
+depression	Read2	Eu32100	[X]Moderate depressive episode
+depression	Read2	Eu32200	[X]Severe depressive episode without psychotic symptoms
+depression	Read2	Eu32300	[X]Severe depressive episode with psychotic symptoms
+depression	Read2	Eu32400	[X]Mild depression
+depression	Read2	Eu32500	[X]Major depression, mild
+depression	Read2	Eu32600	[X]Major depression, moderately severe
+depression	Read2	Eu32700	[X]Major depression, severe without psychotic symptoms
+depression	Read2	Eu32800	[X]Major depression, severe with psychotic symptoms
+depression	Read2	Eu32A00	[X]Recurrent major depressive episodes, severe, with psychosis, psychosis in remission
+depression	Read2	Eu32y00	[X]Other depressive episodes
+depression	Read2	Eu32y11	[X]Atypical depression
+depression	Read2	Eu32z00	[X]Depressive episode, unspecified
+depression	Read2	Eu32z11	[X]Depression NOS
+depression	Read2	Eu32z12	[X]Depressive disorder NOS
+depression	Read2	Eu32z14	[X] Reactive depression NOS
+depression	Read2	Eu33.00	[X]Recurrent depressive disorder
+depression	Read2	Eu33.11	[X]Recurrent episodes of depressive reaction
+depression	Read2	Eu33.12	[X]Recurrent episodes of psychogenic depression
+depression	Read2	Eu33.13	[X]Recurrent episodes of reactive depression
+depression	Read2	Eu33.14	[X]Seasonal depressive disorder
+depression	Read2	Eu33.15	[X]SAD - Seasonal affective disorder
+depression	Read2	Eu33000	[X]Recurrent depressive disorder, current episode mild
+depression	Read2	Eu33100	[X]Recurrent depressive disorder, current episode moderate
+depression	Read2	Eu33200	[X]Recurrent depressive disorder, current episode severe without psychotic symptoms
+depression	Read2	Eu33211	[X]Endogenous depression without psychotic symptoms
+depression	Read2	Eu33212	[X]Major depression, recurrent without psychotic symptoms
+depression	Read2	Eu33213	[X]Manic-depressive psychosis, depressed type without psychotic symptoms
+depression	Read2	Eu33214	[X]Vital depression, recurrent without psychotic symptoms
+depression	Read2	Eu33300	[X]Recurrent depressive disorder, current episode severe with psychotic symptoms
+depression	Read2	Eu33311	[X]Endogenous depression with psychotic symptoms
+depression	Read2	Eu33312	[X]Manic-depressive psychosis, depressed type with psychotic symptoms
+depression	Read2	Eu33313	[X]Recurrent severe episodes of major depression with psychotic symptoms
+depression	Read2	Eu33314	[X]Recurrent severe episodes of psychogenic depressive psychosis
+depression	Read2	Eu33315	[X]Recurrent severe episodes of psychotic depression
+depression	Read2	Eu33316	[X]Recurrent severe episodes of reactive depressive psychosis
+depression	Read2	Eu33400	[X]Recurrent depressive disorder, currently in remission
+depression	Read2	Eu33y00	[X]Other recurrent depressive disorders
+depression	Read2	Eu33z00	[X]Recurrent depressive disorder, unspecified
+depression	Read2	Eu33z11	[X]Monopolar depression NOS
+depression	Read2	Eu34100	[X]Dysthymia
+depression	Read2	Eu34111	[X]Depressive neurosis
+depression	Read2	Eu34112	[X]Depressive personality disorder
+depression	Read2	Eu34113	[X]Neurotic depression
+depression	Read2	Eu34114	[X]Persistant anxiety depression
+depression	Read2	Eu41200	[X]Mixed anxiety and depressive disorder
+depression	Read2	Eu41211	[X]Mild anxiety depression
+depression	Read2	Eu34100	[X]Dysthymia
+depression	CTV3	1465.Ya04G	H/O: depression
+depression	CTV3	XaLG0YaoJo	Depression resolved
+depression	CTV3	XaItxYale4	Depression management programme
+depression	CTV3	XaKEzYanTp	Patient given advice about management of depression
+depression	CTV3	XaL0rYao6g	Referral for guided self-help for depression
+depression	CTV3	XaK6dYanJb	Depression annual review
+depression	CTV3	XaK6eYanJc	Depression medication review
+depression	CTV3	XaK6fYanJd	Depression interim review
+depression	CTV3	XaJWhYamb9	On depression register
+depression	CTV3	XaK9pYanNg	NA
+depression	CTV3	XaK9pYatVt	Depression enhanced services administration
+depression	CTV3	XaKAKYanOZ	NA
+depression	CTV3	XaKAKYatWd	Depression enhanced service completed
+depression	CTV3	XaPKmYas18	NA
+depression	CTV3	XaPKmYas1A	On full dose long term treatment for depression
+depression	CTV3	XaMGLYapQl	Depression monitoring administration
+depression	CTV3	XaMGNYapQo	Depression monitoring first letter
+depression	CTV3	XaMGOYapQq	Depression monitoring second letter
+depression	CTV3	XaMGPYapQs	Depression monitoring third letter
+depression	CTV3	XaMGQYapQu	Depression monitoring verbal invite
+depression	CTV3	XaMGRYapQw	Depression monitoring telephone invite
+depression	CTV3	E0013Y016W	Presenile dementia with depression
+depression	CTV3	E0021Y016c	Senile dementia with depression
+depression	CTV3	E0043Y016x	Arteriosclerotic dementia with depression
+depression	CTV3	E11..YMK12	Depressive psychoses
+depression	CTV3	X00SOY01FA	Depressive disorder
+depression	CTV3	X00SOYM3yH	Depressed
+depression	CTV3	X00SQY01FK	Agitated depression
+depression	CTV3	X00SRY01FO	Endogenous depression
+depression	CTV3	X00SSY01Fj	Endogenous depression first episode
+depression	CTV3	XE1Y1Y01Fa	Recurrent major depressive episodes
+depression	CTV3	XM1GCY01FZ	Endogenous depression - recurrent
+depression	CTV3	E1130Y01Fb	Recurrent major depressive episodes, unspecified
+depression	CTV3	E1131Y01Fc	Recurrent major depressive episodes, mild
+depression	CTV3	E1132Y01Fd	Recurrent major depressive episodes, moderate
+depression	CTV3	E1133Y01Fe	Recurrent major depressive episodes, severe, without mention of psychosis
+depression	CTV3	E1134Y01Ff	Recurrent major depressive episodes, severe, with psychosis
+depression	CTV3	E1135Y01Fg	Recurrent major depressive episodes, in partial or unspecified remission
+depression	CTV3	E1136Y01Fh	Recurrent major depressive episodes, in full remission
+depression	CTV3	E1137YaYAt	Recurrent depression
+depression	CTV3	E113zY01Fi	Recurrent major depressive episode NOS
+depression	CTV3	X761LY7D7p	Seasonal affective disorder
+depression	CTV3	E11y2Y01FJ	Atypical depressive disorder
+depression	CTV3	X00SUY01Fo	Masked depression
+depression	CTV3	E130.Y01FH	Reactive depressive psychosis
+depression	CTV3	E130.Y01FI	Psychotic reactive depression
+depression	CTV3	X00SbY01Gr	Mixed anxiety and depressive disorder
+depression	CTV3	X00SbY01Gs	Anxiety depression
+depression	CTV3	E291.Y01Hl	Prolonged depressive adjustment reaction
+depression	CTV3	E2B..Y01FG	Depressive disorder NEC
+depression	CTV3	E2B1.YaYB5	Chronic depression
+depression	CTV3	X00S8Y01Cd	Post-schizophrenic depression
+depression	CTV3	XE2unYMB3d	Schizoaffective disorder, depressive type
+depression	CTV3	XE2unYMBxK	Schizophreniform psychosis, depressive type
+depression	CTV3	XE1Y0Y01FQ	Single major depressive episode
+depression	CTV3	XE1ZbYMB47	[X]Depressive episode, unspecified
+depression	CTV3	Eu320YMB42	[X]Mild depressive episode
+depression	CTV3	Eu321YMB43	[X]Moderate depressive episode
+depression	CTV3	XE1ZYYMB44	[X]Severe depressive episode without psychotic symptoms
+depression	CTV3	XE1ZZYMB45	[X]Severe depressive episode with psychotic symptoms
+depression	CTV3	XaCIsYakyu	[X]Mild depression
+depression	CTV3	XSGokYSRJY	Mild major depression
+depression	CTV3	XSGolYSRJZ	Moderate major depression
+depression	CTV3	XSGomYSRJa	Severe major depression without psychotic features
+depression	CTV3	XSGonYat7Y	[X]Major depression, severe with psychotic symptoms
+depression	CTV3	XaX54Yatxm	[X]Recurrent major depressive episodes, severe, with psychosis, psychosis in remission
+depression	CTV3	XE1ZaYMB46	[X]Other depressive episodes
+depression	CTV3	Eu32zYabW5	[X] Reactive depression NOS
+depression	CTV3	XE1YCY01FL	Reactive depression
+depression	CTV3	XaB9JYMJar	Depression NOS
+depression	CTV3	XE1ZbYMBxa	[X] Depression NOS
+depression	CTV3	XE1ZcYMB48	[X]Recurrent depressive disorder
+depression	CTV3	Eu33.YMK1f	[X]Recurrent episodes of depressive reaction
+depression	CTV3	Eu33.YMK1g	[X]Recurrent episodes of psychogenic depression
+depression	CTV3	Eu33.YMK1h	[X]Recurrent episodes of reactive depression
+depression	CTV3	X761LY7D7q	SAD - Seasonal affective disorder
+depression	CTV3	Eu33.YMK1i	[X]Seasonal depressive disorder
+depression	CTV3	Eu330YMB49	[X]Recurrent depressive disorder, current episode mild
+depression	CTV3	Eu331YMB4A	[X]Recurrent depressive disorder, current episode moderate
+depression	CTV3	XE1ZdYMB4B	[X]Recurrent depressive disorder, current episode severe without psychotic symptoms
+depression	CTV3	Eu332YMK1j	[X]Manic-depressive psychosis, depressed type without psychotic symptoms
+depression	CTV3	XaCHoYMBxg	[X] Manic-depressive psychosis, depressed type without psychotic symptoms
+depression	CTV3	Eu332YMK1k	[X]Vital depression, recurrent without psychotic symptoms
+depression	CTV3	XE1ZeYMB4C	[X]Recurrent depressive disorder, current episode severe with psychotic symptoms
+depression	CTV3	Eu334YMB4D	[X]Recurrent depressive disorder, currently in remission
+depression	CTV3	Eu33yYMB4E	[X]Other recurrent depressive disorders
+depression	CTV3	XE1ZfYMB4F	[X]Recurrent depressive disorder, unspecified
+depression	CTV3	Eu33zYMK1l	[X]Monopolar depression NOS
+depression	CTV3	E2112Y01Fv	Dysthymia
+depression	CTV3	E2112Y01Fw	Depressive neurosis
+depression	CTV3	E2112YMBxo	Neurotic depression
+depression	medcodeid	138421012	Agitated depression
+depression	medcodeid	294646011	Senile dementia with depression
+depression	medcodeid	294655014	Arteriosclerotic dementia with depression
+depression	medcodeid	294837015	Recurrent major depressive episodes, mild
+depression	medcodeid	294838013	Recurrent major depressive episodes, moderate
+depression	medcodeid	294840015	Recurrent major depressive episodes, severe, with psychosis
+depression	medcodeid	294917018	Reactive depressive psychosis
+depression	medcodeid	294918011	Psychotic reactive depression
+depression	medcodeid	346973011	Masked depression
+depression	medcodeid	369982012	Seasonal affective disorder
+depression	medcodeid	410861011	Endogenous depression - recurrent
+depression	medcodeid	1773563015	Depression management programme
+depression	medcodeid	2533375017	Patient given advice about management of depression
+depression	medcodeid	2534091015	Depression interim review
+depression	medcodeid	2534092010	Depression medication review
+depression	medcodeid	2534096013	Depression annual review
+depression	medcodeid	213641000000111	[X]Mild depression
+depression	medcodeid	408521000000112	Depression monitoring first letter
+depression	medcodeid	408561000000116	Depression monitoring third letter
+depression	medcodeid	294836012	Recurrent major depressive episodes, unspecified
+depression	medcodeid	295535012	Depressive disorder NEC
+depression	medcodeid	296199015	[X]Other recurrent depressive disorders
+depression	medcodeid	401871010	[X]Other depressive episodes
+depression	medcodeid	401873013	[X]Recurrent depressive disorder
+depression	medcodeid	182801000006114	Recurrent major depressive episodes,partial/unspec remission
+depression	medcodeid	202561000006114	Prolonged depressive reaction
+depression	medcodeid	359121000006116	[X] Reactive depression NOS
+depression	medcodeid	376721000006114	[X]Depressive episode
+depression	medcodeid	376741000006119	[X]Depressive neurosis
+depression	medcodeid	379431000006113	[X]Dysthymia
+depression	medcodeid	398351000006110	[X]Mild anxiety depression
+depression	medcodeid	398561000006117	[X]Mixed anxiety and depressive disorder
+depression	medcodeid	398841000006119	[X]Monopolar depression NOS
+depression	medcodeid	408601000000116	Depression monitoring telephone invite
+depression	medcodeid	423041000006119	[X]Post-schizophrenic depression
+depression	medcodeid	424641000006112	[X]Recurrent episodes of psychogenic depression
+depression	medcodeid	425501000006113	[X]Schizoaffective disorder, depressive type
+depression	medcodeid	425561000006114	[X]Schizoaffective psychosis, depressive type
+depression	medcodeid	425751000006115	[X]Seasonal depressive disorder
+depression	medcodeid	488211000006112	Anxiety with depression
+depression	medcodeid	1715191000006112	[X]Major depression, severe with psychotic symptoms
+depression	medcodeid	1715781000006110	[X]Major depression, severe without psychotic symptoms
+depression	medcodeid	1755911000006110	Recurrent major depressive episodes, severe, with psychosis, psychosis in remission
+depression	medcodeid	294845013	Recurrent major depressive episode NOS
+depression	medcodeid	296180012	[X]Recurrent depressive disorder, current episode mild
+depression	medcodeid	296181011	[X]Recurrent depressive disorder, current episode moderate
+depression	medcodeid	296198011	[X]Recurrent depressive disorder, currently in remission
+depression	medcodeid	182771000006112	Recurrent major depressive episodes, severe, no psychosis
+depression	medcodeid	419841000006116	[X]Persistant anxiety depression
+depression	medcodeid	296137015	[X]Mild depressive episode
+depression	medcodeid	296138013	[X]Moderate depressive episode
+depression	medcodeid	401866015	[X]Severe depressive episode without psychotic symptoms
+depression	medcodeid	424681000006118	[X]Recurrent severe episodes/reactive depressive psychosis
+depression	medcodeid	396781000006119	[X]Manic-depress psychosis,depressed type+psychotic symptoms
+depression	medcodeid	294621000000118	Depression resolved
+depression	medcodeid	294894013	Atypical depressive disorder
+depression	medcodeid	226581000000119	Depression - enhanced service completed
+depression	medcodeid	401869010	[X]Severe depressive episode with psychotic symptoms
+depression	medcodeid	379771000006116	[X]Endogenous depression with psychotic symptoms
+depression	medcodeid	396081000006116	[X]Major depression, recurrent without psychotic symptoms
+depression	medcodeid	424531000006118	[X]Recurr depress disorder cur epi severe without psyc sympt
+depression	medcodeid	376691000006116	[X]Depression NOS
+depression	medcodeid	376711000006118	[X]Depressive disorder NOS
+depression	medcodeid	424541000006111	[X]Recurr severe episodes/major depression+psychotic symptom
+depression	medcodeid	425411000006110	[X]SAD - Seasonal affective disorder
+depression	medcodeid	1680571000006118	On full dose long term treatment depression - enh serv admin
+depression	medcodeid	406881000000111	Depression monitoring administration
+depression	medcodeid	408541000000117	Depression monitoring second letter
+depression	medcodeid	441826016	Endogenous depression
+depression	medcodeid	294844012	Recurrent depression
+depression	medcodeid	408581000000113	Depression monitoring verbal invite
+depression	medcodeid	424671000006116	[X]Recurrent severe episodes of psychotic depression
+depression	medcodeid	474171000006112	Agitated depression
+depression	medcodeid	642461000006116	Endogenous depression first episode
+depression	medcodeid	1715181000006114	[X]Major depression, moderately severe
+depression	medcodeid	1715771000006112	[X]Major depression, mild
+depression	medcodeid	379781000006118	[X]Endogenous depression without psychotic symptoms
+depression	medcodeid	432511000006119	[X]Vital depression, recurrent without psychotic symptoms
+depression	medcodeid	399961000006118	[X]Neurotic depression
+depression	medcodeid	401872015	[X]Depressive episode, unspecified
+depression	medcodeid	401876017	[X]Recurrent depressive disorder, unspecified
+depression	medcodeid	300711000000119	Referral for guided self-help for depression
+depression	medcodeid	2474715017	On depression register
+depression	medcodeid	346972018	Endogenous depression first episode
+depression	medcodeid	424551000006113	[X]Recurr severe episodes/psychogenic depressive psychosis
+depression	medcodeid	424571000006115	[X]Recurrent depress disorder cur epi severe with psyc symp
+depression	medcodeid	424631000006119	[X]Recurrent episodes of depressive reaction
+depression	medcodeid	424651000006114	[X]Recurrent episodes of reactive depression
+depression	medcodeid	613791000006115	Depressive psychoses
+depression	medcodeid	376751000006117	[X]Depressive personality disorder
+depression	medcodeid	294843018	Recurrent major depressive episodes, in full remission
+depression	medcodeid	425691000006119	[X]Schizophreniform psychosis, depressive type
+depression	medcodeid	294642013	Presenile dementia with depression
+depression	medcodeid	295537016	Chronic depression
+depression	medcodeid	251629019	H/O: depression
+depression	medcodeid	182721000006111	Recurrent major depressive episode
+depression	medcodeid	226411000000110	Depression - enhanced services administration
+depression	medcodeid	366561000006119	[X]Atypical depression
+depression	medcodeid	396771000006117	[X]Manic-depress psychosis,depressd,no psychotic symptoms
+depression	SNOMEDCT	83458005	Agitated depression
+depression	SNOMEDCT	191459006	Senile dementia with depression
+depression	SNOMEDCT	191466007	Arteriosclerotic dementia with depression
+depression	SNOMEDCT	191610000	Recurrent major depressive episodes, mild
+depression	SNOMEDCT	191611001	Recurrent major depressive episodes, moderate
+depression	SNOMEDCT	191613003	Recurrent major depressive episodes, severe, with psychosis
+depression	SNOMEDCT	191676002	Reactive depressive psychosis
+depression	SNOMEDCT	191676002	Psychotic reactive depression
+depression	SNOMEDCT	231500002	Masked depression
+depression	SNOMEDCT	247803002	Seasonal affective disorder
+depression	SNOMEDCT	274948002	Endogenous depression - recurrent
+depression	SNOMEDCT	401174001	Depression management programme
+depression	SNOMEDCT	415044007	Patient given advice about management of depression
+depression	SNOMEDCT	413973005	Depression interim review
+depression	SNOMEDCT	413974004	Depression medication review
+depression	SNOMEDCT	413972000	Depression annual review
+depression	SNOMEDCT	310495003	[X]Mild depression
+depression	SNOMEDCT	717211000000107	Depression monitoring first letter
+depression	SNOMEDCT	716961000000102	Depression monitoring third letter
+depression	SNOMEDCT	268621008	Recurrent major depressive episodes, unspecified
+depression	SNOMEDCT	35489007	Depressive disorder NEC
+depression	SNOMEDCT	191616006	[X]Other recurrent depressive disorders
+depression	SNOMEDCT	35489007	[X]Other depressive episodes
+depression	SNOMEDCT	191616006	[X]Recurrent depressive disorder
+depression	SNOMEDCT	764691000000109	Recurrent major depressive episodes,partial/unspec remission
+depression	SNOMEDCT	192049004	Prolonged depressive reaction
+depression	SNOMEDCT	87414006	[X] Reactive depression NOS
+depression	SNOMEDCT	35489007	[X]Depressive episode
+depression	SNOMEDCT	78667006	[X]Depressive neurosis
+depression	SNOMEDCT	78667006	[X]Dysthymia
+depression	SNOMEDCT	231504006	[X]Mild anxiety depression
+depression	SNOMEDCT	231504006	[X]Mixed anxiety and depressive disorder
+depression	SNOMEDCT	35489007	[X]Monopolar depression NOS
+depression	SNOMEDCT	716421000000103	Depression monitoring telephone invite
+depression	SNOMEDCT	231485007	[X]Post-schizophrenic depression
+depression	SNOMEDCT	191616006	[X]Recurrent episodes of psychogenic depression
+depression	SNOMEDCT	84760002	[X]Schizoaffective disorder, depressive type
+depression	SNOMEDCT	84760002	[X]Schizoaffective psychosis, depressive type
+depression	SNOMEDCT	247803002	[X]Seasonal depressive disorder
+depression	SNOMEDCT	231504006	Anxiety with depression
+depression	SNOMEDCT	73867007	[X]Major depression, severe with psychotic symptoms
+depression	SNOMEDCT	75084000	[X]Major depression, severe without psychotic symptoms
+depression	SNOMEDCT	755331000000108	Recurrent major depressive episodes, severe, with psychosis, psychosis in remission
+depression	SNOMEDCT	268621008	Recurrent major depressive episode NOS
+depression	SNOMEDCT	310495003	[X]Recurrent depressive disorder, current episode mild
+depression	SNOMEDCT	310496002	[X]Recurrent depressive disorder, current episode moderate
+depression	SNOMEDCT	698957003	[X]Recurrent depressive disorder, currently in remission
+depression	SNOMEDCT	764611000000100	Recurrent major depressive episodes, severe, no psychosis
+depression	SNOMEDCT	231504006	[X]Persistant anxiety depression
+depression	SNOMEDCT	310495003	[X]Mild depressive episode
+depression	SNOMEDCT	310496002	[X]Moderate depressive episode
+depression	SNOMEDCT	310497006	[X]Severe depressive episode without psychotic symptoms
+depression	SNOMEDCT	1086471000000103	[X]Recurrent severe episodes/reactive depressive psychosis
+depression	SNOMEDCT	765176007	[X]Manic-depress psychosis,depressed type+psychotic symptoms
+depression	SNOMEDCT	196381000000100	Depression resolved
+depression	SNOMEDCT	191659001	Atypical depressive disorder
+depression	SNOMEDCT	166481000000107	Depression - enhanced service completed
+depression	SNOMEDCT	191604000	[X]Severe depressive episode with psychotic symptoms
+depression	SNOMEDCT	73867007	[X]Endogenous depression with psychotic symptoms
+depression	SNOMEDCT	268621008	[X]Major depression, recurrent without psychotic symptoms
+depression	SNOMEDCT	310497006	[X]Recurr depress disorder cur epi severe without psyc sympt
+depression	SNOMEDCT	35489007	[X]Depression NOS
+depression	SNOMEDCT	35489007	[X]Depressive disorder NOS
+depression	SNOMEDCT	28475009	[X]Recurr severe episodes/major depression+psychotic symptom
+depression	SNOMEDCT	247803002	[X]SAD - Seasonal affective disorder
+depression	SNOMEDCT	361761000000106	On full dose long term treatment depression - enh serv admin
+depression	SNOMEDCT	713831000000108	Depression monitoring administration
+depression	SNOMEDCT	716681000000100	Depression monitoring second letter
+depression	SNOMEDCT	300706003	Endogenous depression
+depression	SNOMEDCT	191616006	Recurrent depression
+depression	SNOMEDCT	717261000000109	Depression monitoring verbal invite
+depression	SNOMEDCT	191613003	[X]Recurrent severe episodes of psychotic depression
+depression	SNOMEDCT	231499006	Endogenous depression first episode
+depression	SNOMEDCT	832007	[X]Major depression, moderately severe
+depression	SNOMEDCT	87512008	[X]Major depression, mild
+depression	SNOMEDCT	300706003	[X]Endogenous depression without psychotic symptoms
+depression	SNOMEDCT	310497006	[X]Vital depression, recurrent without psychotic symptoms
+depression	SNOMEDCT	78667006	[X]Neurotic depression
+depression	SNOMEDCT	35489007	[X]Depressive episode, unspecified
+depression	SNOMEDCT	191616006	[X]Recurrent depressive disorder, unspecified
+depression	SNOMEDCT	199111000000100	Referral for guided self-help for depression
+depression	SNOMEDCT	413169006	On depression register
+depression	SNOMEDCT	191613003	[X]Recurr severe episodes/psychogenic depressive psychosis
+depression	SNOMEDCT	28475009	[X]Recurrent depress disorder cur epi severe with psyc symp
+depression	SNOMEDCT	191616006	[X]Recurrent episodes of depressive reaction
+depression	SNOMEDCT	191616006	[X]Recurrent episodes of reactive depression
+depression	SNOMEDCT	35489007	Depressive psychoses
+depression	SNOMEDCT	1084061000000106	[X]Depressive personality disorder
+depression	SNOMEDCT	46244001	Recurrent major depressive episodes, in full remission
+depression	SNOMEDCT	84760002	[X]Schizophreniform psychosis, depressive type
+depression	SNOMEDCT	191455000	Presenile dementia with depression
+depression	SNOMEDCT	192080009	Chronic depression
+depression	SNOMEDCT	161469008	H/O: depression
+depression	SNOMEDCT	268621008	Recurrent major depressive episode
+depression	SNOMEDCT	166291000000108	Depression - enhanced services administration
+depression	SNOMEDCT	191659001	[X]Atypical depression
+depression	SNOMEDCT	36474008	[X]Manic-depress psychosis,depressd,no psychotic symptoms
+depression	Read2_5digit	1465.	H/O: depression
+depression	Read2_5digit	212S.	Depression resolved
+depression	Read2_5digit	8BK0.	Depression management programme
+depression	Read2_5digit	8CAa.	Patient given advice about management of depression
+depression	Read2_5digit	8HHq.	Referral for guided self-help for depression
+depression	Read2_5digit	9H90.	Depression annual review
+depression	Read2_5digit	9H91.	Depression medication review
+depression	Read2_5digit	9H92.	Depression interim review
+depression	Read2_5digit	9HA0.	On depression register
+depression	Read2_5digit	9k4..	Depression - enhanced services administration
+depression	Read2_5digit	9k40.	Depression - enhanced service completed
+depression	Read2_5digit	9kQ..	On full dose long term treatment for depression - enhanced services administration
+depression	Read2_5digit	9Ov..	Depression monitoring administration
+depression	Read2_5digit	9Ov0.	Depression monitoring first letter
+depression	Read2_5digit	9Ov1.	Depression monitoring second letter
+depression	Read2_5digit	9Ov2.	Depression monitoring third letter
+depression	Read2_5digit	9Ov3.	Depression monitoring verbal invite
+depression	Read2_5digit	9Ov4.	Depression monitoring telephone invite
+depression	Read2_5digit	E0013	Presenile dementia with depression
+depression	Read2_5digit	E0021	Senile dementia with depression
+depression	Read2_5digit	E0043	Arteriosclerotic dementia with depression
+depression	Read2_5digit	E113.	Recurrent major depressive episode
+depression	Read2_5digit	E1130	Recurrent major depressive episodes, unspecified
+depression	Read2_5digit	E1131	Recurrent major depressive episodes, mild
+depression	Read2_5digit	E1132	Recurrent major depressive episodes, moderate
+depression	Read2_5digit	E1133	Recurrent major depressive episodes, severe, without mention of psychosis
+depression	Read2_5digit	E1134	Recurrent major depressive episodes, severe, with psychosis
+depression	Read2_5digit	E1135	Recurrent major depressive episodes, in partial or unspecified remission
+depression	Read2_5digit	E1136	Recurrent major depressive episodes, in full remission
+depression	Read2_5digit	E1137	Recurrent depression
+depression	Read2_5digit	E113z	Recurrent major depressive episode NOS
+depression	Read2_5digit	E118.	Seasonal affective disorder
+depression	Read2_5digit	E11y2	Atypical depressive disorder
+depression	Read2_5digit	E11z2	Masked depression
+depression	Read2_5digit	E130.	Reactive depressive psychosis
+depression	Read2_5digit	E135.	Agitated depression
+depression	Read2_5digit	E2003	Anxiety with depression
+depression	Read2_5digit	E291.	Prolonged depressive reaction
+depression	Read2_5digit	E2B..	Depressive disorder NEC
+depression	Read2_5digit	E2B1.	Chronic depression
+depression	Read2_5digit	Eu204	[X]Post-schizophrenic depression
+depression	Read2_5digit	Eu251	[X]Schizoaffective disorder, depressive type
+depression	Read2_5digit	Eu320	[X]Mild depressive episode
+depression	Read2_5digit	Eu321	[X]Moderate depressive episode
+depression	Read2_5digit	Eu324	[X]Mild depression
+depression	Read2_5digit	Eu325	[X]Major depression, mild
+depression	Read2_5digit	Eu326	[X]Major depression, moderately severe
+depression	Read2_5digit	Eu327	[X]Major depression, severe without psychotic symptoms
+depression	Read2_5digit	Eu328	[X]Major depression, severe with psychotic symptoms
+depression	Read2_5digit	Eu32A	[X]Recurrent major depressive episodes, severe, with psychosis, psychosis in remission
+depression	Read2_5digit	Eu33.	[X]Recurrent depressive disorder
+depression	Read2_5digit	Eu330	[X]Recurrent depressive disorder, current episode mild
+depression	Read2_5digit	Eu331	[X]Recurrent depressive disorder, current episode moderate
+depression	Read2_5digit	Eu332	[X]Recurrent depressive disorder, current episode severe without psychotic symptoms
+depression	Read2_5digit	Eu333	[X]Recurrent depressive disorder, current episode severe with psychotic symptoms
+depression	Read2_5digit	Eu334	[X]Recurrent depressive disorder, currently in remission
+depression	Read2_5digit	Eu33y	[X]Other recurrent depressive disorders
+depression	Read2_5digit	Eu33z	[X]Recurrent depressive disorder, unspecified
+depression	Read2_5digit	Eu341	[X]Dysthymia
+depression	Read2_5digit	Eu412	[X]Mixed anxiety and depressive disorder
+depression	CTV3_5digit	1465.	H/O: depression
+depression	CTV3_5digit	XaLG0	Depression resolved
+depression	CTV3_5digit	XaItx	Depression management programme
+depression	CTV3_5digit	XaKEz	Patient given advice about management of depression
+depression	CTV3_5digit	XaL0r	Referral for guided self-help for depression
+depression	CTV3_5digit	XaK6d	Depression annual review
+depression	CTV3_5digit	XaK6e	Depression medication review
+depression	CTV3_5digit	XaK6f	Depression interim review
+depression	CTV3_5digit	XaJWh	On depression register
+depression	CTV3_5digit	XaK9p	NA
+depression	CTV3_5digit	XaKAK	NA
+depression	CTV3_5digit	XaPKm	NA
+depression	CTV3_5digit	XaMGL	Depression monitoring administration
+depression	CTV3_5digit	XaMGN	Depression monitoring first letter
+depression	CTV3_5digit	XaMGO	Depression monitoring second letter
+depression	CTV3_5digit	XaMGP	Depression monitoring third letter
+depression	CTV3_5digit	XaMGQ	Depression monitoring verbal invite
+depression	CTV3_5digit	XaMGR	Depression monitoring telephone invite
+depression	CTV3_5digit	E0013	Presenile dementia with depression
+depression	CTV3_5digit	E0021	Senile dementia with depression
+depression	CTV3_5digit	E0043	Arteriosclerotic dementia with depression
+depression	CTV3_5digit	E11..	Depressive psychoses
+depression	CTV3_5digit	X00SO	Depressive disorder
+depression	CTV3_5digit	X00SQ	Agitated depression
+depression	CTV3_5digit	X00SR	Endogenous depression
+depression	CTV3_5digit	X00SS	Endogenous depression first episode
+depression	CTV3_5digit	XE1Y1	Recurrent major depressive episodes
+depression	CTV3_5digit	XM1GC	Endogenous depression - recurrent
+depression	CTV3_5digit	E1130	Recurrent major depressive episodes, unspecified
+depression	CTV3_5digit	E1131	Recurrent major depressive episodes, mild
+depression	CTV3_5digit	E1132	Recurrent major depressive episodes, moderate
+depression	CTV3_5digit	E1133	Recurrent major depressive episodes, severe, without mention of psychosis
+depression	CTV3_5digit	E1134	Recurrent major depressive episodes, severe, with psychosis
+depression	CTV3_5digit	E1135	Recurrent major depressive episodes, in partial or unspecified remission
+depression	CTV3_5digit	E1136	Recurrent major depressive episodes, in full remission
+depression	CTV3_5digit	E1137	Recurrent depression
+depression	CTV3_5digit	E113z	Recurrent major depressive episode NOS
+depression	CTV3_5digit	X761L	Seasonal affective disorder
+depression	CTV3_5digit	E11y2	Atypical depressive disorder
+depression	CTV3_5digit	X00SU	Masked depression
+depression	CTV3_5digit	E130.	Reactive depressive psychosis
+depression	CTV3_5digit	X00Sb	Mixed anxiety and depressive disorder
+depression	CTV3_5digit	E291.	Prolonged depressive adjustment reaction
+depression	CTV3_5digit	E2B..	Depressive disorder NEC
+depression	CTV3_5digit	E2B1.	Chronic depression
+depression	CTV3_5digit	X00S8	Post-schizophrenic depression
+depression	CTV3_5digit	XE2un	Schizoaffective disorder, depressive type
+depression	CTV3_5digit	XE1Y0	Single major depressive episode
+depression	CTV3_5digit	XE1Zb	[X]Depressive episode, unspecified
+depression	CTV3_5digit	Eu320	[X]Mild depressive episode
+depression	CTV3_5digit	Eu321	[X]Moderate depressive episode
+depression	CTV3_5digit	XE1ZY	[X]Severe depressive episode without psychotic symptoms
+depression	CTV3_5digit	XE1ZZ	[X]Severe depressive episode with psychotic symptoms
+depression	CTV3_5digit	XaCIs	[X]Mild depression
+depression	CTV3_5digit	XSGok	Mild major depression
+depression	CTV3_5digit	XSGol	Moderate major depression
+depression	CTV3_5digit	XSGom	Severe major depression without psychotic features
+depression	CTV3_5digit	XSGon	[X]Major depression, severe with psychotic symptoms
+depression	CTV3_5digit	XaX54	[X]Recurrent major depressive episodes, severe, with psychosis, psychosis in remission
+depression	CTV3_5digit	XE1Za	[X]Other depressive episodes
+depression	CTV3_5digit	Eu32z	[X] Reactive depression NOS
+depression	CTV3_5digit	XE1YC	Reactive depression
+depression	CTV3_5digit	XaB9J	Depression NOS
+depression	CTV3_5digit	XE1Zc	[X]Recurrent depressive disorder
+depression	CTV3_5digit	Eu33.	[X]Recurrent episodes of depressive reaction
+depression	CTV3_5digit	Eu330	[X]Recurrent depressive disorder, current episode mild
+depression	CTV3_5digit	Eu331	[X]Recurrent depressive disorder, current episode moderate
+depression	CTV3_5digit	XE1Zd	[X]Recurrent depressive disorder, current episode severe without psychotic symptoms
+depression	CTV3_5digit	Eu332	[X]Manic-depressive psychosis, depressed type without psychotic symptoms
+depression	CTV3_5digit	XaCHo	[X] Manic-depressive psychosis, depressed type without psychotic symptoms
+depression	CTV3_5digit	XE1Ze	[X]Recurrent depressive disorder, current episode severe with psychotic symptoms
+depression	CTV3_5digit	Eu334	[X]Recurrent depressive disorder, currently in remission
+depression	CTV3_5digit	Eu33y	[X]Other recurrent depressive disorders
+depression	CTV3_5digit	XE1Zf	[X]Recurrent depressive disorder, unspecified
+depression	CTV3_5digit	Eu33z	[X]Monopolar depression NOS
+depression	CTV3_5digit	E2112	Dysthymia

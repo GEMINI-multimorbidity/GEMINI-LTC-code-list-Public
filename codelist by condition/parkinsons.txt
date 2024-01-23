@@ -1,0 +1,38 @@
+condition	vocab_id	code	description
+parkinsons	ICD10	F02.3	Dementia in Parkinson disease
+parkinsons	ICD10	G20	Parkinson disease
+parkinsons	Read2	147F.00	History of Parkinson's disease
+parkinsons	Read2	Eu02300	[X]Dementia in Parkinson's disease
+parkinsons	Read2	F11x900	Cerebral degeneration in Parkinson's disease
+parkinsons	Read2	F12..00	Parkinson's disease
+parkinsons	Read2	F120.00	Paralysis agitans
+parkinsons	Read2	F12z.00	Parkinson's disease NOS
+parkinsons	CTV3	XaQwfYatS1	History of Parkinson's disease
+parkinsons	CTV3	Eu023YMB0y	[X]Dementia in Parkinson's disease
+parkinsons	CTV3	XaOfZYarAZ	Cerebral degeneration in Parkinson's disease
+parkinsons	CTV3	F12..Y00I7	Parkinson's disease
+parkinsons	CTV3	F12..Y00I8	PD - Parkinson's disease
+parkinsons	CTV3	F12z.Y00I6	Parkinson's disease NOS
+parkinsons	medcodeid	81717011	Parkinson's disease
+parkinsons	medcodeid	1148731000000112	History of Parkinson's disease
+parkinsons	medcodeid	295688010	[X]Dementia in Parkinson's disease
+parkinsons	medcodeid	297037012	Parkinson's disease NOS
+parkinsons	medcodeid	81719014	Paralysis agitans
+parkinsons	medcodeid	636681000000117	Cerebral degeneration in Parkinson's disease
+parkinsons	SNOMEDCT	49049000	Parkinson's disease
+parkinsons	SNOMEDCT	515841000000104	History of Parkinson's disease
+parkinsons	SNOMEDCT	425390006	[X]Dementia in Parkinson's disease
+parkinsons	SNOMEDCT	49049000	Parkinson's disease NOS
+parkinsons	SNOMEDCT	49049000	Paralysis agitans
+parkinsons	SNOMEDCT	341551000000108	Cerebral degeneration in Parkinson's disease
+parkinsons	Read2_5digit	147F.	History of Parkinson's disease
+parkinsons	Read2_5digit	Eu023	[X]Dementia in Parkinson's disease
+parkinsons	Read2_5digit	F11x9	Cerebral degeneration in Parkinson's disease
+parkinsons	Read2_5digit	F12..	Parkinson's disease
+parkinsons	Read2_5digit	F120.	Paralysis agitans
+parkinsons	Read2_5digit	F12z.	Parkinson's disease NOS
+parkinsons	CTV3_5digit	XaQwf	History of Parkinson's disease
+parkinsons	CTV3_5digit	Eu023	[X]Dementia in Parkinson's disease
+parkinsons	CTV3_5digit	XaOfZ	Cerebral degeneration in Parkinson's disease
+parkinsons	CTV3_5digit	F12..	Parkinson's disease
+parkinsons	CTV3_5digit	F12z.	Parkinson's disease NOS

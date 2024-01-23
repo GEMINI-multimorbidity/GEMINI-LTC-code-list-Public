@@ -1,0 +1,224 @@
+condition	vocab_id	code	description
+asthma	ICD10	J45	Asthma
+asthma	ICD10	J46	Status asthmaticus
+asthma	Read2	14B4.00	H/O: asthma
+asthma	Read2	173A.00	Exercise induced asthma
+asthma	Read2	173c.00	Occupational asthma
+asthma	Read2	173d.00	Work aggravated asthma
+asthma	Read2	1780.00	Aspirin induced asthma
+asthma	Read2	1O2..00	Asthma confirmed
+asthma	Read2	2126200	Asthma resolved
+asthma	Read2	212G.00	Asthma resolved
+asthma	Read2	H312000	Chronic asthmatic bronchitis
+asthma	Read2	H33..00	Asthma
+asthma	Read2	H33..11	Bronchial asthma
+asthma	Read2	H330.00	Extrinsic (atopic) asthma
+asthma	Read2	H330.11	Allergic asthma
+asthma	Read2	H330.12	Childhood asthma
+asthma	Read2	H330.13	Hay fever with asthma
+asthma	Read2	H330.14	Pollen asthma
+asthma	Read2	H330000	Extrinsic asthma without status asthmaticus
+asthma	Read2	H330011	Hay fever with asthma
+asthma	Read2	H330100	Extrinsic asthma with status asthmaticus
+asthma	Read2	H330111	Extrinsic asthma with asthma attack
+asthma	Read2	H330z00	Extrinsic asthma NOS
+asthma	Read2	H331.00	Intrinsic asthma
+asthma	Read2	H331.11	Late onset asthma
+asthma	Read2	H331000	Intrinsic asthma without status asthmaticus
+asthma	Read2	H331100	Intrinsic asthma with status asthmaticus
+asthma	Read2	H331111	Intrinsic asthma with asthma attack
+asthma	Read2	H331z00	Intrinsic asthma NOS
+asthma	Read2	H332.00	Mixed asthma
+asthma	Read2	H333.00	Acute exacerbation of asthma
+asthma	Read2	H334.00	Brittle asthma
+asthma	Read2	H335.00	Chronic asthma with fixed airflow obstruction
+asthma	Read2	H33z.00	Asthma unspecified
+asthma	Read2	H33z.11	Hyperreactive airways disease
+asthma	Read2	H33z000	Status asthmaticus NOS
+asthma	Read2	H33z011	Severe asthma attack
+asthma	Read2	H33z100	Asthma attack
+asthma	Read2	H33z111	Asthma attack NOS
+asthma	Read2	H33z200	Late-onset asthma
+asthma	Read2	H33zz00	Asthma NOS
+asthma	Read2	H33zz11	Exercise induced asthma
+asthma	Read2	H33zz12	Allergic asthma NEC
+asthma	Read2	H33zz13	Allergic bronchitis NEC
+asthma	CTV3	14B4.Ya050	H/O: asthma
+asthma	CTV3	173A.YadS4	Exercise-induced asthma
+asthma	CTV3	X1025Y108P	Occupational asthma
+asthma	CTV3	XaKdkYany0	Work aggravated asthma
+asthma	CTV3	XaJFGYamDq	Aspirin-induced asthma
+asthma	CTV3	XaIuGYaleb	Asthma confirmed
+asthma	CTV3	21262YaYRj	Asthma resolved
+asthma	CTV3	H3120Y108g	Chronic asthmatic bronchitis
+asthma	CTV3	H33..Y107p	Asthma
+asthma	CTV3	H33..Y107q	Bronchial asthma
+asthma	CTV3	XE0YQY108A	Allergic atopic asthma
+asthma	CTV3	X101xY1084	Allergic asthma
+asthma	CTV3	X101tY107w	Childhood asthma
+asthma	CTV3	X1020Y108C	Hay fever with asthma
+asthma	CTV3	X1020Y108E	Pollen asthma
+asthma	CTV3	XE0YRY1085	Extrinsic asthma without status asthmaticus
+asthma	CTV3	XE0YSY1086	Extrinsic asthma with status asthmaticus
+asthma	CTV3	X101yY1087	Extrinsic asthma with asthma attack
+asthma	CTV3	H330zY1088	Extrinsic asthma NOS
+asthma	CTV3	XE0YTY108G	Non-allergic asthma
+asthma	CTV3	X101uY107x	Late onset asthma
+asthma	CTV3	H3310Y108I	Intrinsic asthma without status asthmaticus
+asthma	CTV3	XE0YUY108J	Intrinsic asthma with status asthmaticus
+asthma	CTV3	X1022Y108K	Intrinsic asthma with asthma attack
+asthma	CTV3	H331zY108L	Intrinsic asthma NOS
+asthma	CTV3	H332.YMAjI	Mixed asthma
+asthma	CTV3	Xa1hDYaY9k	Acute exacerbation of asthma
+asthma	CTV3	Xa9zfYaYk2	Acute asthma
+asthma	CTV3	Ua1AXYMFVN	Brittle asthma
+asthma	CTV3	Xaa7BYaw0M	Chronic asthma with fixed airflow obstruction
+asthma	CTV3	H33z.Y107y	Asthma unspecified
+asthma	CTV3	H33z.Yalcg	Hyperreactive airways disease
+asthma	CTV3	XE0YVY108m	Status asthmaticus NOS
+asthma	CTV3	XE0YWYM1gM	Asthma attack
+asthma	CTV3	XM0s2YMH4l	Asthma attack NOS
+asthma	CTV3	XE0YXY1080	Asthma NOS
+asthma	CTV3	X101zY1089	Allergic asthma NEC
+asthma	medcodeid	95786019	Occupational asthma
+asthma	medcodeid	253533013	Asthma resolved
+asthma	medcodeid	301485011	Asthma
+asthma	medcodeid	338238011	Brittle asthma
+asthma	medcodeid	350154010	Pollen asthma
+asthma	medcodeid	396114013	Intrinsic asthma
+asthma	medcodeid	1483199016	Allergic asthma
+asthma	medcodeid	104872017	Extrinsic asthma without status asthmaticus
+asthma	medcodeid	301508013	Intrinsic asthma NOS
+asthma	medcodeid	350149018	Late-onset asthma
+asthma	medcodeid	350151019	Extrinsic asthma with asthma attack
+asthma	medcodeid	477291000006114	Allergic bronchitis NEC
+asthma	medcodeid	655601000006113	Exercise induced asthma
+asthma	medcodeid	655611000006111	Exercise induced asthma
+asthma	medcodeid	660351000006118	Extrinsic (atopic) asthma
+asthma	medcodeid	929091000006111	Aspirin induced asthma
+asthma	medcodeid	983771000006118	Work aggravated asthma
+asthma	medcodeid	419211018	Acute exacerbation of asthma
+asthma	medcodeid	145961000006117	Severe asthma attack
+asthma	medcodeid	151338014	Extrinsic asthma with status asthmaticus
+asthma	medcodeid	2535857010	Hyperreactive airways disease
+asthma	medcodeid	301499010	Extrinsic asthma NOS
+asthma	medcodeid	350153016	Hay fever with asthma
+asthma	medcodeid	301509017	Mixed asthma
+asthma	medcodeid	251716013	H/O: asthma
+asthma	medcodeid	350152014	Allergic asthma NEC
+asthma	medcodeid	2240591000000119	Chronic asthma with fixed airflow obstruction
+asthma	medcodeid	301450011	Chronic asthmatic bronchitis
+asthma	medcodeid	301480018	Bronchial asthma
+asthma	medcodeid	409865018	Asthma attack NOS
+asthma	medcodeid	350147016	Childhood asthma
+asthma	medcodeid	21390015	Intrinsic asthma without status asthmaticus
+asthma	medcodeid	496491000006117	Asthma resolved
+asthma	medcodeid	396118011	Status asthmaticus NOS
+asthma	medcodeid	1780388018	Asthma confirmed
+asthma	medcodeid	396119015	Asthma attack
+asthma	medcodeid	350148014	Late onset asthma
+asthma	medcodeid	817361000006114	Hay fever with asthma
+asthma	medcodeid	301511014	Asthma unspecified
+asthma	medcodeid	350156012	Intrinsic asthma with asthma attack
+asthma	medcodeid	396120014	Asthma NOS
+asthma	medcodeid	98546013	Intrinsic asthma with status asthmaticus
+asthma	SNOMEDCT	57607007	Occupational asthma
+asthma	SNOMEDCT	162660004	Asthma resolved
+asthma	SNOMEDCT	195967001	Asthma
+asthma	SNOMEDCT	225057002	Brittle asthma
+asthma	SNOMEDCT	233683003	Pollen asthma
+asthma	SNOMEDCT	266361008	Intrinsic asthma
+asthma	SNOMEDCT	389145006	Allergic asthma
+asthma	SNOMEDCT	63088003	Extrinsic asthma without status asthmaticus
+asthma	SNOMEDCT	266361008	Intrinsic asthma NOS
+asthma	SNOMEDCT	233679003	Late-onset asthma
+asthma	SNOMEDCT	708093000	Extrinsic asthma with asthma attack
+asthma	SNOMEDCT	405720007	Allergic bronchitis NEC
+asthma	SNOMEDCT	31387002	Exercise induced asthma
+asthma	SNOMEDCT	389145006	Extrinsic (atopic) asthma
+asthma	SNOMEDCT	407674008	Aspirin induced asthma
+asthma	SNOMEDCT	57607007	Work aggravated asthma
+asthma	SNOMEDCT	708038006	Acute exacerbation of asthma
+asthma	SNOMEDCT	708090002	Severe asthma attack
+asthma	SNOMEDCT	1086701000000102	Extrinsic asthma with status asthmaticus
+asthma	SNOMEDCT	195967001	Hyperreactive airways disease
+asthma	SNOMEDCT	424643009	Extrinsic asthma NOS
+asthma	SNOMEDCT	233683003	Hay fever with asthma
+asthma	SNOMEDCT	195977004	Mixed asthma
+asthma	SNOMEDCT	161527007	H/O: asthma
+asthma	SNOMEDCT	389145006	Allergic asthma NEC
+asthma	SNOMEDCT	866881000000101	Chronic asthma with fixed airflow obstruction
+asthma	SNOMEDCT	195949008	Chronic asthmatic bronchitis
+asthma	SNOMEDCT	195967001	Bronchial asthma
+asthma	SNOMEDCT	708038006	Asthma attack NOS
+asthma	SNOMEDCT	233678006	Childhood asthma
+asthma	SNOMEDCT	12428000	Intrinsic asthma without status asthmaticus
+asthma	SNOMEDCT	734904007	Status asthmaticus NOS
+asthma	SNOMEDCT	401193004	Asthma confirmed
+asthma	SNOMEDCT	708038006	Asthma attack
+asthma	SNOMEDCT	233679003	Late onset asthma
+asthma	SNOMEDCT	195967001	Asthma unspecified
+asthma	SNOMEDCT	708094006	Intrinsic asthma with asthma attack
+asthma	SNOMEDCT	195967001	Asthma NOS
+asthma	SNOMEDCT	1086711000000100	Intrinsic asthma with status asthmaticus
+asthma	Read2_5digit	14B4.	H/O: asthma
+asthma	Read2_5digit	173A.	Exercise induced asthma
+asthma	Read2_5digit	173c.	Occupational asthma
+asthma	Read2_5digit	173d.	Work aggravated asthma
+asthma	Read2_5digit	1780.	Aspirin induced asthma
+asthma	Read2_5digit	1O2..	Asthma confirmed
+asthma	Read2_5digit	21262	Asthma resolved
+asthma	Read2_5digit	212G.	Asthma resolved
+asthma	Read2_5digit	H3120	Chronic asthmatic bronchitis
+asthma	Read2_5digit	H33..	Asthma
+asthma	Read2_5digit	H330.	Extrinsic (atopic) asthma
+asthma	Read2_5digit	H3300	Extrinsic asthma without status asthmaticus
+asthma	Read2_5digit	H3301	Extrinsic asthma with status asthmaticus
+asthma	Read2_5digit	H330z	Extrinsic asthma NOS
+asthma	Read2_5digit	H331.	Intrinsic asthma
+asthma	Read2_5digit	H3310	Intrinsic asthma without status asthmaticus
+asthma	Read2_5digit	H3311	Intrinsic asthma with status asthmaticus
+asthma	Read2_5digit	H331z	Intrinsic asthma NOS
+asthma	Read2_5digit	H332.	Mixed asthma
+asthma	Read2_5digit	H333.	Acute exacerbation of asthma
+asthma	Read2_5digit	H334.	Brittle asthma
+asthma	Read2_5digit	H335.	Chronic asthma with fixed airflow obstruction
+asthma	Read2_5digit	H33z.	Asthma unspecified
+asthma	Read2_5digit	H33z0	Status asthmaticus NOS
+asthma	Read2_5digit	H33z1	Asthma attack
+asthma	Read2_5digit	H33z2	Late-onset asthma
+asthma	Read2_5digit	H33zz	Asthma NOS
+asthma	CTV3_5digit	14B4.	H/O: asthma
+asthma	CTV3_5digit	173A.	Exercise-induced asthma
+asthma	CTV3_5digit	X1025	Occupational asthma
+asthma	CTV3_5digit	XaKdk	Work aggravated asthma
+asthma	CTV3_5digit	XaJFG	Aspirin-induced asthma
+asthma	CTV3_5digit	XaIuG	Asthma confirmed
+asthma	CTV3_5digit	21262	Asthma resolved
+asthma	CTV3_5digit	H3120	Chronic asthmatic bronchitis
+asthma	CTV3_5digit	H33..	Asthma
+asthma	CTV3_5digit	XE0YQ	Allergic atopic asthma
+asthma	CTV3_5digit	X101x	Allergic asthma
+asthma	CTV3_5digit	X101t	Childhood asthma
+asthma	CTV3_5digit	X1020	Hay fever with asthma
+asthma	CTV3_5digit	XE0YR	Extrinsic asthma without status asthmaticus
+asthma	CTV3_5digit	XE0YS	Extrinsic asthma with status asthmaticus
+asthma	CTV3_5digit	X101y	Extrinsic asthma with asthma attack
+asthma	CTV3_5digit	H330z	Extrinsic asthma NOS
+asthma	CTV3_5digit	XE0YT	Non-allergic asthma
+asthma	CTV3_5digit	X101u	Late onset asthma
+asthma	CTV3_5digit	H3310	Intrinsic asthma without status asthmaticus
+asthma	CTV3_5digit	XE0YU	Intrinsic asthma with status asthmaticus
+asthma	CTV3_5digit	X1022	Intrinsic asthma with asthma attack
+asthma	CTV3_5digit	H331z	Intrinsic asthma NOS
+asthma	CTV3_5digit	H332.	Mixed asthma
+asthma	CTV3_5digit	Xa1hD	Acute exacerbation of asthma
+asthma	CTV3_5digit	Xa9zf	Acute asthma
+asthma	CTV3_5digit	Ua1AX	Brittle asthma
+asthma	CTV3_5digit	Xaa7B	Chronic asthma with fixed airflow obstruction
+asthma	CTV3_5digit	H33z.	Asthma unspecified
+asthma	CTV3_5digit	XE0YV	Status asthmaticus NOS
+asthma	CTV3_5digit	XE0YW	Asthma attack
+asthma	CTV3_5digit	XM0s2	Asthma attack NOS
+asthma	CTV3_5digit	XE0YX	Asthma NOS
+asthma	CTV3_5digit	X101z	Allergic asthma NEC

@@ -1,0 +1,116 @@
+condition	vocab_id	code	description
+pri_colorectal	ICD10	C18	Malignant neoplasm of colon
+pri_colorectal	ICD10	C19	Malignant neoplasm of rectosigmoid junction
+pri_colorectal	ICD10	C20	Malignant neoplasm of rectum
+pri_colorectal	Read2	B13..00	Malignant neoplasm of colon
+pri_colorectal	Read2	B130.00	Malignant neoplasm of hepatic flexure of colon
+pri_colorectal	Read2	B131.00	Malignant neoplasm of transverse colon
+pri_colorectal	Read2	B132.00	Malignant neoplasm of descending colon
+pri_colorectal	Read2	B133.00	Malignant neoplasm of sigmoid colon
+pri_colorectal	Read2	B134.00	Malignant neoplasm of caecum
+pri_colorectal	Read2	B134.11	Carcinoma of caecum
+pri_colorectal	Read2	B135.00	Malignant neoplasm of appendix
+pri_colorectal	Read2	B136.00	Malignant neoplasm of ascending colon
+pri_colorectal	Read2	B137.00	Malignant neoplasm of splenic flexure of colon
+pri_colorectal	Read2	B138.00	Malignant neoplasm, overlapping lesion of colon
+pri_colorectal	Read2	B139.00	Hereditary nonpolyposis colon cancer
+pri_colorectal	Read2	B13y.00	Malignant neoplasm of other specified sites of colon
+pri_colorectal	Read2	B13z.00	Malignant neoplasm of colon NOS
+pri_colorectal	Read2	B13z.11	Colonic cancer
+pri_colorectal	Read2	B140.00	Malignant neoplasm of rectosigmoid junction
+pri_colorectal	Read2	B141.00	Malignant neoplasm of rectum
+pri_colorectal	Read2	B141.11	Carcinoma of rectum
+pri_colorectal	Read2	B141.12	Rectal carcinoma
+pri_colorectal	Read2	B1z0.11	Cancer of bowel
+pri_colorectal	CTV3	B13..Y7JYs	Malignant neoplasm of colon
+pri_colorectal	CTV3	B130.Y7JYy	Malignant neoplasm of hepatic flexure of colon
+pri_colorectal	CTV3	B131.Y7JZ0	Malignant neoplasm of transverse colon
+pri_colorectal	CTV3	B132.Y7JZ4	Malignant neoplasm of descending colon
+pri_colorectal	CTV3	B133.Y7JZ6	Malignant neoplasm of sigmoid colon
+pri_colorectal	CTV3	XE1vUY7JYk	Malignant neoplasm of caecum
+pri_colorectal	CTV3	X78gMY7JYl	Carcinoma of caecum
+pri_colorectal	CTV3	B135.Y7JYn	Malignant neoplasm of appendix
+pri_colorectal	CTV3	B136.Y7JYw	Malignant neoplasm of ascending colon
+pri_colorectal	CTV3	B137.Y7JZ2	Malignant neoplasm of splenic flexure of colon
+pri_colorectal	CTV3	B138.YMAyZ	Malignant neoplasm, overlapping lesion of colon
+pri_colorectal	CTV3	XaFswYah41	Hereditary nonpolyposis colon cancer
+pri_colorectal	CTV3	B13y.Y7JZ7	Malignant neoplasm of other specified sites of colon
+pri_colorectal	CTV3	XE1vVY7JZ8	Malignant neoplasm of colon NOS
+pri_colorectal	CTV3	B13..Y7JYt	Colonic cancer
+pri_colorectal	CTV3	B140.Y7JZA	Malignant neoplasm of rectosigmoid junction
+pri_colorectal	CTV3	XE1vWY7JZC	Malignant neoplasm of rectum
+pri_colorectal	CTV3	X78OKY7IsY	Carcinoma of rectum
+pri_colorectal	CTV3	X78OKY7JZF	Rectal carcinoma
+pri_colorectal	CTV3	B1z0.Ya1Gf	Cancer of bowel
+pri_colorectal	medcodeid	380129018	Carcinoma of caecum
+pri_colorectal	medcodeid	288671018	Malignant neoplasm of other specified sites of colon
+pri_colorectal	medcodeid	403682011	Malignant neoplasm of colon NOS
+pri_colorectal	medcodeid	721991000006115	Malignant neoplasm of sigmoid colon
+pri_colorectal	medcodeid	722441000006110	Malignant neoplasm of rectosigmoid junction
+pri_colorectal	medcodeid	726331000006111	Malignant neoplasm of colon
+pri_colorectal	medcodeid	379088010	Carcinoma of rectum
+pri_colorectal	medcodeid	721821000006114	Malignant neoplasm of splenic flexure of colon
+pri_colorectal	medcodeid	727281000006117	Malignant neoplasm of appendix
+pri_colorectal	medcodeid	155488014	Malignant neoplasm of rectum
+pri_colorectal	medcodeid	725191000006116	Malignant neoplasm of hepatic flexure of colon
+pri_colorectal	medcodeid	841331000006115	Cancer of bowel
+pri_colorectal	medcodeid	288670017	Malignant neoplasm, overlapping lesion of colon
+pri_colorectal	medcodeid	721421000006112	Malignant neoplasm of transverse colon
+pri_colorectal	medcodeid	727321000006111	Malignant neoplasm of ascending colon
+pri_colorectal	medcodeid	725951000006112	Malignant neoplasm of descending colon
+pri_colorectal	medcodeid	1216464010	Malignant neoplasm of caecum
+pri_colorectal	medcodeid	573611000006118	Colonic cancer
+pri_colorectal	medcodeid	379089019	Rectal carcinoma
+pri_colorectal	medcodeid	459527013	Hereditary nonpolyposis colon cancer
+pri_colorectal	SNOMEDCT	255081007	Carcinoma of caecum
+pri_colorectal	SNOMEDCT	363406005	Malignant neoplasm of other specified sites of colon
+pri_colorectal	SNOMEDCT	363406005	Malignant neoplasm of colon NOS
+pri_colorectal	SNOMEDCT	363410008	Malignant neoplasm of sigmoid colon
+pri_colorectal	SNOMEDCT	363414004	Malignant neoplasm of rectosigmoid junction
+pri_colorectal	SNOMEDCT	363406005	Malignant neoplasm of colon
+pri_colorectal	SNOMEDCT	254582000	Carcinoma of rectum
+pri_colorectal	SNOMEDCT	363413005	Malignant neoplasm of splenic flexure of colon
+pri_colorectal	SNOMEDCT	363411007	Malignant neoplasm of appendix
+pri_colorectal	SNOMEDCT	363351006	Malignant neoplasm of rectum
+pri_colorectal	SNOMEDCT	363407001	Malignant neoplasm of hepatic flexure of colon
+pri_colorectal	SNOMEDCT	363508008	Cancer of bowel
+pri_colorectal	SNOMEDCT	187757001	Malignant neoplasm, overlapping lesion of colon
+pri_colorectal	SNOMEDCT	363408006	Malignant neoplasm of transverse colon
+pri_colorectal	SNOMEDCT	363412000	Malignant neoplasm of ascending colon
+pri_colorectal	SNOMEDCT	363409003	Malignant neoplasm of descending colon
+pri_colorectal	SNOMEDCT	363350007	Malignant neoplasm of caecum
+pri_colorectal	SNOMEDCT	363406005	Colonic cancer
+pri_colorectal	SNOMEDCT	254582000	Rectal carcinoma
+pri_colorectal	SNOMEDCT	315058005	Hereditary nonpolyposis colon cancer
+pri_colorectal	Read2_5digit	B13..	Malignant neoplasm of colon
+pri_colorectal	Read2_5digit	B130.	Malignant neoplasm of hepatic flexure of colon
+pri_colorectal	Read2_5digit	B131.	Malignant neoplasm of transverse colon
+pri_colorectal	Read2_5digit	B132.	Malignant neoplasm of descending colon
+pri_colorectal	Read2_5digit	B133.	Malignant neoplasm of sigmoid colon
+pri_colorectal	Read2_5digit	B134.	Malignant neoplasm of caecum
+pri_colorectal	Read2_5digit	B135.	Malignant neoplasm of appendix
+pri_colorectal	Read2_5digit	B136.	Malignant neoplasm of ascending colon
+pri_colorectal	Read2_5digit	B137.	Malignant neoplasm of splenic flexure of colon
+pri_colorectal	Read2_5digit	B138.	Malignant neoplasm, overlapping lesion of colon
+pri_colorectal	Read2_5digit	B139.	Hereditary nonpolyposis colon cancer
+pri_colorectal	Read2_5digit	B13y.	Malignant neoplasm of other specified sites of colon
+pri_colorectal	Read2_5digit	B13z.	Malignant neoplasm of colon NOS
+pri_colorectal	Read2_5digit	B140.	Malignant neoplasm of rectosigmoid junction
+pri_colorectal	Read2_5digit	B141.	Malignant neoplasm of rectum
+pri_colorectal	CTV3_5digit	B13..	Malignant neoplasm of colon
+pri_colorectal	CTV3_5digit	B130.	Malignant neoplasm of hepatic flexure of colon
+pri_colorectal	CTV3_5digit	B131.	Malignant neoplasm of transverse colon
+pri_colorectal	CTV3_5digit	B132.	Malignant neoplasm of descending colon
+pri_colorectal	CTV3_5digit	B133.	Malignant neoplasm of sigmoid colon
+pri_colorectal	CTV3_5digit	XE1vU	Malignant neoplasm of caecum
+pri_colorectal	CTV3_5digit	X78gM	Carcinoma of caecum
+pri_colorectal	CTV3_5digit	B135.	Malignant neoplasm of appendix
+pri_colorectal	CTV3_5digit	B136.	Malignant neoplasm of ascending colon
+pri_colorectal	CTV3_5digit	B137.	Malignant neoplasm of splenic flexure of colon
+pri_colorectal	CTV3_5digit	B138.	Malignant neoplasm, overlapping lesion of colon
+pri_colorectal	CTV3_5digit	B13y.	Malignant neoplasm of other specified sites of colon
+pri_colorectal	CTV3_5digit	XE1vV	Malignant neoplasm of colon NOS
+pri_colorectal	CTV3_5digit	B140.	Malignant neoplasm of rectosigmoid junction
+pri_colorectal	CTV3_5digit	XE1vW	Malignant neoplasm of rectum
+pri_colorectal	CTV3_5digit	X78OK	Carcinoma of rectum
+pri_colorectal	CTV3_5digit	B1z0.	Cancer of bowel

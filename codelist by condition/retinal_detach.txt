@@ -1,0 +1,225 @@
+condition	vocab_id	code	description
+retinal_detach	ICD10	H33	Retinal detachments and breaks
+retinal_detach	Read2	1481.00	H/O: retinal detachment
+retinal_detach	Read2	7271.00	Photocoagulation of retina for detachment
+retinal_detach	Read2	7271000	Xenon photocoagulation of retina for detachment
+retinal_detach	Read2	7271100	Laser photocoagulation of retina for detachment
+retinal_detach	Read2	7271y00	Other specified photocoagulation of retina for detachment
+retinal_detach	Read2	7271z00	Photocoagulation of retina for detachment NOS
+retinal_detach	Read2	F41..00	Retinal detachments and defects
+retinal_detach	Read2	F41..11	Retinal tears
+retinal_detach	Read2	F410.00	Retinal detachment with retinal defect
+retinal_detach	Read2	F410000	Unspecified retinal detachment with retinal defect
+retinal_detach	Read2	F410100	New partial retinal detachment with single defect
+retinal_detach	Read2	F410200	New partial retinal detachment with multiple defects
+retinal_detach	Read2	F410300	New partial retinal detachment with giant tear defect
+retinal_detach	Read2	F410400	New partial retinal detachment with retinal dialysis
+retinal_detach	Read2	F410500	Recent total retinal detachment
+retinal_detach	Read2	F410600	Recent subtotal retinal detachment
+retinal_detach	Read2	F410700	Old partial retinal detachment
+retinal_detach	Read2	F410800	Old total retinal detachment
+retinal_detach	Read2	F410900	Old subtotal retinal detachment
+retinal_detach	Read2	F410z00	Retinal detachment with defect NOS
+retinal_detach	Read2	F413.00	Retinal defects without detachment
+retinal_detach	Read2	F413100	Retinal round hole without detachment
+retinal_detach	Read2	F413200	Horseshoe retinal tear without detachment
+retinal_detach	Read2	F413300	Multiple retinal defects without detachment
+retinal_detach	Read2	F413400	Retinal break
+retinal_detach	Read2	F413z00	Retinal defects without detachment NOS
+retinal_detach	Read2	F41y.00	Other forms of retinal detachment
+retinal_detach	Read2	F41y000	Traction retinal detachment
+retinal_detach	Read2	F41yz00	Other retinal detachments NOS
+retinal_detach	Read2	F41z.00	Retinal detachment NOS
+retinal_detach	Read2	FyuF400	[X]Other retinal detachments
+retinal_detach	Read2	F411100	Flat retinoschisis
+retinal_detach	Read2	F411000	Retinoschisis unspecified
+retinal_detach	Read2	F411.00	Retinoschisis and retinal cysts
+retinal_detach	Read2	F411z00	Retinoschisis and retinal cyst NOS
+retinal_detach	Read2	F411500	Pseudocyst of retina
+retinal_detach	Read2	F412.00	Serious retinal detachment
+retinal_detach	CTV3	1481.Ya04W	H/O: retinal detachment
+retinal_detach	CTV3	7271.Y01cC	Photocoagulation of retina for detachment
+retinal_detach	CTV3	72710Y01cG	Xenon photocoagulation of retina for detachment
+retinal_detach	CTV3	72711Y01cF	Laser photocoagulation of retina for detachment
+retinal_detach	CTV3	7271yY01cE	Other specified photocoagulation of retina for detachment
+retinal_detach	CTV3	7271zY01cD	Photocoagulation of retina for detachment NOS
+retinal_detach	CTV3	XE15sY01wH	Retinal detachments and defects
+retinal_detach	CTV3	F41..YMImS	Retinal tears
+retinal_detach	CTV3	X00cxY01wg	Retinal break
+retinal_detach	CTV3	X00cxY01wh	Retinal tear
+retinal_detach	CTV3	F410.Y01wx	Rhegmatogenous retinal detachment
+retinal_detach	CTV3	F410.Y01wy	Retinal detachment with break
+retinal_detach	CTV3	F4100Y01x0	Unspecified retinal detachment with retinal defect
+retinal_detach	CTV3	F4101Y01x1	New partial retinal detachment with single defect
+retinal_detach	CTV3	F4102Y01x2	New partial retinal detachment with multiple defects
+retinal_detach	CTV3	F4103Y01x3	New partial retinal detachment with giant tear defect
+retinal_detach	CTV3	F4104Y01x4	New partial retinal detachment with retinal dialysis
+retinal_detach	CTV3	F4105Y01x5	Recent total retinal detachment
+retinal_detach	CTV3	F4106Y01x6	Recent subtotal retinal detachment
+retinal_detach	CTV3	F4107Y01x7	Old partial retinal detachment
+retinal_detach	CTV3	F4108Y01x8	Old total retinal detachment
+retinal_detach	CTV3	F4109Y01x9	Old subtotal retinal detachment
+retinal_detach	CTV3	F410zY01xA	Retinal detachment with defect NOS
+retinal_detach	CTV3	F411.Y01xK	Retinoschisis and retinal cysts
+retinal_detach	CTV3	F4110Y01xL	Retinoschisis unspecified
+retinal_detach	CTV3	F4111Y01xM	Flat retinoschisis
+retinal_detach	CTV3	F4115Y01xP	Pseudocyst of retina
+retinal_detach	CTV3	F411zY01xQ	Retinoschisis and retinal cyst NOS
+retinal_detach	CTV3	F412.Y01xH	Serous retinal detachment
+retinal_detach	CTV3	F413.Y01wi	Retinal defects without detachment
+retinal_detach	CTV3	F4131Y01wm	Retinal round hole without detachment
+retinal_detach	CTV3	F4132Y01wp	Horseshoe retinal tear without detachment
+retinal_detach	CTV3	F4133Y01wr	Multiple retinal defects without detachment
+retinal_detach	CTV3	F413zY01wk	Retinal defects without detachment NOS
+retinal_detach	CTV3	F41y.Y01wN	Other forms of retinal detachment
+retinal_detach	CTV3	F41y0Y01xD	Traction retinal detachment
+retinal_detach	CTV3	F41yzY01wO	Other retinal detachments NOS
+retinal_detach	CTV3	F41z.Y01wP	Retinal detachment NOS
+retinal_detach	CTV3	FyuF4YMAFY	[X]Other retinal detachments
+retinal_detach	medcodeid	65007012	Serous retinal detachment
+retinal_detach	medcodeid	112324017	Pseudocyst of retina
+retinal_detach	medcodeid	138336014	Flat retinoschisis
+retinal_detach	medcodeid	251652015	H/O: retinal detachment
+retinal_detach	medcodeid	297723010	New partial retinal detachment with single defect
+retinal_detach	medcodeid	297724016	New partial retinal detachment with multiple defects
+retinal_detach	medcodeid	297726019	New partial retinal detachment with retinal dialysis
+retinal_detach	medcodeid	297742014	Retinal defects without detachment
+retinal_detach	medcodeid	297745011	Horseshoe retinal tear without detachment
+retinal_detach	medcodeid	503951016	Photocoagulation of retina for detachment
+retinal_detach	medcodeid	1228202019	Traction retinal detachment
+retinal_detach	medcodeid	267138014	Photocoagulation of retina for detachment NOS
+retinal_detach	medcodeid	297722017	Unspecified retinal detachment with retinal defect
+retinal_detach	medcodeid	297732012	Retinal detachment with defect NOS
+retinal_detach	medcodeid	297734013	Retinoschisis unspecified
+retinal_detach	medcodeid	297750017	Other forms of retinal detachment
+retinal_detach	medcodeid	299475014	[X]Other retinal detachments
+retinal_detach	medcodeid	169841000006116	Retinal detachment with retinal defect
+retinal_detach	medcodeid	297744010	Retinal round hole without detachment
+retinal_detach	medcodeid	399429017	Retinal detachments and defects
+retinal_detach	medcodeid	170051000006112	Retinal tears
+retinal_detach	medcodeid	297751018	Other retinal detachments NOS
+retinal_detach	medcodeid	1235016010	Laser photocoagulation of retina for detachment
+retinal_detach	medcodeid	297733019	Retinoschisis and retinal cysts
+retinal_detach	medcodeid	297740018	Retinoschisis and retinal cyst NOS
+retinal_detach	medcodeid	297727011	Recent total retinal detachment
+retinal_detach	medcodeid	297746012	Multiple retinal defects without detachment
+retinal_detach	medcodeid	66667015	Retinal break
+retinal_detach	medcodeid	267137016	Other specified photocoagulation of retina for detachment
+retinal_detach	medcodeid	297749017	Retinal defects without detachment NOS
+retinal_detach	medcodeid	1221344016	Xenon photocoagulation of retina for detachment
+retinal_detach	medcodeid	297728018	Recent subtotal retinal detachment
+retinal_detach	medcodeid	297729014	Old partial retinal detachment
+retinal_detach	medcodeid	297730016	Old total retinal detachment
+retinal_detach	medcodeid	297725015	New partial retinal detachment with giant tear defect
+retinal_detach	medcodeid	297731017	Old subtotal retinal detachment
+retinal_detach	medcodeid	297752013	Retinal detachment NOS
+retinal_detach	SNOMEDCT	38599001	Serous retinal detachment
+retinal_detach	SNOMEDCT	67638006	Pseudocyst of retina
+retinal_detach	SNOMEDCT	83405000	Flat retinoschisis
+retinal_detach	SNOMEDCT	161487006	H/O: retinal detachment
+retinal_detach	SNOMEDCT	193319001	New partial retinal detachment with single defect
+retinal_detach	SNOMEDCT	193320007	New partial retinal detachment with multiple defects
+retinal_detach	SNOMEDCT	193322004	New partial retinal detachment with retinal dialysis
+retinal_detach	SNOMEDCT	193338005	Retinal defects without detachment
+retinal_detach	SNOMEDCT	193341001	Horseshoe retinal tear without detachment
+retinal_detach	SNOMEDCT	78917001	Photocoagulation of retina for detachment
+retinal_detach	SNOMEDCT	34711008	Traction retinal detachment
+retinal_detach	SNOMEDCT	78917001	Photocoagulation of retina for detachment NOS
+retinal_detach	SNOMEDCT	19620000	Unspecified retinal detachment with retinal defect
+retinal_detach	SNOMEDCT	19620000	Retinal detachment with defect NOS
+retinal_detach	SNOMEDCT	44268007	Retinoschisis unspecified
+retinal_detach	SNOMEDCT	42059000	Other forms of retinal detachment
+retinal_detach	SNOMEDCT	42059000	[X]Other retinal detachments
+retinal_detach	SNOMEDCT	19620000	Retinal detachment with retinal defect
+retinal_detach	SNOMEDCT	51226000	Retinal round hole without detachment
+retinal_detach	SNOMEDCT	29555009	Retinal detachments and defects
+retinal_detach	SNOMEDCT	95690009	Retinal tears
+retinal_detach	SNOMEDCT	42059000	Other retinal detachments NOS
+retinal_detach	SNOMEDCT	85231002	Laser photocoagulation of retina for detachment
+retinal_detach	SNOMEDCT	193329008	Retinoschisis and retinal cysts
+retinal_detach	SNOMEDCT	44268007	Retinoschisis and retinal cyst NOS
+retinal_detach	SNOMEDCT	193323009	Recent total retinal detachment
+retinal_detach	SNOMEDCT	193342008	Multiple retinal defects without detachment
+retinal_detach	SNOMEDCT	40024006	Retinal break
+retinal_detach	SNOMEDCT	78917001	Other specified photocoagulation of retina for detachment
+retinal_detach	SNOMEDCT	193338005	Retinal defects without detachment NOS
+retinal_detach	SNOMEDCT	10006000	Xenon photocoagulation of retina for detachment
+retinal_detach	SNOMEDCT	193324003	Recent subtotal retinal detachment
+retinal_detach	SNOMEDCT	193325002	Old partial retinal detachment
+retinal_detach	SNOMEDCT	193326001	Old total retinal detachment
+retinal_detach	SNOMEDCT	232004004	New partial retinal detachment with giant tear defect
+retinal_detach	SNOMEDCT	193327005	Old subtotal retinal detachment
+retinal_detach	SNOMEDCT	42059000	Retinal detachment NOS
+retinal_detach	Read2_5digit	1481.	H/O: retinal detachment
+retinal_detach	Read2_5digit	7271.	Photocoagulation of retina for detachment
+retinal_detach	Read2_5digit	72710	Xenon photocoagulation of retina for detachment
+retinal_detach	Read2_5digit	72711	Laser photocoagulation of retina for detachment
+retinal_detach	Read2_5digit	7271y	Other specified photocoagulation of retina for detachment
+retinal_detach	Read2_5digit	7271z	Photocoagulation of retina for detachment NOS
+retinal_detach	Read2_5digit	F41..	Retinal detachments and defects
+retinal_detach	Read2_5digit	F410.	Retinal detachment with retinal defect
+retinal_detach	Read2_5digit	F4100	Unspecified retinal detachment with retinal defect
+retinal_detach	Read2_5digit	F4101	New partial retinal detachment with single defect
+retinal_detach	Read2_5digit	F4102	New partial retinal detachment with multiple defects
+retinal_detach	Read2_5digit	F4103	New partial retinal detachment with giant tear defect
+retinal_detach	Read2_5digit	F4104	New partial retinal detachment with retinal dialysis
+retinal_detach	Read2_5digit	F4105	Recent total retinal detachment
+retinal_detach	Read2_5digit	F4106	Recent subtotal retinal detachment
+retinal_detach	Read2_5digit	F4107	Old partial retinal detachment
+retinal_detach	Read2_5digit	F4108	Old total retinal detachment
+retinal_detach	Read2_5digit	F4109	Old subtotal retinal detachment
+retinal_detach	Read2_5digit	F410z	Retinal detachment with defect NOS
+retinal_detach	Read2_5digit	F413.	Retinal defects without detachment
+retinal_detach	Read2_5digit	F4131	Retinal round hole without detachment
+retinal_detach	Read2_5digit	F4132	Horseshoe retinal tear without detachment
+retinal_detach	Read2_5digit	F4133	Multiple retinal defects without detachment
+retinal_detach	Read2_5digit	F4134	Retinal break
+retinal_detach	Read2_5digit	F413z	Retinal defects without detachment NOS
+retinal_detach	Read2_5digit	F41y.	Other forms of retinal detachment
+retinal_detach	Read2_5digit	F41y0	Traction retinal detachment
+retinal_detach	Read2_5digit	F41yz	Other retinal detachments NOS
+retinal_detach	Read2_5digit	F41z.	Retinal detachment NOS
+retinal_detach	Read2_5digit	FyuF4	[X]Other retinal detachments
+retinal_detach	Read2_5digit	F4111	Flat retinoschisis
+retinal_detach	Read2_5digit	F4110	Retinoschisis unspecified
+retinal_detach	Read2_5digit	F411.	Retinoschisis and retinal cysts
+retinal_detach	Read2_5digit	F411z	Retinoschisis and retinal cyst NOS
+retinal_detach	Read2_5digit	F4115	Pseudocyst of retina
+retinal_detach	Read2_5digit	F412.	Serious retinal detachment
+retinal_detach	CTV3_5digit	1481.	H/O: retinal detachment
+retinal_detach	CTV3_5digit	7271.	Photocoagulation of retina for detachment
+retinal_detach	CTV3_5digit	72710	Xenon photocoagulation of retina for detachment
+retinal_detach	CTV3_5digit	72711	Laser photocoagulation of retina for detachment
+retinal_detach	CTV3_5digit	7271y	Other specified photocoagulation of retina for detachment
+retinal_detach	CTV3_5digit	7271z	Photocoagulation of retina for detachment NOS
+retinal_detach	CTV3_5digit	XE15s	Retinal detachments and defects
+retinal_detach	CTV3_5digit	F41..	Retinal tears
+retinal_detach	CTV3_5digit	X00cx	Retinal break
+retinal_detach	CTV3_5digit	F410.	Rhegmatogenous retinal detachment
+retinal_detach	CTV3_5digit	F4100	Unspecified retinal detachment with retinal defect
+retinal_detach	CTV3_5digit	F4101	New partial retinal detachment with single defect
+retinal_detach	CTV3_5digit	F4102	New partial retinal detachment with multiple defects
+retinal_detach	CTV3_5digit	F4103	New partial retinal detachment with giant tear defect
+retinal_detach	CTV3_5digit	F4104	New partial retinal detachment with retinal dialysis
+retinal_detach	CTV3_5digit	F4105	Recent total retinal detachment
+retinal_detach	CTV3_5digit	F4106	Recent subtotal retinal detachment
+retinal_detach	CTV3_5digit	F4107	Old partial retinal detachment
+retinal_detach	CTV3_5digit	F4108	Old total retinal detachment
+retinal_detach	CTV3_5digit	F4109	Old subtotal retinal detachment
+retinal_detach	CTV3_5digit	F410z	Retinal detachment with defect NOS
+retinal_detach	CTV3_5digit	F411.	Retinoschisis and retinal cysts
+retinal_detach	CTV3_5digit	F4110	Retinoschisis unspecified
+retinal_detach	CTV3_5digit	F4111	Flat retinoschisis
+retinal_detach	CTV3_5digit	F4115	Pseudocyst of retina
+retinal_detach	CTV3_5digit	F411z	Retinoschisis and retinal cyst NOS
+retinal_detach	CTV3_5digit	F412.	Serous retinal detachment
+retinal_detach	CTV3_5digit	F413.	Retinal defects without detachment
+retinal_detach	CTV3_5digit	F4131	Retinal round hole without detachment
+retinal_detach	CTV3_5digit	F4132	Horseshoe retinal tear without detachment
+retinal_detach	CTV3_5digit	F4133	Multiple retinal defects without detachment
+retinal_detach	CTV3_5digit	F413z	Retinal defects without detachment NOS
+retinal_detach	CTV3_5digit	F41y.	Other forms of retinal detachment
+retinal_detach	CTV3_5digit	F41y0	Traction retinal detachment
+retinal_detach	CTV3_5digit	F41yz	Other retinal detachments NOS
+retinal_detach	CTV3_5digit	F41z.	Retinal detachment NOS
+retinal_detach	CTV3_5digit	FyuF4	[X]Other retinal detachments

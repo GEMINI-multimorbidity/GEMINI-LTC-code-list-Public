@@ -1,0 +1,723 @@
+condition	vocab_id	code	description
+OA	ICD10	M15	Polyarthrosis
+OA	ICD10	M16	Coxarthrosis [arthrosis of hip]
+OA	ICD10	M17	Gonarthrosis [arthrosis of knee]
+OA	ICD10	M18	Arthrosis of first carpometacarpal joint
+OA	ICD10	M19	Other arthrosis
+OA	Read2	14G2.00	H/O: osteoarthritis
+OA	Read2	2G26.00	O/E - hands - Heberden's nodes
+OA	Read2	7P20400	Delivery of rehabilitation for osteoarthritis
+OA	Read2	N05..00	Osteoarthritis and allied disorders
+OA	Read2	N05..11	Osteoarthritis
+OA	Read2	N050.00	Generalised osteoarthritis - OA
+OA	Read2	N050000	Generalised osteoarthritis of unspecified site
+OA	Read2	N050100	Generalised osteoarthritis of the hand
+OA	Read2	N050111	Heberdens' nodes
+OA	Read2	N050112	Bouchards' nodes
+OA	Read2	N050200	Generalised osteoarthritis of multiple sites
+OA	Read2	N050300	Bouchard's nodes with arthropathy
+OA	Read2	N050400	Primary generalized osteoarthrosis
+OA	Read2	N050500	Secondary multiple arthrosis
+OA	Read2	N050600	Erosive osteoarthrosis
+OA	Read2	N050700	Heberden's nodes with arthropathy
+OA	Read2	N050z00	Generalised osteoarthritis NOS
+OA	Read2	N051.00	Localised, primary osteoarthritis
+OA	Read2	N051000	Localised, primary osteoarthritis of unspecified site
+OA	Read2	N051100	Localised, primary osteoarthritis of the shoulder region
+OA	Read2	N051200	Localised, primary osteoarthritis of the upper arm
+OA	Read2	N051300	Localised, primary osteoarthritis of the forearm
+OA	Read2	N051400	Localised, primary osteoarthritis of the hand
+OA	Read2	N051500	Localised, primary osteoarthritis of the pelvic region and thigh
+OA	Read2	N051600	Localised, primary osteoarthritis of the lower leg
+OA	Read2	N051700	Localised, primary osteoarthritis of the ankle and foot
+OA	Read2	N051800	Localised, primary osteoarthritis of other specified site
+OA	Read2	N051900	Primary coxarthrosis, bilateral
+OA	Read2	N051A00	Coxarthrosis resulting from dysplasia, bilateral
+OA	Read2	N051B00	Primary gonarthrosis, bilateral
+OA	Read2	N051C00	Primary arthrosis of first carpometacarpal joints, bilateral
+OA	Read2	N051D00	Localised, primary osteoarthritis of the wrist
+OA	Read2	N051E00	Localised, primary osteoarthritis of toe
+OA	Read2	N051F00	Localised, primary osteoarthritis of elbow
+OA	Read2	N051G00	Osteoarthritis of spinal facet joint
+OA	Read2	N051z00	Localised, primary osteoarthritis NOS
+OA	Read2	N052.00	Localised, secondary osteoarthritis
+OA	Read2	N052000	Localised, secondary osteoarthritis of unspecified site
+OA	Read2	N052100	Localised, secondary osteoarthritis of the shoulder region
+OA	Read2	N052200	Localised, secondary osteoarthritis of the upper arm
+OA	Read2	N052300	Localised, secondary osteoarthritis of the forearm
+OA	Read2	N052400	Localised, secondary osteoarthritis of the hand
+OA	Read2	N052500	Localised, secondary osteoarthritis of the pelvic region and thigh
+OA	Read2	N052511	Coxae malum senilis
+OA	Read2	N052600	Localised, secondary osteoarthritis of the lower leg
+OA	Read2	N052700	Localised, secondary osteoarthritis of the ankle and foot
+OA	Read2	N052800	Localised, secondary osteoarthritis of other specified site
+OA	Read2	N052z00	Localised, secondary osteoarthritis NOS
+OA	Read2	N053.00	Localised osteoarthritis, unspecified
+OA	Read2	N053000	Localised osteoarthritis, unspecified, of unspecified site
+OA	Read2	N053100	Localised osteoarthritis, unspecified, of the shoulder region
+OA	Read2	N053200	Localised osteoarthritis, unspecified, of the upper arm
+OA	Read2	N053300	Localised osteoarthritis, unspecified, of the forearm
+OA	Read2	N053400	Localised osteoarthritis, unspecified, of the hand
+OA	Read2	N053500	Localised osteoarthritis, unspecified, of the pelvic region and thigh
+OA	Read2	N053512	Hip osteoarthitis NOS
+OA	Read2	N053600	Localised osteoarthritis, unspecified, of the lower leg
+OA	Read2	N053611	Patellofemoral osteoarthritis
+OA	Read2	N053700	Localised osteoarthritis, unspecified, of the ankle and foot
+OA	Read2	N053800	Localised osteoarthritis, unspecified, of other specified site
+OA	Read2	N053900	Arthrosis of first carpometacarpal joint, unspecified
+OA	Read2	N053z00	Localised osteoarthritis, unspecified, NOS
+OA	Read2	N054.00	Oligoarticular osteoarthritis, unspecified
+OA	Read2	N054000	Oligoarticular osteoarthritis, unspecified, of unspecified sites
+OA	Read2	N054100	Oligoarticular osteoarthritis, unspecified, of the shoulder region
+OA	Read2	N054200	Oligoarticular osteoarthritis, unspecified, of upper arm
+OA	Read2	N054400	Oligoarticular osteoarthritis, unspecified, of hand
+OA	Read2	N054500	Oligoarticular osteoarthritis, unspecified, of the pelvic region and thigh
+OA	Read2	N054600	Oligoarticular osteoarthritis, unspecified, of lower leg
+OA	Read2	N054700	Oligoarticular osteoarthritis, unspecified, of ankle and foot
+OA	Read2	N054800	Oligoarticular osteoarthritis, unspecified, of other specified sites
+OA	Read2	N054900	Oligoarticular osteoarthritis, unspecified, of multiple sites
+OA	Read2	N054z00	Osteoarthritis of more than one site, unspecified, NOS
+OA	Read2	N05z.00	Osteoarthritis NOS
+OA	Read2	N05z.11	Joint degeneration
+OA	Read2	N05z000	Osteoarthritis NOS, of unspecified site
+OA	Read2	N05z100	Osteoarthritis NOS, of shoulder region
+OA	Read2	N05z400	Osteoarthritis NOS, of the hand
+OA	Read2	N05z411	Finger osteoarthritis NOS
+OA	Read2	N05z412	Thumb osteoarthritis NOS
+OA	Read2	N05z500	Osteoarthritis NOS, pelvic region/thigh
+OA	Read2	N05z511	Hip osteoarthritis NOS
+OA	Read2	N05z600	Osteoarthritis NOS, of the lower leg
+OA	Read2	N05z611	Knee osteoarthritis NOS
+OA	Read2	N05z700	Osteoarthritis NOS, of ankle and foot
+OA	Read2	N05z711	Ankle osteoarthritis NOS
+OA	Read2	N05z712	Foot osteoarthritis NOS
+OA	Read2	N05z713	Toe osteoarthritis NOS
+OA	Read2	N05z800	Osteoarthritis NOS, other specified site
+OA	Read2	N05z900	Osteoarthritis NOS, of shoulder
+OA	Read2	N05zA00	Osteoarthritis NOS, of sternoclavicular joint
+OA	Read2	N05zB00	Osteoarthritis NOS, of acromioclavicular joint
+OA	Read2	N05zC00	Osteoarthritis NOS, of elbow
+OA	Read2	N05zD00	Osteoarthritis NOS, of distal radio-ulnar joint
+OA	Read2	N05zE00	Osteoarthritis NOS, of wrist
+OA	Read2	N05zF00	Osteoarthritis NOS, of metacarpophalangeal joint
+OA	Read2	N05zG00	Osteoarthritis NOS, of proximal interphalangeal joint of finger
+OA	Read2	N05zH00	Osteoarthritis NOS, of distal interphalangeal joint of finger
+OA	Read2	N05zJ00	Osteoarthritis NOS, of hip
+OA	Read2	N05zK00	Osteoarthritis NOS, of sacro-iliac joint
+OA	Read2	N05zL00	Osteoarthritis NOS, of knee
+OA	Read2	N05zM00	Osteoarthritis NOS, of tibio-fibular joint
+OA	Read2	N05zN00	Osteoarthritis NOS, of ankle
+OA	Read2	N05zP00	Osteoarthritis NOS, of subtalar joint
+OA	Read2	N05zQ00	Osteoarthritis NOS, of talonavicular joint
+OA	Read2	N05zR00	Osteoarthritis NOS, of other tarsal joint
+OA	Read2	N05zS00	Osteoarthritis NOS, of 1st metatarsophalangeal joint
+OA	Read2	N05zT00	Osteoarthritis NOS, of lesser metatarsophalangeal joint
+OA	Read2	N05zU00	Osteoarthritis NOS, of interphalangeal joint of toe
+OA	Read2	N05zz00	Osteoarthritis NOS
+OA	Read2	Nyu2.00	[X]Arthrosis
+OA	Read2	Nyu2000	[X]Other polyarthrosis
+OA	Read2	Nyu2100	[X]Other primary coxarthrosis
+OA	Read2	Nyu2200	[X]Other dysplastic coxarthrosis
+OA	Read2	Nyu2400	[X]Other secondary coxarthrosis, bilateral
+OA	Read2	Nyu2500	[X]Other primary gonarthrosis
+OA	Read2	Nyu2511	[X] Unilateral primary gonarthrosis
+OA	Read2	Nyu2700	[X]Other secondary gonarthrosis, bilateral
+OA	Read2	Nyu2800	[X]Other secondary gonarthrosis
+OA	Read2	Nyu2811	[X] Unilateral secondary gonarthrosis
+OA	Read2	Nyu2900	[X]Other primary arthrosis of first carpometacarpal joint
+OA	Read2	Nyu2D00	[X]Other specified arthrosis
+OA	Read2	Nyu2E00	[X]Other secondary coxarthrosis
+OA	Read2	Nyu2E11	[X] Unilateral secondary coxarthrosis
+OA	CTV3	14G2.Ya05a	H/O: osteoarthritis
+OA	CTV3	2G26.YM0TZ	O/E - hands - Heberden's nodes
+OA	CTV3	XaLskYap0U	Delivery of rehabilitation for osteoarthritis
+OA	CTV3	XE1DVY70KS	Osteoarthritis
+OA	CTV3	XE1DVY70KV	Osteoarthrosis
+OA	CTV3	N050.Y70LC	Generalised osteoarthritis
+OA	CTV3	N0500Y70LG	Generalised osteoarthritis of unspecified site
+OA	CTV3	XE1DWY70LF	Generalised osteoarthritis of the hand
+OA	CTV3	X76G5Y7Dbn	Bouchard's node
+OA	CTV3	XM05wY70M5	Heberden's node
+OA	CTV3	N0502Y70LE	Generalised osteoarthritis of multiple sites
+OA	CTV3	N0503YMAza	Bouchard's nodes with arthropathy
+OA	CTV3	X7038Y70LH	Idiopathic osteoarthritis
+OA	CTV3	X7038YadrP	Primary generalised osteoarthrosis
+OA	CTV3	N0505YMAqD	Secondary multiple arthrosis
+OA	CTV3	N0506YMAqE	Erosive osteoarthrosis
+OA	CTV3	N0507YMB8a	Heberden's nodes with arthropathy
+OA	CTV3	N050zY70LD	Generalised osteoarthritis NOS
+OA	CTV3	N051.Y70Mw	Localised, primary osteoarthritis
+OA	CTV3	N0510Y70N5	Localised, primary osteoarthritis of unspecified site
+OA	CTV3	N0511Y70N4	Localised, primary osteoarthritis of the shoulder region
+OA	CTV3	N0512Y70N3	Localised, primary osteoarthritis of the upper arm
+OA	CTV3	N0513Y70N2	Localised, primary osteoarthritis of the forearm
+OA	CTV3	N0514Y70N1	Localised, primary osteoarthritis of the hand
+OA	CTV3	N0515Y70N0	Localised, primary osteoarthritis of the pelvic region and thigh
+OA	CTV3	N0516Y70Mz	Localised, primary osteoarthritis of the lower leg
+OA	CTV3	N0517Y70My	Localised, primary osteoarthritis of the ankle and foot
+OA	CTV3	N0518Y70Mx	Localised, primary osteoarthritis of other specified site
+OA	CTV3	N0519YMArX	Primary coxarthrosis, bilateral
+OA	CTV3	N051AYMArY	Coxarthrosis resulting from dysplasia, bilateral
+OA	CTV3	N051BYMArZ	Primary gonarthrosis, bilateral
+OA	CTV3	N051CYMArb	Primary arthrosis of first carpometacarpal joints, bilateral
+OA	CTV3	XaEGdYaeYM	Localised, primary osteoarthritis of the wrist
+OA	CTV3	XaEGeYaeYN	Localised, primary osteoarthritis of toe
+OA	CTV3	XaEGfYaeYO	Localised, primary osteoarthritis of elbow
+OA	CTV3	X703AY70LN	Osteoarthritis of spinal facet joint
+OA	CTV3	N051zY70N6	Localised, primary osteoarthritis NOS
+OA	CTV3	N052.Y70N7	Localised, secondary osteoarthritis
+OA	CTV3	N0520Y70NI	Localised, secondary osteoarthritis of unspecified site
+OA	CTV3	N0521Y70NH	Localised, secondary osteoarthritis of the shoulder region
+OA	CTV3	N0522Y70NG	Localised, secondary osteoarthritis of the upper arm
+OA	CTV3	N0523Y70NF	Localised, secondary osteoarthritis of the forearm
+OA	CTV3	N0524Y70NE	Localised, secondary osteoarthritis of the hand
+OA	CTV3	XE1DXY70NC	Localised, secondary osteoarthritis of the pelvic region and thigh
+OA	CTV3	X7043Y70ND	Coxae malum senilis
+OA	CTV3	N0526Y70NB	Localised, secondary osteoarthritis of the lower leg
+OA	CTV3	N0527Y70NA	Localised, secondary osteoarthritis of the ankle and foot
+OA	CTV3	N0528Y70N9	Localised, secondary osteoarthritis of other specified site
+OA	CTV3	N052zY70N8	Localised, secondary osteoarthritis NOS
+OA	CTV3	N053.Y70Mk	Localised osteoarthritis, unspecified
+OA	CTV3	N0530Y70Mv	Localised osteoarthritis, unspecified, of unspecified site
+OA	CTV3	N0531Y70Mu	Localised osteoarthritis, unspecified, of the shoulder region
+OA	CTV3	N0532Y70Mt	Localised osteoarthritis, unspecified, of the upper arm
+OA	CTV3	N0533Y70Ms	Localised osteoarthritis, unspecified, of the forearm
+OA	CTV3	N0534Y70Mr	Localised osteoarthritis, unspecified, of the hand
+OA	CTV3	XE1DYY70Mp	Localised osteoarthritis, unspecified, of the pelvic region and thigh
+OA	CTV3	N05zJY70Kq	Hip osteoarthritis NOS
+OA	CTV3	XE1DZY70Mo	Localised osteoarthritis, unspecified, of the lower leg
+OA	CTV3	N0536YaYC5	Patellofemoral osteoarthritis
+OA	CTV3	X703LY70Le	Osteoarthritis of knee
+OA	CTV3	X703LY70Lf	OA - Osteoarthritis of knee
+OA	CTV3	XaYQDYaYC5	Patellofemoral osteoarthritis
+OA	CTV3	N0537Y70Mn	Localised osteoarthritis, unspecified, of the ankle and foot
+OA	CTV3	N0538Y70Mm	Localised osteoarthritis, unspecified, of other specified site
+OA	CTV3	N0539YaYn3	Arthrosis of first carpometacarpal joint, unspecified
+OA	CTV3	N053zY70Ml	Localised osteoarthritis, unspecified, NOS
+OA	CTV3	N054.Y70L0	Oligoarticular osteoarthritis, unspecified
+OA	CTV3	N0540Y70LB	Oligoarticular osteoarthritis, unspecified, of unspecified sites
+OA	CTV3	N0541Y70LA	Oligoarticular osteoarthritis, unspecified, of the shoulder region
+OA	CTV3	N0542Y70L9	Oligoarticular osteoarthritis, unspecified, of upper arm
+OA	CTV3	N0544Y70L7	Oligoarticular osteoarthritis, unspecified, of hand
+OA	CTV3	N0545Y70L6	Oligoarticular osteoarthritis, unspecified, of the pelvic region and thigh
+OA	CTV3	N0546Y70L5	Oligoarticular osteoarthritis, unspecified, of lower leg
+OA	CTV3	N0547Y70L4	Oligoarticular osteoarthritis, unspecified, of ankle and foot
+OA	CTV3	N0548Y70L3	Oligoarticular osteoarthritis, unspecified, of other specified sites
+OA	CTV3	N0549Y70L2	Oligoarticular osteoarthritis, unspecified, of multiple sites
+OA	CTV3	N054zY70L1	Osteoarthritis of more than one site, unspecified, NOS
+OA	CTV3	XE1DaY70KY	Osteoarthritis NOS
+OA	CTV3	N05z0Y70Kz	Osteoarthritis NOS, of unspecified site
+OA	CTV3	N05z1Y70Ky	Osteoarthritis NOS, of shoulder region
+OA	CTV3	XE1DdY70Kr	Osteoarthritis NOS, of the hand
+OA	CTV3	X7035Y70Kt	Finger osteoarthritis NOS
+OA	CTV3	X7034Y70Ks	Thumb osteoarthritis NOS
+OA	CTV3	XE1DeY70Kp	Osteoarthritis NOS, pelvic region/thigh
+OA	CTV3	XE1DfY70Kn	Osteoarthritis NOS, of the lower leg
+OA	CTV3	N05zLY70Ko	Knee osteoarthritis NOS
+OA	CTV3	XE1DgY70Kj	Osteoarthritis NOS, of ankle and foot
+OA	CTV3	X7031Y70Km	Ankle osteoarthritis NOS
+OA	CTV3	X7030Y70Kl	Foot osteoarthritis NOS
+OA	CTV3	X702zY70Kk	Toe osteoarthritis NOS
+OA	CTV3	N05z8Y70Ki	Osteoarthritis NOS, other specified site
+OA	CTV3	N05z9Y70NO	Osteoarthritis NOS, of shoulder
+OA	CTV3	N05zAY70Kh	Osteoarthritis NOS, of sternoclavicular joint
+OA	CTV3	N05zBY70NR	Osteoarthritis NOS, of acromioclavicular joint
+OA	CTV3	N05zCY70NU	Osteoarthritis NOS, of elbow
+OA	CTV3	N05zDYadOC	Osteoarthritis NOS, of distal radioulnar joint
+OA	CTV3	N05zEY70NY	Osteoarthritis NOS, of wrist
+OA	CTV3	N05zFY70Kf	Osteoarthritis NOS, of metacarpophalangeal joint
+OA	CTV3	N05zGY70Nh	Osteoarthritis NOS, of proximal interphalangeal joint of finger
+OA	CTV3	N05zHY70Nf	Osteoarthritis NOS, of distal interphalangeal joint of finger
+OA	CTV3	N05zJY70Nl	Osteoarthritis NOS, of hip
+OA	CTV3	N05zKYadOV	Osteoarthritis NOS, of sacroiliac joint
+OA	CTV3	N05zLY70Nq	Osteoarthritis NOS, of knee
+OA	CTV3	N05zMYadDf	Osteoarthritis NOS, of tibiofibular joint
+OA	CTV3	N05zNY70Nt	Osteoarthritis NOS, of ankle
+OA	CTV3	N05zPY70Nw	Osteoarthritis NOS, of subtalar joint
+OA	CTV3	N05zQY70Kc	Osteoarthritis NOS, of talonavicular joint
+OA	CTV3	N05zRY70Kb	Osteoarthritis NOS, of other tarsal joint
+OA	CTV3	N05zSY70O0	Osteoarthritis NOS, of 1st metatarsophalangeal joint
+OA	CTV3	N05zTY70Ka	Osteoarthritis NOS, of lesser metatarsophalangeal joint
+OA	CTV3	N05zUY70O3	Osteoarthritis NOS, of interphalangeal joint of toe
+OA	CTV3	Nyu2.YMAMk	[X]Arthrosis
+OA	CTV3	Nyu20YMAMl	[X]Other polyarthrosis
+OA	CTV3	Nyu21YMAMm	[X]Other primary coxarthrosis
+OA	CTV3	Nyu22YMAMn	[X]Other dysplastic coxarthrosis
+OA	CTV3	Nyu24YMAMp	[X]Other secondary coxarthrosis, bilateral
+OA	CTV3	XE1GTYMAMq	[X]Other primary gonarthrosis
+OA	CTV3	Nyu27YMAMs	[X]Other secondary gonarthrosis, bilateral
+OA	CTV3	XE1GUYMAMt	[X]Other secondary gonarthrosis
+OA	CTV3	Nyu29YMAMu	[X]Other primary arthrosis of first carpometacarpal joint
+OA	CTV3	Nyu2DYMAMy	[X]Other specified arthrosis
+OA	CTV3	XE1GVYMAMz	[X]Other secondary coxarthrosis
+OA	medcodeid	255924016	O/E - hands - Heberden's nodes
+OA	medcodeid	309876015	Secondary multiple arthrosis
+OA	medcodeid	309877012	Erosive osteoarthrosis
+OA	medcodeid	309878019	Heberden's nodes with arthropathy
+OA	medcodeid	309892013	Localised, primary osteoarthritis of the hand
+OA	medcodeid	309901013	Primary coxarthrosis, bilateral
+OA	medcodeid	309903011	Primary gonarthrosis, bilateral
+OA	medcodeid	309914014	Localised, secondary osteoarthritis
+OA	medcodeid	309933016	Localised, secondary osteoarthritis of the ankle and foot
+OA	medcodeid	400175010	Generalised osteoarthritis of the hand
+OA	medcodeid	457118013	Localised, primary osteoarthritis of the wrist
+OA	medcodeid	457121010	Localised, primary osteoarthritis of toe
+OA	medcodeid	309911018	Localised, primary osteoarthritis NOS
+OA	medcodeid	309950019	Localised osteoarthritis, unspecified, of the forearm
+OA	medcodeid	309972017	Oligoarticular osteoarthritis, unspecified
+OA	medcodeid	309977011	Oligoarticular osteoarthritis, unspecified, of hand
+OA	medcodeid	309979014	Oligoarticular osteoarthritis, unspecified, of lower leg
+OA	medcodeid	309988017	Osteoarthritis NOS, of shoulder region
+OA	medcodeid	310010015	Osteoarthritis NOS, other specified site
+OA	medcodeid	310012011	Osteoarthritis NOS, of sternoclavicular joint
+OA	medcodeid	310013018	Osteoarthritis NOS, of acromioclavicular joint
+OA	medcodeid	310014012	Osteoarthritis NOS, of elbow
+OA	medcodeid	310020013	Osteoarthritis NOS, of hip
+OA	medcodeid	310026019	Osteoarthritis NOS, of ankle
+OA	medcodeid	310028018	Osteoarthritis NOS, of talonavicular joint
+OA	medcodeid	310029014	Osteoarthritis NOS, of other tarsal joint
+OA	medcodeid	359383011	Toe osteoarthritis NOS
+OA	medcodeid	359388019	Thumb osteoarthritis NOS
+OA	medcodeid	400186012	Osteoarthritis NOS, pelvic region/thigh
+OA	medcodeid	400187015	Osteoarthritis NOS, of the lower leg
+OA	medcodeid	400188013	Osteoarthritis NOS, of ankle and foot
+OA	medcodeid	18051000006110	Osteoarthritis NOS, of PIP joint of finger
+OA	medcodeid	31041000006113	Osteoarthritis NOS, of distal radio-ulnar joint
+OA	medcodeid	31071000006117	Osteoarthritis NOS, of IP joint of toe
+OA	medcodeid	31101000006110	Osteoarthritis NOS, of MCP joint
+OA	medcodeid	41261000006115	Osteoarthritis and allied disorders
+OA	medcodeid	41281000006113	Osteoarthritis NOS
+OA	medcodeid	41301000006112	Osteoarthritis NOS, of 1st MTP joint
+OA	medcodeid	221511000000115	Hip osteoarthritis NOS
+OA	medcodeid	264481000006111	Oligoarticular osteoarthritis, unspecified, of shoulder
+OA	medcodeid	264501000006118	Oligoarticular osteoarthritis, unspecified, other spec sites
+OA	medcodeid	265861000006116	Oligoarticular osteoarthritis, unspecified, multiple sites
+OA	medcodeid	523471000006111	Bouchards' nodes
+OA	medcodeid	736171000006110	Localised, secondary osteoarthritis of pelvic region/thigh
+OA	medcodeid	800731000006117	Generalised osteoarthritis - OA
+OA	medcodeid	800751000006112	Generalised osteoarthritis of multiple sites
+OA	medcodeid	819391000006114	Heberdens' nodes
+OA	medcodeid	312553018	[X]Other specified arthrosis
+OA	medcodeid	312537016	[X]Other primary coxarthrosis
+OA	medcodeid	312540016	[X]Other secondary coxarthrosis, bilateral
+OA	medcodeid	312545014	[X]Other secondary gonarthrosis, bilateral
+OA	medcodeid	359221000006114	[X] Unilateral secondary coxarthrosis
+OA	medcodeid	359231000006112	[X] Unilateral secondary gonarthrosis
+OA	medcodeid	309915010	Localised, secondary osteoarthritis of unspecified site
+OA	medcodeid	309930018	Localised, secondary osteoarthritis of the lower leg
+OA	medcodeid	309949019	Localised osteoarthritis, unspecified, of the upper arm
+OA	medcodeid	309971012	Localised osteoarthritis, unspecified, NOS
+OA	medcodeid	400355013	[X]Other primary gonarthrosis
+OA	medcodeid	370721000000116	Delivery of rehabilitation for osteoarthritis
+OA	medcodeid	251795011	H/O: osteoarthritis
+OA	medcodeid	264471000006113	Oligoarticular osteoarthritis, unspecified, of pelvis/thigh
+OA	medcodeid	309896011	Localised, primary osteoarthritis of the lower leg
+OA	medcodeid	309969012	Arthrosis of first carpometacarpal joint, unspecified
+OA	medcodeid	310027011	Osteoarthritis NOS, of subtalar joint
+OA	medcodeid	359389010	Finger osteoarthritis NOS
+OA	medcodeid	736711000006119	Localised osteoarthritis, unspecified, of shoulder region
+OA	medcodeid	523461000006116	Bouchard's nodes with arthropathy
+OA	medcodeid	400357017	[X]Other secondary coxarthrosis
+OA	medcodeid	309922019	Localised, secondary osteoarthritis of the forearm
+OA	medcodeid	309934010	Localised, secondary osteoarthritis of other specified site
+OA	medcodeid	400181019	Localised osteoarthritis, unspecified, of the lower leg
+OA	medcodeid	265841000006115	Oligoarticular osteoarthritis, unspec, of unspecified sites
+OA	medcodeid	309880013	Generalised osteoarthritis NOS
+OA	medcodeid	309942011	Localised osteoarthritis, unspecified
+OA	medcodeid	309953017	Localised osteoarthritis, unspecified, of the hand
+OA	medcodeid	309975015	Oligoarticular osteoarthritis, unspecified, of upper arm
+OA	medcodeid	310011016	Osteoarthritis NOS, of shoulder
+OA	medcodeid	310016014	Osteoarthritis NOS, of wrist
+OA	medcodeid	309881012	Localised, primary osteoarthritis
+OA	medcodeid	309898012	Localised, primary osteoarthritis of the ankle and foot
+OA	medcodeid	309918012	Localised, secondary osteoarthritis of the shoulder region
+OA	medcodeid	823951000006111	Hip osteoarthitis NOS
+OA	medcodeid	312535012	[X]Arthrosis
+OA	medcodeid	240071000006115	Patellofemoral osteoarthritis
+OA	medcodeid	312549015	[X]Other primary arthrosis of first carpometacarpal joint
+OA	medcodeid	359399017	Primary generalized osteoarthrosis
+OA	medcodeid	309862016	Generalised osteoarthritis of unspecified site
+OA	medcodeid	309899016	Localised, primary osteoarthritis of other specified site
+OA	medcodeid	312536013	[X]Other polyarthrosis
+OA	medcodeid	1776248011	Osteoarthritis
+OA	medcodeid	309904017	Primary arthrosis of first carpometacarpal joints, bilateral
+OA	medcodeid	309923012	Localised, secondary osteoarthritis of the hand
+OA	medcodeid	91728013	Coxae malum senilis
+OA	medcodeid	757071000006113	Joint degeneration
+OA	medcodeid	312538014	[X]Other dysplastic coxarthrosis
+OA	medcodeid	736701000006117	Localised osteoarthritis, unspecified, of other spec site
+OA	medcodeid	309919016	Localised, secondary osteoarthritis of the upper arm
+OA	medcodeid	309945013	Localised osteoarthritis, unspecified, of unspecified site
+OA	medcodeid	359211000006118	[X] Unilateral primary gonarthrosis
+OA	medcodeid	400356014	[X]Other secondary gonarthrosis
+OA	medcodeid	359402016	Osteoarthritis of spinal facet joint
+OA	medcodeid	457122015	Localised, primary osteoarthritis of elbow
+OA	medcodeid	309885015	Localised, primary osteoarthritis of the shoulder region
+OA	medcodeid	309902018	Coxarthrosis resulting from dysplasia, bilateral
+OA	medcodeid	736911000006116	Localised, primary osteoarthritis of the pelvic region/thigh
+OA	medcodeid	309884016	Localised, primary osteoarthritis of unspecified site
+OA	medcodeid	309888018	Localised, primary osteoarthritis of the upper arm
+OA	medcodeid	309889014	Localised, primary osteoarthritis of the forearm
+OA	medcodeid	309941016	Localised, secondary osteoarthritis NOS
+OA	medcodeid	309965018	Localised osteoarthritis, unspecified, of the ankle and foot
+OA	medcodeid	309983014	Osteoarthritis of more than one site, unspecified, NOS
+OA	medcodeid	309987010	Osteoarthritis NOS, of unspecified site
+OA	medcodeid	310024016	Osteoarthritis NOS, of knee
+OA	medcodeid	359384017	Foot osteoarthritis NOS
+OA	medcodeid	359385016	Ankle osteoarthritis NOS
+OA	medcodeid	400182014	Osteoarthritis NOS
+OA	medcodeid	400185011	Osteoarthritis NOS, of the hand
+OA	medcodeid	18061000006112	Osteoarthritis NOS, of sacro-iliac joint
+OA	medcodeid	18121000006117	Osteoarthritis NOS, of tibio-fibular joint
+OA	medcodeid	31031000006115	Osteoarthritis NOS, of DIP joint of finger
+OA	medcodeid	31091000006116	Osteoarthritis NOS, of lesser MTP joint
+OA	medcodeid	221521000000114	Knee osteoarthritis NOS
+OA	medcodeid	265871000006111	Oligoarticular osteoarthritis, unspecified, of ankle/foot
+OA	medcodeid	736781000006114	Localised osteoarthritis, unspecified, pelvic region/thigh
+OA	SNOMEDCT	164455009	O/E - hands - Heberden's nodes
+OA	SNOMEDCT	201825001	Secondary multiple arthrosis
+OA	SNOMEDCT	201826000	Erosive osteoarthrosis
+OA	SNOMEDCT	201827009	Heberden's nodes with arthropathy
+OA	SNOMEDCT	201834006	Localised, primary osteoarthritis of the hand
+OA	SNOMEDCT	201839001	Primary coxarthrosis, bilateral
+OA	SNOMEDCT	201841000	Primary gonarthrosis, bilateral
+OA	SNOMEDCT	201847001	Localised, secondary osteoarthritis
+OA	SNOMEDCT	201855008	Localised, secondary osteoarthritis of the ankle and foot
+OA	SNOMEDCT	267889007	Generalised osteoarthritis of the hand
+OA	SNOMEDCT	313257005	Localised, primary osteoarthritis of the wrist
+OA	SNOMEDCT	313258000	Localised, primary osteoarthritis of toe
+OA	SNOMEDCT	201829007	Localised, primary osteoarthritis NOS
+OA	SNOMEDCT	43270005	Localised osteoarthritis, unspecified, of the forearm
+OA	SNOMEDCT	268054009	Oligoarticular osteoarthritis, unspecified
+OA	SNOMEDCT	22193007	Oligoarticular osteoarthritis, unspecified, of hand
+OA	SNOMEDCT	396275006	Oligoarticular osteoarthritis, unspecified, of lower leg
+OA	SNOMEDCT	67315001	Osteoarthritis NOS, of shoulder region
+OA	SNOMEDCT	396275006	Osteoarthritis NOS, other specified site
+OA	SNOMEDCT	850791000000102	Osteoarthritis NOS, of sternoclavicular joint
+OA	SNOMEDCT	239865003	Osteoarthritis NOS, of acromioclavicular joint
+OA	SNOMEDCT	239866002	Osteoarthritis NOS, of elbow
+OA	SNOMEDCT	239872002	Osteoarthritis NOS, of hip
+OA	SNOMEDCT	239874001	Osteoarthritis NOS, of ankle
+OA	SNOMEDCT	700324005	Osteoarthritis NOS, of talonavicular joint
+OA	SNOMEDCT	396275006	Osteoarthritis NOS, of other tarsal joint
+OA	SNOMEDCT	239878003	Toe osteoarthritis NOS
+OA	SNOMEDCT	37895003	Thumb osteoarthritis NOS
+OA	SNOMEDCT	445478004	Osteoarthritis NOS, pelvic region/thigh
+OA	SNOMEDCT	396275006	Osteoarthritis NOS, of the lower leg
+OA	SNOMEDCT	201837004	Osteoarthritis NOS, of ankle and foot
+OA	SNOMEDCT	239870005	Osteoarthritis NOS, of PIP joint of finger
+OA	SNOMEDCT	396275006	Osteoarthritis NOS, of distal radio-ulnar joint
+OA	SNOMEDCT	239878003	Osteoarthritis NOS, of IP joint of toe
+OA	SNOMEDCT	275324008	Osteoarthritis NOS, of MCP joint
+OA	SNOMEDCT	396275006	Osteoarthritis and allied disorders
+OA	SNOMEDCT	396275006	Osteoarthritis NOS
+OA	SNOMEDCT	239877008	Osteoarthritis NOS, of 1st MTP joint
+OA	SNOMEDCT	239872002	Hip osteoarthritis NOS
+OA	SNOMEDCT	396275006	Oligoarticular osteoarthritis, unspecified, of shoulder
+OA	SNOMEDCT	396275006	Oligoarticular osteoarthritis, unspecified, other spec sites
+OA	SNOMEDCT	268054009	Oligoarticular osteoarthritis, unspecified, multiple sites
+OA	SNOMEDCT	20243008	Bouchards' nodes
+OA	SNOMEDCT	267890003	Localised, secondary osteoarthritis of pelvic region/thigh
+OA	SNOMEDCT	201819000	Generalised osteoarthritis - OA
+OA	SNOMEDCT	201819000	Generalised osteoarthritis of multiple sites
+OA	SNOMEDCT	371598009	Heberdens' nodes
+OA	SNOMEDCT	399269003	[X]Other specified arthrosis
+OA	SNOMEDCT	399269003	[X]Other primary coxarthrosis
+OA	SNOMEDCT	399269003	[X]Other secondary coxarthrosis, bilateral
+OA	SNOMEDCT	399269003	[X]Other secondary gonarthrosis, bilateral
+OA	SNOMEDCT	399269003	[X] Unilateral secondary coxarthrosis
+OA	SNOMEDCT	399269003	[X] Unilateral secondary gonarthrosis
+OA	SNOMEDCT	201847001	Localised, secondary osteoarthritis of unspecified site
+OA	SNOMEDCT	201847001	Localised, secondary osteoarthritis of the lower leg
+OA	SNOMEDCT	33952002	Localised osteoarthritis, unspecified, of the upper arm
+OA	SNOMEDCT	33952002	Localised osteoarthritis, unspecified, NOS
+OA	SNOMEDCT	239873007	[X]Other primary gonarthrosis
+OA	SNOMEDCT	230771000000108	Delivery of rehabilitation for osteoarthritis
+OA	SNOMEDCT	161568003	H/O: osteoarthritis
+OA	SNOMEDCT	396275006	Oligoarticular osteoarthritis, unspecified, of pelvis/thigh
+OA	SNOMEDCT	201829007	Localised, primary osteoarthritis of the lower leg
+OA	SNOMEDCT	37895003	Arthrosis of first carpometacarpal joint, unspecified
+OA	SNOMEDCT	239876004	Osteoarthritis NOS, of subtalar joint
+OA	SNOMEDCT	239868001	Finger osteoarthritis NOS
+OA	SNOMEDCT	67315001	Localised osteoarthritis, unspecified, of shoulder region
+OA	SNOMEDCT	20243008	Bouchard's nodes with arthropathy
+OA	SNOMEDCT	399269003	[X]Other secondary coxarthrosis
+OA	SNOMEDCT	201847001	Localised, secondary osteoarthritis of the forearm
+OA	SNOMEDCT	201847001	Localised, secondary osteoarthritis of other specified site
+OA	SNOMEDCT	33952002	Localised osteoarthritis, unspecified, of the lower leg
+OA	SNOMEDCT	268054009	Oligoarticular osteoarthritis, unspec, of unspecified sites
+OA	SNOMEDCT	201819000	Generalised osteoarthritis NOS
+OA	SNOMEDCT	33952002	Localised osteoarthritis, unspecified
+OA	SNOMEDCT	22193007	Localised osteoarthritis, unspecified, of the hand
+OA	SNOMEDCT	396275006	Oligoarticular osteoarthritis, unspecified, of upper arm
+OA	SNOMEDCT	67315001	Osteoarthritis NOS, of shoulder
+OA	SNOMEDCT	239867006	Osteoarthritis NOS, of wrist
+OA	SNOMEDCT	201829007	Localised, primary osteoarthritis
+OA	SNOMEDCT	201837004	Localised, primary osteoarthritis of the ankle and foot
+OA	SNOMEDCT	201849003	Localised, secondary osteoarthritis of the shoulder region
+OA	SNOMEDCT	239872002	Hip osteoarthitis NOS
+OA	SNOMEDCT	399269003	[X]Arthrosis
+OA	SNOMEDCT	450521003	Patellofemoral osteoarthritis
+OA	SNOMEDCT	399269003	[X]Other primary arthrosis of first carpometacarpal joint
+OA	SNOMEDCT	239862000	Primary generalized osteoarthrosis
+OA	SNOMEDCT	201819000	Generalised osteoarthritis of unspecified site
+OA	SNOMEDCT	201829007	Localised, primary osteoarthritis of other specified site
+OA	SNOMEDCT	36186002	[X]Other polyarthrosis
+OA	SNOMEDCT	396275006	Osteoarthritis
+OA	SNOMEDCT	201842007	Primary arthrosis of first carpometacarpal joints, bilateral
+OA	SNOMEDCT	201852006	Localised, secondary osteoarthritis of the hand
+OA	SNOMEDCT	55176002	Coxae malum senilis
+OA	SNOMEDCT	396275006	Joint degeneration
+OA	SNOMEDCT	399269003	[X]Other dysplastic coxarthrosis
+OA	SNOMEDCT	33952002	Localised osteoarthritis, unspecified, of other spec site
+OA	SNOMEDCT	201847001	Localised, secondary osteoarthritis of the upper arm
+OA	SNOMEDCT	33952002	Localised osteoarthritis, unspecified, of unspecified site
+OA	SNOMEDCT	239873007	[X] Unilateral primary gonarthrosis
+OA	SNOMEDCT	399269003	[X]Other secondary gonarthrosis
+OA	SNOMEDCT	239863005	Osteoarthritis of spinal facet joint
+OA	SNOMEDCT	313259008	Localised, primary osteoarthritis of elbow
+OA	SNOMEDCT	201831003	Localised, primary osteoarthritis of the shoulder region
+OA	SNOMEDCT	201840004	Coxarthrosis resulting from dysplasia, bilateral
+OA	SNOMEDCT	201835007	Localised, primary osteoarthritis of the pelvic region/thigh
+OA	SNOMEDCT	201829007	Localised, primary osteoarthritis of unspecified site
+OA	SNOMEDCT	313259008	Localised, primary osteoarthritis of the upper arm
+OA	SNOMEDCT	313257005	Localised, primary osteoarthritis of the forearm
+OA	SNOMEDCT	201847001	Localised, secondary osteoarthritis NOS
+OA	SNOMEDCT	201837004	Localised osteoarthritis, unspecified, of the ankle and foot
+OA	SNOMEDCT	268054009	Osteoarthritis of more than one site, unspecified, NOS
+OA	SNOMEDCT	396275006	Osteoarthritis NOS, of unspecified site
+OA	SNOMEDCT	239873007	Osteoarthritis NOS, of knee
+OA	SNOMEDCT	309246000	Foot osteoarthritis NOS
+OA	SNOMEDCT	239874001	Ankle osteoarthritis NOS
+OA	SNOMEDCT	22193007	Osteoarthritis NOS, of the hand
+OA	SNOMEDCT	55146009	Osteoarthritis NOS, of sacro-iliac joint
+OA	SNOMEDCT	396275006	Osteoarthritis NOS, of tibio-fibular joint
+OA	SNOMEDCT	239869009	Osteoarthritis NOS, of DIP joint of finger
+OA	SNOMEDCT	239878003	Osteoarthritis NOS, of lesser MTP joint
+OA	SNOMEDCT	239873007	Knee osteoarthritis NOS
+OA	SNOMEDCT	396275006	Oligoarticular osteoarthritis, unspecified, of ankle/foot
+OA	SNOMEDCT	267891004	Localised osteoarthritis, unspecified, pelvic region/thigh
+OA	Read2_5digit	14G2.	H/O: osteoarthritis
+OA	Read2_5digit	2G26.	O/E - hands - Heberden's nodes
+OA	Read2_5digit	7P204	Delivery of rehabilitation for osteoarthritis
+OA	Read2_5digit	N05..	Osteoarthritis and allied disorders
+OA	Read2_5digit	N050.	Generalised osteoarthritis - OA
+OA	Read2_5digit	N0500	Generalised osteoarthritis of unspecified site
+OA	Read2_5digit	N0501	Generalised osteoarthritis of the hand
+OA	Read2_5digit	N0502	Generalised osteoarthritis of multiple sites
+OA	Read2_5digit	N0503	Bouchard's nodes with arthropathy
+OA	Read2_5digit	N0504	Primary generalized osteoarthrosis
+OA	Read2_5digit	N0505	Secondary multiple arthrosis
+OA	Read2_5digit	N0506	Erosive osteoarthrosis
+OA	Read2_5digit	N0507	Heberden's nodes with arthropathy
+OA	Read2_5digit	N050z	Generalised osteoarthritis NOS
+OA	Read2_5digit	N051.	Localised, primary osteoarthritis
+OA	Read2_5digit	N0510	Localised, primary osteoarthritis of unspecified site
+OA	Read2_5digit	N0511	Localised, primary osteoarthritis of the shoulder region
+OA	Read2_5digit	N0512	Localised, primary osteoarthritis of the upper arm
+OA	Read2_5digit	N0513	Localised, primary osteoarthritis of the forearm
+OA	Read2_5digit	N0514	Localised, primary osteoarthritis of the hand
+OA	Read2_5digit	N0515	Localised, primary osteoarthritis of the pelvic region and thigh
+OA	Read2_5digit	N0516	Localised, primary osteoarthritis of the lower leg
+OA	Read2_5digit	N0517	Localised, primary osteoarthritis of the ankle and foot
+OA	Read2_5digit	N0518	Localised, primary osteoarthritis of other specified site
+OA	Read2_5digit	N0519	Primary coxarthrosis, bilateral
+OA	Read2_5digit	N051A	Coxarthrosis resulting from dysplasia, bilateral
+OA	Read2_5digit	N051B	Primary gonarthrosis, bilateral
+OA	Read2_5digit	N051C	Primary arthrosis of first carpometacarpal joints, bilateral
+OA	Read2_5digit	N051D	Localised, primary osteoarthritis of the wrist
+OA	Read2_5digit	N051E	Localised, primary osteoarthritis of toe
+OA	Read2_5digit	N051F	Localised, primary osteoarthritis of elbow
+OA	Read2_5digit	N051G	Osteoarthritis of spinal facet joint
+OA	Read2_5digit	N051z	Localised, primary osteoarthritis NOS
+OA	Read2_5digit	N052.	Localised, secondary osteoarthritis
+OA	Read2_5digit	N0520	Localised, secondary osteoarthritis of unspecified site
+OA	Read2_5digit	N0521	Localised, secondary osteoarthritis of the shoulder region
+OA	Read2_5digit	N0522	Localised, secondary osteoarthritis of the upper arm
+OA	Read2_5digit	N0523	Localised, secondary osteoarthritis of the forearm
+OA	Read2_5digit	N0524	Localised, secondary osteoarthritis of the hand
+OA	Read2_5digit	N0525	Localised, secondary osteoarthritis of the pelvic region and thigh
+OA	Read2_5digit	N0526	Localised, secondary osteoarthritis of the lower leg
+OA	Read2_5digit	N0527	Localised, secondary osteoarthritis of the ankle and foot
+OA	Read2_5digit	N0528	Localised, secondary osteoarthritis of other specified site
+OA	Read2_5digit	N052z	Localised, secondary osteoarthritis NOS
+OA	Read2_5digit	N053.	Localised osteoarthritis, unspecified
+OA	Read2_5digit	N0530	Localised osteoarthritis, unspecified, of unspecified site
+OA	Read2_5digit	N0531	Localised osteoarthritis, unspecified, of the shoulder region
+OA	Read2_5digit	N0532	Localised osteoarthritis, unspecified, of the upper arm
+OA	Read2_5digit	N0533	Localised osteoarthritis, unspecified, of the forearm
+OA	Read2_5digit	N0534	Localised osteoarthritis, unspecified, of the hand
+OA	Read2_5digit	N0535	Localised osteoarthritis, unspecified, of the pelvic region and thigh
+OA	Read2_5digit	N0536	Localised osteoarthritis, unspecified, of the lower leg
+OA	Read2_5digit	N0537	Localised osteoarthritis, unspecified, of the ankle and foot
+OA	Read2_5digit	N0538	Localised osteoarthritis, unspecified, of other specified site
+OA	Read2_5digit	N0539	Arthrosis of first carpometacarpal joint, unspecified
+OA	Read2_5digit	N053z	Localised osteoarthritis, unspecified, NOS
+OA	Read2_5digit	N054.	Oligoarticular osteoarthritis, unspecified
+OA	Read2_5digit	N0540	Oligoarticular osteoarthritis, unspecified, of unspecified sites
+OA	Read2_5digit	N0541	Oligoarticular osteoarthritis, unspecified, of the shoulder region
+OA	Read2_5digit	N0542	Oligoarticular osteoarthritis, unspecified, of upper arm
+OA	Read2_5digit	N0544	Oligoarticular osteoarthritis, unspecified, of hand
+OA	Read2_5digit	N0545	Oligoarticular osteoarthritis, unspecified, of the pelvic region and thigh
+OA	Read2_5digit	N0546	Oligoarticular osteoarthritis, unspecified, of lower leg
+OA	Read2_5digit	N0547	Oligoarticular osteoarthritis, unspecified, of ankle and foot
+OA	Read2_5digit	N0548	Oligoarticular osteoarthritis, unspecified, of other specified sites
+OA	Read2_5digit	N0549	Oligoarticular osteoarthritis, unspecified, of multiple sites
+OA	Read2_5digit	N054z	Osteoarthritis of more than one site, unspecified, NOS
+OA	Read2_5digit	N05z.	Osteoarthritis NOS
+OA	Read2_5digit	N05z0	Osteoarthritis NOS, of unspecified site
+OA	Read2_5digit	N05z1	Osteoarthritis NOS, of shoulder region
+OA	Read2_5digit	N05z4	Osteoarthritis NOS, of the hand
+OA	Read2_5digit	N05z5	Osteoarthritis NOS, pelvic region/thigh
+OA	Read2_5digit	N05z6	Osteoarthritis NOS, of the lower leg
+OA	Read2_5digit	N05z7	Osteoarthritis NOS, of ankle and foot
+OA	Read2_5digit	N05z8	Osteoarthritis NOS, other specified site
+OA	Read2_5digit	N05z9	Osteoarthritis NOS, of shoulder
+OA	Read2_5digit	N05zA	Osteoarthritis NOS, of sternoclavicular joint
+OA	Read2_5digit	N05zB	Osteoarthritis NOS, of acromioclavicular joint
+OA	Read2_5digit	N05zC	Osteoarthritis NOS, of elbow
+OA	Read2_5digit	N05zD	Osteoarthritis NOS, of distal radio-ulnar joint
+OA	Read2_5digit	N05zE	Osteoarthritis NOS, of wrist
+OA	Read2_5digit	N05zF	Osteoarthritis NOS, of metacarpophalangeal joint
+OA	Read2_5digit	N05zG	Osteoarthritis NOS, of proximal interphalangeal joint of finger
+OA	Read2_5digit	N05zH	Osteoarthritis NOS, of distal interphalangeal joint of finger
+OA	Read2_5digit	N05zJ	Osteoarthritis NOS, of hip
+OA	Read2_5digit	N05zK	Osteoarthritis NOS, of sacro-iliac joint
+OA	Read2_5digit	N05zL	Osteoarthritis NOS, of knee
+OA	Read2_5digit	N05zM	Osteoarthritis NOS, of tibio-fibular joint
+OA	Read2_5digit	N05zN	Osteoarthritis NOS, of ankle
+OA	Read2_5digit	N05zP	Osteoarthritis NOS, of subtalar joint
+OA	Read2_5digit	N05zQ	Osteoarthritis NOS, of talonavicular joint
+OA	Read2_5digit	N05zR	Osteoarthritis NOS, of other tarsal joint
+OA	Read2_5digit	N05zS	Osteoarthritis NOS, of 1st metatarsophalangeal joint
+OA	Read2_5digit	N05zT	Osteoarthritis NOS, of lesser metatarsophalangeal joint
+OA	Read2_5digit	N05zU	Osteoarthritis NOS, of interphalangeal joint of toe
+OA	Read2_5digit	N05zz	Osteoarthritis NOS
+OA	Read2_5digit	Nyu2.	[X]Arthrosis
+OA	Read2_5digit	Nyu20	[X]Other polyarthrosis
+OA	Read2_5digit	Nyu21	[X]Other primary coxarthrosis
+OA	Read2_5digit	Nyu22	[X]Other dysplastic coxarthrosis
+OA	Read2_5digit	Nyu24	[X]Other secondary coxarthrosis, bilateral
+OA	Read2_5digit	Nyu25	[X]Other primary gonarthrosis
+OA	Read2_5digit	Nyu27	[X]Other secondary gonarthrosis, bilateral
+OA	Read2_5digit	Nyu28	[X]Other secondary gonarthrosis
+OA	Read2_5digit	Nyu29	[X]Other primary arthrosis of first carpometacarpal joint
+OA	Read2_5digit	Nyu2D	[X]Other specified arthrosis
+OA	Read2_5digit	Nyu2E	[X]Other secondary coxarthrosis
+OA	CTV3_5digit	14G2.	H/O: osteoarthritis
+OA	CTV3_5digit	2G26.	O/E - hands - Heberden's nodes
+OA	CTV3_5digit	XaLsk	Delivery of rehabilitation for osteoarthritis
+OA	CTV3_5digit	XE1DV	Osteoarthritis
+OA	CTV3_5digit	N050.	Generalised osteoarthritis
+OA	CTV3_5digit	N0500	Generalised osteoarthritis of unspecified site
+OA	CTV3_5digit	XE1DW	Generalised osteoarthritis of the hand
+OA	CTV3_5digit	X76G5	Bouchard's node
+OA	CTV3_5digit	XM05w	Heberden's node
+OA	CTV3_5digit	N0502	Generalised osteoarthritis of multiple sites
+OA	CTV3_5digit	N0503	Bouchard's nodes with arthropathy
+OA	CTV3_5digit	X7038	Idiopathic osteoarthritis
+OA	CTV3_5digit	N0505	Secondary multiple arthrosis
+OA	CTV3_5digit	N0506	Erosive osteoarthrosis
+OA	CTV3_5digit	N0507	Heberden's nodes with arthropathy
+OA	CTV3_5digit	N050z	Generalised osteoarthritis NOS
+OA	CTV3_5digit	N051.	Localised, primary osteoarthritis
+OA	CTV3_5digit	N0510	Localised, primary osteoarthritis of unspecified site
+OA	CTV3_5digit	N0511	Localised, primary osteoarthritis of the shoulder region
+OA	CTV3_5digit	N0512	Localised, primary osteoarthritis of the upper arm
+OA	CTV3_5digit	N0513	Localised, primary osteoarthritis of the forearm
+OA	CTV3_5digit	N0514	Localised, primary osteoarthritis of the hand
+OA	CTV3_5digit	N0515	Localised, primary osteoarthritis of the pelvic region and thigh
+OA	CTV3_5digit	N0516	Localised, primary osteoarthritis of the lower leg
+OA	CTV3_5digit	N0517	Localised, primary osteoarthritis of the ankle and foot
+OA	CTV3_5digit	N0518	Localised, primary osteoarthritis of other specified site
+OA	CTV3_5digit	N0519	Primary coxarthrosis, bilateral
+OA	CTV3_5digit	N051A	Coxarthrosis resulting from dysplasia, bilateral
+OA	CTV3_5digit	N051B	Primary gonarthrosis, bilateral
+OA	CTV3_5digit	N051C	Primary arthrosis of first carpometacarpal joints, bilateral
+OA	CTV3_5digit	XaEGd	Localised, primary osteoarthritis of the wrist
+OA	CTV3_5digit	XaEGe	Localised, primary osteoarthritis of toe
+OA	CTV3_5digit	XaEGf	Localised, primary osteoarthritis of elbow
+OA	CTV3_5digit	X703A	Osteoarthritis of spinal facet joint
+OA	CTV3_5digit	N051z	Localised, primary osteoarthritis NOS
+OA	CTV3_5digit	N052.	Localised, secondary osteoarthritis
+OA	CTV3_5digit	N0520	Localised, secondary osteoarthritis of unspecified site
+OA	CTV3_5digit	N0521	Localised, secondary osteoarthritis of the shoulder region
+OA	CTV3_5digit	N0522	Localised, secondary osteoarthritis of the upper arm
+OA	CTV3_5digit	N0523	Localised, secondary osteoarthritis of the forearm
+OA	CTV3_5digit	N0524	Localised, secondary osteoarthritis of the hand
+OA	CTV3_5digit	XE1DX	Localised, secondary osteoarthritis of the pelvic region and thigh
+OA	CTV3_5digit	X7043	Coxae malum senilis
+OA	CTV3_5digit	N0526	Localised, secondary osteoarthritis of the lower leg
+OA	CTV3_5digit	N0527	Localised, secondary osteoarthritis of the ankle and foot
+OA	CTV3_5digit	N0528	Localised, secondary osteoarthritis of other specified site
+OA	CTV3_5digit	N052z	Localised, secondary osteoarthritis NOS
+OA	CTV3_5digit	N053.	Localised osteoarthritis, unspecified
+OA	CTV3_5digit	N0530	Localised osteoarthritis, unspecified, of unspecified site
+OA	CTV3_5digit	N0531	Localised osteoarthritis, unspecified, of the shoulder region
+OA	CTV3_5digit	N0532	Localised osteoarthritis, unspecified, of the upper arm
+OA	CTV3_5digit	N0533	Localised osteoarthritis, unspecified, of the forearm
+OA	CTV3_5digit	N0534	Localised osteoarthritis, unspecified, of the hand
+OA	CTV3_5digit	XE1DY	Localised osteoarthritis, unspecified, of the pelvic region and thigh
+OA	CTV3_5digit	N05zJ	Hip osteoarthritis NOS
+OA	CTV3_5digit	XE1DZ	Localised osteoarthritis, unspecified, of the lower leg
+OA	CTV3_5digit	N0536	Patellofemoral osteoarthritis
+OA	CTV3_5digit	X703L	Osteoarthritis of knee
+OA	CTV3_5digit	XaYQD	Patellofemoral osteoarthritis
+OA	CTV3_5digit	N0537	Localised osteoarthritis, unspecified, of the ankle and foot
+OA	CTV3_5digit	N0538	Localised osteoarthritis, unspecified, of other specified site
+OA	CTV3_5digit	N0539	Arthrosis of first carpometacarpal joint, unspecified
+OA	CTV3_5digit	N053z	Localised osteoarthritis, unspecified, NOS
+OA	CTV3_5digit	N054.	Oligoarticular osteoarthritis, unspecified
+OA	CTV3_5digit	N0540	Oligoarticular osteoarthritis, unspecified, of unspecified sites
+OA	CTV3_5digit	N0541	Oligoarticular osteoarthritis, unspecified, of the shoulder region
+OA	CTV3_5digit	N0542	Oligoarticular osteoarthritis, unspecified, of upper arm
+OA	CTV3_5digit	N0544	Oligoarticular osteoarthritis, unspecified, of hand
+OA	CTV3_5digit	N0545	Oligoarticular osteoarthritis, unspecified, of the pelvic region and thigh
+OA	CTV3_5digit	N0546	Oligoarticular osteoarthritis, unspecified, of lower leg
+OA	CTV3_5digit	N0547	Oligoarticular osteoarthritis, unspecified, of ankle and foot
+OA	CTV3_5digit	N0548	Oligoarticular osteoarthritis, unspecified, of other specified sites
+OA	CTV3_5digit	N0549	Oligoarticular osteoarthritis, unspecified, of multiple sites
+OA	CTV3_5digit	N054z	Osteoarthritis of more than one site, unspecified, NOS
+OA	CTV3_5digit	XE1Da	Osteoarthritis NOS
+OA	CTV3_5digit	N05z0	Osteoarthritis NOS, of unspecified site
+OA	CTV3_5digit	N05z1	Osteoarthritis NOS, of shoulder region
+OA	CTV3_5digit	XE1Dd	Osteoarthritis NOS, of the hand
+OA	CTV3_5digit	X7035	Finger osteoarthritis NOS
+OA	CTV3_5digit	X7034	Thumb osteoarthritis NOS
+OA	CTV3_5digit	XE1De	Osteoarthritis NOS, pelvic region/thigh
+OA	CTV3_5digit	XE1Df	Osteoarthritis NOS, of the lower leg
+OA	CTV3_5digit	N05zL	Knee osteoarthritis NOS
+OA	CTV3_5digit	XE1Dg	Osteoarthritis NOS, of ankle and foot
+OA	CTV3_5digit	X7031	Ankle osteoarthritis NOS
+OA	CTV3_5digit	X7030	Foot osteoarthritis NOS
+OA	CTV3_5digit	X702z	Toe osteoarthritis NOS
+OA	CTV3_5digit	N05z8	Osteoarthritis NOS, other specified site
+OA	CTV3_5digit	N05z9	Osteoarthritis NOS, of shoulder
+OA	CTV3_5digit	N05zA	Osteoarthritis NOS, of sternoclavicular joint
+OA	CTV3_5digit	N05zB	Osteoarthritis NOS, of acromioclavicular joint
+OA	CTV3_5digit	N05zC	Osteoarthritis NOS, of elbow
+OA	CTV3_5digit	N05zD	Osteoarthritis NOS, of distal radioulnar joint
+OA	CTV3_5digit	N05zE	Osteoarthritis NOS, of wrist
+OA	CTV3_5digit	N05zF	Osteoarthritis NOS, of metacarpophalangeal joint
+OA	CTV3_5digit	N05zG	Osteoarthritis NOS, of proximal interphalangeal joint of finger
+OA	CTV3_5digit	N05zH	Osteoarthritis NOS, of distal interphalangeal joint of finger
+OA	CTV3_5digit	N05zK	Osteoarthritis NOS, of sacroiliac joint
+OA	CTV3_5digit	N05zM	Osteoarthritis NOS, of tibiofibular joint
+OA	CTV3_5digit	N05zN	Osteoarthritis NOS, of ankle
+OA	CTV3_5digit	N05zP	Osteoarthritis NOS, of subtalar joint
+OA	CTV3_5digit	N05zQ	Osteoarthritis NOS, of talonavicular joint
+OA	CTV3_5digit	N05zR	Osteoarthritis NOS, of other tarsal joint
+OA	CTV3_5digit	N05zS	Osteoarthritis NOS, of 1st metatarsophalangeal joint
+OA	CTV3_5digit	N05zT	Osteoarthritis NOS, of lesser metatarsophalangeal joint
+OA	CTV3_5digit	N05zU	Osteoarthritis NOS, of interphalangeal joint of toe
+OA	CTV3_5digit	Nyu2.	[X]Arthrosis
+OA	CTV3_5digit	Nyu20	[X]Other polyarthrosis
+OA	CTV3_5digit	Nyu21	[X]Other primary coxarthrosis
+OA	CTV3_5digit	Nyu22	[X]Other dysplastic coxarthrosis
+OA	CTV3_5digit	Nyu24	[X]Other secondary coxarthrosis, bilateral
+OA	CTV3_5digit	XE1GT	[X]Other primary gonarthrosis
+OA	CTV3_5digit	Nyu27	[X]Other secondary gonarthrosis, bilateral
+OA	CTV3_5digit	XE1GU	[X]Other secondary gonarthrosis
+OA	CTV3_5digit	Nyu29	[X]Other primary arthrosis of first carpometacarpal joint
+OA	CTV3_5digit	Nyu2D	[X]Other specified arthrosis
+OA	CTV3_5digit	XE1GV	[X]Other secondary coxarthrosis

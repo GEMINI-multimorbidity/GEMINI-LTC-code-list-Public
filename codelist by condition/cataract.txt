@@ -1,0 +1,615 @@
+condition	vocab_id	code	description
+cataract	ICD10	H25	Senile cataract
+cataract	ICD10	H26.0	Infantile, juvenile and presenile cataract
+cataract	ICD10	H26.2	Complicated cataract
+cataract	ICD10	H26.4	After-cataract
+cataract	ICD10	H26.8	Other specified cataract
+cataract	ICD10	H26.9	Cataract, unspecified
+cataract	ICD10	H28	Cataract and other disorders of lens in diseases classified elsewhere
+cataract	ICD10	Q12.0	Congenital cataract
+cataract	ICD10	E08.36	Diabetes mellitus due to underlying condition with diabetic cataract
+cataract	ICD10	E09.36	Drug or chemical induced diabetes mellitus with diabetic cataract
+cataract	ICD10	E10.36	Type 1 diabetes mellitus with diabetic cataract
+cataract	ICD10	E11.36	Type 2 diabetes mellitus with diabetic cataract
+cataract	ICD10	E13.36	Other specified diabetes mellitus with diabetic cataract
+cataract	Read2	1483.00	H/O: cataract
+cataract	Read2	14N9.00	H/O: R cataract extraction
+cataract	Read2	14NA.00	H/O: L cataract extraction
+cataract	Read2	14NC.00	H/O: Bilateral cataract extraction
+cataract	Read2	22E5.00	O/E - cataract present
+cataract	Read2	2BT..00	Cataract observation
+cataract	Read2	2BT0.00	O/E - Right cataract present
+cataract	Read2	2BT1.00	O/E - Left cataract present
+cataract	Read2	7263.12	Extracapsular extraction of cataract
+cataract	Read2	7263011	Needling of lens for cataract
+cataract	Read2	7264.11	Intracapsular extraction of cataract
+cataract	Read2	7266.11	Other extraction of cataract
+cataract	Read2	7266100	Discission of cataract
+cataract	Read2	7267600	Cataract extraction and insertion of intraocular lens
+cataract	Read2	8H5H.00	Referral for cataract extraction
+cataract	Read2	8HTV.00	Referral to cataract clinic
+cataract	Read2	8LC0.00	Cataract operation planned
+cataract	Read2	C108F00	Insulin dependent diabetes mellitus with diabetic cataract
+cataract	Read2	C108F11	Type I diabetes mellitus with diabetic cataract
+cataract	Read2	C108F12	Type 1 diabetes mellitus with diabetic cataract
+cataract	Read2	C109E00	Non-insulin dependent diabetes mellitus with diabetic cataract
+cataract	Read2	C109E11	Type II diabetes mellitus with diabetic cataract
+cataract	Read2	C109E12	Type 2 diabetes mellitus with diabetic cataract
+cataract	Read2	C10EF00	Type 1 diabetes mellitus with diabetic cataract
+cataract	Read2	C10EF12	Insulin dependent diabetes mellitus with diabetic cataract
+cataract	Read2	C10FE00	Type 2 diabetes mellitus with diabetic cataract
+cataract	Read2	C10FE11	Type II diabetes mellitus with diabetic cataract
+cataract	Read2	F46..00	Cataract
+cataract	Read2	F460.00	Infantile, juvenile and presenile cataracts
+cataract	Read2	F460000	Unspecified infantile cataract
+cataract	Read2	F460100	Unspecified juvenile cataract
+cataract	Read2	F460200	Unspecified presenile cataract
+cataract	Read2	F460300	Anterior subcapsular polar cataract
+cataract	Read2	F460400	Posterior subcapsular polar cataract
+cataract	Read2	F460500	Cortical cataract
+cataract	Read2	F460600	Lamellar zonular cataract
+cataract	Read2	F460700	Nuclear cataract
+cataract	Read2	F460x00	Combined nonsenile cataract
+cataract	Read2	F460y00	Other nonsenile cataract
+cataract	Read2	F460z00	Nonsenile cataract NOS
+cataract	Read2	F461.00	Senile cataract
+cataract	Read2	F461000	Unspecified senile cataract
+cataract	Read2	F461100	Lens capsule pseudoexfoliation
+cataract	Read2	F461200	Coronary cataract
+cataract	Read2	F461300	Punctate cataract
+cataract	Read2	F461400	Incipient cataract NOS
+cataract	Read2	F461500	Immature cataract NOS
+cataract	Read2	F461600	Anterior subcapsular polar senile cataract
+cataract	Read2	F461700	Posterior subcapsular polar senile cataract
+cataract	Read2	F461800	Cortical senile cataract
+cataract	Read2	F461900	Nuclear senile cataract
+cataract	Read2	F461A00	Total, mature senile cataract
+cataract	Read2	F461B00	Hypermature cataract
+cataract	Read2	F461B11	Morgagni cataract
+cataract	Read2	F461x00	Combined senile cataract
+cataract	Read2	F461y00	Other senile cataract
+cataract	Read2	F461z00	Senile cataract NOS
+cataract	Read2	F463.00	Cataract secondary to ocular disease
+cataract	Read2	F463000	Unspecified cataracta complicata
+cataract	Read2	F463200	Cataract in eye inflammatory disorder
+cataract	Read2	F463300	Cataract with neovascularization
+cataract	Read2	F463400	Cataract in degenerative disorder
+cataract	Read2	F463z00	Cataract secondary to ocular disorder NOS
+cataract	Read2	F464.00	Cataract due to other disorder
+cataract	Read2	F464000	Diabetic cataract
+cataract	Read2	F464100	Tetanic cataract
+cataract	Read2	F464200	Myotonic cataract
+cataract	Read2	F464300	Cataract associated with other syndromes
+cataract	Read2	F464z00	Cataract due to other disorder NOS
+cataract	Read2	F465.00	After cataract
+cataract	Read2	F465000	Unspecified secondary cataract
+cataract	Read2	F465200	Other after cataract with vision normal
+cataract	Read2	F465300	After-cataract with vision obscured
+cataract	Read2	F465500	Posterior capsule opacification
+cataract	Read2	F465z00	After cataract NOS
+cataract	Read2	F466.00	Bilateral cataracts
+cataract	Read2	F46y.00	Other cataract
+cataract	Read2	F46yz00	Other cataract NOS
+cataract	Read2	F46z.00	Cataract NOS
+cataract	Read2	F46z000	Immature cortical cataract
+cataract	Read2	F4B4B00	Keratopathy following cataract surgery
+cataract	Read2	F4B4C00	Bullous aphakic keratopathy following cataract surgery
+cataract	Read2	F4K2D00	Vitreous syndrome following cataract surgery
+cataract	Read2	FyuE000	[X]Other senile cataract
+cataract	Read2	FyuE100	[X]Other specified cataract
+cataract	Read2	FyuE400	[X]Cataract in other diseases classified elsewhere
+cataract	Read2	P33..00	Congenital cataract and lens anomalies
+cataract	Read2	P330.00	Congenital cataract, unspecified
+cataract	Read2	P331.00	Capsular and subcapsular cataract
+cataract	Read2	P331000	Capsular cataract
+cataract	Read2	P331100	Subcapsular cataract
+cataract	Read2	P331z00	Capsular or subcapsular cataract NOS
+cataract	Read2	P332.00	Cortical and zonular cataract
+cataract	Read2	P332000	Cortical cataract - congenital
+cataract	Read2	P332100	Zonular cataract
+cataract	Read2	P332z00	Cortical or zonular cataract NOS
+cataract	Read2	P333.00	Nuclear cataract - congenital
+cataract	Read2	P334000	Total congenital cataract
+cataract	Read2	P334z00	Total or subtotal congenital cataract NOS
+cataract	Read2	P33y.00	Other specified congenital cataract or lens anomaly
+cataract	Read2	P33y000	Blue dot cataract
+cataract	Read2	P33y100	Congenital membranous cataract
+cataract	Read2	P33yz00	Other congenital cataract or lens anomaly NOS
+cataract	Read2	P33z.00	Congenital cataract or lens anomaly NOS
+cataract	Read2	ZV45611	[V]State following cataract extraction
+cataract	CTV3	1483.Ya04Y	H/O: cataract
+cataract	CTV3	XaBL5Yaaeq	H/O: R cataract extraction
+cataract	CTV3	XaBL6Yaaer	H/O: L cataract extraction
+cataract	CTV3	XaIsWYalbp	H/O: Bilateral cataract extraction
+cataract	CTV3	22E5.YM02u	O/E - cataract present
+cataract	CTV3	X75kWY7CXu	Cataract observation
+cataract	CTV3	XaBLOYaaf9	O/E - Right cataract present
+cataract	CTV3	XaBLPYaafA	O/E - Left cataract present
+cataract	CTV3	7263.Y01ab	Extracapsular extraction of lens
+cataract	CTV3	7263.Y01ac	Extracapsular cataract extraction
+cataract	CTV3	72661Y01bD	Needling of lens for cataract
+cataract	CTV3	7264.Y01ak	Intracapsular extraction of cataract
+cataract	CTV3	XM1I0Y01b8	Other extraction of cataract
+cataract	CTV3	72661Y01bC	Discission of cataract
+cataract	CTV3	X00XHY01aW	Cataract extraction and insertion of intraocular lens
+cataract	CTV3	XaJLZYamLJ	Referral for cataract extraction
+cataract	CTV3	XaJtvYan2G	Referral to cataract clinic
+cataract	CTV3	XaNkoYaqk8	Cataract operation planned
+cataract	CTV3	XaFm8YagvO	Insulin dependent diabetes mellitus with diabetic cataract
+cataract	CTV3	XaFm8YajRO	Type 1 diabetes mellitus with diabetic cataract
+cataract	CTV3	XaFm8YagvN	Type I diabetes mellitus with diabetic cataract
+cataract	CTV3	XaFmAYagvX	Non-insulin dependent diabetes mellitus with diabetic cataract
+cataract	CTV3	XaFmAYajRl	Type 2 diabetes mellitus with diabetic cataract
+cataract	CTV3	XaFmAYagvW	Type II diabetes mellitus with diabetic cataract
+cataract	CTV3	F46..Y01sc	Cataract
+cataract	CTV3	F460.Y01sg	Infantile, juvenile and presenile cataracts
+cataract	CTV3	F4600Y01sv	Unspecified infantile cataract
+cataract	CTV3	F4601Y01sw	Unspecified juvenile cataract
+cataract	CTV3	F4602Y01t1	Unspecified presenile cataract
+cataract	CTV3	F4603Y01tJ	Anterior subcapsular polar cataract
+cataract	CTV3	F4604Y01tL	Posterior subcapsular polar cataract
+cataract	CTV3	F4605Y01tG	Cortical cataract
+cataract	CTV3	F4606Y01sx	Lamellar zonular cataract
+cataract	CTV3	F4607Y01tB	Nuclear cataract
+cataract	CTV3	F460xY01sh	Combined nonsenile cataract
+cataract	CTV3	F460yY01si	Other nonsenile cataract
+cataract	CTV3	F460zY01sj	Nonsenile cataract NOS
+cataract	CTV3	F461.Y01sz	Senile cataract
+cataract	CTV3	F4610Y01t2	Unspecified senile cataract
+cataract	CTV3	F4611Y01u4	Pseudoexfoliation of lens capsule
+cataract	CTV3	F4611Y7CXs	PXF - Pseudoexfoliation of lens capsule
+cataract	CTV3	F4612Y01tO	Coronary cataract
+cataract	CTV3	F4613Y01tN	Punctate cataract
+cataract	CTV3	F4614Y01t3	Incipient cataract NOS
+cataract	CTV3	F4615Y01t4	Immature cataract NOS
+cataract	CTV3	F4616Y01tK	Anterior subcapsular polar senile cataract
+cataract	CTV3	F4617Y01tM	Posterior subcapsular polar senile cataract
+cataract	CTV3	F4618Y01tH	Cortical senile cataract
+cataract	CTV3	F4619Y01tF	Nuclear senile cataract
+cataract	CTV3	F461AY01t5	Total, mature senile cataract
+cataract	CTV3	XE16GY01t6	Hypermature cataract
+cataract	CTV3	F461BY01t7	Morgagni cataract
+cataract	CTV3	F461xY01t8	Combined senile cataract
+cataract	CTV3	F461yY01t9	Other senile cataract
+cataract	CTV3	F461zY01tA	Senile cataract NOS
+cataract	CTV3	F463.Y01te	Cataract secondary to ocular disease
+cataract	CTV3	F4630Y01th	Unspecified cataracta complicata
+cataract	CTV3	F4632Y01tj	Cataract in eye inflammatory disorder
+cataract	CTV3	F4633Yadxd	Cataract with neovascularisation
+cataract	CTV3	F4634Y01tl	Cataract in degenerative disorder
+cataract	CTV3	F463zY01tm	Cataract secondary to ocular disorder NOS
+cataract	CTV3	F464.Y01sk	Cataract due to other disorder
+cataract	CTV3	F4640Y01tp	Diabetic cataract
+cataract	CTV3	F4641Y01to	Tetanic cataract
+cataract	CTV3	F4642Y01ts	Myotonic cataract
+cataract	CTV3	F4643Y01sl	Cataract associated with other syndromes
+cataract	CTV3	F464zY01sn	Cataract due to other disorder NOS
+cataract	CTV3	F465.Y01tu	After-cataract
+cataract	CTV3	F4650Y01tw	Unspecified secondary cataract
+cataract	CTV3	F4652Y01tx	Other after cataract with vision normal
+cataract	CTV3	F4653Y01ty	After-cataract with vision obscured
+cataract	CTV3	X00cHYa3VC	Posterior capsule opacification
+cataract	CTV3	F465zY01tz	After cataract NOS
+cataract	CTV3	F466.YaYBE	Bilateral cataracts
+cataract	CTV3	F46y.Y01so	Other cataract
+cataract	CTV3	F46yzY01sq	Other cataract NOS
+cataract	CTV3	F46z.Y01sr	Cataract NOS
+cataract	CTV3	XaD2aYad41	Immature cortical cataract
+cataract	CTV3	XaYiRYav1D	Keratopathy following cataract surgery
+cataract	CTV3	XaYiQYav1C	Bullous aphakic keratopathy following cataract surgery
+cataract	CTV3	F4K2DYMAii	Vitreous syndrome following cataract surgery
+cataract	CTV3	FyuE0YMAFN	[X]Other senile cataract
+cataract	CTV3	FyuE1YMAFO	[X]Other specified cataract
+cataract	CTV3	FyuE4YMAFR	[X]Cataract in other diseases classified elsewhere
+cataract	CTV3	XE1JuY7HZt	Congenital cataract and lens anomalies
+cataract	CTV3	P330.Y7HZs	Congenital cataract, unspecified
+cataract	CTV3	P331.Y01sd	Capsular and subcapsular cataract
+cataract	CTV3	P3310Y01se	Capsular cataract
+cataract	CTV3	P3311Y01tI	Subcapsular cataract
+cataract	CTV3	P331zY01sf	Capsular or subcapsular cataract NOS
+cataract	CTV3	P332.Y7HZx	Cortical and zonular cataract
+cataract	CTV3	P3320Y7HZr	Cortical cataract - congenital
+cataract	CTV3	P3321Y7Ha7	Zonular cataract
+cataract	CTV3	P332zY7Ha8	Cortical or zonular cataract NOS
+cataract	CTV3	P333.Y7Ha5	Congenital nuclear cataract
+cataract	CTV3	P3340Y7HaA	Congenital total cataract
+cataract	CTV3	P334zY7HaD	Total or subtotal congenital cataract NOS
+cataract	CTV3	P33y.Y7HZv	Other specified congenital cataract or lens anomaly
+cataract	CTV3	P33y0Y7Ha4	Congenital blue dot cataract
+cataract	CTV3	P33y1Y7HaE	Congenital membranous cataract
+cataract	CTV3	P33yzY7HZw	Other congenital cataract or lens anomaly NOS
+cataract	CTV3	P33z.Y7HZu	Congenital cataract or lens anomaly NOS
+cataract	CTV3	ZV456Ya0jg	[V]State following cataract extraction
+cataract	medcodeid	3463017	Anterior subcapsular polar cataract
+cataract	medcodeid	21000016	Coronary cataract
+cataract	medcodeid	107602013	Myotonic cataract
+cataract	medcodeid	178759010	Anterior subcapsular polar senile cataract
+cataract	medcodeid	251654019	H/O: cataract
+cataract	medcodeid	298076010	Cataract
+cataract	medcodeid	298078011	Infantile, juvenile and presenile cataracts
+cataract	medcodeid	298083015	Cortical cataract
+cataract	medcodeid	298084014	Lamellar zonular cataract
+cataract	medcodeid	298096019	Nuclear senile cataract
+cataract	medcodeid	313009012	Capsular and subcapsular cataract
+cataract	medcodeid	313010019	Capsular cataract
+cataract	medcodeid	313012010	Cortical and zonular cataract
+cataract	medcodeid	399449014	Hypermature cataract
+cataract	medcodeid	400779012	Congenital cataract and lens anomalies
+cataract	medcodeid	495988011	Needling of lens for cataract
+cataract	medcodeid	495989015	Discission of cataract
+cataract	medcodeid	2159947017	Referral for cataract extraction
+cataract	medcodeid	2533421012	Referral to cataract clinic
+cataract	medcodeid	126733015	Cataract with neovascularization
+cataract	medcodeid	298081018	Unspecified presenile cataract
+cataract	medcodeid	298087019	Other nonsenile cataract
+cataract	medcodeid	298103016	Senile cataract NOS
+cataract	medcodeid	298116016	Unspecified cataracta complicata
+cataract	medcodeid	298125010	Cataract secondary to ocular disorder NOS
+cataract	medcodeid	298133011	Unspecified secondary cataract
+cataract	medcodeid	298137012	After cataract NOS
+cataract	medcodeid	298142016	Other cataract
+cataract	medcodeid	298144015	Other cataract NOS
+cataract	medcodeid	298145019	Cataract NOS
+cataract	medcodeid	299465011	[X]Other specified cataract
+cataract	medcodeid	299468013	[X]Cataract in other diseases classified elsewhere
+cataract	medcodeid	313008016	Congenital cataract, unspecified
+cataract	medcodeid	313031016	Other specified congenital cataract or lens anomaly
+cataract	medcodeid	313034012	Other congenital cataract or lens anomaly NOS
+cataract	medcodeid	97131000006116	Total congenital cataract
+cataract	medcodeid	574651000006115	Combined senile cataract
+cataract	medcodeid	699721000006118	Morgagni cataract
+cataract	medcodeid	298092017	Immature cataract NOS
+cataract	medcodeid	217851000006114	Posterior capsule opacification
+cataract	medcodeid	771341000006114	Insulin dependent diabetes mellitus with diabetic cataract
+cataract	medcodeid	36608018	Cataract in degenerative disorder
+cataract	medcodeid	298102014	Other senile cataract
+cataract	medcodeid	84691000006115	Type I diabetes mellitus with diabetic cataract
+cataract	medcodeid	913901000006112	Type 1 diabetes mellitus with diabetic cataract
+cataract	medcodeid	298079015	Unspecified infantile cataract
+cataract	medcodeid	298080017	Unspecified juvenile cataract
+cataract	medcodeid	298134017	Other after cataract with vision normal
+cataract	medcodeid	2124371000000115	Bullous aphakic keratopathy following cataract surgery
+cataract	medcodeid	313033018	Congenital membranous cataract
+cataract	medcodeid	298086011	Combined nonsenile cataract
+cataract	medcodeid	298135016	After-cataract with vision obscured
+cataract	medcodeid	298880018	Vitreous syndrome following cataract surgery
+cataract	medcodeid	253774010	O/E - cataract present
+cataract	medcodeid	66160017	Senile cataract
+cataract	medcodeid	89579016	Nuclear cataract
+cataract	medcodeid	113312017	Tetanic cataract
+cataract	medcodeid	313019018	Total or subtotal congenital cataract NOS
+cataract	medcodeid	747871000006116	Lens capsule pseudoexfoliation
+cataract	medcodeid	567741000000116	Cataract operation planned
+cataract	medcodeid	84501000006114	Type 2 diabetes mellitus with diabetic cataract
+cataract	medcodeid	410918012	Other extraction of cataract
+cataract	medcodeid	298088012	Nonsenile cataract NOS
+cataract	medcodeid	298090013	Unspecified senile cataract
+cataract	medcodeid	298091012	Incipient cataract NOS
+cataract	medcodeid	298126011	Cataract due to other disorder
+cataract	medcodeid	298128012	Cataract associated with other syndromes
+cataract	medcodeid	299464010	[X]Other senile cataract
+cataract	medcodeid	313011015	Capsular or subcapsular cataract NOS
+cataract	medcodeid	2124391000000116	Keratopathy following cataract surgery
+cataract	medcodeid	1489323012	H/O: Bilateral cataract extraction
+cataract	medcodeid	9918017	Posterior subcapsular polar senile cataract
+cataract	medcodeid	473371000006112	After cataract
+cataract	medcodeid	84871000006117	Type II diabetes mellitus with diabetic cataract
+cataract	medcodeid	914311000006114	Type II diabetes mellitus with diabetic cataract
+cataract	medcodeid	84321000006114	Type 1 diabetes mellitus with diabetic cataract
+cataract	medcodeid	313035013	Congenital cataract or lens anomaly NOS
+cataract	medcodeid	451394011	O/E - Left cataract present
+cataract	medcodeid	455415018	Immature cortical cataract
+cataract	medcodeid	313014011	Zonular cataract
+cataract	medcodeid	298097011	Total, mature senile cataract
+cataract	medcodeid	298113012	Cataract secondary to ocular disease
+cataract	medcodeid	57632013	Posterior subcapsular polar cataract
+cataract	medcodeid	67912012	Punctate cataract
+cataract	medcodeid	73294018	Diabetic cataract
+cataract	medcodeid	130863017	Cortical senile cataract
+cataract	medcodeid	158572010	Bilateral cataracts
+cataract	medcodeid	296821000006118	Nuclear cataract - congenital
+cataract	medcodeid	659551000006113	Extracapsular extraction of cataract
+cataract	medcodeid	518941000006114	Blue dot cataract
+cataract	medcodeid	1232801015	Cortical cataract - congenital
+cataract	medcodeid	1479675015	Cataract extraction and insertion of intraocular lens
+cataract	medcodeid	451374019	H/O: R cataract extraction
+cataract	medcodeid	451375018	H/O: L cataract extraction
+cataract	medcodeid	451393017	O/E - Right cataract present
+cataract	medcodeid	298117013	Cataract in eye inflammatory disorder
+cataract	medcodeid	267088016	Intracapsular extraction of cataract
+cataract	medcodeid	158573017	Subcapsular cataract
+cataract	medcodeid	298132018	Cataract due to other disorder NOS
+cataract	medcodeid	313017016	Cortical or zonular cataract NOS
+cataract	medcodeid	281161000006114	Non-insulin depend diabetes mellitus with diabetic cataract
+cataract	medcodeid	539421000006110	Cataract observation
+cataract	medcodeid	913891000006113	Insulin dependent diabetes mellitus with diabetic cataract
+cataract	medcodeid	1227680019	[V]State following cataract extraction
+cataract	medcodeid	914301000006111	Type 2 diabetes mellitus with diabetic cataract
+cataract	SNOMEDCT	1412008	Anterior subcapsular polar cataract
+cataract	SNOMEDCT	12195004	Coronary cataract
+cataract	SNOMEDCT	64741003	Myotonic cataract
+cataract	SNOMEDCT	111515007	Anterior subcapsular polar senile cataract
+cataract	SNOMEDCT	161489009	H/O: cataract
+cataract	SNOMEDCT	193570009	Cataract
+cataract	SNOMEDCT	193571008	Infantile, juvenile and presenile cataracts
+cataract	SNOMEDCT	193576003	Cortical cataract
+cataract	SNOMEDCT	193577007	Lamellar zonular cataract
+cataract	SNOMEDCT	193589009	Nuclear senile cataract
+cataract	SNOMEDCT	204124004	Capsular and subcapsular cataract
+cataract	SNOMEDCT	204125003	Capsular cataract
+cataract	SNOMEDCT	204127006	Cortical and zonular cataract
+cataract	SNOMEDCT	267626000	Hypermature cataract
+cataract	SNOMEDCT	268159001	Congenital cataract and lens anomalies
+cataract	SNOMEDCT	5130002	Needling of lens for cataract
+cataract	SNOMEDCT	5130002	Discission of cataract
+cataract	SNOMEDCT	408383005	Referral for cataract extraction
+cataract	SNOMEDCT	415266006	Referral to cataract clinic
+cataract	SNOMEDCT	76309006	Cataract with neovascularization
+cataract	SNOMEDCT	399305009	Unspecified presenile cataract
+cataract	SNOMEDCT	193571008	Other nonsenile cataract
+cataract	SNOMEDCT	39450006	Senile cataract NOS
+cataract	SNOMEDCT	193600001	Unspecified cataracta complicata
+cataract	SNOMEDCT	193600001	Cataract secondary to ocular disorder NOS
+cataract	SNOMEDCT	193570009	Unspecified secondary cataract
+cataract	SNOMEDCT	47337003	After cataract NOS
+cataract	SNOMEDCT	193570009	Other cataract
+cataract	SNOMEDCT	193570009	Other cataract NOS
+cataract	SNOMEDCT	193570009	Cataract NOS
+cataract	SNOMEDCT	10810001	[X]Other specified cataract
+cataract	SNOMEDCT	10810001	[X]Cataract in other diseases classified elsewhere
+cataract	SNOMEDCT	79410001	Congenital cataract, unspecified
+cataract	SNOMEDCT	268159001	Other specified congenital cataract or lens anomaly
+cataract	SNOMEDCT	268159001	Other congenital cataract or lens anomaly NOS
+cataract	SNOMEDCT	29590001	Total congenital cataract
+cataract	SNOMEDCT	11422002	Combined senile cataract
+cataract	SNOMEDCT	267626000	Morgagni cataract
+cataract	SNOMEDCT	446474007	Immature cataract NOS
+cataract	SNOMEDCT	47337003	Posterior capsule opacification
+cataract	SNOMEDCT	43959009	Insulin dependent diabetes mellitus with diabetic cataract
+cataract	SNOMEDCT	766837000	Cataract in degenerative disorder
+cataract	SNOMEDCT	39450006	Other senile cataract
+cataract	SNOMEDCT	421920002	Type I diabetes mellitus with diabetic cataract
+cataract	SNOMEDCT	421920002	Type 1 diabetes mellitus with diabetic cataract
+cataract	SNOMEDCT	193570009	Unspecified infantile cataract
+cataract	SNOMEDCT	193570009	Unspecified juvenile cataract
+cataract	SNOMEDCT	47337003	Other after cataract with vision normal
+cataract	SNOMEDCT	723024009	Bullous aphakic keratopathy following cataract surgery
+cataract	SNOMEDCT	204139003	Congenital membranous cataract
+cataract	SNOMEDCT	193579005	Combined nonsenile cataract
+cataract	SNOMEDCT	193615000	After-cataract with vision obscured
+cataract	SNOMEDCT	194156008	Vitreous syndrome following cataract surgery
+cataract	SNOMEDCT	162811006	O/E - cataract present
+cataract	SNOMEDCT	39450006	Senile cataract
+cataract	SNOMEDCT	53889007	Nuclear cataract
+cataract	SNOMEDCT	68216000	Tetanic cataract
+cataract	SNOMEDCT	29590001	Total or subtotal congenital cataract NOS
+cataract	SNOMEDCT	44219007	Lens capsule pseudoexfoliation
+cataract	SNOMEDCT	434215004	Cataract operation planned
+cataract	SNOMEDCT	420756003	Type 2 diabetes mellitus with diabetic cataract
+cataract	SNOMEDCT	54885007	Other extraction of cataract
+cataract	SNOMEDCT	193571008	Nonsenile cataract NOS
+cataract	SNOMEDCT	39450006	Unspecified senile cataract
+cataract	SNOMEDCT	52421005	Incipient cataract NOS
+cataract	SNOMEDCT	193570009	Cataract due to other disorder
+cataract	SNOMEDCT	193570009	Cataract associated with other syndromes
+cataract	SNOMEDCT	10810001	[X]Other senile cataract
+cataract	SNOMEDCT	204124004	Capsular or subcapsular cataract NOS
+cataract	SNOMEDCT	815071000000102	Keratopathy following cataract surgery
+cataract	SNOMEDCT	395666005	H/O: Bilateral cataract extraction
+cataract	SNOMEDCT	5318001	Posterior subcapsular polar senile cataract
+cataract	SNOMEDCT	47337003	After cataract
+cataract	SNOMEDCT	420756003	Type II diabetes mellitus with diabetic cataract
+cataract	SNOMEDCT	268159001	Congenital cataract or lens anomaly NOS
+cataract	SNOMEDCT	308089003	O/E - Left cataract present
+cataract	SNOMEDCT	311789006	Immature cortical cataract
+cataract	SNOMEDCT	204128001	Zonular cataract
+cataract	SNOMEDCT	193590000	Total, mature senile cataract
+cataract	SNOMEDCT	193600001	Cataract secondary to ocular disease
+cataract	SNOMEDCT	34533008	Posterior subcapsular polar cataract
+cataract	SNOMEDCT	40714009	Punctate cataract
+cataract	SNOMEDCT	43959009	Diabetic cataract
+cataract	SNOMEDCT	78875003	Cortical senile cataract
+cataract	SNOMEDCT	95722004	Bilateral cataracts
+cataract	SNOMEDCT	5361003	Nuclear cataract - congenital
+cataract	SNOMEDCT	13793006	Extracapsular extraction of cataract
+cataract	SNOMEDCT	204138006	Blue dot cataract
+cataract	SNOMEDCT	66499004	Cortical cataract - congenital
+cataract	SNOMEDCT	385468004	Cataract extraction and insertion of intraocular lens
+cataract	SNOMEDCT	308069004	H/O: R cataract extraction
+cataract	SNOMEDCT	308070003	H/O: L cataract extraction
+cataract	SNOMEDCT	308088006	O/E - Right cataract present
+cataract	SNOMEDCT	193602009	Cataract in eye inflammatory disorder
+cataract	SNOMEDCT	172523009	Intracapsular extraction of cataract
+cataract	SNOMEDCT	95723009	Subcapsular cataract
+cataract	SNOMEDCT	193570009	Cataract due to other disorder NOS
+cataract	SNOMEDCT	204128001	Cortical or zonular cataract NOS
+cataract	SNOMEDCT	420756003	Non-insulin depend diabetes mellitus with diabetic cataract
+cataract	SNOMEDCT	247052002	Cataract observation
+cataract	SNOMEDCT	428535004	[V]State following cataract extraction
+cataract	Read2_5digit	1483.	H/O: cataract
+cataract	Read2_5digit	14N9.	H/O: R cataract extraction
+cataract	Read2_5digit	14NA.	H/O: L cataract extraction
+cataract	Read2_5digit	14NC.	H/O: Bilateral cataract extraction
+cataract	Read2_5digit	22E5.	O/E - cataract present
+cataract	Read2_5digit	2BT..	Cataract observation
+cataract	Read2_5digit	2BT0.	O/E - Right cataract present
+cataract	Read2_5digit	2BT1.	O/E - Left cataract present
+cataract	Read2_5digit	72661	Discission of cataract
+cataract	Read2_5digit	72676	Cataract extraction and insertion of intraocular lens
+cataract	Read2_5digit	8H5H.	Referral for cataract extraction
+cataract	Read2_5digit	8HTV.	Referral to cataract clinic
+cataract	Read2_5digit	8LC0.	Cataract operation planned
+cataract	Read2_5digit	C108F	Insulin dependent diabetes mellitus with diabetic cataract
+cataract	Read2_5digit	C109E	Non-insulin dependent diabetes mellitus with diabetic cataract
+cataract	Read2_5digit	C10EF	Type 1 diabetes mellitus with diabetic cataract
+cataract	Read2_5digit	C10FE	Type 2 diabetes mellitus with diabetic cataract
+cataract	Read2_5digit	F46..	Cataract
+cataract	Read2_5digit	F460.	Infantile, juvenile and presenile cataracts
+cataract	Read2_5digit	F4600	Unspecified infantile cataract
+cataract	Read2_5digit	F4601	Unspecified juvenile cataract
+cataract	Read2_5digit	F4602	Unspecified presenile cataract
+cataract	Read2_5digit	F4603	Anterior subcapsular polar cataract
+cataract	Read2_5digit	F4604	Posterior subcapsular polar cataract
+cataract	Read2_5digit	F4605	Cortical cataract
+cataract	Read2_5digit	F4606	Lamellar zonular cataract
+cataract	Read2_5digit	F4607	Nuclear cataract
+cataract	Read2_5digit	F460x	Combined nonsenile cataract
+cataract	Read2_5digit	F460y	Other nonsenile cataract
+cataract	Read2_5digit	F460z	Nonsenile cataract NOS
+cataract	Read2_5digit	F461.	Senile cataract
+cataract	Read2_5digit	F4610	Unspecified senile cataract
+cataract	Read2_5digit	F4611	Lens capsule pseudoexfoliation
+cataract	Read2_5digit	F4612	Coronary cataract
+cataract	Read2_5digit	F4613	Punctate cataract
+cataract	Read2_5digit	F4614	Incipient cataract NOS
+cataract	Read2_5digit	F4615	Immature cataract NOS
+cataract	Read2_5digit	F4616	Anterior subcapsular polar senile cataract
+cataract	Read2_5digit	F4617	Posterior subcapsular polar senile cataract
+cataract	Read2_5digit	F4618	Cortical senile cataract
+cataract	Read2_5digit	F4619	Nuclear senile cataract
+cataract	Read2_5digit	F461A	Total, mature senile cataract
+cataract	Read2_5digit	F461B	Hypermature cataract
+cataract	Read2_5digit	F461x	Combined senile cataract
+cataract	Read2_5digit	F461y	Other senile cataract
+cataract	Read2_5digit	F461z	Senile cataract NOS
+cataract	Read2_5digit	F463.	Cataract secondary to ocular disease
+cataract	Read2_5digit	F4630	Unspecified cataracta complicata
+cataract	Read2_5digit	F4632	Cataract in eye inflammatory disorder
+cataract	Read2_5digit	F4633	Cataract with neovascularization
+cataract	Read2_5digit	F4634	Cataract in degenerative disorder
+cataract	Read2_5digit	F463z	Cataract secondary to ocular disorder NOS
+cataract	Read2_5digit	F464.	Cataract due to other disorder
+cataract	Read2_5digit	F4640	Diabetic cataract
+cataract	Read2_5digit	F4641	Tetanic cataract
+cataract	Read2_5digit	F4642	Myotonic cataract
+cataract	Read2_5digit	F4643	Cataract associated with other syndromes
+cataract	Read2_5digit	F464z	Cataract due to other disorder NOS
+cataract	Read2_5digit	F465.	After cataract
+cataract	Read2_5digit	F4650	Unspecified secondary cataract
+cataract	Read2_5digit	F4652	Other after cataract with vision normal
+cataract	Read2_5digit	F4653	After-cataract with vision obscured
+cataract	Read2_5digit	F4655	Posterior capsule opacification
+cataract	Read2_5digit	F465z	After cataract NOS
+cataract	Read2_5digit	F466.	Bilateral cataracts
+cataract	Read2_5digit	F46y.	Other cataract
+cataract	Read2_5digit	F46yz	Other cataract NOS
+cataract	Read2_5digit	F46z.	Cataract NOS
+cataract	Read2_5digit	F46z0	Immature cortical cataract
+cataract	Read2_5digit	F4B4B	Keratopathy following cataract surgery
+cataract	Read2_5digit	F4B4C	Bullous aphakic keratopathy following cataract surgery
+cataract	Read2_5digit	F4K2D	Vitreous syndrome following cataract surgery
+cataract	Read2_5digit	FyuE0	[X]Other senile cataract
+cataract	Read2_5digit	FyuE1	[X]Other specified cataract
+cataract	Read2_5digit	FyuE4	[X]Cataract in other diseases classified elsewhere
+cataract	Read2_5digit	P330.	Congenital cataract, unspecified
+cataract	Read2_5digit	P331.	Capsular and subcapsular cataract
+cataract	Read2_5digit	P3310	Capsular cataract
+cataract	Read2_5digit	P3311	Subcapsular cataract
+cataract	Read2_5digit	P331z	Capsular or subcapsular cataract NOS
+cataract	Read2_5digit	P332.	Cortical and zonular cataract
+cataract	Read2_5digit	P3320	Cortical cataract - congenital
+cataract	Read2_5digit	P3321	Zonular cataract
+cataract	Read2_5digit	P332z	Cortical or zonular cataract NOS
+cataract	Read2_5digit	P333.	Nuclear cataract - congenital
+cataract	Read2_5digit	P3340	Total congenital cataract
+cataract	Read2_5digit	P334z	Total or subtotal congenital cataract NOS
+cataract	Read2_5digit	P33y.	Other specified congenital cataract or lens anomaly
+cataract	Read2_5digit	P33y0	Blue dot cataract
+cataract	Read2_5digit	P33y1	Congenital membranous cataract
+cataract	Read2_5digit	P33yz	Other congenital cataract or lens anomaly NOS
+cataract	Read2_5digit	P33z.	Congenital cataract or lens anomaly NOS
+cataract	CTV3_5digit	1483.	H/O: cataract
+cataract	CTV3_5digit	XaBL5	H/O: R cataract extraction
+cataract	CTV3_5digit	XaBL6	H/O: L cataract extraction
+cataract	CTV3_5digit	XaIsW	H/O: Bilateral cataract extraction
+cataract	CTV3_5digit	22E5.	O/E - cataract present
+cataract	CTV3_5digit	X75kW	Cataract observation
+cataract	CTV3_5digit	XaBLO	O/E - Right cataract present
+cataract	CTV3_5digit	XaBLP	O/E - Left cataract present
+cataract	CTV3_5digit	7263.	Extracapsular extraction of lens
+cataract	CTV3_5digit	72661	Needling of lens for cataract
+cataract	CTV3_5digit	7264.	Intracapsular extraction of cataract
+cataract	CTV3_5digit	XM1I0	Other extraction of cataract
+cataract	CTV3_5digit	X00XH	Cataract extraction and insertion of intraocular lens
+cataract	CTV3_5digit	XaJLZ	Referral for cataract extraction
+cataract	CTV3_5digit	XaJtv	Referral to cataract clinic
+cataract	CTV3_5digit	XaNko	Cataract operation planned
+cataract	CTV3_5digit	XaFm8	Insulin dependent diabetes mellitus with diabetic cataract
+cataract	CTV3_5digit	XaFmA	Non-insulin dependent diabetes mellitus with diabetic cataract
+cataract	CTV3_5digit	F46..	Cataract
+cataract	CTV3_5digit	F460.	Infantile, juvenile and presenile cataracts
+cataract	CTV3_5digit	F4600	Unspecified infantile cataract
+cataract	CTV3_5digit	F4601	Unspecified juvenile cataract
+cataract	CTV3_5digit	F4602	Unspecified presenile cataract
+cataract	CTV3_5digit	F4603	Anterior subcapsular polar cataract
+cataract	CTV3_5digit	F4604	Posterior subcapsular polar cataract
+cataract	CTV3_5digit	F4605	Cortical cataract
+cataract	CTV3_5digit	F4606	Lamellar zonular cataract
+cataract	CTV3_5digit	F4607	Nuclear cataract
+cataract	CTV3_5digit	F460x	Combined nonsenile cataract
+cataract	CTV3_5digit	F460y	Other nonsenile cataract
+cataract	CTV3_5digit	F460z	Nonsenile cataract NOS
+cataract	CTV3_5digit	F461.	Senile cataract
+cataract	CTV3_5digit	F4610	Unspecified senile cataract
+cataract	CTV3_5digit	F4611	Pseudoexfoliation of lens capsule
+cataract	CTV3_5digit	F4612	Coronary cataract
+cataract	CTV3_5digit	F4613	Punctate cataract
+cataract	CTV3_5digit	F4614	Incipient cataract NOS
+cataract	CTV3_5digit	F4615	Immature cataract NOS
+cataract	CTV3_5digit	F4616	Anterior subcapsular polar senile cataract
+cataract	CTV3_5digit	F4617	Posterior subcapsular polar senile cataract
+cataract	CTV3_5digit	F4618	Cortical senile cataract
+cataract	CTV3_5digit	F4619	Nuclear senile cataract
+cataract	CTV3_5digit	F461A	Total, mature senile cataract
+cataract	CTV3_5digit	XE16G	Hypermature cataract
+cataract	CTV3_5digit	F461B	Morgagni cataract
+cataract	CTV3_5digit	F461x	Combined senile cataract
+cataract	CTV3_5digit	F461y	Other senile cataract
+cataract	CTV3_5digit	F461z	Senile cataract NOS
+cataract	CTV3_5digit	F463.	Cataract secondary to ocular disease
+cataract	CTV3_5digit	F4630	Unspecified cataracta complicata
+cataract	CTV3_5digit	F4632	Cataract in eye inflammatory disorder
+cataract	CTV3_5digit	F4633	Cataract with neovascularisation
+cataract	CTV3_5digit	F4634	Cataract in degenerative disorder
+cataract	CTV3_5digit	F463z	Cataract secondary to ocular disorder NOS
+cataract	CTV3_5digit	F464.	Cataract due to other disorder
+cataract	CTV3_5digit	F4640	Diabetic cataract
+cataract	CTV3_5digit	F4641	Tetanic cataract
+cataract	CTV3_5digit	F4642	Myotonic cataract
+cataract	CTV3_5digit	F4643	Cataract associated with other syndromes
+cataract	CTV3_5digit	F464z	Cataract due to other disorder NOS
+cataract	CTV3_5digit	F465.	After-cataract
+cataract	CTV3_5digit	F4650	Unspecified secondary cataract
+cataract	CTV3_5digit	F4652	Other after cataract with vision normal
+cataract	CTV3_5digit	F4653	After-cataract with vision obscured
+cataract	CTV3_5digit	F465z	After cataract NOS
+cataract	CTV3_5digit	F466.	Bilateral cataracts
+cataract	CTV3_5digit	F46y.	Other cataract
+cataract	CTV3_5digit	F46yz	Other cataract NOS
+cataract	CTV3_5digit	F46z.	Cataract NOS
+cataract	CTV3_5digit	XaD2a	Immature cortical cataract
+cataract	CTV3_5digit	XaYiR	Keratopathy following cataract surgery
+cataract	CTV3_5digit	XaYiQ	Bullous aphakic keratopathy following cataract surgery
+cataract	CTV3_5digit	F4K2D	Vitreous syndrome following cataract surgery
+cataract	CTV3_5digit	FyuE0	[X]Other senile cataract
+cataract	CTV3_5digit	FyuE1	[X]Other specified cataract
+cataract	CTV3_5digit	FyuE4	[X]Cataract in other diseases classified elsewhere
+cataract	CTV3_5digit	XE1Ju	Congenital cataract and lens anomalies
+cataract	CTV3_5digit	P330.	Congenital cataract, unspecified
+cataract	CTV3_5digit	P331.	Capsular and subcapsular cataract
+cataract	CTV3_5digit	P3310	Capsular cataract
+cataract	CTV3_5digit	P3311	Subcapsular cataract
+cataract	CTV3_5digit	P331z	Capsular or subcapsular cataract NOS
+cataract	CTV3_5digit	P332.	Cortical and zonular cataract
+cataract	CTV3_5digit	P3320	Cortical cataract - congenital
+cataract	CTV3_5digit	P3321	Zonular cataract
+cataract	CTV3_5digit	P332z	Cortical or zonular cataract NOS
+cataract	CTV3_5digit	P333.	Congenital nuclear cataract
+cataract	CTV3_5digit	P3340	Congenital total cataract
+cataract	CTV3_5digit	P334z	Total or subtotal congenital cataract NOS
+cataract	CTV3_5digit	P33y.	Other specified congenital cataract or lens anomaly
+cataract	CTV3_5digit	P33y0	Congenital blue dot cataract
+cataract	CTV3_5digit	P33y1	Congenital membranous cataract
+cataract	CTV3_5digit	P33yz	Other congenital cataract or lens anomaly NOS
+cataract	CTV3_5digit	P33z.	Congenital cataract or lens anomaly NOS
+cataract	CTV3_5digit	ZV456	[V]State following cataract extraction

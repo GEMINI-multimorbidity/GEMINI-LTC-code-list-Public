@@ -1,0 +1,80 @@
+condition	vocab_id	code	description
+lichen_planus	ICD10	L43	Lichen planus
+lichen_planus	ICD10	L66.1	Lichen planopilaris
+lichen_planus	Read2	M170.00	Lichen planus
+lichen_planus	Read2	M170000	Lichen planus actinicus
+lichen_planus	Read2	M170100	Lichen planus annularis
+lichen_planus	Read2	M170200	Lichen planus atrophicus
+lichen_planus	Read2	M170300	Lichen planus bullosus
+lichen_planus	Read2	M170400	Lichen planus hypertrophicus
+lichen_planus	Read2	M170500	Lichen planus linearis
+lichen_planus	Read2	M170700	Lichen planus obtusus
+lichen_planus	Read2	M170800	Subacute active lichen planus
+lichen_planus	Read2	M170900	Follicular lichen planus
+lichen_planus	Read2	M170z00	Lichen planus NOS
+lichen_planus	Read2	M240R00	Lichen planopilaris
+lichen_planus	Read2	Myu3200	[X]Other lichen planus
+lichen_planus	CTV3	M170.Y50Jy	Lichen planus
+lichen_planus	CTV3	M1700Y50KO	Lichen planus actinicus
+lichen_planus	CTV3	M1701Y50KE	Lichen planus annularis
+lichen_planus	CTV3	M1702Y50KI	Lichen planus atrophicus
+lichen_planus	CTV3	M1703Y50KC	Lichen planus bullosus
+lichen_planus	CTV3	M1704Y50KG	Lichen planus hypertrophicus
+lichen_planus	CTV3	M1705Y50KK	Lichen planus linearis
+lichen_planus	CTV3	M1707Y50K0	Lichen planus obtusus
+lichen_planus	CTV3	M1708YMAsE	Subacute active lichen planus
+lichen_planus	CTV3	X507bY50K6	Follicular lichen planus
+lichen_planus	CTV3	M170zY50K1	Lichen planus NOS
+lichen_planus	CTV3	X507bY50K7	Lichen planopilaris
+lichen_planus	CTV3	Myu32YMALR	[X]Other lichen planus
+lichen_planus	medcodeid	8963013	Lichen planus
+lichen_planus	medcodeid	308784018	Lichen planus obtusus
+lichen_planus	medcodeid	308785017	Subacute active lichen planus
+lichen_planus	medcodeid	1224932013	Lichen planus atrophicus
+lichen_planus	medcodeid	1230103010	Lichen planus linearis
+lichen_planus	medcodeid	1232173015	Lichen planus bullosus
+lichen_planus	medcodeid	308787013	Lichen planus NOS
+lichen_planus	medcodeid	308780010	Lichen planus actinicus
+lichen_planus	medcodeid	309333012	[X]Other lichen planus
+lichen_planus	medcodeid	308783012	Lichen planus annularis
+lichen_planus	medcodeid	1233028016	Lichen planus hypertrophicus
+lichen_planus	medcodeid	107259017	Lichen planopilaris
+lichen_planus	medcodeid	763411000006112	Follicular lichen planus
+lichen_planus	SNOMEDCT	4776004	Lichen planus
+lichen_planus	SNOMEDCT	201001005	Lichen planus obtusus
+lichen_planus	SNOMEDCT	201002003	Subacute active lichen planus
+lichen_planus	SNOMEDCT	25858008	Lichen planus atrophicus
+lichen_planus	SNOMEDCT	44509000	Lichen planus linearis
+lichen_planus	SNOMEDCT	6111009	Lichen planus bullosus
+lichen_planus	SNOMEDCT	4776004	Lichen planus NOS
+lichen_planus	SNOMEDCT	200999007	Lichen planus actinicus
+lichen_planus	SNOMEDCT	4776004	[X]Other lichen planus
+lichen_planus	SNOMEDCT	201000006	Lichen planus annularis
+lichen_planus	SNOMEDCT	68266006	Lichen planus hypertrophicus
+lichen_planus	SNOMEDCT	64540004	Lichen planopilaris
+lichen_planus	SNOMEDCT	64540004	Follicular lichen planus
+lichen_planus	Read2_5digit	M170.	Lichen planus
+lichen_planus	Read2_5digit	M1700	Lichen planus actinicus
+lichen_planus	Read2_5digit	M1701	Lichen planus annularis
+lichen_planus	Read2_5digit	M1702	Lichen planus atrophicus
+lichen_planus	Read2_5digit	M1703	Lichen planus bullosus
+lichen_planus	Read2_5digit	M1704	Lichen planus hypertrophicus
+lichen_planus	Read2_5digit	M1705	Lichen planus linearis
+lichen_planus	Read2_5digit	M1707	Lichen planus obtusus
+lichen_planus	Read2_5digit	M1708	Subacute active lichen planus
+lichen_planus	Read2_5digit	M1709	Follicular lichen planus
+lichen_planus	Read2_5digit	M170z	Lichen planus NOS
+lichen_planus	Read2_5digit	M240R	Lichen planopilaris
+lichen_planus	Read2_5digit	Myu32	[X]Other lichen planus
+lichen_planus	CTV3_5digit	M170.	Lichen planus
+lichen_planus	CTV3_5digit	M1700	Lichen planus actinicus
+lichen_planus	CTV3_5digit	M1701	Lichen planus annularis
+lichen_planus	CTV3_5digit	M1702	Lichen planus atrophicus
+lichen_planus	CTV3_5digit	M1703	Lichen planus bullosus
+lichen_planus	CTV3_5digit	M1704	Lichen planus hypertrophicus
+lichen_planus	CTV3_5digit	M1705	Lichen planus linearis
+lichen_planus	CTV3_5digit	M1707	Lichen planus obtusus
+lichen_planus	CTV3_5digit	M1708	Subacute active lichen planus
+lichen_planus	CTV3_5digit	X507b	Follicular lichen planus
+lichen_planus	CTV3_5digit	M170z	Lichen planus NOS
+lichen_planus	CTV3_5digit	Myu32	[X]Other lichen planus

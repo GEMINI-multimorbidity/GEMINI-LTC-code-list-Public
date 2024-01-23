@@ -1,0 +1,88 @@
+condition	vocab_id	code	description
+AAA	ICD10	I71.4	Abdominal aortic aneurysm, without mention of rupture
+AAA	ICD10	I71.6	Thoracoabdominal aortic aneurysm, without mention of rupture
+AAA	ICD10	I71.9	Aortic aneurysm of unspecified site, without mention of rupture
+AAA	Read2	14AE.00	H/O: aortic aneurysm
+AAA	Read2	7A11000	Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to femoral artery
+AAA	Read2	7A11200	Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery
+AAA	Read2	7A11211	Y graft of abdominal Aortic aneurysm (emergency)
+AAA	Read2	7A13.00	Emergency replacement of aneurysmal segment of aorta
+AAA	Read2	7A13.11	Emergency repair of aortic aneurysm
+AAA	Read2	7A13300	Emergency replacement of aneurysmal segment of infrarenal abdominal aorta by anastomosis of aorta to aorta
+AAA	Read2	7A13400	Emergency replacement of aneurysmal segment of abdominal aorta by anastomosis of aorta to aorta NEC
+AAA	Read2	7A13411	Tube graft abdominal Aortic aneurysm (emergency)
+AAA	Read2	7A13y00	Other specified emergency replacement of aneurysmal segment of aorta
+AAA	Read2	7A13z00	Emergency replacement of aneurysmal segment of aorta NOS
+AAA	Read2	G714.00	Abdominal aortic aneurysm without mention of rupture
+AAA	Read2	G714.11	AAA - Abdominal aortic aneurysm without mention of rupture
+AAA	Read2	G716.00	Aortic aneurysm without mention of rupture NOS
+AAA	Read2	G716000	Thoracoabdominal aortic aneurysm, without mention of rupture
+AAA	CTV3	14AE.Ya3Fe	H/O: aortic aneurysm
+AAA	CTV3	7A110Y03Sg	Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to femoral artery
+AAA	CTV3	XE0EyY03Se	Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery
+AAA	CTV3	X015vY03Sd	Y graft of abdominal Aortic aneurysm (emergency)
+AAA	CTV3	7A13.Y03Ro	Emergency replacement of aneurysmal segment of aorta
+AAA	CTV3	7A13.Y03Rp	Emergency repair of aortic aneurysm
+AAA	CTV3	7A133Y03UO	Emergency replacement of aneurysmal segment of infrarenal abdominal aorta by anastomosis of aorta to aorta
+AAA	CTV3	XE0F2Y03UN	Emergency replacement of aneurysmal segment of abdominal aorta by anastomosis of aorta to aorta NEC
+AAA	CTV3	X015yY03Sl	Tube graft abdominal Aortic aneurysm (emergency)
+AAA	CTV3	7A13yY03Rr	Other specified emergency replacement of aneurysmal segment of aorta
+AAA	CTV3	7A13zY03Rq	Emergency replacement of aneurysmal segment of aorta NOS
+AAA	CTV3	G714.Y20Hn	Abdominal aortic aneurysm without mention of rupture
+AAA	CTV3	G714.YaRkM	AAA - Abdominal aortic aneurysm without mention of rupture
+AAA	CTV3	G716.Y20Ha	Aortic aneurysm without mention of rupture NOS
+AAA	CTV3	G7160YMAjg	Thoracoabdominal aortic aneurysm, without mention of rupture
+AAA	medcodeid	271446014	Emergency replacement of aneurysmal segment of aorta
+AAA	medcodeid	300447015	Aortic aneurysm without mention of rupture NOS
+AAA	medcodeid	300448013	Thoracoabdominal aortic aneurysm, without mention of rupture
+AAA	medcodeid	640221000006110	Emergency replacement of aneurysmal segment of aorta OS
+AAA	medcodeid	349689013	Y graft of abdominal Aortic aneurysm (emergency)
+AAA	medcodeid	300441019	Abdominal aortic aneurysm without mention of rupture
+AAA	medcodeid	251699010	H/O: aortic aneurysm
+AAA	medcodeid	349694013	Tube graft abdominal Aortic aneurysm (emergency)
+AAA	medcodeid	271447017	Emergency repair of aortic aneurysm
+AAA	medcodeid	271456013	Emergency replacement of aneurysmal segment of aorta NOS
+AAA	medcodeid	639641000006113	Emerg repl aneurysm bifurc aorta by anast aorta to fem art
+AAA	medcodeid	639651000006110	Emerg repl aneurysm bifurc aorta by anast aorta to iliac a
+AAA	medcodeid	639721000006114	Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC
+AAA	medcodeid	300442014	AAA - Abdominal aortic aneurysm without mention of rupture
+AAA	medcodeid	639811000006110	Emerg replace aneurysm infrarenal aorta by anast aorta/aorta
+AAA	SNOMEDCT	175297006	Emergency replacement of aneurysmal segment of aorta
+AAA	SNOMEDCT	67362008	Aortic aneurysm without mention of rupture NOS
+AAA	SNOMEDCT	233984007	Thoracoabdominal aortic aneurysm, without mention of rupture
+AAA	SNOMEDCT	175297006	Emergency replacement of aneurysmal segment of aorta OS
+AAA	SNOMEDCT	233374003	Y graft of abdominal Aortic aneurysm (emergency)
+AAA	SNOMEDCT	233985008	Abdominal aortic aneurysm without mention of rupture
+AAA	SNOMEDCT	161514008	H/O: aortic aneurysm
+AAA	SNOMEDCT	233377005	Tube graft abdominal Aortic aneurysm (emergency)
+AAA	SNOMEDCT	175297006	Emergency repair of aortic aneurysm
+AAA	SNOMEDCT	175297006	Emergency replacement of aneurysmal segment of aorta NOS
+AAA	SNOMEDCT	175283003	Emerg repl aneurysm bifurc aorta by anast aorta to fem art
+AAA	SNOMEDCT	265492000	Emerg repl aneurysm bifurc aorta by anast aorta to iliac a
+AAA	SNOMEDCT	123679006	Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC
+AAA	SNOMEDCT	233985008	AAA - Abdominal aortic aneurysm without mention of rupture
+AAA	SNOMEDCT	175301002	Emerg replace aneurysm infrarenal aorta by anast aorta/aorta
+AAA	Read2_5digit	14AE.	H/O: aortic aneurysm
+AAA	Read2_5digit	7A110	Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to femoral artery
+AAA	Read2_5digit	7A112	Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery
+AAA	Read2_5digit	7A13.	Emergency replacement of aneurysmal segment of aorta
+AAA	Read2_5digit	7A133	Emergency replacement of aneurysmal segment of infrarenal abdominal aorta by anastomosis of aorta to aorta
+AAA	Read2_5digit	7A134	Emergency replacement of aneurysmal segment of abdominal aorta by anastomosis of aorta to aorta NEC
+AAA	Read2_5digit	7A13y	Other specified emergency replacement of aneurysmal segment of aorta
+AAA	Read2_5digit	7A13z	Emergency replacement of aneurysmal segment of aorta NOS
+AAA	Read2_5digit	G714.	Abdominal aortic aneurysm without mention of rupture
+AAA	Read2_5digit	G716.	Aortic aneurysm without mention of rupture NOS
+AAA	Read2_5digit	G7160	Thoracoabdominal aortic aneurysm, without mention of rupture
+AAA	CTV3_5digit	14AE.	H/O: aortic aneurysm
+AAA	CTV3_5digit	7A110	Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to femoral artery
+AAA	CTV3_5digit	XE0Ey	Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery
+AAA	CTV3_5digit	X015v	Y graft of abdominal Aortic aneurysm (emergency)
+AAA	CTV3_5digit	7A13.	Emergency replacement of aneurysmal segment of aorta
+AAA	CTV3_5digit	7A133	Emergency replacement of aneurysmal segment of infrarenal abdominal aorta by anastomosis of aorta to aorta
+AAA	CTV3_5digit	XE0F2	Emergency replacement of aneurysmal segment of abdominal aorta by anastomosis of aorta to aorta NEC
+AAA	CTV3_5digit	X015y	Tube graft abdominal Aortic aneurysm (emergency)
+AAA	CTV3_5digit	7A13y	Other specified emergency replacement of aneurysmal segment of aorta
+AAA	CTV3_5digit	7A13z	Emergency replacement of aneurysmal segment of aorta NOS
+AAA	CTV3_5digit	G714.	Abdominal aortic aneurysm without mention of rupture
+AAA	CTV3_5digit	G716.	Aortic aneurysm without mention of rupture NOS
+AAA	CTV3_5digit	G7160	Thoracoabdominal aortic aneurysm, without mention of rupture

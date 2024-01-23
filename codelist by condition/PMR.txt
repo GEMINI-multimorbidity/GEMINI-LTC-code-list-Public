@@ -1,0 +1,19 @@
+condition	vocab_id	code	description
+PMR	ICD10	M31.5	Giant cell arteritis with polymyalgia rheumatica
+PMR	ICD10	M35.3	Polymyalgia rheumatica
+PMR	Read2	N20..00	Polymyalgia rheumatica
+PMR	Read2	N20..11	Polymyalgia
+PMR	Read2	N200.00	Giant cell arteritis with polymyalgia rheumatica
+PMR	CTV3	XE1FJY70Pw	Polymyalgia rheumatica
+PMR	CTV3	XE1FJY70Px	PMR - Polymyalgia rheumatica
+PMR	CTV3	X705lY70R6	Giant cell arteritis with polymyalgia rheumatica
+PMR	medcodeid	108529013	Polymyalgia rheumatica
+PMR	medcodeid	359513016	Giant cell arteritis with polymyalgia rheumatica
+PMR	medcodeid	158050019	Polymyalgia
+PMR	SNOMEDCT	65323003	Polymyalgia rheumatica
+PMR	SNOMEDCT	239938009	Giant cell arteritis with polymyalgia rheumatica
+PMR	SNOMEDCT	65323003	Polymyalgia
+PMR	Read2_5digit	N20..	Polymyalgia rheumatica
+PMR	Read2_5digit	N200.	Giant cell arteritis with polymyalgia rheumatica
+PMR	CTV3_5digit	XE1FJ	Polymyalgia rheumatica
+PMR	CTV3_5digit	X705l	Giant cell arteritis with polymyalgia rheumatica

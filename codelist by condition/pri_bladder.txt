@@ -1,0 +1,85 @@
+condition	vocab_id	code	description
+pri_bladder	ICD10	C67	Malignant neoplasm of bladder
+pri_bladder	Read2	B49..00	Malignant neoplasm of urinary bladder
+pri_bladder	Read2	B490.00	Malignant neoplasm of trigone of urinary bladder
+pri_bladder	Read2	B491.00	Malignant neoplasm of dome of urinary bladder
+pri_bladder	Read2	B492.00	Malignant neoplasm of lateral wall of urinary bladder
+pri_bladder	Read2	B493.00	Malignant neoplasm of anterior wall of urinary bladder
+pri_bladder	Read2	B494.00	Malignant neoplasm of posterior wall of urinary bladder
+pri_bladder	Read2	B495.00	Malignant neoplasm of bladder neck
+pri_bladder	Read2	B496.00	Malignant neoplasm of ureteric orifice
+pri_bladder	Read2	B497.00	Malignant neoplasm of urachus
+pri_bladder	Read2	B498.00	Local recurrence of malignant tumour of urinary bladder
+pri_bladder	Read2	B49y.00	Malignant neoplasm of other site of urinary bladder
+pri_bladder	Read2	B49y000	Malignant neoplasm, overlapping lesion of bladder
+pri_bladder	Read2	B49z.00	Malignant neoplasm of urinary bladder NOS
+pri_bladder	Read2	ZV10511	[V]Personal history of malignant neoplasm of bladder
+pri_bladder	CTV3	B49..Y7Jkl	Malignant neoplasm of urinary bladder
+pri_bladder	CTV3	B490.Y7Jl0	Malignant neoplasm of trigone of urinary bladder
+pri_bladder	CTV3	B491.YM0ic	Malignant neoplasm of dome of urinary bladder
+pri_bladder	CTV3	B492.Y7Jkn	Malignant neoplasm of lateral wall of urinary bladder
+pri_bladder	CTV3	B493.Y7Jko	Malignant neoplasm of anterior wall of urinary bladder
+pri_bladder	CTV3	B494.Y7Jkp	Malignant neoplasm of posterior wall of urinary bladder
+pri_bladder	CTV3	B495.Y7Jl2	Malignant neoplasm of bladder neck
+pri_bladder	CTV3	B496.Y7Jl4	Malignant neoplasm of ureteric orifice
+pri_bladder	CTV3	B497.Y7Jl6	Malignant neoplasm of urachus
+pri_bladder	CTV3	XaFrLYah22	Local recurrence of malignant tumour of urinary bladder
+pri_bladder	CTV3	B49y.Y7Jkq	Malignant neoplasm of other site of urinary bladder
+pri_bladder	CTV3	B49y0YMAyc	Malignant neoplasm, overlapping lesion of bladder
+pri_bladder	CTV3	B49z.Y7Jkr	Malignant neoplasm of urinary bladder NOS
+pri_bladder	CTV3	ZV105Ya0dd	[V]Personal history of malignant neoplasm of bladder
+pri_bladder	medcodeid	289267015	Malignant neoplasm of dome of urinary bladder
+pri_bladder	medcodeid	289272012	Malignant neoplasm of posterior wall of urinary bladder
+pri_bladder	medcodeid	459399016	Local recurrence of malignant tumour of urinary bladder
+pri_bladder	medcodeid	1786811017	Malignant neoplasm of urinary bladder
+pri_bladder	medcodeid	720951000006119	Malignant neoplasm of urachus
+pri_bladder	medcodeid	289280017	Malignant neoplasm, overlapping lesion of bladder
+pri_bladder	medcodeid	1227573010	[V]Personal history of malignant neoplasm of bladder
+pri_bladder	medcodeid	289270016	Malignant neoplasm of lateral wall of urinary bladder
+pri_bladder	medcodeid	289275014	Malignant neoplasm of bladder neck
+pri_bladder	medcodeid	289276010	Malignant neoplasm of ureteric orifice
+pri_bladder	medcodeid	289279015	Malignant neoplasm of other site of urinary bladder
+pri_bladder	medcodeid	289271017	Malignant neoplasm of anterior wall of urinary bladder
+pri_bladder	medcodeid	289262014	Malignant neoplasm of trigone of urinary bladder
+pri_bladder	medcodeid	289281018	Malignant neoplasm of urinary bladder NOS
+pri_bladder	SNOMEDCT	188240003	Malignant neoplasm of dome of urinary bladder
+pri_bladder	SNOMEDCT	188243001	Malignant neoplasm of posterior wall of urinary bladder
+pri_bladder	SNOMEDCT	314968009	Local recurrence of malignant tumour of urinary bladder
+pri_bladder	SNOMEDCT	399326009	Malignant neoplasm of urinary bladder
+pri_bladder	SNOMEDCT	363456000	Malignant neoplasm of urachus
+pri_bladder	SNOMEDCT	188247000	Malignant neoplasm, overlapping lesion of bladder
+pri_bladder	SNOMEDCT	415087005	[V]Personal history of malignant neoplasm of bladder
+pri_bladder	SNOMEDCT	188241004	Malignant neoplasm of lateral wall of urinary bladder
+pri_bladder	SNOMEDCT	188244007	Malignant neoplasm of bladder neck
+pri_bladder	SNOMEDCT	188245008	Malignant neoplasm of ureteric orifice
+pri_bladder	SNOMEDCT	399326009	Malignant neoplasm of other site of urinary bladder
+pri_bladder	SNOMEDCT	188242006	Malignant neoplasm of anterior wall of urinary bladder
+pri_bladder	SNOMEDCT	188239000	Malignant neoplasm of trigone of urinary bladder
+pri_bladder	SNOMEDCT	399326009	Malignant neoplasm of urinary bladder NOS
+pri_bladder	Read2_5digit	B49..	Malignant neoplasm of urinary bladder
+pri_bladder	Read2_5digit	B490.	Malignant neoplasm of trigone of urinary bladder
+pri_bladder	Read2_5digit	B491.	Malignant neoplasm of dome of urinary bladder
+pri_bladder	Read2_5digit	B492.	Malignant neoplasm of lateral wall of urinary bladder
+pri_bladder	Read2_5digit	B493.	Malignant neoplasm of anterior wall of urinary bladder
+pri_bladder	Read2_5digit	B494.	Malignant neoplasm of posterior wall of urinary bladder
+pri_bladder	Read2_5digit	B495.	Malignant neoplasm of bladder neck
+pri_bladder	Read2_5digit	B496.	Malignant neoplasm of ureteric orifice
+pri_bladder	Read2_5digit	B497.	Malignant neoplasm of urachus
+pri_bladder	Read2_5digit	B498.	Local recurrence of malignant tumour of urinary bladder
+pri_bladder	Read2_5digit	B49y.	Malignant neoplasm of other site of urinary bladder
+pri_bladder	Read2_5digit	B49y0	Malignant neoplasm, overlapping lesion of bladder
+pri_bladder	Read2_5digit	B49z.	Malignant neoplasm of urinary bladder NOS
+pri_bladder	CTV3_5digit	B49..	Malignant neoplasm of urinary bladder
+pri_bladder	CTV3_5digit	B490.	Malignant neoplasm of trigone of urinary bladder
+pri_bladder	CTV3_5digit	B491.	Malignant neoplasm of dome of urinary bladder
+pri_bladder	CTV3_5digit	B492.	Malignant neoplasm of lateral wall of urinary bladder
+pri_bladder	CTV3_5digit	B493.	Malignant neoplasm of anterior wall of urinary bladder
+pri_bladder	CTV3_5digit	B494.	Malignant neoplasm of posterior wall of urinary bladder
+pri_bladder	CTV3_5digit	B495.	Malignant neoplasm of bladder neck
+pri_bladder	CTV3_5digit	B496.	Malignant neoplasm of ureteric orifice
+pri_bladder	CTV3_5digit	B497.	Malignant neoplasm of urachus
+pri_bladder	CTV3_5digit	XaFrL	Local recurrence of malignant tumour of urinary bladder
+pri_bladder	CTV3_5digit	B49y.	Malignant neoplasm of other site of urinary bladder
+pri_bladder	CTV3_5digit	B49y0	Malignant neoplasm, overlapping lesion of bladder
+pri_bladder	CTV3_5digit	B49z.	Malignant neoplasm of urinary bladder NOS
+pri_bladder	CTV3_5digit	ZV105	[V]Personal history of malignant neoplasm of bladder

@@ -1,0 +1,67 @@
+condition	vocab_id	code	description
+hyperthyroid	ICD10	E05.0	Thyrotoxicosis with diffuse goitre
+hyperthyroid	ICD10	E05.9	Thyrotoxicosis, unspecified
+hyperthyroid	ICD10	H06.2	Dysthyroid exophthalmos
+hyperthyroid	Read2	66B4.00	Thyroid eye disease
+hyperthyroid	Read2	C02..00	Thyrotoxicosis
+hyperthyroid	Read2	C02..11	Hyperthyroidism
+hyperthyroid	Read2	C020.00	Toxic diffuse goitre
+hyperthyroid	Read2	C020.11	Basedow's disease
+hyperthyroid	Read2	C020.12	Graves' disease
+hyperthyroid	Read2	C020000	Toxic diffuse goitre with no crisis
+hyperthyroid	Read2	C020100	Toxic diffuse goitre with crisis
+hyperthyroid	Read2	C020z00	Toxic diffuse goitre NOS
+hyperthyroid	Read2	F4G2000	Thyrotoxic exophthalmos
+hyperthyroid	Read2	FyuBD00	[X]Dysthyroid exophthalmos
+hyperthyroid	CTV3	XS29GY7A1E	Thyroid eye disease
+hyperthyroid	CTV3	XE104Y41KN	Thyrotoxicosis
+hyperthyroid	CTV3	XE104Y41KO	Hyperthyroidism
+hyperthyroid	CTV3	XE105Y41KY	Toxic diffuse goitre
+hyperthyroid	CTV3	X40OIY41Zy	Basedow's disease
+hyperthyroid	CTV3	X40OIY41Zx	Graves' disease
+hyperthyroid	CTV3	C0200Y41Nh	Toxic diffuse goitre with no crisis
+hyperthyroid	CTV3	C0201Y41Ng	Toxic diffuse goitre with crisis
+hyperthyroid	CTV3	C020zY41Nf	Toxic diffuse goitre NOS
+hyperthyroid	CTV3	F4G20Y01in	Thyrotoxic exophthalmos
+hyperthyroid	CTV3	F4G2.Y01if	Dysthyroid ophthalmopathy
+hyperthyroid	CTV3	XaQbNY01ig	Dysthyroid exophthalmos
+hyperthyroid	medcodeid	33469013	Thyrotoxic exophthalmos
+hyperthyroid	medcodeid	57561015	Hyperthyroidism
+hyperthyroid	medcodeid	150375010	Thyrotoxicosis
+hyperthyroid	medcodeid	292327018	Toxic diffuse goitre with no crisis
+hyperthyroid	medcodeid	292330013	Toxic diffuse goitre with crisis
+hyperthyroid	medcodeid	398780011	Toxic diffuse goitre
+hyperthyroid	medcodeid	472452010	Graves' disease
+hyperthyroid	medcodeid	292331012	Toxic diffuse goitre NOS
+hyperthyroid	medcodeid	379441000006115	[X]Dysthyroid exophthalmos
+hyperthyroid	medcodeid	490987015	Basedow's disease
+hyperthyroid	medcodeid	412221013	Thyroid eye disease
+hyperthyroid	SNOMEDCT	19885005	Thyrotoxic exophthalmos
+hyperthyroid	SNOMEDCT	34486009	Hyperthyroidism
+hyperthyroid	SNOMEDCT	90739004	Thyrotoxicosis
+hyperthyroid	SNOMEDCT	190241003	Toxic diffuse goitre with no crisis
+hyperthyroid	SNOMEDCT	190242005	Toxic diffuse goitre with crisis
+hyperthyroid	SNOMEDCT	267374005	Toxic diffuse goitre
+hyperthyroid	SNOMEDCT	353295004	Graves' disease
+hyperthyroid	SNOMEDCT	267374005	Toxic diffuse goitre NOS
+hyperthyroid	SNOMEDCT	509381000000104	[X]Dysthyroid exophthalmos
+hyperthyroid	SNOMEDCT	353295004	Basedow's disease
+hyperthyroid	SNOMEDCT	276177000	Thyroid eye disease
+hyperthyroid	Read2_5digit	66B4.	Thyroid eye disease
+hyperthyroid	Read2_5digit	C02..	Thyrotoxicosis
+hyperthyroid	Read2_5digit	C020.	Toxic diffuse goitre
+hyperthyroid	Read2_5digit	C0200	Toxic diffuse goitre with no crisis
+hyperthyroid	Read2_5digit	C0201	Toxic diffuse goitre with crisis
+hyperthyroid	Read2_5digit	C020z	Toxic diffuse goitre NOS
+hyperthyroid	Read2_5digit	F4G20	Thyrotoxic exophthalmos
+hyperthyroid	Read2_5digit	FyuBD	[X]Dysthyroid exophthalmos
+hyperthyroid	CTV3_5digit	XS29G	Thyroid eye disease
+hyperthyroid	CTV3_5digit	XE104	Thyrotoxicosis
+hyperthyroid	CTV3_5digit	XE105	Toxic diffuse goitre
+hyperthyroid	CTV3_5digit	X40OI	Basedow's disease
+hyperthyroid	CTV3_5digit	C0200	Toxic diffuse goitre with no crisis
+hyperthyroid	CTV3_5digit	C0201	Toxic diffuse goitre with crisis
+hyperthyroid	CTV3_5digit	C020z	Toxic diffuse goitre NOS
+hyperthyroid	CTV3_5digit	F4G20	Thyrotoxic exophthalmos
+hyperthyroid	CTV3_5digit	F4G2.	Dysthyroid ophthalmopathy
+hyperthyroid	CTV3_5digit	XaQbN	Dysthyroid exophthalmos

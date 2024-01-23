@@ -1,0 +1,224 @@
+condition	vocab_id	code	description
+COPD	ICD10	J43	Emphysema
+COPD	ICD10	J44	Other chronic obstructive pulmonary disease
+COPD	Read2	14B3.12	History of chronic obstructive pulmonary disease
+COPD	Read2	H3...00	Chronic obstructive pulmonary disease
+COPD	Read2	H3...11	Chronic obstructive airways disease
+COPD	Read2	H312.00	Obstructive chronic bronchitis
+COPD	Read2	H312000	Chronic asthmatic bronchitis
+COPD	Read2	H312011	Chronic wheezy bronchitis
+COPD	Read2	H312100	Emphysematous bronchitis
+COPD	Read2	H312200	Acute exacerbation of chronic obstructive airways disease
+COPD	Read2	H312z00	Obstructive chronic bronchitis NOS
+COPD	Read2	H32..00	Emphysema
+COPD	Read2	H320.00	Chronic bullous emphysema
+COPD	Read2	H320000	Segmental bullous emphysema
+COPD	Read2	H320100	Zonal bullous emphysema
+COPD	Read2	H320200	Giant bullous emphysema
+COPD	Read2	H320300	Bullous emphysema with collapse
+COPD	Read2	H320z00	Chronic bullous emphysema NOS
+COPD	Read2	H321.00	Panlobular emphysema
+COPD	Read2	H322.00	Centrilobular emphysema
+COPD	Read2	H32y.00	Other emphysema
+COPD	Read2	H32y000	Acute vesicular emphysema
+COPD	Read2	H32y100	Atrophic (senile) emphysema
+COPD	Read2	H32y111	Acute interstitial emphysema
+COPD	Read2	H32y200	MacLeod's unilateral emphysema
+COPD	Read2	H32yz00	Other emphysema NOS
+COPD	Read2	H32z.00	Emphysema NOS
+COPD	Read2	H36..00	Mild chronic obstructive pulmonary disease
+COPD	Read2	H37..00	Moderate chronic obstructive pulmonary disease
+COPD	Read2	H38..00	Severe chronic obstructive pulmonary disease
+COPD	Read2	H39..00	Very severe chronic obstructive pulmonary disease
+COPD	Read2	H3A..00	End stage chronic obstructive airways disease
+COPD	Read2	H3y..00	Other specified chronic obstructive airways disease
+COPD	Read2	H3y..11	Other specified chronic obstructive pulmonary disease
+COPD	Read2	H3y0.00	Chronic obstructive pulmonary disease with acute lower respiratory infection
+COPD	Read2	H3y1.00	Chronic obstructive pulmonary disease with acute exacerbation, unspecified
+COPD	Read2	H3z..00	Chronic obstructive airways disease NOS
+COPD	Read2	H3z..11	Chronic obstructive pulmonary disease NOS
+COPD	Read2	Hyu3000	[X]Other emphysema
+COPD	Read2	Hyu3100	[X]Other specified chronic obstructive pulmonary disease
+COPD	CTV3	14B3.YaudH	History of chronic obstructive pulmonary disease
+COPD	CTV3	XE2PpYaudH	History of chronic obstructive pulmonary disease
+COPD	CTV3	H3...Y106W	Chronic obstructive pulmonary disease
+COPD	CTV3	H3...Y106U	Chronic obstructive lung disease
+COPD	CTV3	H3...Y106Z	COAD - Chronic obstructive airways disease
+COPD	CTV3	H3...Y106o	Obstructive chronic bronchitis
+COPD	CTV3	H3120Y108g	Chronic asthmatic bronchitis
+COPD	CTV3	H3120Y108h	Chronic wheezy bronchitis
+COPD	CTV3	H3121Y106p	Emphysematous bronchitis
+COPD	CTV3	H3122Y106q	Acute exacerbation of chronic obstructive airways disease
+COPD	CTV3	H312zY106r	Obstructive chronic bronchitis NOS
+COPD	CTV3	H32..Y107H	Emphysema
+COPD	CTV3	H320.Y107S	Chronic bullous emphysema
+COPD	CTV3	H3200Y107Z	Segmental bullous emphysema
+COPD	CTV3	H3201Y107a	Zonal bullous emphysema
+COPD	CTV3	H3202Y107Y	Giant bullous emphysema
+COPD	CTV3	XE0YNY107W	Bullous emphysema with collapse
+COPD	CTV3	H320zY107V	Chronic bullous emphysema NOS
+COPD	CTV3	H321.YMAjG	Panlobular emphysema
+COPD	CTV3	H322.YMAjH	Centrilobular emphysema
+COPD	CTV3	H32y.Y107I	Other emphysema
+COPD	CTV3	H32y0Y107J	Acute vesicular emphysema
+COPD	CTV3	XE0YOY107K	Atrophic (senile) emphysema
+COPD	CTV3	H581.Y107i	Acute interstitial emphysema
+COPD	CTV3	XaIQgY107h	Interstitial pulmonary emphysema
+COPD	CTV3	H32y2YMK6z	MacLeod's unilateral emphysema
+COPD	CTV3	XE0YPY107L	Other emphysema NOS
+COPD	CTV3	H32z.Y107M	Emphysema NOS
+COPD	CTV3	XaEIVYaeay	Mild chronic obstructive pulmonary disease
+COPD	CTV3	XaEIWYaeaz	Moderate chronic obstructive pulmonary disease
+COPD	CTV3	XaEIYYaeb2	Severe chronic obstructive pulmonary disease
+COPD	CTV3	XaN4aYaq8A	Very severe chronic obstructive pulmonary disease
+COPD	CTV3	XaINDYakmF	End stage chronic obstructive airways disease
+COPD	CTV3	H3y..Y106g	Other specified chronic obstructive airways disease
+COPD	CTV3	H3y..Yadv4	Other specified chronic obstructive pulmonary disease
+COPD	CTV3	H3y0.YMAjF	Chronic obstructive pulmonary disease with acute lower respiratory infection
+COPD	CTV3	X101iYMAjE	Chronic obstructive pulmonary disease with acute exacerbation, unspecified
+COPD	CTV3	H3z..Y106h	Chronic obstructive airways disease NOS
+COPD	CTV3	H3z..Yadv5	Chronic obstructive pulmonary disease NOS
+COPD	CTV3	Hyu30YMAJJ	[X]Other emphysema
+COPD	CTV3	Hyu31YMAJK	[X]Other specified chronic obstructive pulmonary disease
+COPD	medcodeid	27096010	Giant bullous emphysema
+COPD	medcodeid	113497011	Centrilobular emphysema
+COPD	medcodeid	216596014	End stage chronic obstructive airways disease
+COPD	medcodeid	285100019	Emphysematous bronchitis
+COPD	medcodeid	301460019	Chronic bullous emphysema
+COPD	medcodeid	301463017	Segmental bullous emphysema
+COPD	medcodeid	301470017	Acute vesicular emphysema
+COPD	medcodeid	396109014	Atrophic (senile) emphysema
+COPD	medcodeid	457168017	Mild chronic obstructive pulmonary disease
+COPD	medcodeid	457169013	Moderate chronic obstructive pulmonary disease
+COPD	medcodeid	475431013	Chronic obstructive pulmonary disease
+COPD	medcodeid	1230190015	MacLeod's unilateral emphysema
+COPD	medcodeid	301455018	Obstructive chronic bronchitis NOS
+COPD	medcodeid	301468014	Chronic bullous emphysema NOS
+COPD	medcodeid	301477019	Emphysema NOS
+COPD	medcodeid	301545019	Chronic obstructive airways disease NOS
+COPD	medcodeid	1222334016	Other specified chronic obstructive pulmonary disease
+COPD	medcodeid	1222335015	Chronic obstructive pulmonary disease NOS
+COPD	medcodeid	553211000006119	Chron obstruct pulmonary dis wth acute exacerbation, unspec
+COPD	medcodeid	555461000006119	Chronic obstruct pulmonary dis with acute lower resp infectn
+COPD	medcodeid	301469018	Other emphysema
+COPD	medcodeid	285104011	Obstructive chronic bronchitis
+COPD	medcodeid	301539010	Other specified chronic obstructive airways disease
+COPD	medcodeid	1765681000000110	History of chronic obstructive pulmonary disease
+COPD	medcodeid	516801000000112	Very severe chronic obstructive pulmonary disease
+COPD	medcodeid	9337016	Panlobular emphysema
+COPD	medcodeid	457581000006111	Acute interstitial emphysema
+COPD	medcodeid	457171013	Severe chronic obstructive pulmonary disease
+COPD	medcodeid	301450011	Chronic asthmatic bronchitis
+COPD	medcodeid	301451010	Chronic wheezy bronchitis
+COPD	medcodeid	301464011	Zonal bullous emphysema
+COPD	medcodeid	396108018	Bullous emphysema with collapse
+COPD	medcodeid	301453013	Acute exacerbation of chronic obstructive airways disease
+COPD	medcodeid	301835010	[X]Other emphysema
+COPD	medcodeid	396110016	Other emphysema NOS
+COPD	medcodeid	301836011	[X]Other specified chronic obstructive pulmonary disease
+COPD	medcodeid	555471000006114	Chronic obstructive airways disease
+COPD	medcodeid	640491000006111	Emphysema
+COPD	SNOMEDCT	16003001	Giant bullous emphysema
+COPD	SNOMEDCT	68328006	Centrilobular emphysema
+COPD	SNOMEDCT	135836000	End stage chronic obstructive airways disease
+COPD	SNOMEDCT	185086009	Emphysematous bronchitis
+COPD	SNOMEDCT	195957006	Chronic bullous emphysema
+COPD	SNOMEDCT	195958001	Segmental bullous emphysema
+COPD	SNOMEDCT	195963002	Acute vesicular emphysema
+COPD	SNOMEDCT	266356006	Atrophic (senile) emphysema
+COPD	SNOMEDCT	313296004	Mild chronic obstructive pulmonary disease
+COPD	SNOMEDCT	313297008	Moderate chronic obstructive pulmonary disease
+COPD	SNOMEDCT	13645005	Chronic obstructive pulmonary disease
+COPD	SNOMEDCT	45145000	MacLeod's unilateral emphysema
+COPD	SNOMEDCT	185086009	Obstructive chronic bronchitis NOS
+COPD	SNOMEDCT	195957006	Chronic bullous emphysema NOS
+COPD	SNOMEDCT	87433001	Emphysema NOS
+COPD	SNOMEDCT	13645005	Chronic obstructive airways disease NOS
+COPD	SNOMEDCT	13645005	Other specified chronic obstructive pulmonary disease
+COPD	SNOMEDCT	13645005	Chronic obstructive pulmonary disease NOS
+COPD	SNOMEDCT	195951007	Chron obstruct pulmonary dis wth acute exacerbation, unspec
+COPD	SNOMEDCT	196001008	Chronic obstruct pulmonary dis with acute lower resp infectn
+COPD	SNOMEDCT	87433001	Other emphysema
+COPD	SNOMEDCT	185086009	Obstructive chronic bronchitis
+COPD	SNOMEDCT	13645005	Other specified chronic obstructive airways disease
+COPD	SNOMEDCT	270473001	History of chronic obstructive pulmonary disease
+COPD	SNOMEDCT	293991000000106	Very severe chronic obstructive pulmonary disease
+COPD	SNOMEDCT	4981000	Panlobular emphysema
+COPD	SNOMEDCT	77690003	Acute interstitial emphysema
+COPD	SNOMEDCT	313299006	Severe chronic obstructive pulmonary disease
+COPD	SNOMEDCT	195949008	Chronic asthmatic bronchitis
+COPD	SNOMEDCT	195949008	Chronic wheezy bronchitis
+COPD	SNOMEDCT	195959009	Zonal bullous emphysema
+COPD	SNOMEDCT	266355005	Bullous emphysema with collapse
+COPD	SNOMEDCT	195951007	Acute exacerbation of chronic obstructive airways disease
+COPD	SNOMEDCT	87433001	[X]Other emphysema
+COPD	SNOMEDCT	87433001	Other emphysema NOS
+COPD	SNOMEDCT	13645005	[X]Other specified chronic obstructive pulmonary disease
+COPD	SNOMEDCT	13645005	Chronic obstructive airways disease
+COPD	SNOMEDCT	87433001	Emphysema
+COPD	Read2_5digit	14B3.	History of chronic obstructive pulmonary disease
+COPD	Read2_5digit	H3...	Chronic obstructive pulmonary disease
+COPD	Read2_5digit	H312.	Obstructive chronic bronchitis
+COPD	Read2_5digit	H3120	Chronic asthmatic bronchitis
+COPD	Read2_5digit	H3121	Emphysematous bronchitis
+COPD	Read2_5digit	H3122	Acute exacerbation of chronic obstructive airways disease
+COPD	Read2_5digit	H312z	Obstructive chronic bronchitis NOS
+COPD	Read2_5digit	H32..	Emphysema
+COPD	Read2_5digit	H320.	Chronic bullous emphysema
+COPD	Read2_5digit	H3200	Segmental bullous emphysema
+COPD	Read2_5digit	H3201	Zonal bullous emphysema
+COPD	Read2_5digit	H3202	Giant bullous emphysema
+COPD	Read2_5digit	H320z	Chronic bullous emphysema NOS
+COPD	Read2_5digit	H321.	Panlobular emphysema
+COPD	Read2_5digit	H322.	Centrilobular emphysema
+COPD	Read2_5digit	H32y.	Other emphysema
+COPD	Read2_5digit	H32y0	Acute vesicular emphysema
+COPD	Read2_5digit	H32y1	Atrophic (senile) emphysema
+COPD	Read2_5digit	H32y2	MacLeod's unilateral emphysema
+COPD	Read2_5digit	H32yz	Other emphysema NOS
+COPD	Read2_5digit	H32z.	Emphysema NOS
+COPD	Read2_5digit	H36..	Mild chronic obstructive pulmonary disease
+COPD	Read2_5digit	H37..	Moderate chronic obstructive pulmonary disease
+COPD	Read2_5digit	H38..	Severe chronic obstructive pulmonary disease
+COPD	Read2_5digit	H39..	Very severe chronic obstructive pulmonary disease
+COPD	Read2_5digit	H3A..	End stage chronic obstructive airways disease
+COPD	Read2_5digit	H3y..	Other specified chronic obstructive airways disease
+COPD	Read2_5digit	H3y0.	Chronic obstructive pulmonary disease with acute lower respiratory infection
+COPD	Read2_5digit	H3y1.	Chronic obstructive pulmonary disease with acute exacerbation, unspecified
+COPD	Read2_5digit	H3z..	Chronic obstructive airways disease NOS
+COPD	Read2_5digit	Hyu30	[X]Other emphysema
+COPD	Read2_5digit	Hyu31	[X]Other specified chronic obstructive pulmonary disease
+COPD	CTV3_5digit	14B3.	History of chronic obstructive pulmonary disease
+COPD	CTV3_5digit	XE2Pp	History of chronic obstructive pulmonary disease
+COPD	CTV3_5digit	H3...	Chronic obstructive pulmonary disease
+COPD	CTV3_5digit	H3120	Chronic asthmatic bronchitis
+COPD	CTV3_5digit	H3121	Emphysematous bronchitis
+COPD	CTV3_5digit	H3122	Acute exacerbation of chronic obstructive airways disease
+COPD	CTV3_5digit	H312z	Obstructive chronic bronchitis NOS
+COPD	CTV3_5digit	H32..	Emphysema
+COPD	CTV3_5digit	H320.	Chronic bullous emphysema
+COPD	CTV3_5digit	H3200	Segmental bullous emphysema
+COPD	CTV3_5digit	H3201	Zonal bullous emphysema
+COPD	CTV3_5digit	H3202	Giant bullous emphysema
+COPD	CTV3_5digit	XE0YN	Bullous emphysema with collapse
+COPD	CTV3_5digit	H320z	Chronic bullous emphysema NOS
+COPD	CTV3_5digit	H321.	Panlobular emphysema
+COPD	CTV3_5digit	H322.	Centrilobular emphysema
+COPD	CTV3_5digit	H32y.	Other emphysema
+COPD	CTV3_5digit	H32y0	Acute vesicular emphysema
+COPD	CTV3_5digit	XE0YO	Atrophic (senile) emphysema
+COPD	CTV3_5digit	XaIQg	Interstitial pulmonary emphysema
+COPD	CTV3_5digit	H32y2	MacLeod's unilateral emphysema
+COPD	CTV3_5digit	XE0YP	Other emphysema NOS
+COPD	CTV3_5digit	H32z.	Emphysema NOS
+COPD	CTV3_5digit	XaEIV	Mild chronic obstructive pulmonary disease
+COPD	CTV3_5digit	XaEIW	Moderate chronic obstructive pulmonary disease
+COPD	CTV3_5digit	XaEIY	Severe chronic obstructive pulmonary disease
+COPD	CTV3_5digit	XaN4a	Very severe chronic obstructive pulmonary disease
+COPD	CTV3_5digit	XaIND	End stage chronic obstructive airways disease
+COPD	CTV3_5digit	H3y..	Other specified chronic obstructive airways disease
+COPD	CTV3_5digit	H3y0.	Chronic obstructive pulmonary disease with acute lower respiratory infection
+COPD	CTV3_5digit	X101i	Chronic obstructive pulmonary disease with acute exacerbation, unspecified
+COPD	CTV3_5digit	H3z..	Chronic obstructive airways disease NOS
+COPD	CTV3_5digit	Hyu30	[X]Other emphysema
+COPD	CTV3_5digit	Hyu31	[X]Other specified chronic obstructive pulmonary disease

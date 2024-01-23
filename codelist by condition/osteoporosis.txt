@@ -1,0 +1,319 @@
+condition	vocab_id	code	description
+osteoporosis	ICD10	M80	Osteoporosis with pathological fracture
+osteoporosis	ICD10	M81	Osteoporosis without pathological fracture
+osteoporosis	ICD10	M82	Osteoporosis in diseases classified elsewhere
+osteoporosis	Read2	14GB.00	History of osteoporosis
+osteoporosis	Read2	58EG.00	Hip DXA scan result osteoporotic
+osteoporosis	Read2	58EM.00	Lumbar DXA scan result osteoporotic
+osteoporosis	Read2	58EV.00	Femoral neck DEXA scan result osteoporotic
+osteoporosis	Read2	66a..00	Osteoporosis monitoring
+osteoporosis	Read2	9kj..00	Osteoporosis - enhanced services administration
+osteoporosis	Read2	9kj0.00	Bone sparing drug treatment offered for osteoporosis - enhanced services administration
+osteoporosis	Read2	9Od..00	Osteoporosis monitoring administration
+osteoporosis	Read2	9Od0.00	Attends osteoporosis monitoring
+osteoporosis	Read2	9Od2.00	Osteoporosis monitoring default
+osteoporosis	Read2	9Od3.00	Osteoporosis monitoring first letter
+osteoporosis	Read2	9Od4.00	Osteoporosis monitoring second letter
+osteoporosis	Read2	9Od5.00	Osteoporosis monitoring third letter
+osteoporosis	Read2	9Od6.00	Osteoporosis monitoring verbal invitation
+osteoporosis	Read2	9Od7.00	Osteoporosis monitoring telephone invitation
+osteoporosis	Read2	9Od8.00	Osteoporosis monitoring deleted
+osteoporosis	Read2	9Od9.00	Osteoporosis monitoring check done
+osteoporosis	Read2	N330.00	Osteoporosis
+osteoporosis	Read2	N330000	Osteoporosis, unspecified
+osteoporosis	Read2	N330100	Senile osteoporosis
+osteoporosis	Read2	N330200	Postmenopausal osteoporosis
+osteoporosis	Read2	N330300	Idiopathic osteoporosis
+osteoporosis	Read2	N330400	Dissuse osteoporosis
+osteoporosis	Read2	N330500	Drug-induced osteoporosis
+osteoporosis	Read2	N330600	Postoophorectomy osteoporosis
+osteoporosis	Read2	N330700	Postsurgical malabsorption osteoporosis
+osteoporosis	Read2	N330A00	Osteoporosis in endocrine disorders
+osteoporosis	Read2	N330B00	Vertebral osteoporosis
+osteoporosis	Read2	N330C00	Osteoporosis localized to spine
+osteoporosis	Read2	N330D00	Osteoporosis due to corticosteroids
+osteoporosis	Read2	N330z00	Osteoporosis NOS
+osteoporosis	Read2	N331200	Postoophorectomy osteoporosis with pathological fracture
+osteoporosis	Read2	N331300	Osteoporosis of disuse with pathological fracture
+osteoporosis	Read2	N331400	Postsurgical malabsorption osteoporosis with pathological fracture
+osteoporosis	Read2	N331500	Drug-induced osteoporosis with pathological fracture
+osteoporosis	Read2	N331600	Idiopathic osteoporosis with pathological fracture
+osteoporosis	Read2	N331800	Osteoporosis + pathological fracture lumbar vertebrae
+osteoporosis	Read2	N331900	Osteoporosis + pathological fracture thoracic vertebrae
+osteoporosis	Read2	N331A00	Osteoporosis + pathological fracture cervical vertebrae
+osteoporosis	Read2	N331B00	Postmenopausal osteoporosis with pathological fracture
+osteoporosis	Read2	N331H00	Collapse of cervical vertebra due to osteoporosis
+osteoporosis	Read2	N331J00	Collapse of lumbar vertebra due to osteoporosis
+osteoporosis	Read2	N331K00	Collapse of thoracic vertebra due to osteoporosis
+osteoporosis	Read2	N331L00	Collapse of vertebra due to osteoporosis NOS
+osteoporosis	Read2	N331M00	Fragility fracture due to unspecified osteoporosis
+osteoporosis	Read2	N331M11	Minimal trauma fracture due to unspecified osteoporosis
+osteoporosis	Read2	N331N00	Fragility fracture
+osteoporosis	Read2	N331N11	Minimal trauma fracture
+osteoporosis	Read2	N374600	Osteoporotic kyphosis
+osteoporosis	Read2	NyuB000	[X]Other osteoporosis with pathological fracture
+osteoporosis	Read2	NyuB100	[X]Other osteoporosis
+osteoporosis	Read2	NyuB200	[X]Osteoporosis in other disorders classified elsewhere
+osteoporosis	Read2	NyuB800	[X]Unspecified osteoporosis with pathological fracture
+osteoporosis	CTV3	XaQgTYatET	History of osteoporosis
+osteoporosis	CTV3	XaITWYakvR	Hip DXA scan result osteoporotic
+osteoporosis	CTV3	XaITbYakvW	Lumbar DXA scan result osteoporotic
+osteoporosis	CTV3	XaPE2YarqN	Femoral neck DEXA scan result osteoporotic
+osteoporosis	CTV3	XaISdYakuY	Osteoporosis monitoring
+osteoporosis	CTV3	XaQR9Yat1i	NA
+osteoporosis	CTV3	XaQR9YatUv	Osteoporosis enhanced services administration
+osteoporosis	CTV3	XaQRTYat22	NA
+osteoporosis	CTV3	XaQRTYatUw	Bone sparing drug treatment offered for osteoporosis
+osteoporosis	CTV3	XaISPYakuK	Osteoporosis monitoring administration
+osteoporosis	CTV3	XaISQYakuL	Attends osteoporosis monitoring
+osteoporosis	CTV3	XaISSYakuN	Osteoporosis monitoring default
+osteoporosis	CTV3	XaISTYakuO	Osteoporosis monitoring first letter
+osteoporosis	CTV3	XaISUYakuP	Osteoporosis monitoring second letter
+osteoporosis	CTV3	XaISVYakuQ	Osteoporosis monitoring third letter
+osteoporosis	CTV3	XaISWYakuR	Osteoporosis monitoring verbal invitation
+osteoporosis	CTV3	XaISXYakuS	Osteoporosis monitoring telephone invitation
+osteoporosis	CTV3	XaISYYakuT	Osteoporosis monitoring deleted
+osteoporosis	CTV3	XaISZYakuU	Osteoporosis monitoring check done
+osteoporosis	CTV3	N330.Y70hE	Osteoporosis
+osteoporosis	CTV3	N3300Y70hG	Osteoporosis, unspecified
+osteoporosis	CTV3	N3301Y70hJ	Senile osteoporosis
+osteoporosis	CTV3	N3302YM0iL	Postmenopausal osteoporosis
+osteoporosis	CTV3	N3303Y70hM	Idiopathic generalised osteoporosis
+osteoporosis	CTV3	N3304Y70hZ	Disuse osteoporosis
+osteoporosis	CTV3	N3305YMKCj	Drug-induced osteoporosis
+osteoporosis	CTV3	N3306YMAqq	Postoophorectomy osteoporosis
+osteoporosis	CTV3	N3307YadY1	Post-surgical malabsorption osteoporosis
+osteoporosis	CTV3	N330AYMAqp	Osteoporosis in endocrine disorders
+osteoporosis	CTV3	N330BYaY8i	Vertebral osteoporosis
+osteoporosis	CTV3	XaC12YadaC	Osteoporosis localised to spine
+osteoporosis	CTV3	XaIP4Yakpp	Osteoporosis due to corticosteroids
+osteoporosis	CTV3	N330zY70hF	Osteoporosis NOS
+osteoporosis	CTV3	N3312YMAqr	Postoophorectomy osteoporosis with pathological fracture
+osteoporosis	CTV3	N3313YMAr4	Osteoporosis of disuse with pathological fracture
+osteoporosis	CTV3	N3314YadY2	Post-surgical malabsorption osteoporosis with pathological fracture
+osteoporosis	CTV3	N3315YMAr6	Drug-induced osteoporosis with pathological fracture
+osteoporosis	CTV3	N3316YMAr7	Idiopathic osteoporosis with pathological fracture
+osteoporosis	CTV3	N3318Yae6M	Osteoporosis with pathological fracture of lumbar vertebrae
+osteoporosis	CTV3	N3319Yae6N	Osteoporosis with pathological fracture of thoracic vertebrae
+osteoporosis	CTV3	N331AYa3y3	Osteoporosis with pathological fracture of cervical vertebrae
+osteoporosis	CTV3	N331BYaYn4	Postmenopausal osteoporosis with pathological fracture
+osteoporosis	CTV3	XaD2sYad4c	Collapse of cervical vertebra due to osteoporosis
+osteoporosis	CTV3	XaD4IYad6r	Collapse of lumbar vertebra due to osteoporosis
+osteoporosis	CTV3	XaD4JYad6s	Collapse of thoracic vertebra due to osteoporosis
+osteoporosis	CTV3	XaD4KYad6u	Collapse of vertebra due to osteoporosis NOS
+osteoporosis	CTV3	XaIIpYakhL	Fragility fracture due to unspecified osteoporosis
+osteoporosis	CTV3	XaIIpYaqWZ	Minimal trauma fracture due to unspecified osteoporosis
+osteoporosis	CTV3	XaNSPYaqTz	Fragility fracture
+osteoporosis	CTV3	XaNSPYaqWa	Minimal trauma fracture
+osteoporosis	CTV3	N3746Y70rR	Osteoporotic kyphosis
+osteoporosis	CTV3	NyuB0YMAOo	[X]Other osteoporosis with pathological fracture
+osteoporosis	CTV3	NyuB1YMAOp	[X]Other osteoporosis
+osteoporosis	CTV3	NyuB2YMAOq	[X]Osteoporosis in other disorders classified elsewhere
+osteoporosis	CTV3	NyuB8YMAOw	[X]Unspecified osteoporosis with pathological fracture
+osteoporosis	medcodeid	24883018	Drug-induced osteoporosis
+osteoporosis	medcodeid	312133010	Postoophorectomy osteoporosis
+osteoporosis	medcodeid	312156018	Postoophorectomy osteoporosis with pathological fracture
+osteoporosis	medcodeid	312165013	Postmenopausal osteoporosis with pathological fracture
+osteoporosis	medcodeid	455535019	Collapse of thoracic vertebra due to osteoporosis
+osteoporosis	medcodeid	1485032011	Osteoporosis monitoring administration
+osteoporosis	medcodeid	1485033018	Attends osteoporosis monitoring
+osteoporosis	medcodeid	1485035013	Osteoporosis monitoring default
+osteoporosis	medcodeid	1485037017	Osteoporosis monitoring second letter
+osteoporosis	medcodeid	1485038010	Osteoporosis monitoring third letter
+osteoporosis	medcodeid	1485039019	Osteoporosis monitoring verbal invitation
+osteoporosis	medcodeid	1485040017	Osteoporosis monitoring telephone invitation
+osteoporosis	medcodeid	1485042013	Osteoporosis monitoring check done
+osteoporosis	medcodeid	1485046011	Osteoporosis monitoring
+osteoporosis	medcodeid	1485098013	Hip DXA scan result osteoporotic
+osteoporosis	medcodeid	216206018	Fragility fracture due to unspecified osteoporosis
+osteoporosis	medcodeid	312124013	Osteoporosis, unspecified
+osteoporosis	medcodeid	312142015	Osteoporosis NOS
+osteoporosis	medcodeid	312682011	[X]Other osteoporosis
+osteoporosis	medcodeid	455536018	Collapse of vertebra due to osteoporosis NOS
+osteoporosis	medcodeid	40871000006119	Osteoporosis + pathological fracture cervical vertebrae
+osteoporosis	medcodeid	40891000006118	Osteoporosis + pathological fracture thoracic vertebrae
+osteoporosis	medcodeid	212431000006119	Postsurgical malabsorption osteoporosis
+osteoporosis	medcodeid	556881000000111	Minimal trauma fracture due to unspecified osteoporosis
+osteoporosis	medcodeid	1122231000000117	Osteoporosis - enhanced services administration
+osteoporosis	medcodeid	312681016	[X]Other osteoporosis with pathological fracture
+osteoporosis	medcodeid	557111000000111	Minimal trauma fracture
+osteoporosis	medcodeid	1484866013	Osteoporosis due to corticosteroids
+osteoporosis	medcodeid	1485036014	Osteoporosis monitoring first letter
+osteoporosis	medcodeid	312138018	Osteoporosis in endocrine disorders
+osteoporosis	medcodeid	212441000006112	Postsurgical malabsorption osteoporosis with path fracture
+osteoporosis	medcodeid	312683018	[X]Osteoporosis in other disorders classified elsewhere
+osteoporosis	medcodeid	1137811000000114	History of osteoporosis
+osteoporosis	medcodeid	1485041018	Osteoporosis monitoring deleted
+osteoporosis	medcodeid	1485103010	Lumbar DXA scan result osteoporotic
+osteoporosis	medcodeid	455433012	Collapse of cervical vertebra due to osteoporosis
+osteoporosis	medcodeid	107806013	Osteoporosis
+osteoporosis	medcodeid	786501000006117	Idiopathic osteoporosis
+osteoporosis	medcodeid	1715131000006113	Bone sparing drug treatment offered for osteoporosis - ESA
+osteoporosis	medcodeid	453226012	Osteoporosis localized to spine
+osteoporosis	medcodeid	312139014	Vertebral osteoporosis
+osteoporosis	medcodeid	312157010	Osteoporosis of disuse with pathological fracture
+osteoporosis	medcodeid	30475015	Senile osteoporosis
+osteoporosis	medcodeid	54058015	Postmenopausal osteoporosis
+osteoporosis	medcodeid	625381000006110	Dissuse osteoporosis
+osteoporosis	medcodeid	668551000000116	Femoral neck DEXA scan result osteoporotic
+osteoporosis	medcodeid	545121000000114	Fragility fracture
+osteoporosis	medcodeid	455534015	Collapse of lumbar vertebra due to osteoporosis
+osteoporosis	medcodeid	312159013	Drug-induced osteoporosis with pathological fracture
+osteoporosis	medcodeid	312160015	Idiopathic osteoporosis with pathological fracture
+osteoporosis	medcodeid	312441019	Osteoporotic kyphosis
+osteoporosis	medcodeid	40881000006116	Osteoporosis + pathological fracture lumbar vertebrae
+osteoporosis	medcodeid	312689019	[X]Unspecified osteoporosis with pathological fracture
+osteoporosis	SNOMEDCT	14651005	Drug-induced osteoporosis
+osteoporosis	SNOMEDCT	203433000	Postoophorectomy osteoporosis
+osteoporosis	SNOMEDCT	203444008	Postoophorectomy osteoporosis with pathological fracture
+osteoporosis	SNOMEDCT	203453001	Postmenopausal osteoporosis with pathological fracture
+osteoporosis	SNOMEDCT	311891006	Collapse of thoracic vertebra due to osteoporosis
+osteoporosis	SNOMEDCT	391003008	Osteoporosis monitoring administration
+osteoporosis	SNOMEDCT	391004002	Attends osteoporosis monitoring
+osteoporosis	SNOMEDCT	391006000	Osteoporosis monitoring default
+osteoporosis	SNOMEDCT	391008004	Osteoporosis monitoring second letter
+osteoporosis	SNOMEDCT	391009007	Osteoporosis monitoring third letter
+osteoporosis	SNOMEDCT	391010002	Osteoporosis monitoring verbal invitation
+osteoporosis	SNOMEDCT	391011003	Osteoporosis monitoring telephone invitation
+osteoporosis	SNOMEDCT	391013000	Osteoporosis monitoring check done
+osteoporosis	SNOMEDCT	391017004	Osteoporosis monitoring
+osteoporosis	SNOMEDCT	391070005	Hip DXA scan result osteoporotic
+osteoporosis	SNOMEDCT	443165006	Fragility fracture due to unspecified osteoporosis
+osteoporosis	SNOMEDCT	64859006	Osteoporosis, unspecified
+osteoporosis	SNOMEDCT	64859006	Osteoporosis NOS
+osteoporosis	SNOMEDCT	64859006	[X]Other osteoporosis
+osteoporosis	SNOMEDCT	240198002	Collapse of vertebra due to osteoporosis NOS
+osteoporosis	SNOMEDCT	203452006	Osteoporosis + pathological fracture cervical vertebrae
+osteoporosis	SNOMEDCT	203451004	Osteoporosis + pathological fracture thoracic vertebrae
+osteoporosis	SNOMEDCT	203434006	Postsurgical malabsorption osteoporosis
+osteoporosis	SNOMEDCT	443165006	Minimal trauma fracture due to unspecified osteoporosis
+osteoporosis	SNOMEDCT	505141000000108	Osteoporosis - enhanced services administration
+osteoporosis	SNOMEDCT	443165006	[X]Other osteoporosis with pathological fracture
+osteoporosis	SNOMEDCT	306171000000106	Minimal trauma fracture
+osteoporosis	SNOMEDCT	390833005	Osteoporosis due to corticosteroids
+osteoporosis	SNOMEDCT	391007009	Osteoporosis monitoring first letter
+osteoporosis	SNOMEDCT	203437004	Osteoporosis in endocrine disorders
+osteoporosis	SNOMEDCT	203446005	Postsurgical malabsorption osteoporosis with path fracture
+osteoporosis	SNOMEDCT	64859006	[X]Osteoporosis in other disorders classified elsewhere
+osteoporosis	SNOMEDCT	473120007	History of osteoporosis
+osteoporosis	SNOMEDCT	391012005	Osteoporosis monitoring deleted
+osteoporosis	SNOMEDCT	391075000	Lumbar DXA scan result osteoporotic
+osteoporosis	SNOMEDCT	311806008	Collapse of cervical vertebra due to osteoporosis
+osteoporosis	SNOMEDCT	64859006	Osteoporosis
+osteoporosis	SNOMEDCT	203429007	Idiopathic osteoporosis
+osteoporosis	SNOMEDCT	505171000000102	Bone sparing drug treatment offered for osteoporosis - ESA
+osteoporosis	SNOMEDCT	309745002	Osteoporosis localized to spine
+osteoporosis	SNOMEDCT	203438009	Vertebral osteoporosis
+osteoporosis	SNOMEDCT	203445009	Osteoporosis of disuse with pathological fracture
+osteoporosis	SNOMEDCT	18040001	Senile osteoporosis
+osteoporosis	SNOMEDCT	102447009	Postmenopausal osteoporosis
+osteoporosis	SNOMEDCT	53174001	Dissuse osteoporosis
+osteoporosis	SNOMEDCT	440100002	Femoral neck DEXA scan result osteoporotic
+osteoporosis	SNOMEDCT	306171000000106	Fragility fracture
+osteoporosis	SNOMEDCT	311890007	Collapse of lumbar vertebra due to osteoporosis
+osteoporosis	SNOMEDCT	203447001	Drug-induced osteoporosis with pathological fracture
+osteoporosis	SNOMEDCT	203448006	Idiopathic osteoporosis with pathological fracture
+osteoporosis	SNOMEDCT	203657009	Osteoporotic kyphosis
+osteoporosis	SNOMEDCT	203450003	Osteoporosis + pathological fracture lumbar vertebrae
+osteoporosis	SNOMEDCT	443165006	[X]Unspecified osteoporosis with pathological fracture
+osteoporosis	Read2_5digit	14GB.	History of osteoporosis
+osteoporosis	Read2_5digit	58EG.	Hip DXA scan result osteoporotic
+osteoporosis	Read2_5digit	58EM.	Lumbar DXA scan result osteoporotic
+osteoporosis	Read2_5digit	58EV.	Femoral neck DEXA scan result osteoporotic
+osteoporosis	Read2_5digit	66a..	Osteoporosis monitoring
+osteoporosis	Read2_5digit	9kj..	Osteoporosis - enhanced services administration
+osteoporosis	Read2_5digit	9kj0.	Bone sparing drug treatment offered for osteoporosis - enhanced services administration
+osteoporosis	Read2_5digit	9Od..	Osteoporosis monitoring administration
+osteoporosis	Read2_5digit	9Od0.	Attends osteoporosis monitoring
+osteoporosis	Read2_5digit	9Od2.	Osteoporosis monitoring default
+osteoporosis	Read2_5digit	9Od3.	Osteoporosis monitoring first letter
+osteoporosis	Read2_5digit	9Od4.	Osteoporosis monitoring second letter
+osteoporosis	Read2_5digit	9Od5.	Osteoporosis monitoring third letter
+osteoporosis	Read2_5digit	9Od6.	Osteoporosis monitoring verbal invitation
+osteoporosis	Read2_5digit	9Od7.	Osteoporosis monitoring telephone invitation
+osteoporosis	Read2_5digit	9Od8.	Osteoporosis monitoring deleted
+osteoporosis	Read2_5digit	9Od9.	Osteoporosis monitoring check done
+osteoporosis	Read2_5digit	N330.	Osteoporosis
+osteoporosis	Read2_5digit	N3300	Osteoporosis, unspecified
+osteoporosis	Read2_5digit	N3301	Senile osteoporosis
+osteoporosis	Read2_5digit	N3302	Postmenopausal osteoporosis
+osteoporosis	Read2_5digit	N3303	Idiopathic osteoporosis
+osteoporosis	Read2_5digit	N3304	Dissuse osteoporosis
+osteoporosis	Read2_5digit	N3305	Drug-induced osteoporosis
+osteoporosis	Read2_5digit	N3306	Postoophorectomy osteoporosis
+osteoporosis	Read2_5digit	N3307	Postsurgical malabsorption osteoporosis
+osteoporosis	Read2_5digit	N330A	Osteoporosis in endocrine disorders
+osteoporosis	Read2_5digit	N330B	Vertebral osteoporosis
+osteoporosis	Read2_5digit	N330C	Osteoporosis localized to spine
+osteoporosis	Read2_5digit	N330D	Osteoporosis due to corticosteroids
+osteoporosis	Read2_5digit	N330z	Osteoporosis NOS
+osteoporosis	Read2_5digit	N3312	Postoophorectomy osteoporosis with pathological fracture
+osteoporosis	Read2_5digit	N3313	Osteoporosis of disuse with pathological fracture
+osteoporosis	Read2_5digit	N3314	Postsurgical malabsorption osteoporosis with pathological fracture
+osteoporosis	Read2_5digit	N3315	Drug-induced osteoporosis with pathological fracture
+osteoporosis	Read2_5digit	N3316	Idiopathic osteoporosis with pathological fracture
+osteoporosis	Read2_5digit	N3318	Osteoporosis + pathological fracture lumbar vertebrae
+osteoporosis	Read2_5digit	N3319	Osteoporosis + pathological fracture thoracic vertebrae
+osteoporosis	Read2_5digit	N331A	Osteoporosis + pathological fracture cervical vertebrae
+osteoporosis	Read2_5digit	N331B	Postmenopausal osteoporosis with pathological fracture
+osteoporosis	Read2_5digit	N331H	Collapse of cervical vertebra due to osteoporosis
+osteoporosis	Read2_5digit	N331J	Collapse of lumbar vertebra due to osteoporosis
+osteoporosis	Read2_5digit	N331K	Collapse of thoracic vertebra due to osteoporosis
+osteoporosis	Read2_5digit	N331L	Collapse of vertebra due to osteoporosis NOS
+osteoporosis	Read2_5digit	N331M	Fragility fracture due to unspecified osteoporosis
+osteoporosis	Read2_5digit	N331N	Fragility fracture
+osteoporosis	Read2_5digit	N3746	Osteoporotic kyphosis
+osteoporosis	Read2_5digit	NyuB0	[X]Other osteoporosis with pathological fracture
+osteoporosis	Read2_5digit	NyuB1	[X]Other osteoporosis
+osteoporosis	Read2_5digit	NyuB2	[X]Osteoporosis in other disorders classified elsewhere
+osteoporosis	Read2_5digit	NyuB8	[X]Unspecified osteoporosis with pathological fracture
+osteoporosis	CTV3_5digit	XaQgT	History of osteoporosis
+osteoporosis	CTV3_5digit	XaITW	Hip DXA scan result osteoporotic
+osteoporosis	CTV3_5digit	XaITb	Lumbar DXA scan result osteoporotic
+osteoporosis	CTV3_5digit	XaPE2	Femoral neck DEXA scan result osteoporotic
+osteoporosis	CTV3_5digit	XaISd	Osteoporosis monitoring
+osteoporosis	CTV3_5digit	XaQR9	NA
+osteoporosis	CTV3_5digit	XaQRT	NA
+osteoporosis	CTV3_5digit	XaISP	Osteoporosis monitoring administration
+osteoporosis	CTV3_5digit	XaISQ	Attends osteoporosis monitoring
+osteoporosis	CTV3_5digit	XaISS	Osteoporosis monitoring default
+osteoporosis	CTV3_5digit	XaIST	Osteoporosis monitoring first letter
+osteoporosis	CTV3_5digit	XaISU	Osteoporosis monitoring second letter
+osteoporosis	CTV3_5digit	XaISV	Osteoporosis monitoring third letter
+osteoporosis	CTV3_5digit	XaISW	Osteoporosis monitoring verbal invitation
+osteoporosis	CTV3_5digit	XaISX	Osteoporosis monitoring telephone invitation
+osteoporosis	CTV3_5digit	XaISY	Osteoporosis monitoring deleted
+osteoporosis	CTV3_5digit	XaISZ	Osteoporosis monitoring check done
+osteoporosis	CTV3_5digit	N330.	Osteoporosis
+osteoporosis	CTV3_5digit	N3300	Osteoporosis, unspecified
+osteoporosis	CTV3_5digit	N3301	Senile osteoporosis
+osteoporosis	CTV3_5digit	N3302	Postmenopausal osteoporosis
+osteoporosis	CTV3_5digit	N3303	Idiopathic generalised osteoporosis
+osteoporosis	CTV3_5digit	N3305	Drug-induced osteoporosis
+osteoporosis	CTV3_5digit	N3306	Postoophorectomy osteoporosis
+osteoporosis	CTV3_5digit	N3307	Post-surgical malabsorption osteoporosis
+osteoporosis	CTV3_5digit	N330A	Osteoporosis in endocrine disorders
+osteoporosis	CTV3_5digit	N330B	Vertebral osteoporosis
+osteoporosis	CTV3_5digit	XaC12	Osteoporosis localised to spine
+osteoporosis	CTV3_5digit	XaIP4	Osteoporosis due to corticosteroids
+osteoporosis	CTV3_5digit	N330z	Osteoporosis NOS
+osteoporosis	CTV3_5digit	N3312	Postoophorectomy osteoporosis with pathological fracture
+osteoporosis	CTV3_5digit	N3313	Osteoporosis of disuse with pathological fracture
+osteoporosis	CTV3_5digit	N3314	Post-surgical malabsorption osteoporosis with pathological fracture
+osteoporosis	CTV3_5digit	N3315	Drug-induced osteoporosis with pathological fracture
+osteoporosis	CTV3_5digit	N3316	Idiopathic osteoporosis with pathological fracture
+osteoporosis	CTV3_5digit	N3318	Osteoporosis with pathological fracture of lumbar vertebrae
+osteoporosis	CTV3_5digit	N3319	Osteoporosis with pathological fracture of thoracic vertebrae
+osteoporosis	CTV3_5digit	N331A	Osteoporosis with pathological fracture of cervical vertebrae
+osteoporosis	CTV3_5digit	N331B	Postmenopausal osteoporosis with pathological fracture
+osteoporosis	CTV3_5digit	XaD2s	Collapse of cervical vertebra due to osteoporosis
+osteoporosis	CTV3_5digit	XaD4I	Collapse of lumbar vertebra due to osteoporosis
+osteoporosis	CTV3_5digit	XaD4J	Collapse of thoracic vertebra due to osteoporosis
+osteoporosis	CTV3_5digit	XaD4K	Collapse of vertebra due to osteoporosis NOS
+osteoporosis	CTV3_5digit	XaIIp	Fragility fracture due to unspecified osteoporosis
+osteoporosis	CTV3_5digit	XaNSP	Fragility fracture
+osteoporosis	CTV3_5digit	N3746	Osteoporotic kyphosis
+osteoporosis	CTV3_5digit	NyuB0	[X]Other osteoporosis with pathological fracture
+osteoporosis	CTV3_5digit	NyuB1	[X]Other osteoporosis
+osteoporosis	CTV3_5digit	NyuB2	[X]Osteoporosis in other disorders classified elsewhere
+osteoporosis	CTV3_5digit	NyuB8	[X]Unspecified osteoporosis with pathological fracture

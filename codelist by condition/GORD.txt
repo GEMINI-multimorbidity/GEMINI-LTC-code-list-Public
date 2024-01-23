@@ -1,0 +1,132 @@
+condition	vocab_id	code	description
+GORD	ICD10	K21	Gastro-oesophageal reflux disease
+GORD	Read2	171J.00	Reflux cough
+GORD	Read2	1957.00	Gastric reflux
+GORD	Read2	760L.00	Antireflux operations
+GORD	Read2	760L.11	Oesophageal reflux operations
+GORD	Read2	760L000	Antireflux fundoplication using thoracic approach
+GORD	Read2	760L100	Antireflux operation using thoracic approach NEC
+GORD	Read2	760L111	Antireflux procedure using thoracic approach NEC
+GORD	Read2	760L200	Antireflux fundoplication using abdominal approach
+GORD	Read2	760L300	Antireflux gastropexy
+GORD	Read2	760L311	Antireflux gastroplasty
+GORD	Read2	760L400	Antireflux procedure and gastroplasty however further qualified
+GORD	Read2	760Ly00	Other specified antireflux operation
+GORD	Read2	760Lz00	Antireflux operation NOS
+GORD	Read2	760M.00	Revision of antireflux operations
+GORD	Read2	760Mz00	Revision of antireflux operation NOS
+GORD	Read2	J101100	Reflux oesophagitis
+GORD	Read2	J101111	Acid reflux
+GORD	Read2	J101112	Gastro-oesophageal reflux with oesophagitis
+GORD	Read2	J101113	Oesophageal reflux with oesophagitis
+GORD	Read2	J10y400	Oesopheal reflux without mention of oesophagitis
+GORD	Read2	J10y411	Oesophageal reflux
+GORD	Read2	J10y412	Gastro-oesophageal reflux
+GORD	Read2	J10y413	Acid reflux
+GORD	Read2	J10y500	Laryngopharyngeal reflux
+GORD	CTV3	XaLCSYaoGK	Reflux cough
+GORD	CTV3	Ua1kQYMG5G	Gastric reflux
+GORD	CTV3	XE0CYY21UT	Antireflux operation
+GORD	CTV3	XE0CYY21UU	Oesophageal reflux operation
+GORD	CTV3	XE0CZYaVeA	Antireflux fundoplication using thoracic approach
+GORD	CTV3	760L1Y21Ud	Antireflux operation using thoracic approach NEC
+GORD	CTV3	760L1Y21Ue	Antireflux procedure using thoracic approach NEC
+GORD	CTV3	XE0CaY21Uc	Antireflux fundoplication using abdominal approach
+GORD	CTV3	XE0CbY21Us	Antireflux gastropexy
+GORD	CTV3	X20UTY21Ux	Gastroplasty
+GORD	CTV3	X20UTYaQvm	GP - Gastroplasty
+GORD	CTV3	760L4Y21Ub	Antireflux procedure and gastroplasty however further qualified
+GORD	CTV3	760LyY21Ua	Other specified antireflux operation
+GORD	CTV3	760LzY21UZ	Antireflux operation NOS
+GORD	CTV3	760M.Y21UV	Revision of antireflux operations
+GORD	CTV3	760MzY21UW	Revision of antireflux operation NOS
+GORD	CTV3	XE0aLY300q	Reflux oesophagitis
+GORD	CTV3	X3003Y300k	Acid reflux
+GORD	CTV3	XE0aLY300m	Gastro-oesophageal reflux disease with oesophagitis
+GORD	CTV3	XE0aLY300o	Oesophageal reflux with oesophagitis
+GORD	CTV3	XE0aOY300l	Gastro-oesophageal reflux disease without oesophagitis
+GORD	CTV3	J10y4Y300h	Gastro-oesophageal reflux
+GORD	CTV3	X3003Y300h	Gastro-oesophageal reflux
+GORD	CTV3	J10y4Y300j	Oesophageal reflux
+GORD	CTV3	X3003Y300j	Oesophageal reflux
+GORD	CTV3	XaK99YanMd	Laryngopharyngeal reflux
+GORD	medcodeid	269069015	Revision of antireflux operations
+GORD	medcodeid	396339011	Oesophageal reflux with oesophagitis
+GORD	medcodeid	396340013	Reflux oesophagitis
+GORD	medcodeid	2532987010	Laryngopharyngeal reflux
+GORD	medcodeid	269068011	Antireflux operation NOS
+GORD	medcodeid	266601000006112	Oesopheal reflux without mention of oesophagitis
+GORD	medcodeid	452891000006114	Acid reflux
+GORD	medcodeid	487911000006115	Antireflux gastroplasty
+GORD	medcodeid	269047010	Antireflux operation using thoracic approach NEC
+GORD	medcodeid	799341000006115	Gastro-oesophageal reflux with oesophagitis
+GORD	medcodeid	1221523017	Antireflux procedure using thoracic approach NEC
+GORD	medcodeid	394127010	Antireflux fundoplication using thoracic approach
+GORD	medcodeid	339001014	Gastric reflux
+GORD	medcodeid	487951000006119	Antireflux procedure and gastroplasty HFQ
+GORD	medcodeid	372246012	Oesophageal reflux
+GORD	medcodeid	394128017	Antireflux fundoplication using abdominal approach
+GORD	medcodeid	394129013	Antireflux gastropexy
+GORD	medcodeid	353143016	Gastro-oesophageal reflux
+GORD	medcodeid	267111000006116	Oesophageal reflux operations
+GORD	medcodeid	487941000006116	Antireflux operations
+GORD	medcodeid	303321000000115	Reflux cough
+GORD	medcodeid	353140018	Acid reflux
+GORD	medcodeid	269067018	Other specified antireflux operation
+GORD	medcodeid	269074011	Revision of antireflux operation NOS
+GORD	SNOMEDCT	173704005	Revision of antireflux operations
+GORD	SNOMEDCT	266433003	Oesophageal reflux with oesophagitis
+GORD	SNOMEDCT	266433003	Reflux oesophagitis
+GORD	SNOMEDCT	414581006	Laryngopharyngeal reflux
+GORD	SNOMEDCT	265357009	Antireflux operation NOS
+GORD	SNOMEDCT	266435005	Oesopheal reflux without mention of oesophagitis
+GORD	SNOMEDCT	698065002	Acid reflux
+GORD	SNOMEDCT	9429009	Antireflux gastroplasty
+GORD	SNOMEDCT	265357009	Antireflux operation using thoracic approach NEC
+GORD	SNOMEDCT	266433003	Gastro-oesophageal reflux with oesophagitis
+GORD	SNOMEDCT	265357009	Antireflux procedure using thoracic approach NEC
+GORD	SNOMEDCT	265358004	Antireflux fundoplication using thoracic approach
+GORD	SNOMEDCT	225587003	Gastric reflux
+GORD	SNOMEDCT	265357009	Antireflux procedure and gastroplasty HFQ
+GORD	SNOMEDCT	249496004	Oesophageal reflux
+GORD	SNOMEDCT	265359007	Antireflux fundoplication using abdominal approach
+GORD	SNOMEDCT	265360002	Antireflux gastropexy
+GORD	SNOMEDCT	235595009	Gastro-oesophageal reflux
+GORD	SNOMEDCT	265357009	Oesophageal reflux operations
+GORD	SNOMEDCT	265357009	Antireflux operations
+GORD	SNOMEDCT	200151000000106	Reflux cough
+GORD	SNOMEDCT	265357009	Other specified antireflux operation
+GORD	SNOMEDCT	173704005	Revision of antireflux operation NOS
+GORD	Read2_5digit	171J.	Reflux cough
+GORD	Read2_5digit	1957.	Gastric reflux
+GORD	Read2_5digit	760L.	Antireflux operations
+GORD	Read2_5digit	760L0	Antireflux fundoplication using thoracic approach
+GORD	Read2_5digit	760L1	Antireflux operation using thoracic approach NEC
+GORD	Read2_5digit	760L2	Antireflux fundoplication using abdominal approach
+GORD	Read2_5digit	760L3	Antireflux gastropexy
+GORD	Read2_5digit	760L4	Antireflux procedure and gastroplasty however further qualified
+GORD	Read2_5digit	760Ly	Other specified antireflux operation
+GORD	Read2_5digit	760Lz	Antireflux operation NOS
+GORD	Read2_5digit	760M.	Revision of antireflux operations
+GORD	Read2_5digit	760Mz	Revision of antireflux operation NOS
+GORD	Read2_5digit	J1011	Reflux oesophagitis
+GORD	Read2_5digit	J10y4	Oesopheal reflux without mention of oesophagitis
+GORD	Read2_5digit	J10y5	Laryngopharyngeal reflux
+GORD	CTV3_5digit	XaLCS	Reflux cough
+GORD	CTV3_5digit	Ua1kQ	Gastric reflux
+GORD	CTV3_5digit	XE0CY	Antireflux operation
+GORD	CTV3_5digit	XE0CZ	Antireflux fundoplication using thoracic approach
+GORD	CTV3_5digit	760L1	Antireflux operation using thoracic approach NEC
+GORD	CTV3_5digit	XE0Ca	Antireflux fundoplication using abdominal approach
+GORD	CTV3_5digit	XE0Cb	Antireflux gastropexy
+GORD	CTV3_5digit	X20UT	Gastroplasty
+GORD	CTV3_5digit	760L4	Antireflux procedure and gastroplasty however further qualified
+GORD	CTV3_5digit	760Ly	Other specified antireflux operation
+GORD	CTV3_5digit	760Lz	Antireflux operation NOS
+GORD	CTV3_5digit	760M.	Revision of antireflux operations
+GORD	CTV3_5digit	760Mz	Revision of antireflux operation NOS
+GORD	CTV3_5digit	XE0aL	Reflux oesophagitis
+GORD	CTV3_5digit	X3003	Acid reflux
+GORD	CTV3_5digit	XE0aO	Gastro-oesophageal reflux disease without oesophagitis
+GORD	CTV3_5digit	J10y4	Gastro-oesophageal reflux
+GORD	CTV3_5digit	XaK99	Laryngopharyngeal reflux

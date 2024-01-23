@@ -1,0 +1,151 @@
+condition	vocab_id	code	description
+enthesopathy_shoulder	ICD10	M65.21	Calcific tendinitis, Shoulder region
+enthesopathy_shoulder	ICD10	M65.22	Calcific tendinitis, Upper arm
+enthesopathy_shoulder	ICD10	M75	Shoulder lesions
+enthesopathy_shoulder	Read2	N210.11	Bursitis - shoulder
+enthesopathy_shoulder	Read2	N210.12	Frozen shoulder
+enthesopathy_shoulder	Read2	N211.00	Rotator cuff shoulder syndrome and allied disorders
+enthesopathy_shoulder	Read2	N211000	Rotator cuff syndrome, unspecified
+enthesopathy_shoulder	Read2	N211011	Supraspinatus syndrome
+enthesopathy_shoulder	Read2	N211100	Calcifying tendinitis of the shoulder
+enthesopathy_shoulder	Read2	N211200	Bicipital tenosynovitis
+enthesopathy_shoulder	Read2	N211300	Supraspinatus tendinitis
+enthesopathy_shoulder	Read2	N211400	Partial thickness rotator cuff tear
+enthesopathy_shoulder	Read2	N211500	Full thickness rotator cuff tear
+enthesopathy_shoulder	Read2	N211600	Subacromial bursitis
+enthesopathy_shoulder	Read2	N211700	Subdeltoid bursitis
+enthesopathy_shoulder	Read2	N211800	Bursitis of shoulder
+enthesopathy_shoulder	Read2	N211z00	Rotator cuff syndrome NOS
+enthesopathy_shoulder	Read2	N211z11	Painful arc syndrome
+enthesopathy_shoulder	Read2	N211z12	Subacromial bursitis
+enthesopathy_shoulder	Read2	N212.00	Other shoulder affections NEC
+enthesopathy_shoulder	Read2	N212000	Periarthritis of shoulder
+enthesopathy_shoulder	Read2	N212100	Scapulohumeral fibrositis
+enthesopathy_shoulder	Read2	N212200	Subacromial impingement
+enthesopathy_shoulder	Read2	N212300	Coracoid impingement
+enthesopathy_shoulder	Read2	N212400	Impingement syndrome of shoulder
+enthesopathy_shoulder	Read2	N212500	Shoulder tendonitis
+enthesopathy_shoulder	Read2	N212z00	Other shoulder affections NEC, NOS
+enthesopathy_shoulder	Read2	N213400	Biceps tendinitis
+enthesopathy_shoulder	Read2	N226100	Rotator cuff complete rupture
+enthesopathy_shoulder	CTV3	X706IY70Sj	Bursitis of shoulder
+enthesopathy_shoulder	CTV3	XE1FLY70SH	Frozen shoulder
+enthesopathy_shoulder	CTV3	N211.Y70SM	Rotator cuff shoulder syndrome and allied disorders
+enthesopathy_shoulder	CTV3	XE1FMY70ST	Rotator cuff syndrome, unspecified
+enthesopathy_shoulder	CTV3	S5Q2.Y70SU	Supraspinatus tear
+enthesopathy_shoulder	CTV3	S5Q2.YM1kQ	Rupture supraspinatus tendon
+enthesopathy_shoulder	CTV3	X706FY70Se	Painful arc syndrome
+enthesopathy_shoulder	CTV3	N2111Y70SG	Calcifying tendinitis of the shoulder
+enthesopathy_shoulder	CTV3	N2112Y70X6	Bicipital tenosynovitis
+enthesopathy_shoulder	CTV3	N2113Y70SZ	Supraspinatus tendinitis
+enthesopathy_shoulder	CTV3	N2114Y70SS	Partial thickness rotator cuff tear
+enthesopathy_shoulder	CTV3	N2115Y70SR	Full thickness rotator cuff tear
+enthesopathy_shoulder	CTV3	N2116Y70Sk	Subacromial bursitis
+enthesopathy_shoulder	CTV3	N2117Y70Sl	Subdeltoid bursitis
+enthesopathy_shoulder	CTV3	XE1FNY70SQ	Rotator cuff syndrome NOS
+enthesopathy_shoulder	CTV3	N212.Ya16M	Other shoulder affections NEC
+enthesopathy_shoulder	CTV3	XE1FLY70SJ	Periarthritis of shoulder
+enthesopathy_shoulder	CTV3	N2121Y70SF	Scapulohumeral fibrositis
+enthesopathy_shoulder	CTV3	N2122Y70Sh	Subacromial impingement
+enthesopathy_shoulder	CTV3	N2123Y70Si	Coracoid impingement
+enthesopathy_shoulder	CTV3	X706HY70Sg	Impingement syndrome of shoulder region
+enthesopathy_shoulder	CTV3	N2125YaeWz	Shoulder tendinitis
+enthesopathy_shoulder	CTV3	N212zY70SE	Other shoulder affections NEC, NOS
+enthesopathy_shoulder	CTV3	N2134Y70Sb	Biceps tendinitis
+enthesopathy_shoulder	CTV3	N2261YM1gX	Rotator cuff complete rupture
+enthesopathy_shoulder	medcodeid	68050018	Subacromial bursitis
+enthesopathy_shoulder	medcodeid	68620010	Bicipital tenosynovitis
+enthesopathy_shoulder	medcodeid	130615018	Subdeltoid bursitis
+enthesopathy_shoulder	medcodeid	311325017	Supraspinatus tendinitis
+enthesopathy_shoulder	medcodeid	311326016	Partial thickness rotator cuff tear
+enthesopathy_shoulder	medcodeid	311327013	Full thickness rotator cuff tear
+enthesopathy_shoulder	medcodeid	311336012	Subacromial impingement
+enthesopathy_shoulder	medcodeid	483645017	Calcifying tendinitis of the shoulder
+enthesopathy_shoulder	medcodeid	311320010	Rotator cuff shoulder syndrome and allied disorders
+enthesopathy_shoulder	medcodeid	164821000006112	Rotator cuff complete rupture
+enthesopathy_shoulder	medcodeid	784571000006116	Impingement syndrome of shoulder
+enthesopathy_shoulder	medcodeid	359542012	Painful arc syndrome
+enthesopathy_shoulder	medcodeid	1778711014	Supraspinatus syndrome
+enthesopathy_shoulder	medcodeid	140831000006110	Shoulder tendonitis
+enthesopathy_shoulder	medcodeid	359546010	Bursitis of shoulder
+enthesopathy_shoulder	medcodeid	311345013	Biceps tendinitis
+enthesopathy_shoulder	medcodeid	311340015	Other shoulder affections NEC, NOS
+enthesopathy_shoulder	medcodeid	219661000000114	Bursitis - shoulder
+enthesopathy_shoulder	medcodeid	400295013	Rotator cuff syndrome, unspecified
+enthesopathy_shoulder	medcodeid	311333016	Other shoulder affections NEC
+enthesopathy_shoulder	medcodeid	1786699016	Frozen shoulder
+enthesopathy_shoulder	medcodeid	1786700015	Periarthritis of shoulder
+enthesopathy_shoulder	medcodeid	311335011	Scapulohumeral fibrositis
+enthesopathy_shoulder	medcodeid	311337015	Coracoid impingement
+enthesopathy_shoulder	medcodeid	400296014	Rotator cuff syndrome NOS
+enthesopathy_shoulder	medcodeid	122681000006110	Subacromial bursitis
+enthesopathy_shoulder	SNOMEDCT	40799003	Subacromial bursitis
+enthesopathy_shoulder	SNOMEDCT	41137001	Bicipital tenosynovitis
+enthesopathy_shoulder	SNOMEDCT	78715003	Subdeltoid bursitis
+enthesopathy_shoulder	SNOMEDCT	202841003	Supraspinatus tendinitis
+enthesopathy_shoulder	SNOMEDCT	202842005	Partial thickness rotator cuff tear
+enthesopathy_shoulder	SNOMEDCT	202843000	Full thickness rotator cuff tear
+enthesopathy_shoulder	SNOMEDCT	202849001	Subacromial impingement
+enthesopathy_shoulder	SNOMEDCT	27741009	Calcifying tendinitis of the shoulder
+enthesopathy_shoulder	SNOMEDCT	4106009	Rotator cuff shoulder syndrome and allied disorders
+enthesopathy_shoulder	SNOMEDCT	202843000	Rotator cuff complete rupture
+enthesopathy_shoulder	SNOMEDCT	239960007	Impingement syndrome of shoulder
+enthesopathy_shoulder	SNOMEDCT	202841003	Painful arc syndrome
+enthesopathy_shoulder	SNOMEDCT	202841003	Supraspinatus syndrome
+enthesopathy_shoulder	SNOMEDCT	442520000	Shoulder tendonitis
+enthesopathy_shoulder	SNOMEDCT	239961006	Bursitis of shoulder
+enthesopathy_shoulder	SNOMEDCT	202856007	Biceps tendinitis
+enthesopathy_shoulder	SNOMEDCT	239954007	Other shoulder affections NEC, NOS
+enthesopathy_shoulder	SNOMEDCT	239961006	Bursitis - shoulder
+enthesopathy_shoulder	SNOMEDCT	4106009	Rotator cuff syndrome, unspecified
+enthesopathy_shoulder	SNOMEDCT	239954007	Other shoulder affections NEC
+enthesopathy_shoulder	SNOMEDCT	399114005	Frozen shoulder
+enthesopathy_shoulder	SNOMEDCT	399114005	Periarthritis of shoulder
+enthesopathy_shoulder	SNOMEDCT	202848009	Scapulohumeral fibrositis
+enthesopathy_shoulder	SNOMEDCT	202850001	Coracoid impingement
+enthesopathy_shoulder	SNOMEDCT	4106009	Rotator cuff syndrome NOS
+enthesopathy_shoulder	Read2_5digit	N210.	Bursitis - shoulder
+enthesopathy_shoulder	Read2_5digit	N211.	Rotator cuff shoulder syndrome and allied disorders
+enthesopathy_shoulder	Read2_5digit	N2110	Rotator cuff syndrome, unspecified
+enthesopathy_shoulder	Read2_5digit	N2111	Calcifying tendinitis of the shoulder
+enthesopathy_shoulder	Read2_5digit	N2112	Bicipital tenosynovitis
+enthesopathy_shoulder	Read2_5digit	N2113	Supraspinatus tendinitis
+enthesopathy_shoulder	Read2_5digit	N2114	Partial thickness rotator cuff tear
+enthesopathy_shoulder	Read2_5digit	N2115	Full thickness rotator cuff tear
+enthesopathy_shoulder	Read2_5digit	N2116	Subacromial bursitis
+enthesopathy_shoulder	Read2_5digit	N2117	Subdeltoid bursitis
+enthesopathy_shoulder	Read2_5digit	N2118	Bursitis of shoulder
+enthesopathy_shoulder	Read2_5digit	N211z	Rotator cuff syndrome NOS
+enthesopathy_shoulder	Read2_5digit	N212.	Other shoulder affections NEC
+enthesopathy_shoulder	Read2_5digit	N2120	Periarthritis of shoulder
+enthesopathy_shoulder	Read2_5digit	N2121	Scapulohumeral fibrositis
+enthesopathy_shoulder	Read2_5digit	N2122	Subacromial impingement
+enthesopathy_shoulder	Read2_5digit	N2123	Coracoid impingement
+enthesopathy_shoulder	Read2_5digit	N2124	Impingement syndrome of shoulder
+enthesopathy_shoulder	Read2_5digit	N2125	Shoulder tendonitis
+enthesopathy_shoulder	Read2_5digit	N212z	Other shoulder affections NEC, NOS
+enthesopathy_shoulder	Read2_5digit	N2134	Biceps tendinitis
+enthesopathy_shoulder	Read2_5digit	N2261	Rotator cuff complete rupture
+enthesopathy_shoulder	CTV3_5digit	X706I	Bursitis of shoulder
+enthesopathy_shoulder	CTV3_5digit	XE1FL	Frozen shoulder
+enthesopathy_shoulder	CTV3_5digit	N211.	Rotator cuff shoulder syndrome and allied disorders
+enthesopathy_shoulder	CTV3_5digit	XE1FM	Rotator cuff syndrome, unspecified
+enthesopathy_shoulder	CTV3_5digit	S5Q2.	Supraspinatus tear
+enthesopathy_shoulder	CTV3_5digit	X706F	Painful arc syndrome
+enthesopathy_shoulder	CTV3_5digit	N2111	Calcifying tendinitis of the shoulder
+enthesopathy_shoulder	CTV3_5digit	N2112	Bicipital tenosynovitis
+enthesopathy_shoulder	CTV3_5digit	N2113	Supraspinatus tendinitis
+enthesopathy_shoulder	CTV3_5digit	N2114	Partial thickness rotator cuff tear
+enthesopathy_shoulder	CTV3_5digit	N2115	Full thickness rotator cuff tear
+enthesopathy_shoulder	CTV3_5digit	N2116	Subacromial bursitis
+enthesopathy_shoulder	CTV3_5digit	N2117	Subdeltoid bursitis
+enthesopathy_shoulder	CTV3_5digit	XE1FN	Rotator cuff syndrome NOS
+enthesopathy_shoulder	CTV3_5digit	N212.	Other shoulder affections NEC
+enthesopathy_shoulder	CTV3_5digit	N2121	Scapulohumeral fibrositis
+enthesopathy_shoulder	CTV3_5digit	N2122	Subacromial impingement
+enthesopathy_shoulder	CTV3_5digit	N2123	Coracoid impingement
+enthesopathy_shoulder	CTV3_5digit	X706H	Impingement syndrome of shoulder region
+enthesopathy_shoulder	CTV3_5digit	N2125	Shoulder tendinitis
+enthesopathy_shoulder	CTV3_5digit	N212z	Other shoulder affections NEC, NOS
+enthesopathy_shoulder	CTV3_5digit	N2134	Biceps tendinitis
+enthesopathy_shoulder	CTV3_5digit	N2261	Rotator cuff complete rupture

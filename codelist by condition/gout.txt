@@ -1,0 +1,235 @@
+condition	vocab_id	code	description
+gout	ICD10	M10	Gout
+gout	ICD10	M1A	Chronic gout
+gout	Read2	1443.00	H/O: gout
+gout	Read2	2D52.00	O/E - auricle of ear - tophi
+gout	Read2	669..00	Gout monitoring
+gout	Read2	6691.00	Initial gout assessment
+gout	Read2	6692.00	Follow-up gout assessment
+gout	Read2	6693.00	Joints gout affected
+gout	Read2	6695.00	Date gout treatment started
+gout	Read2	6696.00	Date of last gout attack
+gout	Read2	6697.00	Gout associated problems
+gout	Read2	669Z.00	Gout monitoring NOS
+gout	Read2	C34..00	Gout
+gout	Read2	C340.00	Gouty arthropathy
+gout	Read2	C341.00	Gouty nephropathy
+gout	Read2	C341z00	Gouty nephropathy NOS
+gout	Read2	C342.00	Idiopathic gout
+gout	Read2	C344.00	Drug-induced gout
+gout	Read2	C345.00	Gout due to impairment of renal function
+gout	Read2	C34y.00	Other specified gouty manifestation
+gout	Read2	C34y000	Gouty tophi of ear
+gout	Read2	C34y100	Gouty tophi of heart
+gout	Read2	C34y200	Gouty tophi of other sites
+gout	Read2	C34y300	Gouty iritis
+gout	Read2	C34y400	Gouty neuritis
+gout	Read2	C34y500	Gouty tophi of hand
+gout	Read2	C34yz00	Other specified gouty manifestation NOS
+gout	Read2	C34z.00	Gout NOS
+gout	Read2	G557300	Gouty tophi of heart
+gout	Read2	N023.00	Gouty arthritis
+gout	Read2	N023100	Gouty arthritis of the shoulder region
+gout	Read2	N023200	Gouty arthritis of the upper arm
+gout	Read2	N023300	Gouty arthritis of the forearm
+gout	Read2	N023400	Gouty arthritis of the hand
+gout	Read2	N023600	Gouty arthritis of the lower leg
+gout	Read2	N023700	Gouty arthritis of the ankle and foot
+gout	Read2	N023800	Gouty arthritis of toe
+gout	Read2	N023x00	Gouty arthritis of multiple sites
+gout	Read2	N023y00	Gouty arthritis of other specified site
+gout	Read2	N023z00	Gouty arthritis NOS
+gout	Read2	Nyu1700	[X]Other secondary gout
+gout	CTV3	1443.Ya03z	H/O: gout
+gout	CTV3	2D52.YM0Pm	O/E - auricle of ear - tophi
+gout	CTV3	669..Y79Xy	Gout monitoring
+gout	CTV3	6691.Y79Xz	Initial gout assessment
+gout	CTV3	6692.Y79Y0	Follow-up gout assessment
+gout	CTV3	6693.Y7A0f	Joints gout affected
+gout	CTV3	6695.Y7A0h	Date gout treatment started
+gout	CTV3	6696.Y7A0i	Date of last gout attack
+gout	CTV3	6697.Y7A0j	Gout associated problems
+gout	CTV3	669Z.Y79Y3	Gout monitoring NOS
+gout	CTV3	C34z.YM0kQ	Gout NOS
+gout	CTV3	N023.Y70Jw	NA
+gout	CTV3	X40PQY70Jw	Gout
+gout	CTV3	C340.Y70Jx	Gouty arthropathy
+gout	CTV3	C341.Y31jK	Gouty nephropathy
+gout	CTV3	C341zY31jL	Gouty nephropathy NOS
+gout	CTV3	X40UWY41pl	Idiopathic gout
+gout	CTV3	X702qYMJzv	Drug-induced gout
+gout	CTV3	X702pYadvk	Gout due to impairment of renal function
+gout	CTV3	C34y.Y70K0	Other specified gouty manifestation
+gout	CTV3	C34y0Y02HU	Gouty tophus of pinna
+gout	CTV3	C34y1Y206i	Gouty tophi of heart
+gout	CTV3	C34y2Y70Xv	Gouty tophi of other sites
+gout	CTV3	C34y3Y41P3	Gouty iritis
+gout	CTV3	C34y4Y00F0	Gouty neuritis
+gout	CTV3	C34y5Y70Xu	Gouty tophi of hand
+gout	CTV3	C34yzY70Jz	Other specified gouty manifestation NOS
+gout	CTV3	N023.Y70Jy	Gouty arthritis
+gout	CTV3	N0231Y70KA	Gouty arthritis of the shoulder region
+gout	CTV3	N0232Y70K9	Gouty arthritis of the upper arm
+gout	CTV3	N0233Y70K8	Gouty arthritis of the forearm
+gout	CTV3	N0234Y70K7	Gouty arthritis of the hand
+gout	CTV3	N0236Y70K5	Gouty arthritis of the lower leg
+gout	CTV3	N0237Y70K4	Gouty arthritis of the ankle and foot
+gout	CTV3	XaNXGYaqZX	Gouty arthritis of toe
+gout	CTV3	N023xY70K3	Gouty arthritis of multiple sites
+gout	CTV3	N023yY70K2	Gouty arthritis of other specified site
+gout	CTV3	N023zY70K1	Gouty arthritis NOS
+gout	CTV3	Nyu17YMAMa	[X]Other secondary gout
+gout	medcodeid	45604013	Gouty tophi of heart
+gout	medcodeid	80709010	Gouty arthritis
+gout	medcodeid	150085018	Gout
+gout	medcodeid	264664010	Gout monitoring
+gout	medcodeid	264669017	Date gout treatment started
+gout	medcodeid	264670016	Date of last gout attack
+gout	medcodeid	293392012	Gouty arthropathy
+gout	medcodeid	293394013	Gouty nephropathy
+gout	medcodeid	309677014	Gouty arthritis of the hand
+gout	medcodeid	264675014	Gout monitoring NOS
+gout	medcodeid	293407013	Gouty tophi of other sites
+gout	medcodeid	293412014	Gout NOS
+gout	medcodeid	309679012	Gouty arthritis of the lower leg
+gout	medcodeid	309682019	Gouty arthritis of other specified site
+gout	medcodeid	312525018	[X]Other secondary gout
+gout	medcodeid	293405017	Other specified gouty manifestation
+gout	medcodeid	359373012	Drug-induced gout
+gout	medcodeid	309674019	Gouty arthritis of the shoulder region
+gout	medcodeid	264667015	Joints gout affected
+gout	medcodeid	309675018	Gouty arthritis of the upper arm
+gout	medcodeid	309676017	Gouty arthritis of the forearm
+gout	medcodeid	2695828012	Gouty arthritis of toe
+gout	medcodeid	359372019	Gout due to impairment of renal function
+gout	medcodeid	293410018	Gouty tophi of hand
+gout	medcodeid	255612014	O/E - auricle of ear - tophi
+gout	medcodeid	251601017	H/O: gout
+gout	medcodeid	264671017	Gout associated problems
+gout	medcodeid	293400010	Gouty nephropathy NOS
+gout	medcodeid	293411019	Other specified gouty manifestation NOS
+gout	medcodeid	25080011	Gouty tophi of ear
+gout	medcodeid	481958014	Idiopathic gout
+gout	medcodeid	309680010	Gouty arthritis of the ankle and foot
+gout	medcodeid	264665011	Initial gout assessment
+gout	medcodeid	16455010	Gouty neuritis
+gout	medcodeid	72069017	Gouty iritis
+gout	medcodeid	309681014	Gouty arthritis of multiple sites
+gout	medcodeid	264666012	Follow-up gout assessment
+gout	medcodeid	806061000006113	Gouty tophi of heart
+gout	medcodeid	309683012	Gouty arthritis NOS
+gout	SNOMEDCT	27277001	Gouty tophi of heart
+gout	SNOMEDCT	48440001	Gouty arthritis
+gout	SNOMEDCT	90560007	Gout
+gout	SNOMEDCT	170730005	Gout monitoring
+gout	SNOMEDCT	170735000	Date gout treatment started
+gout	SNOMEDCT	170736004	Date of last gout attack
+gout	SNOMEDCT	190828008	Gouty arthropathy
+gout	SNOMEDCT	190829000	Gouty nephropathy
+gout	SNOMEDCT	201666003	Gouty arthritis of the hand
+gout	SNOMEDCT	170730005	Gout monitoring NOS
+gout	SNOMEDCT	402469004	Gouty tophi of other sites
+gout	SNOMEDCT	90560007	Gout NOS
+gout	SNOMEDCT	48440001	Gouty arthritis of the lower leg
+gout	SNOMEDCT	48440001	Gouty arthritis of other specified site
+gout	SNOMEDCT	239843003	[X]Other secondary gout
+gout	SNOMEDCT	3875003	Other specified gouty manifestation
+gout	SNOMEDCT	239845005	Drug-induced gout
+gout	SNOMEDCT	201663006	Gouty arthritis of the shoulder region
+gout	SNOMEDCT	170733007	Joints gout affected
+gout	SNOMEDCT	201663006	Gouty arthritis of the upper arm
+gout	SNOMEDCT	48440001	Gouty arthritis of the forearm
+gout	SNOMEDCT	428839004	Gouty arthritis of toe
+gout	SNOMEDCT	239844009	Gout due to impairment of renal function
+gout	SNOMEDCT	190842000	Gouty tophi of hand
+gout	SNOMEDCT	164208001	O/E - auricle of ear - tophi
+gout	SNOMEDCT	161451004	H/O: gout
+gout	SNOMEDCT	170737008	Gout associated problems
+gout	SNOMEDCT	190829000	Gouty nephropathy NOS
+gout	SNOMEDCT	90560007	Other specified gouty manifestation NOS
+gout	SNOMEDCT	14763005	Gouty tophi of ear
+gout	SNOMEDCT	24595009	Idiopathic gout
+gout	SNOMEDCT	201669005	Gouty arthritis of the ankle and foot
+gout	SNOMEDCT	170731009	Initial gout assessment
+gout	SNOMEDCT	9386003	Gouty neuritis
+gout	SNOMEDCT	43193009	Gouty iritis
+gout	SNOMEDCT	201670006	Gouty arthritis of multiple sites
+gout	SNOMEDCT	170732002	Follow-up gout assessment
+gout	SNOMEDCT	48440001	Gouty arthritis NOS
+gout	Read2_5digit	1443.	H/O: gout
+gout	Read2_5digit	2D52.	O/E - auricle of ear - tophi
+gout	Read2_5digit	669..	Gout monitoring
+gout	Read2_5digit	6691.	Initial gout assessment
+gout	Read2_5digit	6692.	Follow-up gout assessment
+gout	Read2_5digit	6693.	Joints gout affected
+gout	Read2_5digit	6695.	Date gout treatment started
+gout	Read2_5digit	6696.	Date of last gout attack
+gout	Read2_5digit	6697.	Gout associated problems
+gout	Read2_5digit	669Z.	Gout monitoring NOS
+gout	Read2_5digit	C34..	Gout
+gout	Read2_5digit	C340.	Gouty arthropathy
+gout	Read2_5digit	C341.	Gouty nephropathy
+gout	Read2_5digit	C341z	Gouty nephropathy NOS
+gout	Read2_5digit	C342.	Idiopathic gout
+gout	Read2_5digit	C344.	Drug-induced gout
+gout	Read2_5digit	C345.	Gout due to impairment of renal function
+gout	Read2_5digit	C34y.	Other specified gouty manifestation
+gout	Read2_5digit	C34y0	Gouty tophi of ear
+gout	Read2_5digit	C34y1	Gouty tophi of heart
+gout	Read2_5digit	C34y2	Gouty tophi of other sites
+gout	Read2_5digit	C34y3	Gouty iritis
+gout	Read2_5digit	C34y4	Gouty neuritis
+gout	Read2_5digit	C34y5	Gouty tophi of hand
+gout	Read2_5digit	C34yz	Other specified gouty manifestation NOS
+gout	Read2_5digit	C34z.	Gout NOS
+gout	Read2_5digit	G5573	Gouty tophi of heart
+gout	Read2_5digit	N023.	Gouty arthritis
+gout	Read2_5digit	N0231	Gouty arthritis of the shoulder region
+gout	Read2_5digit	N0232	Gouty arthritis of the upper arm
+gout	Read2_5digit	N0233	Gouty arthritis of the forearm
+gout	Read2_5digit	N0234	Gouty arthritis of the hand
+gout	Read2_5digit	N0236	Gouty arthritis of the lower leg
+gout	Read2_5digit	N0237	Gouty arthritis of the ankle and foot
+gout	Read2_5digit	N0238	Gouty arthritis of toe
+gout	Read2_5digit	N023x	Gouty arthritis of multiple sites
+gout	Read2_5digit	N023y	Gouty arthritis of other specified site
+gout	Read2_5digit	N023z	Gouty arthritis NOS
+gout	Read2_5digit	Nyu17	[X]Other secondary gout
+gout	CTV3_5digit	1443.	H/O: gout
+gout	CTV3_5digit	2D52.	O/E - auricle of ear - tophi
+gout	CTV3_5digit	669..	Gout monitoring
+gout	CTV3_5digit	6691.	Initial gout assessment
+gout	CTV3_5digit	6692.	Follow-up gout assessment
+gout	CTV3_5digit	6693.	Joints gout affected
+gout	CTV3_5digit	6695.	Date gout treatment started
+gout	CTV3_5digit	6696.	Date of last gout attack
+gout	CTV3_5digit	6697.	Gout associated problems
+gout	CTV3_5digit	669Z.	Gout monitoring NOS
+gout	CTV3_5digit	C34z.	Gout NOS
+gout	CTV3_5digit	N023.	NA
+gout	CTV3_5digit	X40PQ	Gout
+gout	CTV3_5digit	C340.	Gouty arthropathy
+gout	CTV3_5digit	C341.	Gouty nephropathy
+gout	CTV3_5digit	C341z	Gouty nephropathy NOS
+gout	CTV3_5digit	X40UW	Idiopathic gout
+gout	CTV3_5digit	X702q	Drug-induced gout
+gout	CTV3_5digit	X702p	Gout due to impairment of renal function
+gout	CTV3_5digit	C34y.	Other specified gouty manifestation
+gout	CTV3_5digit	C34y0	Gouty tophus of pinna
+gout	CTV3_5digit	C34y1	Gouty tophi of heart
+gout	CTV3_5digit	C34y2	Gouty tophi of other sites
+gout	CTV3_5digit	C34y3	Gouty iritis
+gout	CTV3_5digit	C34y4	Gouty neuritis
+gout	CTV3_5digit	C34y5	Gouty tophi of hand
+gout	CTV3_5digit	C34yz	Other specified gouty manifestation NOS
+gout	CTV3_5digit	N0231	Gouty arthritis of the shoulder region
+gout	CTV3_5digit	N0232	Gouty arthritis of the upper arm
+gout	CTV3_5digit	N0233	Gouty arthritis of the forearm
+gout	CTV3_5digit	N0234	Gouty arthritis of the hand
+gout	CTV3_5digit	N0236	Gouty arthritis of the lower leg
+gout	CTV3_5digit	N0237	Gouty arthritis of the ankle and foot
+gout	CTV3_5digit	XaNXG	Gouty arthritis of toe
+gout	CTV3_5digit	N023x	Gouty arthritis of multiple sites
+gout	CTV3_5digit	N023y	Gouty arthritis of other specified site
+gout	CTV3_5digit	N023z	Gouty arthritis NOS
+gout	CTV3_5digit	Nyu17	[X]Other secondary gout

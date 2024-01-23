@@ -1,0 +1,190 @@
+condition	vocab_id	code	description
+bursitis	ICD10	M70.1	Bursitis of hand
+bursitis	ICD10	M70.2	Olecranon bursitis
+bursitis	ICD10	M70.3	Other bursitis of elbow
+bursitis	ICD10	M70.4	Prepatellar bursitis
+bursitis	ICD10	M70.5	Other bursitis of knee
+bursitis	ICD10	M70.6	Trochanteric bursitis
+bursitis	ICD10	M70.7	Other bursitis of hip
+bursitis	ICD10	M71.3	Other bursal cyst
+bursitis	ICD10	M71.5	Other bursitis, not elsewhere classified
+bursitis	ICD10	M71.8	Other specified bursopathies
+bursitis	ICD10	M71.9	Bursopathy, unspecified
+bursitis	ICD10	M75.5	Bursitis of shoulder
+bursitis	ICD10	M76.4	Tibial collateral bursitis [Pellegrini-Stieda]
+bursitis	Read2	N040Q00	Rheumatoid bursitis
+bursitis	Read2	N211600	Subacromial bursitis
+bursitis	Read2	N211700	Subdeltoid bursitis
+bursitis	Read2	N211z12	Subacromial bursitis
+bursitis	Read2	N213300	Olecranon bursitis
+bursitis	Read2	N214000	Bursitis of wrist
+bursitis	Read2	N214100	Bursitis of hand
+bursitis	Read2	N215100	Bursitis of hip
+bursitis	Read2	N215700	Trochanteric bursitis
+bursitis	Read2	N215A00	Ischial bursitis
+bursitis	Read2	N216000	Bursitis of the knee NOS
+bursitis	Read2	N216011	Semi-membranosus bursitis
+bursitis	Read2	N216012	Popliteal bursitis
+bursitis	Read2	N216100	Pes anserinus tendinitis and bursitis
+bursitis	Read2	N216200	Tibial collateral ligament bursitis
+bursitis	Read2	N216300	Fibular collateral ligament bursitis
+bursitis	Read2	N216500	Prepatellar bursitis
+bursitis	Read2	N216600	Infrapatellar bursitis
+bursitis	Read2	N216700	Subpatellar bursitis
+bursitis	Read2	N216z11	Suprapatellar bursitis
+bursitis	Read2	N217300	Achilles bursitis
+bursitis	Read2	N222z00	Specific bursitides NOS
+bursitis	Read2	N223.00	Bursitis NOS
+bursitis	Read2	N223.11	Postcalcaneal bursitis
+bursitis	Read2	N224400	Cyst of bursa
+bursitis	Read2	N225112	Rupture of popliteal bursa
+bursitis	Read2	NyuA000	[X]Other bursitis of elbow
+bursitis	Read2	NyuA100	[X]Other bursitis of knee
+bursitis	Read2	NyuA200	[X]Other bursitis of hip
+bursitis	Read2	NyuA500	[X]Other bursal cyst
+bursitis	Read2	NyuA600	[X]Other bursitis, not elsewhere classified
+bursitis	CTV3	N040QYMAqJ	Rheumatoid bursitis
+bursitis	CTV3	N2116Y70Sk	Subacromial bursitis
+bursitis	CTV3	N2117Y70Sl	Subdeltoid bursitis
+bursitis	CTV3	N2133Y70Su	Olecranon bursitis
+bursitis	CTV3	N2140Y70TV	Bursitis of wrist
+bursitis	CTV3	N2141Y70TW	Bursitis of hand
+bursitis	CTV3	N2151Y70U7	Bursitis of hip
+bursitis	CTV3	N2157Y70U8	Trochanteric bursitis
+bursitis	CTV3	X706qY70U9	Ischial bursitis
+bursitis	CTV3	XE1FOY70Ue	Bursitis of the knee NOS
+bursitis	CTV3	X7073Y70Ud	Popliteal bursitis
+bursitis	CTV3	X7075Y70Uj	Semimembranosus bursitis
+bursitis	CTV3	N2161Y70UU	Pes anserinus tendinitis and bursitis
+bursitis	CTV3	XE1FPY70Uk	Tibial collateral ligament bursitis
+bursitis	CTV3	N2163Y70Uc	Fibular collateral ligament bursitis
+bursitis	CTV3	N2165Y70Uf	Prepatellar bursitis
+bursitis	CTV3	N2166Y70Ug	Infrapatellar bursitis
+bursitis	CTV3	N2167Y70Uh	Subpatellar bursitis
+bursitis	CTV3	X7074Y70Ui	Suprapatellar bursitis
+bursitis	CTV3	N2173Y70VD	Achilles bursitis
+bursitis	CTV3	N222zY70Vz	Specific bursitides NOS
+bursitis	CTV3	XE1FYY70Vx	Bursitis NOS
+bursitis	CTV3	X707cY70Vw	Postcalcaneal bursitis
+bursitis	CTV3	N2244Y70Xp	Cyst of bursa
+bursitis	CTV3	X70CPY70mo	Rupture of popliteal bursa
+bursitis	CTV3	NyuA0YMAOU	[X]Other bursitis of elbow
+bursitis	CTV3	NyuA1YMAOV	[X]Other bursitis of knee
+bursitis	CTV3	NyuA2YMAOW	[X]Other bursitis of hip
+bursitis	CTV3	NyuA5YMAOZ	[X]Other bursal cyst
+bursitis	CTV3	NyuA6YMAOa	[X]Other bursitis, not elsewhere classified
+bursitis	medcodeid	13682017	Trochanteric bursitis
+bursitis	medcodeid	68050018	Subacromial bursitis
+bursitis	medcodeid	73041019	Bursitis of wrist
+bursitis	medcodeid	73788010	Tibial collateral ligament bursitis
+bursitis	medcodeid	75415016	Infrapatellar bursitis
+bursitis	medcodeid	130615018	Subdeltoid bursitis
+bursitis	medcodeid	311364019	Pes anserinus tendinitis and bursitis
+bursitis	medcodeid	311481012	Cyst of bursa
+bursitis	medcodeid	359589014	Popliteal bursitis
+bursitis	medcodeid	359624014	Postcalcaneal bursitis
+bursitis	medcodeid	359840014	Rupture of popliteal bursa
+bursitis	medcodeid	311469013	Specific bursitides NOS
+bursitis	medcodeid	312658018	[X]Other bursitis of knee
+bursitis	medcodeid	312659014	[X]Other bursitis of hip
+bursitis	medcodeid	312662012	[X]Other bursal cyst
+bursitis	medcodeid	312663019	[X]Other bursitis, not elsewhere classified
+bursitis	medcodeid	400297017	Bursitis of the knee NOS
+bursitis	medcodeid	2673129012	Olecranon bursitis
+bursitis	medcodeid	135200013	Bursitis of hip
+bursitis	medcodeid	334283017	Achilles bursitis
+bursitis	medcodeid	28870010	Prepatellar bursitis
+bursitis	medcodeid	400304018	Bursitis NOS
+bursitis	medcodeid	359590017	Suprapatellar bursitis
+bursitis	medcodeid	359579010	Ischial bursitis
+bursitis	medcodeid	95394012	Bursitis of hand
+bursitis	medcodeid	106668015	Subpatellar bursitis
+bursitis	medcodeid	128331014	Fibular collateral ligament bursitis
+bursitis	medcodeid	312657011	[X]Other bursitis of elbow
+bursitis	medcodeid	122681000006110	Subacromial bursitis
+bursitis	medcodeid	221591000000112	Semi-membranosus bursitis
+bursitis	medcodeid	309812014	Rheumatoid bursitis
+bursitis	SNOMEDCT	7674000	Trochanteric bursitis
+bursitis	SNOMEDCT	40799003	Subacromial bursitis
+bursitis	SNOMEDCT	43800000	Bursitis of wrist
+bursitis	SNOMEDCT	44245003	Tibial collateral ligament bursitis
+bursitis	SNOMEDCT	45231001	Infrapatellar bursitis
+bursitis	SNOMEDCT	78715003	Subdeltoid bursitis
+bursitis	SNOMEDCT	202868003	Pes anserinus tendinitis and bursitis
+bursitis	SNOMEDCT	202941002	Cyst of bursa
+bursitis	SNOMEDCT	240002009	Popliteal bursitis
+bursitis	SNOMEDCT	240033006	Postcalcaneal bursitis
+bursitis	SNOMEDCT	240202000	Rupture of popliteal bursa
+bursitis	SNOMEDCT	84017003	Specific bursitides NOS
+bursitis	SNOMEDCT	111243002	[X]Other bursitis of knee
+bursitis	SNOMEDCT	81498004	[X]Other bursitis of hip
+bursitis	SNOMEDCT	202941002	[X]Other bursal cyst
+bursitis	SNOMEDCT	84017003	[X]Other bursitis, not elsewhere classified
+bursitis	SNOMEDCT	111243002	Bursitis of the knee NOS
+bursitis	SNOMEDCT	425940002	Olecranon bursitis
+bursitis	SNOMEDCT	81498004	Bursitis of hip
+bursitis	SNOMEDCT	221695002	Achilles bursitis
+bursitis	SNOMEDCT	17059001	Prepatellar bursitis
+bursitis	SNOMEDCT	84017003	Bursitis NOS
+bursitis	SNOMEDCT	240003004	Suprapatellar bursitis
+bursitis	SNOMEDCT	239993003	Ischial bursitis
+bursitis	SNOMEDCT	57356000	Bursitis of hand
+bursitis	SNOMEDCT	64166009	Subpatellar bursitis
+bursitis	SNOMEDCT	77323000	Fibular collateral ligament bursitis
+bursitis	SNOMEDCT	712484007	[X]Other bursitis of elbow
+bursitis	SNOMEDCT	240004005	Semi-membranosus bursitis
+bursitis	SNOMEDCT	84017003	Rheumatoid bursitis
+bursitis	Read2_5digit	N040Q	Rheumatoid bursitis
+bursitis	Read2_5digit	N2116	Subacromial bursitis
+bursitis	Read2_5digit	N2117	Subdeltoid bursitis
+bursitis	Read2_5digit	N2133	Olecranon bursitis
+bursitis	Read2_5digit	N2140	Bursitis of wrist
+bursitis	Read2_5digit	N2141	Bursitis of hand
+bursitis	Read2_5digit	N2151	Bursitis of hip
+bursitis	Read2_5digit	N2157	Trochanteric bursitis
+bursitis	Read2_5digit	N215A	Ischial bursitis
+bursitis	Read2_5digit	N2160	Bursitis of the knee NOS
+bursitis	Read2_5digit	N2161	Pes anserinus tendinitis and bursitis
+bursitis	Read2_5digit	N2162	Tibial collateral ligament bursitis
+bursitis	Read2_5digit	N2163	Fibular collateral ligament bursitis
+bursitis	Read2_5digit	N2165	Prepatellar bursitis
+bursitis	Read2_5digit	N2166	Infrapatellar bursitis
+bursitis	Read2_5digit	N2167	Subpatellar bursitis
+bursitis	Read2_5digit	N222z	Specific bursitides NOS
+bursitis	Read2_5digit	N223.	Bursitis NOS
+bursitis	Read2_5digit	N2244	Cyst of bursa
+bursitis	Read2_5digit	NyuA0	[X]Other bursitis of elbow
+bursitis	Read2_5digit	NyuA1	[X]Other bursitis of knee
+bursitis	Read2_5digit	NyuA2	[X]Other bursitis of hip
+bursitis	Read2_5digit	NyuA5	[X]Other bursal cyst
+bursitis	Read2_5digit	NyuA6	[X]Other bursitis, not elsewhere classified
+bursitis	CTV3_5digit	N040Q	Rheumatoid bursitis
+bursitis	CTV3_5digit	N2116	Subacromial bursitis
+bursitis	CTV3_5digit	N2117	Subdeltoid bursitis
+bursitis	CTV3_5digit	N2133	Olecranon bursitis
+bursitis	CTV3_5digit	N2140	Bursitis of wrist
+bursitis	CTV3_5digit	N2141	Bursitis of hand
+bursitis	CTV3_5digit	N2151	Bursitis of hip
+bursitis	CTV3_5digit	N2157	Trochanteric bursitis
+bursitis	CTV3_5digit	X706q	Ischial bursitis
+bursitis	CTV3_5digit	XE1FO	Bursitis of the knee NOS
+bursitis	CTV3_5digit	X7073	Popliteal bursitis
+bursitis	CTV3_5digit	X7075	Semimembranosus bursitis
+bursitis	CTV3_5digit	N2161	Pes anserinus tendinitis and bursitis
+bursitis	CTV3_5digit	XE1FP	Tibial collateral ligament bursitis
+bursitis	CTV3_5digit	N2163	Fibular collateral ligament bursitis
+bursitis	CTV3_5digit	N2165	Prepatellar bursitis
+bursitis	CTV3_5digit	N2166	Infrapatellar bursitis
+bursitis	CTV3_5digit	N2167	Subpatellar bursitis
+bursitis	CTV3_5digit	X7074	Suprapatellar bursitis
+bursitis	CTV3_5digit	N2173	Achilles bursitis
+bursitis	CTV3_5digit	N222z	Specific bursitides NOS
+bursitis	CTV3_5digit	XE1FY	Bursitis NOS
+bursitis	CTV3_5digit	X707c	Postcalcaneal bursitis
+bursitis	CTV3_5digit	N2244	Cyst of bursa
+bursitis	CTV3_5digit	X70CP	Rupture of popliteal bursa
+bursitis	CTV3_5digit	NyuA0	[X]Other bursitis of elbow
+bursitis	CTV3_5digit	NyuA1	[X]Other bursitis of knee
+bursitis	CTV3_5digit	NyuA2	[X]Other bursitis of hip
+bursitis	CTV3_5digit	NyuA5	[X]Other bursal cyst
+bursitis	CTV3_5digit	NyuA6	[X]Other bursitis, not elsewhere classified

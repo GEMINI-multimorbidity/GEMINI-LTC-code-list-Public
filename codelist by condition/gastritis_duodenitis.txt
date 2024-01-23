@@ -1,0 +1,140 @@
+condition	vocab_id	code	description
+gastritis_duodenitis	ICD10	K29.3	Chronic superficial gastritis
+gastritis_duodenitis	ICD10	K29.4	Chronic atrophic gastritis
+gastritis_duodenitis	ICD10	K29.5	Chronic gastritis, unspecified
+gastritis_duodenitis	ICD10	K29.6	Other gastritis
+gastritis_duodenitis	ICD10	K29.7	Gastritis, unspecified
+gastritis_duodenitis	ICD10	K29.8	Duodenitis
+gastritis_duodenitis	ICD10	K29.9	Gastroduodenitis, unspecified
+gastritis_duodenitis	Read2	A074313	Helicobacter gastritis
+gastritis_duodenitis	Read2	J11z.11	Gastric erosions
+gastritis_duodenitis	Read2	J123.00	Duodenal erosion
+gastritis_duodenitis	Read2	J15..00	Gastritis and duodenitis
+gastritis_duodenitis	Read2	J151.00	Chronic gastritis
+gastritis_duodenitis	Read2	J151000	Chronic atrophic gastritis
+gastritis_duodenitis	Read2	J151100	Chronic inflammatory gastritis
+gastritis_duodenitis	Read2	J151200	Chronic superficial gastritis
+gastritis_duodenitis	Read2	J151z00	Chronic gastritis NOS
+gastritis_duodenitis	Read2	J152.00	Gastric mucosal hypertrophy
+gastritis_duodenitis	Read2	J154.00	Other specified gastritis
+gastritis_duodenitis	Read2	J154000	Allergic gastritis
+gastritis_duodenitis	Read2	J154100	Bile induced gastritis
+gastritis_duodenitis	Read2	J154200	Irritant gastritis
+gastritis_duodenitis	Read2	J154400	Helicobacter gastritis
+gastritis_duodenitis	Read2	J154z00	Other specified gastritis NOS
+gastritis_duodenitis	Read2	J155.00	Gastritis unspecified
+gastritis_duodenitis	Read2	J156.00	Gastroduodenitis unspecified
+gastritis_duodenitis	Read2	J157.00	Duodenitis
+gastritis_duodenitis	Read2	J15z.00	Gastritis and duodenitis NOS
+gastritis_duodenitis	Read2	J4z0.00	Non-infective gastritis NOS
+gastritis_duodenitis	Read2	Jyu1300	[X]Other gastritis
+gastritis_duodenitis	Read2	ZV65316	[V]Dietary counselling in gastritis
+gastritis_duodenitis	CTV3	X301RY71Fk	Helicobacter gastritis
+gastritis_duodenitis	CTV3	X301MY3040	Gastric erosions
+gastritis_duodenitis	CTV3	X302GY3079	Duodenal erosion
+gastritis_duodenitis	CTV3	J15..Y300N	Gastritis and duodenitis
+gastritis_duodenitis	CTV3	J151.Y304L	Chronic gastritis
+gastritis_duodenitis	CTV3	J1510Y304T	Chronic atrophic gastritis
+gastritis_duodenitis	CTV3	J1511Y304N	Chronic inflammatory gastritis
+gastritis_duodenitis	CTV3	J1512YMAlJ	Chronic superficial gastritis
+gastritis_duodenitis	CTV3	J151zY304M	Chronic gastritis NOS
+gastritis_duodenitis	CTV3	J152.Y304s	Gastric mucosal hypertrophy
+gastritis_duodenitis	CTV3	J154.Y304B	Other specified gastritis
+gastritis_duodenitis	CTV3	J1540Y304K	Allergic gastritis
+gastritis_duodenitis	CTV3	XE0aTY304b	Biliary gastritis
+gastritis_duodenitis	CTV3	XE0aTY304X	Alkaline reflux gastritis
+gastritis_duodenitis	CTV3	J1542YM1i5	Irritant gastritis
+gastritis_duodenitis	CTV3	J154zY304A	Other specified gastritis NOS
+gastritis_duodenitis	CTV3	J155.Y3049	Gastritis unspecified
+gastritis_duodenitis	CTV3	J156.Y300P	Gastroduodenitis unspecified
+gastritis_duodenitis	CTV3	J157.Y307A	Duodenitis
+gastritis_duodenitis	CTV3	J15z.Y300O	Gastritis and duodenitis NOS
+gastritis_duodenitis	CTV3	J4z0.Y3045	Non-infective gastritis NOS
+gastritis_duodenitis	CTV3	Jyu13YMAK9	[X]Other gastritis
+gastritis_duodenitis	CTV3	ZV653Ya0nB	[V]Dietary counselling in gastritis
+gastritis_duodenitis	medcodeid	15005019	Chronic gastritis
+gastritis_duodenitis	medcodeid	99677013	Gastric mucosal hypertrophy
+gastritis_duodenitis	medcodeid	119655018	Duodenitis
+gastritis_duodenitis	medcodeid	353328012	Duodenal erosion
+gastritis_duodenitis	medcodeid	302632013	Other specified gastritis NOS
+gastritis_duodenitis	medcodeid	302633015	Gastritis unspecified
+gastritis_duodenitis	medcodeid	302634014	Gastroduodenitis unspecified
+gastritis_duodenitis	medcodeid	302635010	Gastritis and duodenitis NOS
+gastritis_duodenitis	medcodeid	303048019	Non-infective gastritis NOS
+gastritis_duodenitis	medcodeid	303750019	[X]Other gastritis
+gastritis_duodenitis	medcodeid	511831000006115	Bile induced gastritis
+gastritis_duodenitis	medcodeid	554831000006112	Chronic inflammatory gastritis
+gastritis_duodenitis	medcodeid	70968018	Irritant gastritis
+gastritis_duodenitis	medcodeid	222841000000112	Helicobacter gastritis
+gastritis_duodenitis	medcodeid	302624017	Other specified gastritis
+gastritis_duodenitis	medcodeid	819571000006118	Helicobacter gastritis
+gastritis_duodenitis	medcodeid	302616010	Gastritis and duodenitis
+gastritis_duodenitis	medcodeid	353273019	Gastric erosions
+gastritis_duodenitis	medcodeid	302619015	Chronic atrophic gastritis
+gastritis_duodenitis	medcodeid	302621013	Chronic superficial gastritis
+gastritis_duodenitis	medcodeid	4151013	Allergic gastritis
+gastritis_duodenitis	medcodeid	302623011	Chronic gastritis NOS
+gastritis_duodenitis	medcodeid	1227775018	[V]Dietary counselling in gastritis
+gastritis_duodenitis	SNOMEDCT	8493009	Chronic gastritis
+gastritis_duodenitis	SNOMEDCT	60002000	Gastric mucosal hypertrophy
+gastritis_duodenitis	SNOMEDCT	72007001	Duodenitis
+gastritis_duodenitis	SNOMEDCT	235692002	Duodenal erosion
+gastritis_duodenitis	SNOMEDCT	4556007	Other specified gastritis NOS
+gastritis_duodenitis	SNOMEDCT	4556007	Gastritis unspecified
+gastritis_duodenitis	SNOMEDCT	196731005	Gastroduodenitis unspecified
+gastritis_duodenitis	SNOMEDCT	196731005	Gastritis and duodenitis NOS
+gastritis_duodenitis	SNOMEDCT	4556007	Non-infective gastritis NOS
+gastritis_duodenitis	SNOMEDCT	4556007	[X]Other gastritis
+gastritis_duodenitis	SNOMEDCT	72950008	Bile induced gastritis
+gastritis_duodenitis	SNOMEDCT	8493009	Chronic inflammatory gastritis
+gastritis_duodenitis	SNOMEDCT	42541005	Irritant gastritis
+gastritis_duodenitis	SNOMEDCT	89538001	Helicobacter gastritis
+gastritis_duodenitis	SNOMEDCT	4556007	Other specified gastritis
+gastritis_duodenitis	SNOMEDCT	196731005	Gastritis and duodenitis
+gastritis_duodenitis	SNOMEDCT	235652004	Gastric erosions
+gastritis_duodenitis	SNOMEDCT	84568007	Chronic atrophic gastritis
+gastritis_duodenitis	SNOMEDCT	196735001	Chronic superficial gastritis
+gastritis_duodenitis	SNOMEDCT	1824008	Allergic gastritis
+gastritis_duodenitis	SNOMEDCT	8493009	Chronic gastritis NOS
+gastritis_duodenitis	SNOMEDCT	424753004	[V]Dietary counselling in gastritis
+gastritis_duodenitis	Read2_5digit	J123.	Duodenal erosion
+gastritis_duodenitis	Read2_5digit	J15..	Gastritis and duodenitis
+gastritis_duodenitis	Read2_5digit	J151.	Chronic gastritis
+gastritis_duodenitis	Read2_5digit	J1510	Chronic atrophic gastritis
+gastritis_duodenitis	Read2_5digit	J1511	Chronic inflammatory gastritis
+gastritis_duodenitis	Read2_5digit	J1512	Chronic superficial gastritis
+gastritis_duodenitis	Read2_5digit	J151z	Chronic gastritis NOS
+gastritis_duodenitis	Read2_5digit	J152.	Gastric mucosal hypertrophy
+gastritis_duodenitis	Read2_5digit	J154.	Other specified gastritis
+gastritis_duodenitis	Read2_5digit	J1540	Allergic gastritis
+gastritis_duodenitis	Read2_5digit	J1542	Irritant gastritis
+gastritis_duodenitis	Read2_5digit	J1544	Helicobacter gastritis
+gastritis_duodenitis	Read2_5digit	J154z	Other specified gastritis NOS
+gastritis_duodenitis	Read2_5digit	J155.	Gastritis unspecified
+gastritis_duodenitis	Read2_5digit	J156.	Gastroduodenitis unspecified
+gastritis_duodenitis	Read2_5digit	J157.	Duodenitis
+gastritis_duodenitis	Read2_5digit	J15z.	Gastritis and duodenitis NOS
+gastritis_duodenitis	Read2_5digit	J4z0.	Non-infective gastritis NOS
+gastritis_duodenitis	Read2_5digit	Jyu13	[X]Other gastritis
+gastritis_duodenitis	CTV3_5digit	X301R	Helicobacter gastritis
+gastritis_duodenitis	CTV3_5digit	X301M	Gastric erosions
+gastritis_duodenitis	CTV3_5digit	X302G	Duodenal erosion
+gastritis_duodenitis	CTV3_5digit	J15..	Gastritis and duodenitis
+gastritis_duodenitis	CTV3_5digit	J151.	Chronic gastritis
+gastritis_duodenitis	CTV3_5digit	J1510	Chronic atrophic gastritis
+gastritis_duodenitis	CTV3_5digit	J1511	Chronic inflammatory gastritis
+gastritis_duodenitis	CTV3_5digit	J1512	Chronic superficial gastritis
+gastritis_duodenitis	CTV3_5digit	J151z	Chronic gastritis NOS
+gastritis_duodenitis	CTV3_5digit	J152.	Gastric mucosal hypertrophy
+gastritis_duodenitis	CTV3_5digit	J154.	Other specified gastritis
+gastritis_duodenitis	CTV3_5digit	J1540	Allergic gastritis
+gastritis_duodenitis	CTV3_5digit	XE0aT	Biliary gastritis
+gastritis_duodenitis	CTV3_5digit	J1542	Irritant gastritis
+gastritis_duodenitis	CTV3_5digit	J154z	Other specified gastritis NOS
+gastritis_duodenitis	CTV3_5digit	J155.	Gastritis unspecified
+gastritis_duodenitis	CTV3_5digit	J156.	Gastroduodenitis unspecified
+gastritis_duodenitis	CTV3_5digit	J157.	Duodenitis
+gastritis_duodenitis	CTV3_5digit	J15z.	Gastritis and duodenitis NOS
+gastritis_duodenitis	CTV3_5digit	J4z0.	Non-infective gastritis NOS
+gastritis_duodenitis	CTV3_5digit	Jyu13	[X]Other gastritis
+gastritis_duodenitis	CTV3_5digit	ZV653	[V]Dietary counselling in gastritis

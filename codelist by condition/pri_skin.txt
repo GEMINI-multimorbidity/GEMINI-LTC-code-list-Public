@@ -1,0 +1,544 @@
+condition	vocab_id	code	description
+pri_skin	ICD10	C44	Other malignant neoplasms of skin
+pri_skin	Read2	7G05600	Excision biopsy of rodent ulcer
+pri_skin	Read2	7G05D00	Excision biopsy of basal cell carcinoma
+pri_skin	Read2	B33..00	Other malignant neoplasm of skin
+pri_skin	Read2	B33..11	Basal cell carcinoma
+pri_skin	Read2	B33..13	Rodent ulcer
+pri_skin	Read2	B33..14	Malignant neoplasm of sebaceous gland
+pri_skin	Read2	B33..15	Malignant neoplasm of sweat gland
+pri_skin	Read2	B33..16	Epithelioma basal cell
+pri_skin	Read2	B330.00	Malignant neoplasm of skin of lip
+pri_skin	Read2	B331.00	Malignant neoplasm of eyelid including canthus
+pri_skin	Read2	B331000	Malignant neoplasm of canthus
+pri_skin	Read2	B331100	Malignant neoplasm of upper eyelid
+pri_skin	Read2	B331200	Malignant neoplasm of lower eyelid
+pri_skin	Read2	B332.00	Malignant neoplasm of skin of ear and external auricular canal
+pri_skin	Read2	B332000	Malignant neoplasm of skin of auricle (ear)
+pri_skin	Read2	B332100	Malignant neoplasm of skin of external auditory meatus
+pri_skin	Read2	B332200	Malignant neoplasm of pinna NEC
+pri_skin	Read2	B332z00	Malignant neoplasm of skin of ear and external auricular canal NOS
+pri_skin	Read2	B333.00	Malignant neoplasm of skin of other and unspecified parts of face
+pri_skin	Read2	B333000	Malignant neoplasm of skin of cheek, external
+pri_skin	Read2	B333100	Malignant neoplasm of skin of chin
+pri_skin	Read2	B333200	Malignant neoplasm of skin of eyebrow
+pri_skin	Read2	B333300	Malignant neoplasm of skin of forehead
+pri_skin	Read2	B333400	Malignant neoplasm of skin of nose (external)
+pri_skin	Read2	B333500	Malignant neoplasm of skin of temple
+pri_skin	Read2	B333z00	Malignant neoplasm of skin of other and unspecified part of face NOS
+pri_skin	Read2	B334.00	Malignant neoplasm of scalp and skin of neck
+pri_skin	Read2	B334000	Malignant neoplasm of scalp
+pri_skin	Read2	B334100	Malignant neoplasm of skin of neck
+pri_skin	Read2	B334z00	Malignant neoplasm of scalp or skin of neck NOS
+pri_skin	Read2	B335.00	Malignant neoplasm of skin of trunk, excluding scrotum
+pri_skin	Read2	B335000	Malignant neoplasm of skin of axillary fold
+pri_skin	Read2	B335100	Malignant neoplasm of skin of chest, excluding breast
+pri_skin	Read2	B335200	Malignant neoplasm of skin of breast
+pri_skin	Read2	B335300	Malignant neoplasm of skin of abdominal wall
+pri_skin	Read2	B335400	Malignant neoplasm of skin of umbilicus
+pri_skin	Read2	B335500	Malignant neoplasm of skin of groin
+pri_skin	Read2	B335600	Malignant neoplasm of skin of perineum
+pri_skin	Read2	B335700	Malignant neoplasm of skin of back
+pri_skin	Read2	B335800	Malignant neoplasm of skin of buttock
+pri_skin	Read2	B335900	Malignant neoplasm of perianal skin
+pri_skin	Read2	B335A00	Malignant neoplasm of skin of scapular region
+pri_skin	Read2	B335z00	Malignant neoplasm of skin of trunk, excluding scrotum, NOS
+pri_skin	Read2	B336.00	Malignant neoplasm of skin of upper limb and shoulder
+pri_skin	Read2	B336000	Malignant neoplasm of skin of shoulder
+pri_skin	Read2	B336100	Malignant neoplasm of skin of upper arm
+pri_skin	Read2	B336200	Malignant neoplasm of skin of fore-arm
+pri_skin	Read2	B336300	Malignant neoplasm of skin of hand
+pri_skin	Read2	B336400	Malignant neoplasm of skin of finger
+pri_skin	Read2	B336500	Malignant neoplasm of skin of thumb
+pri_skin	Read2	B336z00	Malignant neoplasm of skin of upper limb or shoulder NOS
+pri_skin	Read2	B337.00	Malignant neoplasm of skin of lower limb and hip
+pri_skin	Read2	B337000	Malignant neoplasm of skin of hip
+pri_skin	Read2	B337100	Malignant neoplasm of skin of thigh
+pri_skin	Read2	B337200	Malignant neoplasm of skin of knee
+pri_skin	Read2	B337300	Malignant neoplasm of skin of popliteal fossa area
+pri_skin	Read2	B337400	Malignant neoplasm of skin of lower leg
+pri_skin	Read2	B337500	Malignant neoplasm of skin of ankle
+pri_skin	Read2	B337600	Malignant neoplasm of skin of heel
+pri_skin	Read2	B337700	Malignant neoplasm of skin of foot
+pri_skin	Read2	B337800	Malignant neoplasm of skin of toe
+pri_skin	Read2	B337900	Malignant neoplasm of skin of great toe
+pri_skin	Read2	B337z00	Malignant neoplasm of skin of lower limb or hip NOS
+pri_skin	Read2	B338.00	Squamous cell carcinoma of skin
+pri_skin	Read2	B339.00	Dermatofibrosarcoma protuberans
+pri_skin	Read2	B33X.00	Malignant neoplasm overlapping lesion of skin
+pri_skin	Read2	B33y.00	Malignant neoplasm of other specified skin sites
+pri_skin	Read2	B33z.00	Malignant neoplasm of skin NOS
+pri_skin	Read2	B33z.11	Squamous cell carcinoma of skin NOS
+pri_skin	Read2	BB2A.13	[M]Squamous cell carcinoma of skin NOS
+pri_skin	Read2	BB3..00	[M]Basal cell neoplasms
+pri_skin	Read2	BB30.00	[M]Basal cell tumour
+pri_skin	Read2	BB31.00	[M]Basal cell carcinoma NOS
+pri_skin	Read2	BB32.00	[M]Multicentric basal cell carcinoma
+pri_skin	Read2	BB33.00	[M]Basal cell carcinoma, morphoea type
+pri_skin	Read2	BB34.00	[M]Basal cell carcinoma, fibroepithelial type
+pri_skin	Read2	BB35.00	[M]Basosquamous carcinoma
+pri_skin	Read2	BB36.00	[M]Metatypical carcinoma
+pri_skin	Read2	BB3C.00	[M]Superficial basal cell carcinoma
+pri_skin	Read2	BB3D.00	[M]Basal cell carcinoma, nodular
+pri_skin	Read2	BB3E.00	[M]Basal cell carcinoma, micronodular
+pri_skin	Read2	BB3F.00	[M]Basal cell carcinoma, infiltrative
+pri_skin	Read2	BB3G.00	[M]Pigmented basal cell carcinoma
+pri_skin	Read2	BB3z.00	[M]Basal cell neoplasm NOS
+pri_skin	Read2	BB60100	[M]Skin appendage carcinoma
+pri_skin	Read2	BB61200	[M]Sweat gland adenocarcinoma
+pri_skin	Read2	BB62100	[M]Apocrine adenocarcinoma
+pri_skin	Read2	BB69100	[M]Sebaceous adenocarcinoma
+pri_skin	Read2	Byu4200	[X]other malignant neoplasm of skin of other and unspecified parts of face
+pri_skin	Read2	Byu4300	[X]Malignant neoplasm of skin, unspecified
+pri_skin	Read2	Byu5A00	[X]Malignant neoplasm overlapping lesion of skin
+pri_skin	Read2	ZV10y14	[V]Personal history of malignant neoplasm of skin
+pri_skin	CTV3	7G056YaRie	Excision biopsy of rodent ulcer
+pri_skin	CTV3	7G056YaqZ9	Excision biopsy of basal cell carcinoma
+pri_skin	CTV3	XE1vhY7Jc7	Other malignant neoplasm of skin
+pri_skin	CTV3	X78SSY7IzT	Basal cell carcinoma of skin
+pri_skin	CTV3	Xa98GY7GvT	Basal cell carcinoma
+pri_skin	CTV3	XM1MLYM9ht	Epithelioma basal cell
+pri_skin	CTV3	X78h1Y7JdG	Malignant neoplasm of sebaceous gland
+pri_skin	CTV3	X78h7Y7JdU	Malignant neoplasm of sweat gland
+pri_skin	CTV3	X78SSY7IzV	Rodent ulcer
+pri_skin	CTV3	B330.Y7Jc8	Malignant neoplasm of skin of lip
+pri_skin	CTV3	B331.Y7Jc9	Malignant neoplasm of eyelid including canthus
+pri_skin	CTV3	XaCKxYac3J	Malignant neoplasm of canthus
+pri_skin	CTV3	XaEGVYaeYC	Malignant neoplasm of upper eyelid
+pri_skin	CTV3	XaEGWYaeYD	Malignant neoplasm of lower eyelid
+pri_skin	CTV3	B332.Y7JcA	Malignant neoplasm of skin of ear and external auricular canal
+pri_skin	CTV3	B3320Y7JcB	Malignant neoplasm of skin of auricle (ear)
+pri_skin	CTV3	B3321Y7JcC	Malignant neoplasm of skin of external auditory meatus
+pri_skin	CTV3	XaD2PYad3g	Malignant neoplasm of pinna NEC
+pri_skin	CTV3	B332zY7JcD	Malignant neoplasm of skin of ear and external auricular canal NOS
+pri_skin	CTV3	B333.Y7JcE	Malignant neoplasm of skin of other and unspecified parts of face
+pri_skin	CTV3	B3330Y7JcL	Malignant neoplasm of skin of cheek, external
+pri_skin	CTV3	B3331Y7JcF	Malignant neoplasm of skin of chin
+pri_skin	CTV3	B3332Y7JcG	Malignant neoplasm of skin of eyebrow
+pri_skin	CTV3	B3333Y7JcH	Malignant neoplasm of skin of forehead
+pri_skin	CTV3	B3334Y7JcI	Malignant neoplasm of skin of nose (external)
+pri_skin	CTV3	B3335Y7JcJ	Malignant neoplasm of skin of temple
+pri_skin	CTV3	B333zY7JcK	Malignant neoplasm of skin of other and unspecified part of face NOS
+pri_skin	CTV3	B334.Y7JcM	Malignant neoplasm of scalp and skin of neck
+pri_skin	CTV3	B3340Y7JcN	Malignant neoplasm of scalp
+pri_skin	CTV3	B3341Y7JcO	Malignant neoplasm of skin of neck
+pri_skin	CTV3	B334zY7JcP	Malignant neoplasm of scalp or skin of neck NOS
+pri_skin	CTV3	B335.Y7JcQ	Malignant neoplasm of skin of trunk, excluding scrotum
+pri_skin	CTV3	B3350Y7JcR	Malignant neoplasm of skin of axillary fold
+pri_skin	CTV3	B3351Y7JcS	Malignant neoplasm of skin of chest, excluding breast
+pri_skin	CTV3	B3352Y7JcT	Malignant neoplasm of skin of breast
+pri_skin	CTV3	B3353Y7JcU	Malignant neoplasm of skin of abdominal wall
+pri_skin	CTV3	B3354Y7JcV	Malignant neoplasm of skin of umbilicus
+pri_skin	CTV3	B3355Y7JcW	Malignant neoplasm of skin of groin
+pri_skin	CTV3	B3356Y7JcX	Malignant neoplasm of skin of perineum
+pri_skin	CTV3	B3357Y7JcY	Malignant neoplasm of skin of back
+pri_skin	CTV3	B3358Y7JcZ	Malignant neoplasm of skin of buttock
+pri_skin	CTV3	B3359Y7Jca	Malignant neoplasm of perianal skin
+pri_skin	CTV3	XaD2QYad3i	Malignant neoplasm of skin of scapular region
+pri_skin	CTV3	B335zY7Jcb	Malignant neoplasm of skin of trunk, excluding scrotum, NOS
+pri_skin	CTV3	B336.Y7Jcc	Malignant neoplasm of skin of upper limb and shoulder
+pri_skin	CTV3	B3360Y7Jcd	Malignant neoplasm of skin of shoulder
+pri_skin	CTV3	B3361Y7Jce	Malignant neoplasm of skin of upper arm
+pri_skin	CTV3	B3362Y7Jcf	Malignant neoplasm of skin of fore-arm
+pri_skin	CTV3	B3363Y7Jcg	Malignant neoplasm of skin of hand
+pri_skin	CTV3	B3364Y7Jch	Malignant neoplasm of skin of finger
+pri_skin	CTV3	B3365Y7Jci	Malignant neoplasm of skin of thumb
+pri_skin	CTV3	B336zY7Jcj	Malignant neoplasm of skin of upper limb or shoulder NOS
+pri_skin	CTV3	B337.Y7Jck	Malignant neoplasm of skin of lower limb and hip
+pri_skin	CTV3	B3370Y7Jcl	Malignant neoplasm of skin of hip
+pri_skin	CTV3	B3371Y7Jcm	Malignant neoplasm of skin of thigh
+pri_skin	CTV3	B3372Y7Jcn	Malignant neoplasm of skin of knee
+pri_skin	CTV3	B3373Y7Jco	Malignant neoplasm of skin of popliteal fossa area
+pri_skin	CTV3	B3374Y7Jcp	Malignant neoplasm of skin of lower leg
+pri_skin	CTV3	B3375Y7Jcq	Malignant neoplasm of skin of ankle
+pri_skin	CTV3	B3376Y7Jcr	Malignant neoplasm of skin of heel
+pri_skin	CTV3	B3377Y7Jcs	Malignant neoplasm of skin of foot
+pri_skin	CTV3	B3378Y7Jct	Malignant neoplasm of skin of toe
+pri_skin	CTV3	B3379Y7Jcu	Malignant neoplasm of skin of great toe
+pri_skin	CTV3	B337zY7Jcv	Malignant neoplasm of skin of lower limb or hip NOS
+pri_skin	CTV3	X78RRYa1Dh	Squamous cell carcinoma of skin
+pri_skin	CTV3	Xa0D9Y7H9C	Dermatofibrosarcoma protuberans
+pri_skin	CTV3	Byu5AYMA8j	[X]Malignant neoplasm overlapping lesion of skin
+pri_skin	CTV3	B33y.Y7Jcw	Malignant neoplasm of other specified skin sites
+pri_skin	CTV3	B33z.Y7Jcx	Malignant neoplasm of skin NOS
+pri_skin	CTV3	B33z.YaqZo	Squamous cell carcinoma of skin NOS
+pri_skin	CTV3	BB2A.YaqZT	[M]Squamous cell carcinoma of skin NOS
+pri_skin	CTV3	BB3..Y7GvQ	[M]Basal cell neoplasms
+pri_skin	CTV3	BB30.Y7GvP	Basal cell tumour
+pri_skin	CTV3	BB31.YaXGx	[M]Basal cell carcinoma NOS
+pri_skin	CTV3	BB32.Y7GvW	Multicentric basal cell carcinoma
+pri_skin	CTV3	BB33.Y7GvY	Basal cell carcinoma - morphoeic
+pri_skin	CTV3	BB34.Y7GvZ	Fibroepithelial basal cell carcinoma
+pri_skin	CTV3	BB35.Y7Gva	Basosquamous carcinoma
+pri_skin	CTV3	BB36.Y7Gve	Metatypical carcinoma
+pri_skin	CTV3	XaXCZYau3g	[M]Superficial basal cell carcinoma
+pri_skin	CTV3	XSN4OYau3j	[M]Basal cell carcinoma, nodular
+pri_skin	CTV3	XaXDBYau4I	[M]Basal cell carcinoma, micronodular
+pri_skin	CTV3	XaXD8Yau4F	[M]Basal cell carcinoma, infiltrative
+pri_skin	CTV3	XaXXUYau3m	[M]Pigmented basal cell carcinoma
+pri_skin	CTV3	BB3z.Y7GvR	[M]Basal cell neoplasm NOS
+pri_skin	CTV3	BB601YMHha	[M]Skin appendage carcinoma
+pri_skin	CTV3	BB612YMHhc	[M]Sweat gland adenocarcinoma
+pri_skin	CTV3	BB621Y7H1p	Apocrine adenocarcinoma
+pri_skin	CTV3	BB691YMIb8	[M]Sebaceous adenocarcinoma
+pri_skin	CTV3	Byu42YMA8W	[X]other malignant neoplasm of skin of other and unspecified parts of face
+pri_skin	CTV3	Byu43YMA8X	[X]Malignant neoplasm of skin, unspecified
+pri_skin	CTV3	ZV10yYa0ds	[V]Personal history of malignant neoplasm of skin
+pri_skin	medcodeid	155517014	Malignant neoplasm of skin of ankle
+pri_skin	medcodeid	155521019	Malignant neoplasm of skin of breast
+pri_skin	medcodeid	155522014	Malignant neoplasm of skin of buttock
+pri_skin	medcodeid	155525011	Malignant neoplasm of skin of chin
+pri_skin	medcodeid	155533012	Malignant neoplasm of skin of finger
+pri_skin	medcodeid	155537013	Malignant neoplasm of skin of groin
+pri_skin	medcodeid	155538015	Malignant neoplasm of skin of hand
+pri_skin	medcodeid	155539011	Malignant neoplasm of skin of hip
+pri_skin	medcodeid	155540013	Malignant neoplasm of skin of knee
+pri_skin	medcodeid	155542017	Malignant neoplasm of skin of lip
+pri_skin	medcodeid	155545015	Malignant neoplasm of skin of neck
+pri_skin	medcodeid	155552018	Malignant neoplasm of skin of thigh
+pri_skin	medcodeid	289066018	Malignant neoplasm of sebaceous gland
+pri_skin	medcodeid	289080013	Malignant neoplasm of skin of external auditory meatus
+pri_skin	medcodeid	289096011	Malignant neoplasm of skin of axillary fold
+pri_skin	medcodeid	289111016	Malignant neoplasm of skin of fore-arm
+pri_skin	medcodeid	289116014	Malignant neoplasm of skin of lower limb and hip
+pri_skin	medcodeid	289121012	Malignant neoplasm of skin of popliteal fossa area
+pri_skin	medcodeid	289122017	Malignant neoplasm of skin of lower leg
+pri_skin	medcodeid	289127011	Malignant neoplasm of skin of great toe
+pri_skin	medcodeid	379315011	Rodent ulcer
+pri_skin	medcodeid	411225019	Epithelioma basal cell
+pri_skin	medcodeid	413089014	Dermatofibrosarcoma protuberans
+pri_skin	medcodeid	454201010	Malignant neoplasm of canthus
+pri_skin	medcodeid	455405012	Malignant neoplasm of skin of scapular region
+pri_skin	medcodeid	457110018	Malignant neoplasm of upper eyelid
+pri_skin	medcodeid	457111019	Malignant neoplasm of lower eyelid
+pri_skin	medcodeid	598561000000110	Excision biopsy of basal cell carcinoma
+pri_skin	medcodeid	598801000000114	Excision biopsy of rodent ulcer
+pri_skin	medcodeid	721091000006119	Malignant neoplasm of sweat gland
+pri_skin	medcodeid	289094014	Malignant neoplasm of scalp or skin of neck NOS
+pri_skin	medcodeid	289097019	Malignant neoplasm of skin of chest, excluding breast
+pri_skin	medcodeid	289115013	Malignant neoplasm of skin of upper limb or shoulder NOS
+pri_skin	medcodeid	289131017	Malignant neoplasm of other specified skin sites
+pri_skin	medcodeid	289132012	Malignant neoplasm of skin NOS
+pri_skin	medcodeid	291361018	[M]Basal cell neoplasm NOS
+pri_skin	medcodeid	291474011	[M]Skin appendage carcinoma
+pri_skin	medcodeid	292120012	[X]Malignant neoplasm of skin, unspecified
+pri_skin	medcodeid	403700013	Other malignant neoplasm of skin
+pri_skin	medcodeid	215751000000116	Basal cell carcinoma
+pri_skin	medcodeid	305791000006112	[M]Basal cell carcinoma, fibroepithelial type
+pri_skin	medcodeid	305801000006113	[M]Basal cell carcinoma, morphoea type
+pri_skin	medcodeid	312631000006110	[M]Metatypical carcinoma
+pri_skin	medcodeid	313221000006117	[M]Multicentric basal cell carcinoma
+pri_skin	medcodeid	720511000006113	Malignant neoplasm skin of ear and external auricular canal
+pri_skin	medcodeid	726261000006112	Malignant neoplasm of eyelid including canthus
+pri_skin	medcodeid	1770481000006118	[M]Superficial basal cell carcinoma
+pri_skin	medcodeid	1770501000006111	[M]Basal cell carcinoma, micronodular
+pri_skin	medcodeid	556511000000119	[M]Squamous cell carcinoma of skin NOS
+pri_skin	medcodeid	720471000006115	Malignant neoplasm overlapping lesion of skin
+pri_skin	medcodeid	1227579014	[V]Personal history of malignant neoplasm of skin
+pri_skin	medcodeid	289128018	Malignant neoplasm of skin of lower limb or hip NOS
+pri_skin	medcodeid	291480015	[M]Sweat gland adenocarcinoma
+pri_skin	medcodeid	289079010	Malignant neoplasm of skin of auricle (ear)
+pri_skin	medcodeid	289088018	Malignant neoplasm of skin of nose (external)
+pri_skin	medcodeid	289091018	Malignant neoplasm of scalp and skin of neck
+pri_skin	medcodeid	289114012	Malignant neoplasm of skin of thumb
+pri_skin	medcodeid	155520018	Malignant neoplasm of skin of back
+pri_skin	medcodeid	155547011	Malignant neoplasm of skin of perineum
+pri_skin	medcodeid	305831000006117	[M]Basal cell tumour
+pri_skin	medcodeid	305901000006119	[M]Basosquamous carcinoma
+pri_skin	medcodeid	1770521000006118	[M]Pigmented basal cell carcinoma
+pri_skin	medcodeid	1770511000006114	[M]Basal cell carcinoma, infiltrative
+pri_skin	medcodeid	404801000006116	[X]Oth malignant neoplasm/skin of oth+unspecfd parts of face
+pri_skin	medcodeid	720521000006117	Malignant neoplasm skin of other and unspecified parts face
+pri_skin	medcodeid	379223011	Squamous cell carcinoma of skin
+pri_skin	medcodeid	289099016	Malignant neoplasm of skin of abdominal wall
+pri_skin	medcodeid	155550014	Malignant neoplasm of skin of shoulder
+pri_skin	medcodeid	155553011	Malignant neoplasm of skin of toe
+pri_skin	medcodeid	292135013	[X]Malignant neoplasm overlapping lesion of skin
+pri_skin	medcodeid	289107010	Malignant neoplasm of skin of trunk, excluding scrotum, NOS
+pri_skin	medcodeid	289084016	Malignant neoplasm of skin of cheek, external
+pri_skin	medcodeid	289089014	Malignant neoplasm of skin of temple
+pri_skin	medcodeid	289124016	Malignant neoplasm of skin of heel
+pri_skin	medcodeid	155458017	Malignant neoplasm of perianal skin
+pri_skin	medcodeid	155529017	Malignant neoplasm of skin of eyebrow
+pri_skin	medcodeid	155534018	Malignant neoplasm of skin of foot
+pri_skin	medcodeid	155536016	Malignant neoplasm of skin of forehead
+pri_skin	medcodeid	291359010	[M]Basal cell neoplasms
+pri_skin	medcodeid	305571000006117	[M]Apocrine adenocarcinoma
+pri_skin	medcodeid	1231370012	[M]Sebaceous adenocarcinoma
+pri_skin	medcodeid	289092013	Malignant neoplasm of scalp
+pri_skin	medcodeid	289108017	Malignant neoplasm of skin of upper limb and shoulder
+pri_skin	medcodeid	289110015	Malignant neoplasm of skin of upper arm
+pri_skin	medcodeid	155556015	Malignant neoplasm of skin of umbilicus
+pri_skin	medcodeid	729611000006115	Malig neop skin of ear and external auricular canal NOS
+pri_skin	medcodeid	1770491000006115	[M]Basal cell carcinoma, nodular
+pri_skin	medcodeid	289095010	Malignant neoplasm of skin of trunk, excluding scrotum
+pri_skin	medcodeid	291360017	[M]Basal cell carcinoma NOS
+pri_skin	medcodeid	455404011	Malignant neoplasm of pinna NEC
+pri_skin	medcodeid	556501000000116	Squamous cell carcinoma of skin NOS
+pri_skin	medcodeid	720531000006119	Malignant neoplasm skin other and unspec part of face NOS
+pri_skin	SNOMEDCT	94008001	Malignant neoplasm of skin of ankle
+pri_skin	SNOMEDCT	94012007	Malignant neoplasm of skin of breast
+pri_skin	SNOMEDCT	94013002	Malignant neoplasm of skin of buttock
+pri_skin	SNOMEDCT	94016005	Malignant neoplasm of skin of chin
+pri_skin	SNOMEDCT	94023006	Malignant neoplasm of skin of finger
+pri_skin	SNOMEDCT	94027007	Malignant neoplasm of skin of groin
+pri_skin	SNOMEDCT	94028002	Malignant neoplasm of skin of hand
+pri_skin	SNOMEDCT	94029005	Malignant neoplasm of skin of hip
+pri_skin	SNOMEDCT	94030000	Malignant neoplasm of skin of knee
+pri_skin	SNOMEDCT	94032008	Malignant neoplasm of skin of lip
+pri_skin	SNOMEDCT	94034009	Malignant neoplasm of skin of neck
+pri_skin	SNOMEDCT	94041003	Malignant neoplasm of skin of thigh
+pri_skin	SNOMEDCT	94000008	Malignant neoplasm of sebaceous gland
+pri_skin	SNOMEDCT	188091006	Malignant neoplasm of skin of external auditory meatus
+pri_skin	SNOMEDCT	188107002	Malignant neoplasm of skin of axillary fold
+pri_skin	SNOMEDCT	188122007	Malignant neoplasm of skin of fore-arm
+pri_skin	SNOMEDCT	188127001	Malignant neoplasm of skin of lower limb and hip
+pri_skin	SNOMEDCT	188132000	Malignant neoplasm of skin of popliteal fossa area
+pri_skin	SNOMEDCT	188133005	Malignant neoplasm of skin of lower leg
+pri_skin	SNOMEDCT	188138001	Malignant neoplasm of skin of great toe
+pri_skin	SNOMEDCT	254701007	Rodent ulcer
+pri_skin	SNOMEDCT	275265005	Epithelioma basal cell
+pri_skin	SNOMEDCT	276799004	Dermatofibrosarcoma protuberans
+pri_skin	SNOMEDCT	310599006	Malignant neoplasm of canthus
+pri_skin	SNOMEDCT	311779007	Malignant neoplasm of skin of scapular region
+pri_skin	SNOMEDCT	313249007	Malignant neoplasm of upper eyelid
+pri_skin	SNOMEDCT	313250007	Malignant neoplasm of lower eyelid
+pri_skin	SNOMEDCT	428796002	Excision biopsy of basal cell carcinoma
+pri_skin	SNOMEDCT	428796002	Excision biopsy of rodent ulcer
+pri_skin	SNOMEDCT	94081005	Malignant neoplasm of sweat gland
+pri_skin	SNOMEDCT	188102008	Malignant neoplasm of scalp or skin of neck NOS
+pri_skin	SNOMEDCT	372126009	Malignant neoplasm of skin of chest, excluding breast
+pri_skin	SNOMEDCT	188119005	Malignant neoplasm of skin of upper limb or shoulder NOS
+pri_skin	SNOMEDCT	372130007	Malignant neoplasm of other specified skin sites
+pri_skin	SNOMEDCT	372130007	Malignant neoplasm of skin NOS
+pri_skin	SNOMEDCT	127570002	[M]Basal cell neoplasm NOS
+pri_skin	SNOMEDCT	64000002	[M]Skin appendage carcinoma
+pri_skin	SNOMEDCT	372130007	[X]Malignant neoplasm of skin, unspecified
+pri_skin	SNOMEDCT	372130007	Other malignant neoplasm of skin
+pri_skin	SNOMEDCT	254701007	Basal cell carcinoma
+pri_skin	SNOMEDCT	43369006	[M]Basal cell carcinoma, fibroepithelial type
+pri_skin	SNOMEDCT	134152008	[M]Basal cell carcinoma, morphoea type
+pri_skin	SNOMEDCT	6641007	[M]Metatypical carcinoma
+pri_skin	SNOMEDCT	61098004	[M]Multicentric basal cell carcinoma
+pri_skin	SNOMEDCT	188089003	Malignant neoplasm skin of ear and external auricular canal
+pri_skin	SNOMEDCT	231829006	Malignant neoplasm of eyelid including canthus
+pri_skin	SNOMEDCT	61098004	[M]Superficial basal cell carcinoma
+pri_skin	SNOMEDCT	402529002	[M]Basal cell carcinoma, micronodular
+pri_skin	SNOMEDCT	400155002	[M]Squamous cell carcinoma of skin NOS
+pri_skin	SNOMEDCT	109264009	Malignant neoplasm overlapping lesion of skin
+pri_skin	SNOMEDCT	266987004	[V]Personal history of malignant neoplasm of skin
+pri_skin	SNOMEDCT	188127001	Malignant neoplasm of skin of lower limb or hip NOS
+pri_skin	SNOMEDCT	32272007	[M]Sweat gland adenocarcinoma
+pri_skin	SNOMEDCT	188090007	Malignant neoplasm of skin of auricle (ear)
+pri_skin	SNOMEDCT	188099008	Malignant neoplasm of skin of nose (external)
+pri_skin	SNOMEDCT	188102008	Malignant neoplasm of scalp and skin of neck
+pri_skin	SNOMEDCT	188125009	Malignant neoplasm of skin of thumb
+pri_skin	SNOMEDCT	94011000	Malignant neoplasm of skin of back
+pri_skin	SNOMEDCT	94036006	Malignant neoplasm of skin of perineum
+pri_skin	SNOMEDCT	30649006	[M]Basal cell tumour
+pri_skin	SNOMEDCT	37304002	[M]Basosquamous carcinoma
+pri_skin	SNOMEDCT	403909004	[M]Pigmented basal cell carcinoma
+pri_skin	SNOMEDCT	56665009	[M]Basal cell carcinoma, infiltrative
+pri_skin	SNOMEDCT	94047004	[X]Oth malignant neoplasm/skin of oth+unspecfd parts of face
+pri_skin	SNOMEDCT	443136000	Malignant neoplasm skin of other and unspecified parts face
+pri_skin	SNOMEDCT	254651007	Squamous cell carcinoma of skin
+pri_skin	SNOMEDCT	188110009	Malignant neoplasm of skin of abdominal wall
+pri_skin	SNOMEDCT	94039004	Malignant neoplasm of skin of shoulder
+pri_skin	SNOMEDCT	94042005	Malignant neoplasm of skin of toe
+pri_skin	SNOMEDCT	109264009	[X]Malignant neoplasm overlapping lesion of skin
+pri_skin	SNOMEDCT	372126009	Malignant neoplasm of skin of trunk, excluding scrotum, NOS
+pri_skin	SNOMEDCT	188095002	Malignant neoplasm of skin of cheek, external
+pri_skin	SNOMEDCT	188100000	Malignant neoplasm of skin of temple
+pri_skin	SNOMEDCT	188135003	Malignant neoplasm of skin of heel
+pri_skin	SNOMEDCT	93956001	Malignant neoplasm of perianal skin
+pri_skin	SNOMEDCT	94020009	Malignant neoplasm of skin of eyebrow
+pri_skin	SNOMEDCT	94024000	Malignant neoplasm of skin of foot
+pri_skin	SNOMEDCT	94026003	Malignant neoplasm of skin of forehead
+pri_skin	SNOMEDCT	127570002	[M]Basal cell neoplasms
+pri_skin	SNOMEDCT	57141000	[M]Apocrine adenocarcinoma
+pri_skin	SNOMEDCT	54734006	[M]Sebaceous adenocarcinoma
+pri_skin	SNOMEDCT	188103003	Malignant neoplasm of scalp
+pri_skin	SNOMEDCT	188119005	Malignant neoplasm of skin of upper limb and shoulder
+pri_skin	SNOMEDCT	188121000	Malignant neoplasm of skin of upper arm
+pri_skin	SNOMEDCT	94044006	Malignant neoplasm of skin of umbilicus
+pri_skin	SNOMEDCT	126488004	Malig neop skin of ear and external auricular canal NOS
+pri_skin	SNOMEDCT	128636006	[M]Basal cell carcinoma, nodular
+pri_skin	SNOMEDCT	372126009	Malignant neoplasm of skin of trunk, excluding scrotum
+pri_skin	SNOMEDCT	1338007	[M]Basal cell carcinoma NOS
+pri_skin	SNOMEDCT	277156006	Malignant neoplasm of pinna NEC
+pri_skin	SNOMEDCT	254651007	Squamous cell carcinoma of skin NOS
+pri_skin	SNOMEDCT	443136000	Malignant neoplasm skin other and unspec part of face NOS
+pri_skin	Read2_5digit	7G056	Excision biopsy of rodent ulcer
+pri_skin	Read2_5digit	7G05D	Excision biopsy of basal cell carcinoma
+pri_skin	Read2_5digit	B33..	Other malignant neoplasm of skin
+pri_skin	Read2_5digit	B330.	Malignant neoplasm of skin of lip
+pri_skin	Read2_5digit	B331.	Malignant neoplasm of eyelid including canthus
+pri_skin	Read2_5digit	B3310	Malignant neoplasm of canthus
+pri_skin	Read2_5digit	B3311	Malignant neoplasm of upper eyelid
+pri_skin	Read2_5digit	B3312	Malignant neoplasm of lower eyelid
+pri_skin	Read2_5digit	B332.	Malignant neoplasm of skin of ear and external auricular canal
+pri_skin	Read2_5digit	B3320	Malignant neoplasm of skin of auricle (ear)
+pri_skin	Read2_5digit	B3321	Malignant neoplasm of skin of external auditory meatus
+pri_skin	Read2_5digit	B3322	Malignant neoplasm of pinna NEC
+pri_skin	Read2_5digit	B332z	Malignant neoplasm of skin of ear and external auricular canal NOS
+pri_skin	Read2_5digit	B333.	Malignant neoplasm of skin of other and unspecified parts of face
+pri_skin	Read2_5digit	B3330	Malignant neoplasm of skin of cheek, external
+pri_skin	Read2_5digit	B3331	Malignant neoplasm of skin of chin
+pri_skin	Read2_5digit	B3332	Malignant neoplasm of skin of eyebrow
+pri_skin	Read2_5digit	B3333	Malignant neoplasm of skin of forehead
+pri_skin	Read2_5digit	B3334	Malignant neoplasm of skin of nose (external)
+pri_skin	Read2_5digit	B3335	Malignant neoplasm of skin of temple
+pri_skin	Read2_5digit	B333z	Malignant neoplasm of skin of other and unspecified part of face NOS
+pri_skin	Read2_5digit	B334.	Malignant neoplasm of scalp and skin of neck
+pri_skin	Read2_5digit	B3340	Malignant neoplasm of scalp
+pri_skin	Read2_5digit	B3341	Malignant neoplasm of skin of neck
+pri_skin	Read2_5digit	B334z	Malignant neoplasm of scalp or skin of neck NOS
+pri_skin	Read2_5digit	B335.	Malignant neoplasm of skin of trunk, excluding scrotum
+pri_skin	Read2_5digit	B3350	Malignant neoplasm of skin of axillary fold
+pri_skin	Read2_5digit	B3351	Malignant neoplasm of skin of chest, excluding breast
+pri_skin	Read2_5digit	B3352	Malignant neoplasm of skin of breast
+pri_skin	Read2_5digit	B3353	Malignant neoplasm of skin of abdominal wall
+pri_skin	Read2_5digit	B3354	Malignant neoplasm of skin of umbilicus
+pri_skin	Read2_5digit	B3355	Malignant neoplasm of skin of groin
+pri_skin	Read2_5digit	B3356	Malignant neoplasm of skin of perineum
+pri_skin	Read2_5digit	B3357	Malignant neoplasm of skin of back
+pri_skin	Read2_5digit	B3358	Malignant neoplasm of skin of buttock
+pri_skin	Read2_5digit	B3359	Malignant neoplasm of perianal skin
+pri_skin	Read2_5digit	B335A	Malignant neoplasm of skin of scapular region
+pri_skin	Read2_5digit	B335z	Malignant neoplasm of skin of trunk, excluding scrotum, NOS
+pri_skin	Read2_5digit	B336.	Malignant neoplasm of skin of upper limb and shoulder
+pri_skin	Read2_5digit	B3360	Malignant neoplasm of skin of shoulder
+pri_skin	Read2_5digit	B3361	Malignant neoplasm of skin of upper arm
+pri_skin	Read2_5digit	B3362	Malignant neoplasm of skin of fore-arm
+pri_skin	Read2_5digit	B3363	Malignant neoplasm of skin of hand
+pri_skin	Read2_5digit	B3364	Malignant neoplasm of skin of finger
+pri_skin	Read2_5digit	B3365	Malignant neoplasm of skin of thumb
+pri_skin	Read2_5digit	B336z	Malignant neoplasm of skin of upper limb or shoulder NOS
+pri_skin	Read2_5digit	B337.	Malignant neoplasm of skin of lower limb and hip
+pri_skin	Read2_5digit	B3370	Malignant neoplasm of skin of hip
+pri_skin	Read2_5digit	B3371	Malignant neoplasm of skin of thigh
+pri_skin	Read2_5digit	B3372	Malignant neoplasm of skin of knee
+pri_skin	Read2_5digit	B3373	Malignant neoplasm of skin of popliteal fossa area
+pri_skin	Read2_5digit	B3374	Malignant neoplasm of skin of lower leg
+pri_skin	Read2_5digit	B3375	Malignant neoplasm of skin of ankle
+pri_skin	Read2_5digit	B3376	Malignant neoplasm of skin of heel
+pri_skin	Read2_5digit	B3377	Malignant neoplasm of skin of foot
+pri_skin	Read2_5digit	B3378	Malignant neoplasm of skin of toe
+pri_skin	Read2_5digit	B3379	Malignant neoplasm of skin of great toe
+pri_skin	Read2_5digit	B337z	Malignant neoplasm of skin of lower limb or hip NOS
+pri_skin	Read2_5digit	B338.	Squamous cell carcinoma of skin
+pri_skin	Read2_5digit	B339.	Dermatofibrosarcoma protuberans
+pri_skin	Read2_5digit	B33X.	Malignant neoplasm overlapping lesion of skin
+pri_skin	Read2_5digit	B33y.	Malignant neoplasm of other specified skin sites
+pri_skin	Read2_5digit	B33z.	Malignant neoplasm of skin NOS
+pri_skin	Read2_5digit	BB2A.	[M]Squamous cell carcinoma of skin NOS
+pri_skin	Read2_5digit	BB3..	[M]Basal cell neoplasms
+pri_skin	Read2_5digit	BB30.	[M]Basal cell tumour
+pri_skin	Read2_5digit	BB31.	[M]Basal cell carcinoma NOS
+pri_skin	Read2_5digit	BB32.	[M]Multicentric basal cell carcinoma
+pri_skin	Read2_5digit	BB33.	[M]Basal cell carcinoma, morphoea type
+pri_skin	Read2_5digit	BB34.	[M]Basal cell carcinoma, fibroepithelial type
+pri_skin	Read2_5digit	BB35.	[M]Basosquamous carcinoma
+pri_skin	Read2_5digit	BB36.	[M]Metatypical carcinoma
+pri_skin	Read2_5digit	BB3C.	[M]Superficial basal cell carcinoma
+pri_skin	Read2_5digit	BB3D.	[M]Basal cell carcinoma, nodular
+pri_skin	Read2_5digit	BB3E.	[M]Basal cell carcinoma, micronodular
+pri_skin	Read2_5digit	BB3F.	[M]Basal cell carcinoma, infiltrative
+pri_skin	Read2_5digit	BB3G.	[M]Pigmented basal cell carcinoma
+pri_skin	Read2_5digit	BB3z.	[M]Basal cell neoplasm NOS
+pri_skin	Read2_5digit	BB601	[M]Skin appendage carcinoma
+pri_skin	Read2_5digit	BB612	[M]Sweat gland adenocarcinoma
+pri_skin	Read2_5digit	BB621	[M]Apocrine adenocarcinoma
+pri_skin	Read2_5digit	BB691	[M]Sebaceous adenocarcinoma
+pri_skin	Read2_5digit	Byu42	[X]other malignant neoplasm of skin of other and unspecified parts of face
+pri_skin	Read2_5digit	Byu43	[X]Malignant neoplasm of skin, unspecified
+pri_skin	Read2_5digit	Byu5A	[X]Malignant neoplasm overlapping lesion of skin
+pri_skin	CTV3_5digit	7G056	Excision biopsy of rodent ulcer
+pri_skin	CTV3_5digit	XE1vh	Other malignant neoplasm of skin
+pri_skin	CTV3_5digit	X78SS	Basal cell carcinoma of skin
+pri_skin	CTV3_5digit	Xa98G	Basal cell carcinoma
+pri_skin	CTV3_5digit	XM1ML	Epithelioma basal cell
+pri_skin	CTV3_5digit	X78h1	Malignant neoplasm of sebaceous gland
+pri_skin	CTV3_5digit	X78h7	Malignant neoplasm of sweat gland
+pri_skin	CTV3_5digit	B330.	Malignant neoplasm of skin of lip
+pri_skin	CTV3_5digit	B331.	Malignant neoplasm of eyelid including canthus
+pri_skin	CTV3_5digit	XaCKx	Malignant neoplasm of canthus
+pri_skin	CTV3_5digit	XaEGV	Malignant neoplasm of upper eyelid
+pri_skin	CTV3_5digit	XaEGW	Malignant neoplasm of lower eyelid
+pri_skin	CTV3_5digit	B332.	Malignant neoplasm of skin of ear and external auricular canal
+pri_skin	CTV3_5digit	B3320	Malignant neoplasm of skin of auricle (ear)
+pri_skin	CTV3_5digit	B3321	Malignant neoplasm of skin of external auditory meatus
+pri_skin	CTV3_5digit	XaD2P	Malignant neoplasm of pinna NEC
+pri_skin	CTV3_5digit	B332z	Malignant neoplasm of skin of ear and external auricular canal NOS
+pri_skin	CTV3_5digit	B333.	Malignant neoplasm of skin of other and unspecified parts of face
+pri_skin	CTV3_5digit	B3330	Malignant neoplasm of skin of cheek, external
+pri_skin	CTV3_5digit	B3331	Malignant neoplasm of skin of chin
+pri_skin	CTV3_5digit	B3332	Malignant neoplasm of skin of eyebrow
+pri_skin	CTV3_5digit	B3333	Malignant neoplasm of skin of forehead
+pri_skin	CTV3_5digit	B3334	Malignant neoplasm of skin of nose (external)
+pri_skin	CTV3_5digit	B3335	Malignant neoplasm of skin of temple
+pri_skin	CTV3_5digit	B333z	Malignant neoplasm of skin of other and unspecified part of face NOS
+pri_skin	CTV3_5digit	B334.	Malignant neoplasm of scalp and skin of neck
+pri_skin	CTV3_5digit	B3340	Malignant neoplasm of scalp
+pri_skin	CTV3_5digit	B3341	Malignant neoplasm of skin of neck
+pri_skin	CTV3_5digit	B334z	Malignant neoplasm of scalp or skin of neck NOS
+pri_skin	CTV3_5digit	B335.	Malignant neoplasm of skin of trunk, excluding scrotum
+pri_skin	CTV3_5digit	B3350	Malignant neoplasm of skin of axillary fold
+pri_skin	CTV3_5digit	B3351	Malignant neoplasm of skin of chest, excluding breast
+pri_skin	CTV3_5digit	B3352	Malignant neoplasm of skin of breast
+pri_skin	CTV3_5digit	B3353	Malignant neoplasm of skin of abdominal wall
+pri_skin	CTV3_5digit	B3354	Malignant neoplasm of skin of umbilicus
+pri_skin	CTV3_5digit	B3355	Malignant neoplasm of skin of groin
+pri_skin	CTV3_5digit	B3356	Malignant neoplasm of skin of perineum
+pri_skin	CTV3_5digit	B3357	Malignant neoplasm of skin of back
+pri_skin	CTV3_5digit	B3358	Malignant neoplasm of skin of buttock
+pri_skin	CTV3_5digit	B3359	Malignant neoplasm of perianal skin
+pri_skin	CTV3_5digit	XaD2Q	Malignant neoplasm of skin of scapular region
+pri_skin	CTV3_5digit	B335z	Malignant neoplasm of skin of trunk, excluding scrotum, NOS
+pri_skin	CTV3_5digit	B336.	Malignant neoplasm of skin of upper limb and shoulder
+pri_skin	CTV3_5digit	B3360	Malignant neoplasm of skin of shoulder
+pri_skin	CTV3_5digit	B3361	Malignant neoplasm of skin of upper arm
+pri_skin	CTV3_5digit	B3362	Malignant neoplasm of skin of fore-arm
+pri_skin	CTV3_5digit	B3363	Malignant neoplasm of skin of hand
+pri_skin	CTV3_5digit	B3364	Malignant neoplasm of skin of finger
+pri_skin	CTV3_5digit	B3365	Malignant neoplasm of skin of thumb
+pri_skin	CTV3_5digit	B336z	Malignant neoplasm of skin of upper limb or shoulder NOS
+pri_skin	CTV3_5digit	B337.	Malignant neoplasm of skin of lower limb and hip
+pri_skin	CTV3_5digit	B3370	Malignant neoplasm of skin of hip
+pri_skin	CTV3_5digit	B3371	Malignant neoplasm of skin of thigh
+pri_skin	CTV3_5digit	B3372	Malignant neoplasm of skin of knee
+pri_skin	CTV3_5digit	B3373	Malignant neoplasm of skin of popliteal fossa area
+pri_skin	CTV3_5digit	B3374	Malignant neoplasm of skin of lower leg
+pri_skin	CTV3_5digit	B3375	Malignant neoplasm of skin of ankle
+pri_skin	CTV3_5digit	B3376	Malignant neoplasm of skin of heel
+pri_skin	CTV3_5digit	B3377	Malignant neoplasm of skin of foot
+pri_skin	CTV3_5digit	B3378	Malignant neoplasm of skin of toe
+pri_skin	CTV3_5digit	B3379	Malignant neoplasm of skin of great toe
+pri_skin	CTV3_5digit	B337z	Malignant neoplasm of skin of lower limb or hip NOS
+pri_skin	CTV3_5digit	X78RR	Squamous cell carcinoma of skin
+pri_skin	CTV3_5digit	Xa0D9	Dermatofibrosarcoma protuberans
+pri_skin	CTV3_5digit	Byu5A	[X]Malignant neoplasm overlapping lesion of skin
+pri_skin	CTV3_5digit	B33y.	Malignant neoplasm of other specified skin sites
+pri_skin	CTV3_5digit	B33z.	Malignant neoplasm of skin NOS
+pri_skin	CTV3_5digit	BB2A.	[M]Squamous cell carcinoma of skin NOS
+pri_skin	CTV3_5digit	BB3..	[M]Basal cell neoplasms
+pri_skin	CTV3_5digit	BB30.	Basal cell tumour
+pri_skin	CTV3_5digit	BB31.	[M]Basal cell carcinoma NOS
+pri_skin	CTV3_5digit	BB32.	Multicentric basal cell carcinoma
+pri_skin	CTV3_5digit	BB33.	Basal cell carcinoma - morphoeic
+pri_skin	CTV3_5digit	BB34.	Fibroepithelial basal cell carcinoma
+pri_skin	CTV3_5digit	BB35.	Basosquamous carcinoma
+pri_skin	CTV3_5digit	BB36.	Metatypical carcinoma
+pri_skin	CTV3_5digit	XaXCZ	[M]Superficial basal cell carcinoma
+pri_skin	CTV3_5digit	XSN4O	[M]Basal cell carcinoma, nodular
+pri_skin	CTV3_5digit	XaXDB	[M]Basal cell carcinoma, micronodular
+pri_skin	CTV3_5digit	XaXD8	[M]Basal cell carcinoma, infiltrative
+pri_skin	CTV3_5digit	XaXXU	[M]Pigmented basal cell carcinoma
+pri_skin	CTV3_5digit	BB3z.	[M]Basal cell neoplasm NOS
+pri_skin	CTV3_5digit	BB601	[M]Skin appendage carcinoma
+pri_skin	CTV3_5digit	BB612	[M]Sweat gland adenocarcinoma
+pri_skin	CTV3_5digit	BB621	Apocrine adenocarcinoma
+pri_skin	CTV3_5digit	BB691	[M]Sebaceous adenocarcinoma
+pri_skin	CTV3_5digit	Byu42	[X]other malignant neoplasm of skin of other and unspecified parts of face
+pri_skin	CTV3_5digit	Byu43	[X]Malignant neoplasm of skin, unspecified
+pri_skin	CTV3_5digit	ZV10y	[V]Personal history of malignant neoplasm of skin

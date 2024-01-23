@@ -1,0 +1,609 @@
+condition	vocab_id	code	description
+alcohol_problems	ICD10	E24.4	Alcohol-induced pseudo-Cushing syndrome
+alcohol_problems	ICD10	F10.1	Mental and behavioural disorders due to use of alcohol, Harmful use
+alcohol_problems	ICD10	F10.2	Mental and behavioural disorders due to use of alcohol, Dependence syndrome
+alcohol_problems	ICD10	F10.3	Mental and behavioural disorders due to use of alcohol, Withdrawal state
+alcohol_problems	ICD10	F10.4	Mental and behavioural disorders due to use of alcohol, Withdrawal state with delirium
+alcohol_problems	ICD10	F10.5	Mental and behavioural disorders due to use of alcohol, Psychotic disorder
+alcohol_problems	ICD10	F10.6	Mental and behavioural disorders due to use of alcohol, Amnesic syndrome
+alcohol_problems	ICD10	F10.7	Mental and behavioural disorders due to use of alcohol, Residual and late-onset psychotic disorder
+alcohol_problems	ICD10	F10.8	Mental and behavioural disorders due to use of alcohol, Other mental and behavioural disorders
+alcohol_problems	ICD10	F10.9	Mental and behavioural disorders due to use of alcohol, Unspecified mental and behavioural disorder
+alcohol_problems	ICD10	G31.2	Degeneration of nervous system due to alcohol
+alcohol_problems	ICD10	G62.1	Alcoholic polyneuropathy
+alcohol_problems	ICD10	G72.1	Alcoholic myopathy
+alcohol_problems	ICD10	I42.6	Alcoholic cardiomyopathy
+alcohol_problems	ICD10	K29.2	Alcoholic gastritis
+alcohol_problems	ICD10	K70	Alcoholic liver disease
+alcohol_problems	ICD10	K85.2	Alcohol-induced acute pancreatitis
+alcohol_problems	ICD10	K86.0	Alcohol-induced chronic pancreatitis
+alcohol_problems	ICD10	Z50.2	Alcohol rehabilitation
+alcohol_problems	ICD10	Z71.4	Alcohol abuse counselling and surveillance
+alcohol_problems	ICD10	Z71.41	Alcohol abuse counseling and surveillance of alcoholic
+alcohol_problems	Read2	136S.00	Hazardous alcohol use
+alcohol_problems	Read2	136T.00	Harmful alcohol use
+alcohol_problems	Read2	136W.00	Alcohol misuse
+alcohol_problems	Read2	13Y8.00	Alcoholics anonymous
+alcohol_problems	Read2	1462.00	H/O: alcoholism
+alcohol_problems	Read2	1B1c.00	Alcohol induced hallucinations
+alcohol_problems	Read2	66e..00	Alcohol disorder monitoring
+alcohol_problems	Read2	66e0.00	Alcohol abuse monitoring
+alcohol_problems	Read2	7P22100	Delivery of rehabilitation for alcohol addiction
+alcohol_problems	Read2	8BA8.00	Alcohol detoxification
+alcohol_problems	Read2	8CAv.00	Advised to contact primary care alcohol worker
+alcohol_problems	Read2	8G32.00	Aversion therapy - alcoholism
+alcohol_problems	Read2	8H35.00	Admitted to alcohol detoxification centre
+alcohol_problems	Read2	8H7p.00	Referral to community alcohol team
+alcohol_problems	Read2	8HkG.00	Referral to specialist alcohol treatment service
+alcohol_problems	Read2	8HkJ.00	Referral to alcohol brief intervention service
+alcohol_problems	Read2	9k1..00	Alcohol misuse - enhanced services administration
+alcohol_problems	Read2	9k12.00	Alcohol misuse - enhanced service completed
+alcohol_problems	Read2	9k1A.00	Brief intervention for excessive alcohol consumption completed
+alcohol_problems	Read2	9k1B.00	Extended intervention for excessive alcohol consumption completed
+alcohol_problems	Read2	9NN2.00	Under care of community alcohol team
+alcohol_problems	Read2	C150500	Alcohol-induced pseudo-Cushing's syndrome
+alcohol_problems	Read2	C251.11	Wernicke's encephalopathy
+alcohol_problems	Read2	C253.00	Wernicke's encephalopathy
+alcohol_problems	Read2	E01..00	Alcoholic psychoses
+alcohol_problems	Read2	E010.00	Alcohol withdrawal delirium
+alcohol_problems	Read2	E010.11	DTs - delirium tremens
+alcohol_problems	Read2	E010.12	Delirium tremens
+alcohol_problems	Read2	E011.00	Alcohol amnestic syndrome
+alcohol_problems	Read2	E011000	Korsakov's alcoholic psychosis
+alcohol_problems	Read2	E011100	Korsakov's alcoholic psychosis with peripheral neuritis
+alcohol_problems	Read2	E011200	Wernicke-Korsakov syndrome
+alcohol_problems	Read2	E011z00	Alcohol amnestic syndrome NOS
+alcohol_problems	Read2	E012.00	Other alcoholic dementia
+alcohol_problems	Read2	E012.11	Alcoholic dementia NOS
+alcohol_problems	Read2	E012000	Chronic alcoholic brain syndrome
+alcohol_problems	Read2	E013.00	Alcohol withdrawal hallucinosis
+alcohol_problems	Read2	E015.00	Alcoholic paranoia
+alcohol_problems	Read2	E01y.00	Other alcoholic psychosis
+alcohol_problems	Read2	E01y000	Alcohol withdrawal syndrome
+alcohol_problems	Read2	E01yz00	Other alcoholic psychosis NOS
+alcohol_problems	Read2	E01z.00	Alcoholic psychosis NOS
+alcohol_problems	Read2	E23..00	Alcohol dependence syndrome
+alcohol_problems	Read2	E23..11	Alcoholism
+alcohol_problems	Read2	E23..12	Alcohol problem drinking
+alcohol_problems	Read2	E230.00	Acute alcoholic intoxication in alcoholism
+alcohol_problems	Read2	E230.11	Alcohol dependence with acute alcoholic intoxication
+alcohol_problems	Read2	E230000	Acute alcoholic intoxication, unspecified, in alcoholism
+alcohol_problems	Read2	E230100	Continuous acute alcoholic intoxication in alcoholism
+alcohol_problems	Read2	E230200	Episodic acute alcoholic intoxication in alcoholism
+alcohol_problems	Read2	E230300	Acute alcoholic intoxication in remission, in alcoholism
+alcohol_problems	Read2	E230z00	Acute alcoholic intoxication in alcoholism NOS
+alcohol_problems	Read2	E231.00	Chronic alcoholism
+alcohol_problems	Read2	E231.11	Dipsomania
+alcohol_problems	Read2	E231000	Unspecified chronic alcoholism
+alcohol_problems	Read2	E231100	Continuous chronic alcoholism
+alcohol_problems	Read2	E231200	Episodic chronic alcoholism
+alcohol_problems	Read2	E231300	Chronic alcoholism in remission
+alcohol_problems	Read2	E231z00	Chronic alcoholism NOS
+alcohol_problems	Read2	E23z.00	Alcohol dependence syndrome NOS
+alcohol_problems	Read2	Eu10.00	[X]Mental and behavioural disorders due to use of alcohol
+alcohol_problems	Read2	Eu10100	[X]Mental and behavioural disorders due to use of alcohol: harmful use
+alcohol_problems	Read2	Eu10200	[X]Mental and behavioural disorders due to use of alcohol: dependence syndrome
+alcohol_problems	Read2	Eu10211	[X]Alcohol addiction
+alcohol_problems	Read2	Eu10212	[X]Chronic alcoholism
+alcohol_problems	Read2	Eu10213	[X]Dipsomania
+alcohol_problems	Read2	Eu10300	[X]Mental and behavioural disorders due to use of alcohol: withdrawal state
+alcohol_problems	Read2	Eu10400	[X]Mental and behavioural disorders due to use of alcohol: withdrawal state with delirium
+alcohol_problems	Read2	Eu10411	[X]Delirium tremens, alcohol induced
+alcohol_problems	Read2	Eu10500	[X]Mental and behavioural disorders due to use of alcohol: psychotic disorder
+alcohol_problems	Read2	Eu10511	[X]Alcoholic hallucinosis
+alcohol_problems	Read2	Eu10512	[X]Alcoholic jealousy
+alcohol_problems	Read2	Eu10513	[X]Alcoholic paranoia
+alcohol_problems	Read2	Eu10514	[X]Alcoholic psychosis NOS
+alcohol_problems	Read2	Eu10600	[X]Mental and behavioural disorders due to use of alcohol: amnesic syndrome
+alcohol_problems	Read2	Eu10611	[X]Korsakov's psychosis, alcohol induced
+alcohol_problems	Read2	Eu10700	[X]Mental and behavioural disorders due to use of alcohol: residual and late-onset psychotic disorder
+alcohol_problems	Read2	Eu10711	[X]Alcoholic dementia NOS
+alcohol_problems	Read2	Eu10712	[X]Chronic alcoholic brain syndrome
+alcohol_problems	Read2	Eu10800	[X]Alcohol withdrawal-induced seizure
+alcohol_problems	Read2	Eu10y00	[X]Mental and behavioural disorders due to use of alcohol: other mental and behavioural disorders
+alcohol_problems	Read2	Eu10z00	[X]Mental and behavioural disorders due to use of alcohol: unspecified mental and behavioural disorder
+alcohol_problems	Read2	F11x000	Cerebral degeneration due to alcoholism
+alcohol_problems	Read2	F11x011	Alcoholic encephalopathy
+alcohol_problems	Read2	F144000	Cerebellar ataxia due to alcoholism
+alcohol_problems	Read2	F25B.00	Alcohol-induced epilepsy
+alcohol_problems	Read2	F375.00	Alcoholic polyneuropathy
+alcohol_problems	Read2	F394100	Alcoholic myopathy
+alcohol_problems	Read2	G555.00	Alcoholic cardiomyopathy
+alcohol_problems	Read2	G852300	Oesophageal varices in alcoholic cirrhosis of the liver
+alcohol_problems	Read2	J153.00	Alcoholic gastritis
+alcohol_problems	Read2	J610.00	Alcoholic fatty liver
+alcohol_problems	Read2	J611.00	Acute alcoholic hepatitis
+alcohol_problems	Read2	J612.00	Alcoholic cirrhosis of liver
+alcohol_problems	Read2	J612000	Alcoholic fibrosis and sclerosis of liver
+alcohol_problems	Read2	J613.00	Alcoholic liver damage unspecified
+alcohol_problems	Read2	J613000	Alcoholic hepatic failure
+alcohol_problems	Read2	J617.00	Alcoholic hepatitis
+alcohol_problems	Read2	J617000	Chronic alcoholic hepatitis
+alcohol_problems	Read2	J670800	Alcohol-induced acute pancreatitis
+alcohol_problems	Read2	J671000	Alcohol-induced chronic pancreatitis
+alcohol_problems	Read2	Z191.00	Alcohol detoxification
+alcohol_problems	Read2	Z191100	Alcohol withdrawal regime
+alcohol_problems	Read2	Z191200	Planned reduction of alcohol consumption
+alcohol_problems	Read2	Z191211	Alcohol reduction programme
+alcohol_problems	Read2	Z4B1.00	Alcoholism counselling
+alcohol_problems	Read2	ZV11300	[V]Personal history of alcoholism
+alcohol_problems	Read2	ZV11311	[V]Problems related to lifestyle alcohol use
+alcohol_problems	Read2	ZV57A00	[V]Alcohol rehabilitation
+alcohol_problems	Read2	ZV6D600	[V]Alcohol abuse counselling and surveillance
+alcohol_problems	CTV3	XaKvAYao2X	Hazardous alcohol use
+alcohol_problems	CTV3	XaKvBYao2Y	Harmful alcohol use
+alcohol_problems	CTV3	Xa1yZYaqpI	Alcohol misuse
+alcohol_problems	CTV3	13Y8.Y7Dfx	Alcoholics anonymous
+alcohol_problems	CTV3	1462.Ya04D	H/O: alcoholism
+alcohol_problems	CTV3	XaKV2Yann2	Alcohol induced hallucinations
+alcohol_problems	CTV3	XaJniYamtZ	Alcohol disorder monitoring
+alcohol_problems	CTV3	XaLrNYaoz5	Alcohol abuse monitoring
+alcohol_problems	CTV3	XaLsxYap0h	Delivery of rehabilitation for alcohol addiction
+alcohol_problems	CTV3	8BA8.Y75UD	Alcohol detoxification
+alcohol_problems	CTV3	XaPmBYasOM	Advised to contact primary care alcohol worker
+alcohol_problems	CTV3	8G32.Y75Wv	Aversion therapy - alcoholism
+alcohol_problems	CTV3	8H35.Y79mE	Admitted to alcohol detoxification centre
+alcohol_problems	CTV3	XaIPnYakqf	Referral to community alcohol team
+alcohol_problems	CTV3	XaORRYar2J	Referral to specialist alcohol treatment service
+alcohol_problems	CTV3	XaPnaYasPy	Referral to alcohol brief intervention service
+alcohol_problems	CTV3	XaK9fYanNQ	NA
+alcohol_problems	CTV3	XaK9fYatVg	Alcohol misuse enhanced services administration
+alcohol_problems	CTV3	XaKAJYanOX	NA
+alcohol_problems	CTV3	XaKAJYatWa	Alcohol misuse enhanced service completed
+alcohol_problems	CTV3	XaPPvYas6w	Brief intervention for excessive alcohol consumption completed
+alcohol_problems	CTV3	XaPPyYas6y	Extended intervention for excessive alcohol consumption completed
+alcohol_problems	CTV3	XaIN4Yakm6	Under care of community alcohol team
+alcohol_problems	CTV3	X40MGY41Vw	Alcohol-induced pseudo-Cushing's syndrome
+alcohol_problems	CTV3	X0053YMAhR	Wernicke's encephalopathy
+alcohol_problems	CTV3	E01..Y019o	Alcoholic psychoses
+alcohol_problems	CTV3	E010.Y01A5	Alcohol withdrawal delirium
+alcohol_problems	CTV3	E010.Y01A4	Delirium tremens
+alcohol_problems	CTV3	E010.Y01A6	DTs - delirium tremens
+alcohol_problems	CTV3	E011.Y00Kq	Korsakov psychosis
+alcohol_problems	CTV3	E011.Y00Kr	Alcoholic amnestic syndrome
+alcohol_problems	CTV3	E011.Ya169	Korsakov alcoholic psychosis
+alcohol_problems	CTV3	E0111Y017F	Korsakov's alcoholic psychosis with peripheral neuritis
+alcohol_problems	CTV3	E0112Y017E	Wernicke-Korsakov syndrome
+alcohol_problems	CTV3	E011zY017G	Alcohol amnestic syndrome NOS
+alcohol_problems	CTV3	XE1XuY019t	Other alcoholic dementia
+alcohol_problems	CTV3	X00RkY019u	Alcoholic dementia NOS
+alcohol_problems	CTV3	E0120Y019q	Chronic alcoholic brain syndrome
+alcohol_problems	CTV3	E013.Y01By	Alcohol withdrawal hallucinosis
+alcohol_problems	CTV3	E015.Y019s	Alcoholic paranoia
+alcohol_problems	CTV3	E01y.Y019r	Other alcoholic psychosis
+alcohol_problems	CTV3	E01y0Y01Bx	Alcohol withdrawal syndrome
+alcohol_problems	CTV3	E01yzY019w	Other alcoholic psychosis NOS
+alcohol_problems	CTV3	E01z.Y019v	Alcoholic psychosis NOS
+alcohol_problems	CTV3	XE1YQY01Be	Alcohol dependence syndrome
+alcohol_problems	CTV3	XE1YQY01Bc	Alcohol problem drinking
+alcohol_problems	CTV3	XE1YQY01Ba	Chronic alcoholism
+alcohol_problems	CTV3	E230.Y01Bl	Acute alcoholic intoxication in alcoholism
+alcohol_problems	CTV3	E230.Y01Bm	Alcohol dependence with acute alcoholic intoxication
+alcohol_problems	CTV3	E2300Y01Bn	Acute alcoholic intoxication, unspecified, in alcoholism
+alcohol_problems	CTV3	E2301Y01Bo	Continuous acute alcoholic intoxication in alcoholism
+alcohol_problems	CTV3	E2302Y01Bp	Episodic acute alcoholic intoxication in alcoholism
+alcohol_problems	CTV3	E2303Y01Bq	Acute alcoholic intoxication in remission, in alcoholism
+alcohol_problems	CTV3	E230zY01Br	Acute alcoholic intoxication in alcoholism NOS
+alcohol_problems	CTV3	XE1YQYa164	Dipsomania
+alcohol_problems	CTV3	E2310Y01Bk	Unspecified chronic alcoholism
+alcohol_problems	CTV3	E2311Y01Bj	Continuous chronic alcoholism
+alcohol_problems	CTV3	E2312Y01Bi	Episodic chronic alcoholism
+alcohol_problems	CTV3	E2313Y01Bh	Chronic alcoholism in remission
+alcohol_problems	CTV3	E231zY01Bg	Chronic alcoholism NOS
+alcohol_problems	CTV3	E23z.Y01Bf	Alcohol dependence syndrome NOS
+alcohol_problems	CTV3	Eu10.YMB1R	[X]Mental and behavioural disorders due to use of alcohol
+alcohol_problems	CTV3	Eu101YMB1T	[X]Mental and behavioural disorders due to use of alcohol: harmful use
+alcohol_problems	CTV3	XE1ZEYMB1U	[X]Mental and behavioural disorders due to use of alcohol: dependence syndrome
+alcohol_problems	CTV3	Eu103YMB1V	[X]Mental and behavioural disorders due to use of alcohol: withdrawal state
+alcohol_problems	CTV3	Eu104YMB1W	[X]Mental and behavioural disorders due to use of alcohol: withdrawal state with delirium
+alcohol_problems	CTV3	Eu104YadS7	[X]Delirium tremens, alcohol-induced
+alcohol_problems	CTV3	XE1ZFYMB1X	[X]Mental and behavioural disorders due to use of alcohol: psychotic disorder
+alcohol_problems	CTV3	Eu106YMB1Y	[X]Mental and behavioural disorders due to use of alcohol: amnesic syndrome
+alcohol_problems	CTV3	Eu106YadS8	[X]Korsakov's psychosis, alcohol-induced
+alcohol_problems	CTV3	XE1ZGYMB1Z	[X]Mental and behavioural disorders due to use of alcohol: residual and late-onset psychotic disorder
+alcohol_problems	CTV3	XaLWuYaode	[X]Alcohol withdrawal-induced seizure
+alcohol_problems	CTV3	Eu10yYMB1a	[X]Mental and behavioural disorders due to use of alcohol: other mental and behavioural disorders
+alcohol_problems	CTV3	Eu10zYMB1b	[X]Mental and behavioural disorders due to use of alcohol: unspecified mental and behavioural disorder
+alcohol_problems	CTV3	F11x0Y00Kn	Alcoholic encephalopathy
+alcohol_problems	CTV3	F1440Y00Fu	Cerebellar ataxia due to alcoholism
+alcohol_problems	CTV3	X006uY00PK	Alcohol-induced epilepsy
+alcohol_problems	CTV3	F375.Y00Ys	Alcohol-related polyneuropathy
+alcohol_problems	CTV3	F375.YaaDp	Alcoholic peripheral neuropathy
+alcohol_problems	CTV3	X709VY70aq	Alcoholic myopathy
+alcohol_problems	CTV3	G555.Y208B	Alcoholic cardiomyopathy
+alcohol_problems	CTV3	XaC1dYabVx	Oesophageal varices in alcoholic cirrhosis of the liver
+alcohol_problems	CTV3	J153.Y304W	Alcoholic gastritis
+alcohol_problems	CTV3	J610.Y30Ma	Alcoholic fatty liver
+alcohol_problems	CTV3	J611.Y30MF	Acute alcoholic hepatitis
+alcohol_problems	CTV3	XE0b4Y30Nw	Alcoholic cirrhosis of liver
+alcohol_problems	CTV3	X3072Y30MY	Alcoholic fibrosis and sclerosis of liver
+alcohol_problems	CTV3	J613.Y30MX	Alcoholic liver damage unspecified
+alcohol_problems	CTV3	X3073Y30MZ	Alcoholic hepatic failure
+alcohol_problems	CTV3	X306rY30ME	Alcoholic hepatitis
+alcohol_problems	CTV3	XaBE3YaaW5	Chronic alcoholic hepatitis
+alcohol_problems	CTV3	X308jY30S2	Alcohol-induced acute pancreatitis
+alcohol_problems	CTV3	X308vYMK9f	Alcohol-induced chronic pancreatitis
+alcohol_problems	CTV3	ZV113Ya0e2	[V]Personal history of alcoholism
+alcohol_problems	CTV3	ZV113YaRhl	[V]Problems related to lifestyle - alcohol use
+alcohol_problems	CTV3	ZV57AYM9nH	[V]Alcohol rehabilitation
+alcohol_problems	CTV3	ZV6D6YM9nx	[V]Alcohol abuse counselling and surveillance
+alcohol_problems	medcodeid	4525015	Alcoholic gastritis
+alcohol_problems	medcodeid	15243013	Alcohol withdrawal delirium
+alcohol_problems	medcodeid	15244019	Delirium tremens
+alcohol_problems	medcodeid	17390014	Acute alcoholic hepatitis
+alcohol_problems	medcodeid	83834016	Alcoholic fatty liver
+alcohol_problems	medcodeid	106878015	Alcohol detoxification
+alcohol_problems	medcodeid	138527014	Alcoholic cardiomyopathy
+alcohol_problems	medcodeid	216585018	Under care of community alcohol team
+alcohol_problems	medcodeid	283451018	Aversion therapy - alcoholism
+alcohol_problems	medcodeid	283559019	Admitted to alcohol detoxification centre
+alcohol_problems	medcodeid	294668018	Chronic alcoholic brain syndrome
+alcohol_problems	medcodeid	294669014	Alcohol withdrawal hallucinosis
+alcohol_problems	medcodeid	294672019	Alcoholic paranoia
+alcohol_problems	medcodeid	295126010	Alcohol dependence with acute alcoholic intoxication
+alcohol_problems	medcodeid	295127018	Acute alcoholic intoxication in alcoholism
+alcohol_problems	medcodeid	295130013	Episodic acute alcoholic intoxication in alcoholism
+alcohol_problems	medcodeid	295131012	Acute alcoholic intoxication in remission, in alcoholism
+alcohol_problems	medcodeid	295139014	Continuous chronic alcoholism
+alcohol_problems	medcodeid	295142015	Chronic alcoholism in remission
+alcohol_problems	medcodeid	353587018	Alcoholic hepatitis
+alcohol_problems	medcodeid	353594015	Alcoholic fibrosis and sclerosis of liver
+alcohol_problems	medcodeid	353595019	Alcoholic hepatic failure
+alcohol_problems	medcodeid	353687012	Alcohol-induced acute pancreatitis
+alcohol_problems	medcodeid	356292013	Alcohol-induced pseudo-Cushing's syndrome
+alcohol_problems	medcodeid	451124014	Chronic alcoholic hepatitis
+alcohol_problems	medcodeid	478024019	Alcohol-induced epilepsy
+alcohol_problems	medcodeid	501294012	Wernicke-Korsakov syndrome
+alcohol_problems	medcodeid	1484890014	Referral to community alcohol team
+alcohol_problems	medcodeid	371501000000110	Delivery of rehabilitation for alcohol addiction
+alcohol_problems	medcodeid	405461000000114	Alcohol abuse monitoring
+alcohol_problems	medcodeid	12878014	Alcoholism
+alcohol_problems	medcodeid	14103017	Alcoholic polyneuropathy
+alcohol_problems	medcodeid	295128011	Acute alcoholic intoxication, unspecified, in alcoholism
+alcohol_problems	medcodeid	295143013	Chronic alcoholism NOS
+alcohol_problems	medcodeid	295144019	Alcohol dependence syndrome NOS
+alcohol_problems	medcodeid	303399018	Alcoholic liver damage unspecified
+alcohol_problems	medcodeid	401760017	Other alcoholic dementia
+alcohol_problems	medcodeid	59951000006113	Wernicke's encephalopathy
+alcohol_problems	medcodeid	226571000000116	Alcohol misuse - enhanced service completed
+alcohol_problems	medcodeid	362921000006118	[X]Alcohol addiction
+alcohol_problems	medcodeid	362941000006113	[X]Alcoholic dementia NOS
+alcohol_problems	medcodeid	362951000006110	[X]Alcoholic hallucinosis
+alcohol_problems	medcodeid	370971000006114	[X]Chronic alcoholism
+alcohol_problems	medcodeid	376451000006113	[X]Delirium tremens, alcohol induced
+alcohol_problems	medcodeid	377081000006114	[X]Dipsomania
+alcohol_problems	medcodeid	394681000006119	[X]Korsakov's psychosis, alcohol induced
+alcohol_problems	medcodeid	397201000006116	[X]Men & behav dis due alcoh: resid & late-onset psychot dis
+alcohol_problems	medcodeid	397211000006118	[X]Men & behav dis due alcohl: withdrawl state with delirium
+alcohol_problems	medcodeid	397431000006111	[X]Ment & behav dis due use alcohol: unsp ment & behav dis
+alcohol_problems	medcodeid	397791000006118	[X]Mental and behav dis due to use alcohol: amnesic syndrome
+alcohol_problems	medcodeid	476361000006114	Alcohol amnestic syndrome
+alcohol_problems	medcodeid	476701000006114	Alcoholic myopathy
+alcohol_problems	medcodeid	294664016	Alcohol amnestic syndrome NOS
+alcohol_problems	medcodeid	460276013	[V]Personal history of alcoholism
+alcohol_problems	medcodeid	461112017	[V]Alcohol abuse counselling and surveillance
+alcohol_problems	medcodeid	295136019	Unspecified chronic alcoholism
+alcohol_problems	medcodeid	295765017	[X]Mental and behavioural disorders due to use of alcohol
+alcohol_problems	medcodeid	507053019	DTs - delirium tremens
+alcohol_problems	medcodeid	294662017	Korsakov's alcoholic psychosis with peripheral neuritis
+alcohol_problems	medcodeid	297011014	Alcoholic encephalopathy
+alcohol_problems	medcodeid	35314011	Wernicke's encephalopathy
+alcohol_problems	medcodeid	110629012	Chronic alcoholism
+alcohol_problems	medcodeid	236441000000113	Alcohol misuse - enhanced services administration
+alcohol_problems	medcodeid	251195015	Alcoholics anonymous
+alcohol_problems	medcodeid	315091000000117	[X]Alcohol withdrawal-induced seizure
+alcohol_problems	medcodeid	294673012	Other alcoholic psychosis
+alcohol_problems	medcodeid	502017010	Alcohol problem drinking
+alcohol_problems	medcodeid	739501000000112	Advised to contact primary care alcohol worker
+alcohol_problems	medcodeid	2549849017	Alcohol induced hallucinations
+alcohol_problems	medcodeid	478046010	Cerebellar ataxia due to alcoholism
+alcohol_problems	medcodeid	295129015	Continuous acute alcoholic intoxication in alcoholism
+alcohol_problems	medcodeid	362971000006117	[X]Alcoholic paranoia
+alcohol_problems	medcodeid	397811000006119	[X]Mental and behav dis due to use alcohol: withdrawal state
+alcohol_problems	medcodeid	542611000006114	Cerebral degeneration due to alcoholism
+alcohol_problems	medcodeid	1680131000006113	Extended intervention for excessive alcohol consumptn complt
+alcohol_problems	medcodeid	370961000006119	[X]Chronic alcoholic brain syndrome
+alcohol_problems	medcodeid	299061000000117	Hazardous alcohol use
+alcohol_problems	medcodeid	460926018	[V]Alcohol rehabilitation
+alcohol_problems	medcodeid	397241000006119	[X]Men & behav dis due to use alcohol: oth men & behav dis
+alcohol_problems	medcodeid	397621000006111	[X]Mental & behav dis due to use alcohol: psychotic disorder
+alcohol_problems	medcodeid	295132017	Acute alcoholic intoxication in alcoholism NOS
+alcohol_problems	medcodeid	740641000000115	Referral to alcohol brief intervention service
+alcohol_problems	medcodeid	2474678017	Alcohol disorder monitoring
+alcohol_problems	medcodeid	453265010	Oesophageal varices in alcoholic cirrhosis of the liver
+alcohol_problems	medcodeid	251626014	H/O: alcoholism
+alcohol_problems	medcodeid	753331000006118	Korsakov's alcoholic psychosis
+alcohol_problems	medcodeid	476611000006116	Alcoholic cirrhosis of liver
+alcohol_problems	medcodeid	476741000006111	Alcoholic psychoses
+alcohol_problems	medcodeid	346501000006111	[V]Problems related to lifestyle alcohol use
+alcohol_problems	medcodeid	362961000006112	[X]Alcoholic jealousy
+alcohol_problems	medcodeid	362981000006119	[X]Alcoholic psychosis NOS
+alcohol_problems	medcodeid	397801000006117	[X]Mental and behav dis due to use alcohol: dependence syndr
+alcohol_problems	medcodeid	397881000006114	[X]Mental and behav dis due to use of alcohol: harmful use
+alcohol_problems	medcodeid	622961000000116	Referral to specialist alcohol treatment service
+alcohol_problems	medcodeid	299081000000114	Harmful alcohol use
+alcohol_problems	medcodeid	606991000000117	Alcohol misuse
+alcohol_problems	medcodeid	500478011	Alcohol dependence syndrome
+alcohol_problems	medcodeid	353698013	Alcohol-induced chronic pancreatitis
+alcohol_problems	medcodeid	294674018	Alcohol withdrawal syndrome
+alcohol_problems	medcodeid	295141010	Episodic chronic alcoholism
+alcohol_problems	medcodeid	1680121000006110	Brief intervention for excessive alcohol consumptn completed
+alcohol_problems	medcodeid	502016018	Dipsomania
+alcohol_problems	medcodeid	294675017	Other alcoholic psychosis NOS
+alcohol_problems	medcodeid	294676016	Alcoholic psychosis NOS
+alcohol_problems	medcodeid	346929012	Alcoholic dementia NOS
+alcohol_problems	SNOMEDCT	2043009	Alcoholic gastritis
+alcohol_problems	SNOMEDCT	8635005	Alcohol withdrawal delirium
+alcohol_problems	SNOMEDCT	8635005	Delirium tremens
+alcohol_problems	SNOMEDCT	9953008	Acute alcoholic hepatitis
+alcohol_problems	SNOMEDCT	50325005	Alcoholic fatty liver
+alcohol_problems	SNOMEDCT	64297001	Alcohol detoxification
+alcohol_problems	SNOMEDCT	83521008	Alcoholic cardiomyopathy
+alcohol_problems	SNOMEDCT	135827004	Under care of community alcohol team
+alcohol_problems	SNOMEDCT	183388004	Aversion therapy - alcoholism
+alcohol_problems	SNOMEDCT	183486001	Admitted to alcohol detoxification centre
+alcohol_problems	SNOMEDCT	191475009	Chronic alcoholic brain syndrome
+alcohol_problems	SNOMEDCT	191476005	Alcohol withdrawal hallucinosis
+alcohol_problems	SNOMEDCT	191478006	Alcoholic paranoia
+alcohol_problems	SNOMEDCT	191802004	Alcohol dependence with acute alcoholic intoxication
+alcohol_problems	SNOMEDCT	191802004	Acute alcoholic intoxication in alcoholism
+alcohol_problems	SNOMEDCT	191805002	Episodic acute alcoholic intoxication in alcoholism
+alcohol_problems	SNOMEDCT	191806001	Acute alcoholic intoxication in remission, in alcoholism
+alcohol_problems	SNOMEDCT	191811004	Continuous chronic alcoholism
+alcohol_problems	SNOMEDCT	191813001	Chronic alcoholism in remission
+alcohol_problems	SNOMEDCT	235875008	Alcoholic hepatitis
+alcohol_problems	SNOMEDCT	235880004	Alcoholic fibrosis and sclerosis of liver
+alcohol_problems	SNOMEDCT	235881000	Alcoholic hepatic failure
+alcohol_problems	SNOMEDCT	235942001	Alcohol-induced acute pancreatitis
+alcohol_problems	SNOMEDCT	237738005	Alcohol-induced pseudo-Cushing's syndrome
+alcohol_problems	SNOMEDCT	307757001	Chronic alcoholic hepatitis
+alcohol_problems	SNOMEDCT	361268000	Alcohol-induced epilepsy
+alcohol_problems	SNOMEDCT	69482004	Wernicke-Korsakov syndrome
+alcohol_problems	SNOMEDCT	390857005	Referral to community alcohol team
+alcohol_problems	SNOMEDCT	231161000000109	Delivery of rehabilitation for alcohol addiction
+alcohol_problems	SNOMEDCT	247721000000109	Alcohol abuse monitoring
+alcohol_problems	SNOMEDCT	66590003	Alcoholism
+alcohol_problems	SNOMEDCT	7916009	Alcoholic polyneuropathy
+alcohol_problems	SNOMEDCT	191802004	Acute alcoholic intoxication, unspecified, in alcoholism
+alcohol_problems	SNOMEDCT	66590003	Chronic alcoholism NOS
+alcohol_problems	SNOMEDCT	66590003	Alcohol dependence syndrome NOS
+alcohol_problems	SNOMEDCT	41309000	Alcoholic liver damage unspecified
+alcohol_problems	SNOMEDCT	281004	Other alcoholic dementia
+alcohol_problems	SNOMEDCT	21007002	Wernicke's encephalopathy
+alcohol_problems	SNOMEDCT	166471000000105	Alcohol misuse - enhanced service completed
+alcohol_problems	SNOMEDCT	66590003	[X]Alcohol addiction
+alcohol_problems	SNOMEDCT	281004	[X]Alcoholic dementia NOS
+alcohol_problems	SNOMEDCT	7052005	[X]Alcoholic hallucinosis
+alcohol_problems	SNOMEDCT	66590003	[X]Chronic alcoholism
+alcohol_problems	SNOMEDCT	8635005	[X]Delirium tremens, alcohol induced
+alcohol_problems	SNOMEDCT	66590003	[X]Dipsomania
+alcohol_problems	SNOMEDCT	69482004	[X]Korsakov's psychosis, alcohol induced
+alcohol_problems	SNOMEDCT	42344001	[X]Men & behav dis due alcoh: resid & late-onset psychot dis
+alcohol_problems	SNOMEDCT	8635005	[X]Men & behav dis due alcohl: withdrawl state with delirium
+alcohol_problems	SNOMEDCT	91388009	[X]Ment & behav dis due use alcohol: unsp ment & behav dis
+alcohol_problems	SNOMEDCT	73097000	[X]Mental and behav dis due to use alcohol: amnesic syndrome
+alcohol_problems	SNOMEDCT	69482004	Alcohol amnestic syndrome
+alcohol_problems	SNOMEDCT	19303008	Alcoholic myopathy
+alcohol_problems	SNOMEDCT	73097000	Alcohol amnestic syndrome NOS
+alcohol_problems	SNOMEDCT	371422002	[V]Personal history of alcoholism
+alcohol_problems	SNOMEDCT	24165007	[V]Alcohol abuse counselling and surveillance
+alcohol_problems	SNOMEDCT	66590003	Unspecified chronic alcoholism
+alcohol_problems	SNOMEDCT	29212009	[X]Mental and behavioural disorders due to use of alcohol
+alcohol_problems	SNOMEDCT	8635005	DTs - delirium tremens
+alcohol_problems	SNOMEDCT	191471000	Korsakov's alcoholic psychosis with peripheral neuritis
+alcohol_problems	SNOMEDCT	192811002	Alcoholic encephalopathy
+alcohol_problems	SNOMEDCT	66590003	Chronic alcoholism
+alcohol_problems	SNOMEDCT	166251000000100	Alcohol misuse - enhanced services administration
+alcohol_problems	SNOMEDCT	1099951000000107	Alcoholics anonymous
+alcohol_problems	SNOMEDCT	308742005	[X]Alcohol withdrawal-induced seizure
+alcohol_problems	SNOMEDCT	42344001	Other alcoholic psychosis
+alcohol_problems	SNOMEDCT	7200002	Alcohol problem drinking
+alcohol_problems	SNOMEDCT	375941000000101	Advised to contact primary care alcohol worker
+alcohol_problems	SNOMEDCT	417633001	Alcohol induced hallucinations
+alcohol_problems	SNOMEDCT	361272001	Cerebellar ataxia due to alcoholism
+alcohol_problems	SNOMEDCT	191804003	Continuous acute alcoholic intoxication in alcoholism
+alcohol_problems	SNOMEDCT	42344001	[X]Alcoholic paranoia
+alcohol_problems	SNOMEDCT	191480000	[X]Mental and behav dis due to use alcohol: withdrawal state
+alcohol_problems	SNOMEDCT	192811002	Cerebral degeneration due to alcoholism
+alcohol_problems	SNOMEDCT	366421000000103	Extended intervention for excessive alcohol consumptn complt
+alcohol_problems	SNOMEDCT	191475009	[X]Chronic alcoholic brain syndrome
+alcohol_problems	SNOMEDCT	198421000000108	Hazardous alcohol use
+alcohol_problems	SNOMEDCT	471691000000107	[V]Alcohol rehabilitation
+alcohol_problems	SNOMEDCT	29212009	[X]Men & behav dis due to use alcohol: oth men & behav dis
+alcohol_problems	SNOMEDCT	42344001	[X]Mental & behav dis due to use alcohol: psychotic disorder
+alcohol_problems	SNOMEDCT	191802004	Acute alcoholic intoxication in alcoholism NOS
+alcohol_problems	SNOMEDCT	376401000000103	Referral to alcohol brief intervention service
+alcohol_problems	SNOMEDCT	413130000	Alcohol disorder monitoring
+alcohol_problems	SNOMEDCT	309783001	Oesophageal varices in alcoholic cirrhosis of the liver
+alcohol_problems	SNOMEDCT	161466001	H/O: alcoholism
+alcohol_problems	SNOMEDCT	69482004	Korsakov's alcoholic psychosis
+alcohol_problems	SNOMEDCT	420054005	Alcoholic cirrhosis of liver
+alcohol_problems	SNOMEDCT	42344001	Alcoholic psychoses
+alcohol_problems	SNOMEDCT	371422002	[V]Problems related to lifestyle alcohol use
+alcohol_problems	SNOMEDCT	42344001	[X]Alcoholic jealousy
+alcohol_problems	SNOMEDCT	42344001	[X]Alcoholic psychosis NOS
+alcohol_problems	SNOMEDCT	66590003	[X]Mental and behav dis due to use alcohol: dependence syndr
+alcohol_problems	SNOMEDCT	15167005	[X]Mental and behav dis due to use of alcohol: harmful use
+alcohol_problems	SNOMEDCT	431260004	Referral to specialist alcohol treatment service
+alcohol_problems	SNOMEDCT	198431000000105	Harmful alcohol use
+alcohol_problems	SNOMEDCT	15167005	Alcohol misuse
+alcohol_problems	SNOMEDCT	66590003	Alcohol dependence syndrome
+alcohol_problems	SNOMEDCT	235952002	Alcohol-induced chronic pancreatitis
+alcohol_problems	SNOMEDCT	191480000	Alcohol withdrawal syndrome
+alcohol_problems	SNOMEDCT	191812006	Episodic chronic alcoholism
+alcohol_problems	SNOMEDCT	366371000000105	Brief intervention for excessive alcohol consumptn completed
+alcohol_problems	SNOMEDCT	7200002	Dipsomania
+alcohol_problems	SNOMEDCT	42344001	Other alcoholic psychosis NOS
+alcohol_problems	SNOMEDCT	42344001	Alcoholic psychosis NOS
+alcohol_problems	SNOMEDCT	281004	Alcoholic dementia NOS
+alcohol_problems	Read2_5digit	136S.	Hazardous alcohol use
+alcohol_problems	Read2_5digit	136T.	Harmful alcohol use
+alcohol_problems	Read2_5digit	136W.	Alcohol misuse
+alcohol_problems	Read2_5digit	13Y8.	Alcoholics anonymous
+alcohol_problems	Read2_5digit	1462.	H/O: alcoholism
+alcohol_problems	Read2_5digit	1B1c.	Alcohol induced hallucinations
+alcohol_problems	Read2_5digit	66e..	Alcohol disorder monitoring
+alcohol_problems	Read2_5digit	66e0.	Alcohol abuse monitoring
+alcohol_problems	Read2_5digit	7P221	Delivery of rehabilitation for alcohol addiction
+alcohol_problems	Read2_5digit	8BA8.	Alcohol detoxification
+alcohol_problems	Read2_5digit	8CAv.	Advised to contact primary care alcohol worker
+alcohol_problems	Read2_5digit	8G32.	Aversion therapy - alcoholism
+alcohol_problems	Read2_5digit	8H35.	Admitted to alcohol detoxification centre
+alcohol_problems	Read2_5digit	8H7p.	Referral to community alcohol team
+alcohol_problems	Read2_5digit	8HkG.	Referral to specialist alcohol treatment service
+alcohol_problems	Read2_5digit	8HkJ.	Referral to alcohol brief intervention service
+alcohol_problems	Read2_5digit	9k1..	Alcohol misuse - enhanced services administration
+alcohol_problems	Read2_5digit	9k12.	Alcohol misuse - enhanced service completed
+alcohol_problems	Read2_5digit	9k1A.	Brief intervention for excessive alcohol consumption completed
+alcohol_problems	Read2_5digit	9k1B.	Extended intervention for excessive alcohol consumption completed
+alcohol_problems	Read2_5digit	9NN2.	Under care of community alcohol team
+alcohol_problems	Read2_5digit	C1505	Alcohol-induced pseudo-Cushing's syndrome
+alcohol_problems	Read2_5digit	C253.	Wernicke's encephalopathy
+alcohol_problems	Read2_5digit	E01..	Alcoholic psychoses
+alcohol_problems	Read2_5digit	E010.	Alcohol withdrawal delirium
+alcohol_problems	Read2_5digit	E011.	Alcohol amnestic syndrome
+alcohol_problems	Read2_5digit	E0110	Korsakov's alcoholic psychosis
+alcohol_problems	Read2_5digit	E0111	Korsakov's alcoholic psychosis with peripheral neuritis
+alcohol_problems	Read2_5digit	E0112	Wernicke-Korsakov syndrome
+alcohol_problems	Read2_5digit	E011z	Alcohol amnestic syndrome NOS
+alcohol_problems	Read2_5digit	E012.	Other alcoholic dementia
+alcohol_problems	Read2_5digit	E0120	Chronic alcoholic brain syndrome
+alcohol_problems	Read2_5digit	E013.	Alcohol withdrawal hallucinosis
+alcohol_problems	Read2_5digit	E015.	Alcoholic paranoia
+alcohol_problems	Read2_5digit	E01y.	Other alcoholic psychosis
+alcohol_problems	Read2_5digit	E01y0	Alcohol withdrawal syndrome
+alcohol_problems	Read2_5digit	E01yz	Other alcoholic psychosis NOS
+alcohol_problems	Read2_5digit	E01z.	Alcoholic psychosis NOS
+alcohol_problems	Read2_5digit	E23..	Alcohol dependence syndrome
+alcohol_problems	Read2_5digit	E230.	Acute alcoholic intoxication in alcoholism
+alcohol_problems	Read2_5digit	E2300	Acute alcoholic intoxication, unspecified, in alcoholism
+alcohol_problems	Read2_5digit	E2301	Continuous acute alcoholic intoxication in alcoholism
+alcohol_problems	Read2_5digit	E2302	Episodic acute alcoholic intoxication in alcoholism
+alcohol_problems	Read2_5digit	E2303	Acute alcoholic intoxication in remission, in alcoholism
+alcohol_problems	Read2_5digit	E230z	Acute alcoholic intoxication in alcoholism NOS
+alcohol_problems	Read2_5digit	E231.	Chronic alcoholism
+alcohol_problems	Read2_5digit	E2310	Unspecified chronic alcoholism
+alcohol_problems	Read2_5digit	E2311	Continuous chronic alcoholism
+alcohol_problems	Read2_5digit	E2312	Episodic chronic alcoholism
+alcohol_problems	Read2_5digit	E2313	Chronic alcoholism in remission
+alcohol_problems	Read2_5digit	E231z	Chronic alcoholism NOS
+alcohol_problems	Read2_5digit	E23z.	Alcohol dependence syndrome NOS
+alcohol_problems	Read2_5digit	Eu10.	[X]Mental and behavioural disorders due to use of alcohol
+alcohol_problems	Read2_5digit	Eu101	[X]Mental and behavioural disorders due to use of alcohol: harmful use
+alcohol_problems	Read2_5digit	Eu102	[X]Mental and behavioural disorders due to use of alcohol: dependence syndrome
+alcohol_problems	Read2_5digit	Eu103	[X]Mental and behavioural disorders due to use of alcohol: withdrawal state
+alcohol_problems	Read2_5digit	Eu104	[X]Mental and behavioural disorders due to use of alcohol: withdrawal state with delirium
+alcohol_problems	Read2_5digit	Eu105	[X]Mental and behavioural disorders due to use of alcohol: psychotic disorder
+alcohol_problems	Read2_5digit	Eu106	[X]Mental and behavioural disorders due to use of alcohol: amnesic syndrome
+alcohol_problems	Read2_5digit	Eu107	[X]Mental and behavioural disorders due to use of alcohol: residual and late-onset psychotic disorder
+alcohol_problems	Read2_5digit	Eu108	[X]Alcohol withdrawal-induced seizure
+alcohol_problems	Read2_5digit	Eu10y	[X]Mental and behavioural disorders due to use of alcohol: other mental and behavioural disorders
+alcohol_problems	Read2_5digit	Eu10z	[X]Mental and behavioural disorders due to use of alcohol: unspecified mental and behavioural disorder
+alcohol_problems	Read2_5digit	F11x0	Cerebral degeneration due to alcoholism
+alcohol_problems	Read2_5digit	F1440	Cerebellar ataxia due to alcoholism
+alcohol_problems	Read2_5digit	F25B.	Alcohol-induced epilepsy
+alcohol_problems	Read2_5digit	F375.	Alcoholic polyneuropathy
+alcohol_problems	Read2_5digit	F3941	Alcoholic myopathy
+alcohol_problems	Read2_5digit	G555.	Alcoholic cardiomyopathy
+alcohol_problems	Read2_5digit	G8523	Oesophageal varices in alcoholic cirrhosis of the liver
+alcohol_problems	Read2_5digit	J153.	Alcoholic gastritis
+alcohol_problems	Read2_5digit	J610.	Alcoholic fatty liver
+alcohol_problems	Read2_5digit	J611.	Acute alcoholic hepatitis
+alcohol_problems	Read2_5digit	J612.	Alcoholic cirrhosis of liver
+alcohol_problems	Read2_5digit	J6120	Alcoholic fibrosis and sclerosis of liver
+alcohol_problems	Read2_5digit	J613.	Alcoholic liver damage unspecified
+alcohol_problems	Read2_5digit	J6130	Alcoholic hepatic failure
+alcohol_problems	Read2_5digit	J617.	Alcoholic hepatitis
+alcohol_problems	Read2_5digit	J6170	Chronic alcoholic hepatitis
+alcohol_problems	Read2_5digit	J6708	Alcohol-induced acute pancreatitis
+alcohol_problems	Read2_5digit	J6710	Alcohol-induced chronic pancreatitis
+alcohol_problems	Read2_5digit	Z191.	Alcohol detoxification
+alcohol_problems	Read2_5digit	Z1911	Alcohol withdrawal regime
+alcohol_problems	Read2_5digit	Z1912	Planned reduction of alcohol consumption
+alcohol_problems	Read2_5digit	Z4B1.	Alcoholism counselling
+alcohol_problems	Read2_5digit	ZV113	[V]Personal history of alcoholism
+alcohol_problems	Read2_5digit	ZV57A	[V]Alcohol rehabilitation
+alcohol_problems	Read2_5digit	ZV6D6	[V]Alcohol abuse counselling and surveillance
+alcohol_problems	CTV3_5digit	XaKvA	Hazardous alcohol use
+alcohol_problems	CTV3_5digit	XaKvB	Harmful alcohol use
+alcohol_problems	CTV3_5digit	Xa1yZ	Alcohol misuse
+alcohol_problems	CTV3_5digit	13Y8.	Alcoholics anonymous
+alcohol_problems	CTV3_5digit	1462.	H/O: alcoholism
+alcohol_problems	CTV3_5digit	XaKV2	Alcohol induced hallucinations
+alcohol_problems	CTV3_5digit	XaJni	Alcohol disorder monitoring
+alcohol_problems	CTV3_5digit	XaLrN	Alcohol abuse monitoring
+alcohol_problems	CTV3_5digit	XaLsx	Delivery of rehabilitation for alcohol addiction
+alcohol_problems	CTV3_5digit	8BA8.	Alcohol detoxification
+alcohol_problems	CTV3_5digit	XaPmB	Advised to contact primary care alcohol worker
+alcohol_problems	CTV3_5digit	8G32.	Aversion therapy - alcoholism
+alcohol_problems	CTV3_5digit	8H35.	Admitted to alcohol detoxification centre
+alcohol_problems	CTV3_5digit	XaIPn	Referral to community alcohol team
+alcohol_problems	CTV3_5digit	XaORR	Referral to specialist alcohol treatment service
+alcohol_problems	CTV3_5digit	XaPna	Referral to alcohol brief intervention service
+alcohol_problems	CTV3_5digit	XaK9f	NA
+alcohol_problems	CTV3_5digit	XaKAJ	NA
+alcohol_problems	CTV3_5digit	XaPPv	Brief intervention for excessive alcohol consumption completed
+alcohol_problems	CTV3_5digit	XaPPy	Extended intervention for excessive alcohol consumption completed
+alcohol_problems	CTV3_5digit	XaIN4	Under care of community alcohol team
+alcohol_problems	CTV3_5digit	X40MG	Alcohol-induced pseudo-Cushing's syndrome
+alcohol_problems	CTV3_5digit	X0053	Wernicke's encephalopathy
+alcohol_problems	CTV3_5digit	E01..	Alcoholic psychoses
+alcohol_problems	CTV3_5digit	E010.	Alcohol withdrawal delirium
+alcohol_problems	CTV3_5digit	E011.	Korsakov psychosis
+alcohol_problems	CTV3_5digit	E0111	Korsakov's alcoholic psychosis with peripheral neuritis
+alcohol_problems	CTV3_5digit	E0112	Wernicke-Korsakov syndrome
+alcohol_problems	CTV3_5digit	E011z	Alcohol amnestic syndrome NOS
+alcohol_problems	CTV3_5digit	XE1Xu	Other alcoholic dementia
+alcohol_problems	CTV3_5digit	X00Rk	Alcoholic dementia NOS
+alcohol_problems	CTV3_5digit	E0120	Chronic alcoholic brain syndrome
+alcohol_problems	CTV3_5digit	E013.	Alcohol withdrawal hallucinosis
+alcohol_problems	CTV3_5digit	E015.	Alcoholic paranoia
+alcohol_problems	CTV3_5digit	E01y.	Other alcoholic psychosis
+alcohol_problems	CTV3_5digit	E01y0	Alcohol withdrawal syndrome
+alcohol_problems	CTV3_5digit	E01yz	Other alcoholic psychosis NOS
+alcohol_problems	CTV3_5digit	E01z.	Alcoholic psychosis NOS
+alcohol_problems	CTV3_5digit	XE1YQ	Alcohol dependence syndrome
+alcohol_problems	CTV3_5digit	E230.	Acute alcoholic intoxication in alcoholism
+alcohol_problems	CTV3_5digit	E2300	Acute alcoholic intoxication, unspecified, in alcoholism
+alcohol_problems	CTV3_5digit	E2301	Continuous acute alcoholic intoxication in alcoholism
+alcohol_problems	CTV3_5digit	E2302	Episodic acute alcoholic intoxication in alcoholism
+alcohol_problems	CTV3_5digit	E2303	Acute alcoholic intoxication in remission, in alcoholism
+alcohol_problems	CTV3_5digit	E230z	Acute alcoholic intoxication in alcoholism NOS
+alcohol_problems	CTV3_5digit	E2310	Unspecified chronic alcoholism
+alcohol_problems	CTV3_5digit	E2311	Continuous chronic alcoholism
+alcohol_problems	CTV3_5digit	E2312	Episodic chronic alcoholism
+alcohol_problems	CTV3_5digit	E2313	Chronic alcoholism in remission
+alcohol_problems	CTV3_5digit	E231z	Chronic alcoholism NOS
+alcohol_problems	CTV3_5digit	E23z.	Alcohol dependence syndrome NOS
+alcohol_problems	CTV3_5digit	Eu10.	[X]Mental and behavioural disorders due to use of alcohol
+alcohol_problems	CTV3_5digit	Eu101	[X]Mental and behavioural disorders due to use of alcohol: harmful use
+alcohol_problems	CTV3_5digit	XE1ZE	[X]Mental and behavioural disorders due to use of alcohol: dependence syndrome
+alcohol_problems	CTV3_5digit	Eu103	[X]Mental and behavioural disorders due to use of alcohol: withdrawal state
+alcohol_problems	CTV3_5digit	Eu104	[X]Mental and behavioural disorders due to use of alcohol: withdrawal state with delirium
+alcohol_problems	CTV3_5digit	XE1ZF	[X]Mental and behavioural disorders due to use of alcohol: psychotic disorder
+alcohol_problems	CTV3_5digit	Eu106	[X]Mental and behavioural disorders due to use of alcohol: amnesic syndrome
+alcohol_problems	CTV3_5digit	XE1ZG	[X]Mental and behavioural disorders due to use of alcohol: residual and late-onset psychotic disorder
+alcohol_problems	CTV3_5digit	XaLWu	[X]Alcohol withdrawal-induced seizure
+alcohol_problems	CTV3_5digit	Eu10y	[X]Mental and behavioural disorders due to use of alcohol: other mental and behavioural disorders
+alcohol_problems	CTV3_5digit	Eu10z	[X]Mental and behavioural disorders due to use of alcohol: unspecified mental and behavioural disorder
+alcohol_problems	CTV3_5digit	F11x0	Alcoholic encephalopathy
+alcohol_problems	CTV3_5digit	F1440	Cerebellar ataxia due to alcoholism
+alcohol_problems	CTV3_5digit	X006u	Alcohol-induced epilepsy
+alcohol_problems	CTV3_5digit	F375.	Alcohol-related polyneuropathy
+alcohol_problems	CTV3_5digit	X709V	Alcoholic myopathy
+alcohol_problems	CTV3_5digit	G555.	Alcoholic cardiomyopathy
+alcohol_problems	CTV3_5digit	XaC1d	Oesophageal varices in alcoholic cirrhosis of the liver
+alcohol_problems	CTV3_5digit	J153.	Alcoholic gastritis
+alcohol_problems	CTV3_5digit	J610.	Alcoholic fatty liver
+alcohol_problems	CTV3_5digit	J611.	Acute alcoholic hepatitis
+alcohol_problems	CTV3_5digit	XE0b4	Alcoholic cirrhosis of liver
+alcohol_problems	CTV3_5digit	X3072	Alcoholic fibrosis and sclerosis of liver
+alcohol_problems	CTV3_5digit	J613.	Alcoholic liver damage unspecified
+alcohol_problems	CTV3_5digit	X3073	Alcoholic hepatic failure
+alcohol_problems	CTV3_5digit	X306r	Alcoholic hepatitis
+alcohol_problems	CTV3_5digit	XaBE3	Chronic alcoholic hepatitis
+alcohol_problems	CTV3_5digit	X308j	Alcohol-induced acute pancreatitis
+alcohol_problems	CTV3_5digit	X308v	Alcohol-induced chronic pancreatitis
+alcohol_problems	CTV3_5digit	ZV113	[V]Personal history of alcoholism
+alcohol_problems	CTV3_5digit	ZV57A	[V]Alcohol rehabilitation
+alcohol_problems	CTV3_5digit	ZV6D6	[V]Alcohol abuse counselling and surveillance

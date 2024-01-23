@@ -1,0 +1,508 @@
+condition	vocab_id	code	description
+hypertension	ICD10	I10	Essential (primary) hypertension
+hypertension	ICD10	I11	Hypertensive heart disease
+hypertension	ICD10	I12	Hypertensive renal disease
+hypertension	ICD10	I13	Hypertensive heart and renal disease
+hypertension	ICD10	I15	Secondary hypertension
+hypertension	Read2	14A2.00	H/O: hypertension
+hypertension	Read2	2126100	Hypertension resolved
+hypertension	Read2	212K.00	Hypertension resolved
+hypertension	Read2	6146200	Hypertension induced by oral contraceptive pill
+hypertension	Read2	6624.00	Borderline hyperten:yearly obs
+hypertension	Read2	6627.00	Good hypertension control
+hypertension	Read2	6628.00	Poor hypertension control
+hypertension	Read2	662b.00	Moderate hypertension control
+hypertension	Read2	662c.00	Hypertension six month review
+hypertension	Read2	662d.00	Hypertension annual review
+hypertension	Read2	662F.00	Hypertension treatm. started
+hypertension	Read2	662G.00	Hypertensive treatm.changed
+hypertension	Read2	662O.00	On treatment for hypertension
+hypertension	Read2	662r.00	Trial withdrawal of antihypertensive therapy
+hypertension	Read2	7Q01.00	High cost hypertension drugs
+hypertension	Read2	8B26.00	Antihypertensive therapy
+hypertension	Read2	8BL0.00	Patient on maximal tolerated antihypertensive therapy
+hypertension	Read2	8I3N.00	Hypertension treatment refused
+hypertension	Read2	9OI9.00	Hypertens.monitor deleted
+hypertension	Read2	F404200	Blind hypertensive eye
+hypertension	Read2	F421300	Hypertensive retinopathy
+hypertension	Read2	G2...00	Hypertensive disease
+hypertension	Read2	G2...11	BP - hypertensive disease
+hypertension	Read2	G20..00	Essential hypertension
+hypertension	Read2	G200.00	Malignant essential hypertension
+hypertension	Read2	G201.00	Benign essential hypertension
+hypertension	Read2	G202.00	Systolic hypertension
+hypertension	Read2	G203.00	Diastolic hypertension
+hypertension	Read2	G20z.00	Essential hypertension NOS
+hypertension	Read2	G20z.11	Hypertension NOS
+hypertension	Read2	G21..00	Hypertensive heart disease
+hypertension	Read2	G210.00	Malignant hypertensive heart disease
+hypertension	Read2	G210000	Malignant hypertensive heart disease without congestive cardiac failure
+hypertension	Read2	G210100	Malignant hypertensive heart disease with congestive cardiac failure
+hypertension	Read2	G211.00	Benign hypertensive heart disease
+hypertension	Read2	G211000	Benign hypertensive heart disease without congestive cardiac failure
+hypertension	Read2	G211100	Benign hypertensive heart disease with congestive cardiac failure
+hypertension	Read2	G21z.00	Hypertensive heart disease NOS
+hypertension	Read2	G21z000	Hypertensive heart disease NOS without congestive cardic failure
+hypertension	Read2	G21z011	Cardiomegaly - hypertensive
+hypertension	Read2	G21z100	Hypertensive heart disease NOS with congestive cardiac failure
+hypertension	Read2	G21zz00	Hypertensive heart disease NOS
+hypertension	Read2	G22..00	Hypertensive renal disease
+hypertension	Read2	G220.00	Malignant hypertensive renal disease
+hypertension	Read2	G221.00	Benign hypertensive renal disease
+hypertension	Read2	G222.00	Hypertensive renal disease with renal failure
+hypertension	Read2	G22z.00	Hypertensive renal disease NOS
+hypertension	Read2	G22z.11	Renal hypertension
+hypertension	Read2	G23..00	Hypertensive heart and renal disease
+hypertension	Read2	G230.00	Malignant hypertensive heart and renal disease
+hypertension	Read2	G231.00	Benign hypertensive heart and renal disease
+hypertension	Read2	G232.00	Hypertensive heart and renal disease with (congestive) heart failure
+hypertension	Read2	G233.00	Hypertensive heart and renal disease with renal failure
+hypertension	Read2	G234.00	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+hypertension	Read2	G23z.00	Hypertensive heart and renal disease NOS
+hypertension	Read2	G24..00	Secondary hypertension
+hypertension	Read2	G240.00	Secondary malignant hypertension
+hypertension	Read2	G240000	Secondary malignant renovascular hypertension
+hypertension	Read2	G240z00	Secondary malignant hypertension NOS
+hypertension	Read2	G241.00	Secondary benign hypertension
+hypertension	Read2	G241000	Secondary benign renovascular hypertension
+hypertension	Read2	G241z00	Secondary benign hypertension NOS
+hypertension	Read2	G244.00	Hypertension secondary to endocrine disorders
+hypertension	Read2	G24z.00	Secondary hypertension NOS
+hypertension	Read2	G24z000	Secondary renovascular hypertension NOS
+hypertension	Read2	G24z100	Hypertension secondary to drug
+hypertension	Read2	G24zz00	Secondary hypertension NOS
+hypertension	Read2	G2y..00	Other specified hypertensive disease
+hypertension	Read2	G2z..00	Hypertensive disease NOS
+hypertension	Read2	G672.00	Hypertensive encephalopathy
+hypertension	Read2	G672.11	Hypertensive crisis
+hypertension	Read2	Gyu2.00	[X]Hypertensive diseases
+hypertension	Read2	Gyu2100	[X]Hypertension secondary to other renal disorders
+hypertension	Read2	L122.00	Other pre-existing hypertension in preg/childbirth/puerp
+hypertension	Read2	L122000	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium unspecified
+hypertension	Read2	L122100	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - delivered
+hypertension	Read2	L122300	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - not delivered
+hypertension	Read2	L122z00	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium NOS
+hypertension	Read2	L127.00	Pre-eclampsia or eclampsia with pre-existing hypertension
+hypertension	Read2	L127z00	Pre-eclampsia or eclampsia with pre-existing hypertension NOS
+hypertension	Read2	L128.00	Pre-existing hypertension complicating pregnancy, childbirth and puerperium
+hypertension	Read2	L128000	Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium
+hypertension	Read2	L128200	Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium
+hypertension	Read2	TJC7.00	Adverse reaction to other antihypertensives
+hypertension	Read2	TJC7z00	Adverse reaction to antihypertensives NOS
+hypertension	Read2	U60C500	[X]Other antihypertensive drugs causing adverse effects in therapeutic use, not elsewhere classified
+hypertension	Read2	U60C511	[X] Adverse reaction to other antihypertensives
+hypertension	Read2	U60C51A	[X] Adverse reaction to antihypertensives NOS
+hypertension	CTV3	14A2.Ya04j	H/O: hypertension
+hypertension	CTV3	21261YaXyZ	Hypertension resolved
+hypertension	CTV3	61462Y79t2	Hypertension induced by oral contraceptive pill
+hypertension	CTV3	6624.Y79Wr	Borderline hyperten:yearly obs
+hypertension	CTV3	6627.Y79zc	Good hypertension control
+hypertension	CTV3	6628.Y79zd	Poor hypertension control
+hypertension	CTV3	XaIy8YalkG	Moderate hypertension control
+hypertension	CTV3	XaIyDYalkL	Hypertension six month review
+hypertension	CTV3	XaIyEYalkM	Hypertension annual review
+hypertension	CTV3	662F.Y79Wx	Hypertension treatm. started
+hypertension	CTV3	662G.Y79Wy	Hypertensive treatm.changed
+hypertension	CTV3	Xa8HDYaVxx	On treatment for hypertension
+hypertension	CTV3	XaNFsYaqJ8	Trial withdrawal of antihypertensive therapy
+hypertension	CTV3	XaM5fYapDi	High cost hypertension drugs
+hypertension	CTV3	XaBLqYaafb	Antihypertensive therapy
+hypertension	CTV3	XaJ5hYam27	Patient on maximal tolerated antihypertensive therapy
+hypertension	CTV3	XaIyCYalkK	Hypertension treatment refused
+hypertension	CTV3	9OI9.Yacfk	Hypertension monitoring deleted
+hypertension	CTV3	XE15rY01db	Blind hypertensive eye
+hypertension	CTV3	F4211Y01y3	Hypertensive retinopathy
+hypertension	CTV3	G2...Y200a	Hypertensive disease
+hypertension	CTV3	XE0UcY200f	Essential hypertension
+hypertension	CTV3	G200.Y200j	Malignant essential hypertension
+hypertension	CTV3	G201.Y200h	Benign essential hypertension
+hypertension	CTV3	G202.YaYAK	Systolic hypertension
+hypertension	CTV3	XSDSbYSLZr	Diastolic hypertension
+hypertension	CTV3	XE0UdY200i	Essential hypertension NOS
+hypertension	CTV3	G20z.YaaDB	Hypertension NOS
+hypertension	CTV3	XE0UbY200Y	Hypertension
+hypertension	CTV3	G21..Y20Cb	Hypertensive heart disease
+hypertension	CTV3	G210.Y20Cc	Malignant hypertensive heart disease
+hypertension	CTV3	G2100Y20Cd	Malignant hypertensive heart disease without congestive cardiac failure
+hypertension	CTV3	G2101Y20Ce	Malignant hypertensive heart disease with congestive cardiac failure
+hypertension	CTV3	G211.Y20Cg	Benign hypertensive heart disease
+hypertension	CTV3	G2110Y20Ch	Benign hypertensive heart disease without congestive cardiac failure
+hypertension	CTV3	G2111Y20Ci	Benign hypertensive heart disease with congestive cardiac failure
+hypertension	CTV3	G21z.Y20Ck	Hypertensive heart disease NOS
+hypertension	CTV3	XE0UeYae9h	Hypertensive heart disease NOS without congestive cardiac failure
+hypertension	CTV3	XM1QpY20Cm	Cardiomegaly - hypertensive
+hypertension	CTV3	G21z1Y20Cn	Hypertensive heart disease NOS with congestive cardiac failure
+hypertension	CTV3	XE0UfY2011	Hypertensive renal disease
+hypertension	CTV3	G220.Y2013	Malignant hypertensive renal disease
+hypertension	CTV3	G221.Y2014	Benign hypertensive renal disease
+hypertension	CTV3	G222.YMAk6	Hypertensive renal disease with renal failure
+hypertension	CTV3	XE0UgY2015	Hypertensive renal disease NOS
+hypertension	CTV3	G22z.YaYBk	Renal hypertension
+hypertension	CTV3	G23..Y20Cp	Hypertensive heart and renal disease
+hypertension	CTV3	G230.Y20Cq	Malignant hypertensive heart and renal disease
+hypertension	CTV3	G231.Y20Cr	Benign hypertensive heart and renal disease
+hypertension	CTV3	G232.YMAkW	Hypertensive heart and renal disease with (congestive) heart failure
+hypertension	CTV3	G233.YMAkX	Hypertensive heart and renal disease with renal failure
+hypertension	CTV3	G234.YMAkY	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+hypertension	CTV3	G23z.Y20Cs	Hypertensive heart and renal disease NOS
+hypertension	CTV3	G24..Y200k	Secondary hypertension
+hypertension	CTV3	G240.Y200u	Malignant secondary hypertension
+hypertension	CTV3	G2400Y200v	Secondary malignant renovascular hypertension
+hypertension	CTV3	G240zY200w	Secondary malignant hypertension NOS
+hypertension	CTV3	G241.Y200s	Secondary benign hypertension
+hypertension	CTV3	G2410Y200m	Secondary benign renovascular hypertension
+hypertension	CTV3	G241zY200t	Secondary benign hypertension NOS
+hypertension	CTV3	G244.YMC0X	Hypertension secondary to endocrine disorders
+hypertension	CTV3	G24z.Y200q	Secondary hypertension NOS
+hypertension	CTV3	G24z0Y200p	Secondary renovascular hypertension NOS
+hypertension	CTV3	G24z1YaYAL	Hypertension secondary to drug
+hypertension	CTV3	G2y..Y200d	Other specified hypertensive disease
+hypertension	CTV3	G2z..Y200e	Hypertensive disease NOS
+hypertension	CTV3	XE0VMY00LE	Hypertensive encephalopathy
+hypertension	CTV3	Gyu2.YMAH0	[X]Hypertensive diseases
+hypertension	CTV3	Gyu21YMAH2	[X]Hypertension secondary to other renal disorders
+hypertension	CTV3	L122.Y40t3	Other pre-existing hypertension in preg/childbirth/puerp
+hypertension	CTV3	L1220Y40t9	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium unspecified
+hypertension	CTV3	L1221Y40t8	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - delivered
+hypertension	CTV3	L1223Y40t6	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - not delivered
+hypertension	CTV3	L122zY40t4	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium NOS
+hypertension	CTV3	L127.Y40tx	Pre-eclampsia or eclampsia with pre-existing hypertension
+hypertension	CTV3	L127zY40ty	Pre-eclampsia or eclampsia with pre-existing hypertension NOS
+hypertension	CTV3	L128.YMAk5	Pre-existing hypertension complicating pregnancy, childbirth and puerperium
+hypertension	CTV3	L1280YMAkZ	Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium
+hypertension	CTV3	L1282YMAk3	Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium
+hypertension	CTV3	TJC7.Y73OY	Adverse reaction to other antihypertensives
+hypertension	CTV3	TJC7zY73Oi	Adverse reaction to antihypertensives NOS
+hypertension	CTV3	U60C5YMBsB	[X]Other antihypertensive drugs causing adverse effects in therapeutic use, not elsewhere classified
+hypertension	medcodeid	3135013	Benign essential hypertension
+hypertension	medcodeid	12496011	Hypertensive retinopathy
+hypertension	medcodeid	60444016	Benign hypertensive heart disease
+hypertension	medcodeid	64282015	Hypertensive renal disease
+hypertension	medcodeid	80224019	Diastolic hypertension
+hypertension	medcodeid	84111015	Hypertensive encephalopathy
+hypertension	medcodeid	93494011	Systolic hypertension
+hypertension	medcodeid	99042012	Essential hypertension
+hypertension	medcodeid	107545013	Hypertensive heart disease
+hypertension	medcodeid	253532015	Hypertension resolved
+hypertension	medcodeid	264472017	Poor hypertension control
+hypertension	medcodeid	299673010	Hypertensive heart and renal disease with renal failure
+hypertension	medcodeid	451424017	Antihypertensive therapy
+hypertension	medcodeid	1780318013	Moderate hypertension control
+hypertension	medcodeid	2159168015	Patient on maximal tolerated antihypertensive therapy
+hypertension	medcodeid	350601000000116	High cost hypertension drugs
+hypertension	medcodeid	299683014	Secondary renovascular hypertension NOS
+hypertension	medcodeid	299686018	Other specified hypertensive disease
+hypertension	medcodeid	299687010	Hypertensive disease NOS
+hypertension	medcodeid	305764016	Other pre-existing hypertension in preg/childbirth/puerp
+hypertension	medcodeid	395753015	Hypertensive renal disease NOS
+hypertension	medcodeid	19421000006119	Other pre-exist hypertension in preg/childb/puerp-not deliv
+hypertension	medcodeid	19441000006114	Other pre-existing hypertension in preg/childb/puerp NOS
+hypertension	medcodeid	19451000006111	Other pre-existing hypertension in preg/childb/puerp unspec
+hypertension	medcodeid	212961000006118	Pre-eclampsia or eclampsia + pre-existing hypertension NOS
+hypertension	medcodeid	213081000006118	Pre-exist 2ndry hypertens comp preg childbth and puerperium
+hypertension	medcodeid	213091000006115	Pre-exist hyperten heart dis compl preg childbth+puerperium
+hypertension	medcodeid	728671000006119	Malignant hypertensive heart disease with CCF
+hypertension	medcodeid	728681000006116	Malignant hypertensive heart disease without CCF
+hypertension	medcodeid	741661000006118	Hypertensive heart disease NOS
+hypertension	medcodeid	741681000006111	Hypertensive heart disease NOS with CCF
+hypertension	medcodeid	741691000006114	Hypertensive heart disease NOS without CCF
+hypertension	medcodeid	789941000006117	Hyperten heart&renal dis+both(congestv)heart and renal fail
+hypertension	medcodeid	789981000006111	Hypertens.monitor deleted
+hypertension	medcodeid	790131000006118	Hypertension resolved
+hypertension	medcodeid	300869017	[X]Hypertensive diseases
+hypertension	medcodeid	504911000006115	Benign hypertensive heart disease without CCF
+hypertension	medcodeid	299665018	Hypertensive renal disease with renal failure
+hypertension	medcodeid	264467014	Borderline hyperten:yearly obs
+hypertension	medcodeid	264485019	Hypertension treatm. started
+hypertension	medcodeid	264486018	Hypertensive treatm.changed
+hypertension	medcodeid	158241000006117	Secondary hypertension NOS
+hypertension	medcodeid	2478822013	Secondary benign renovascular hypertension
+hypertension	medcodeid	299678018	Secondary benign hypertension
+hypertension	medcodeid	299684015	Hypertension secondary to drug
+hypertension	medcodeid	108730018	Malignant hypertensive renal disease
+hypertension	medcodeid	110659019	Malignant hypertensive heart AND renal disease
+hypertension	medcodeid	213111000006112	Pre-exist hypertension compl preg childbirth and puerperium
+hypertension	medcodeid	790121000006116	Hypertension NOS
+hypertension	medcodeid	523801000006119	BP - hypertensive disease
+hypertension	medcodeid	331291010	Adverse reaction to other antihypertensives
+hypertension	medcodeid	299677011	Secondary malignant hypertension NOS
+hypertension	medcodeid	300871017	[X]Hypertension secondary to other renal disorders
+hypertension	medcodeid	47076011	Renal hypertension
+hypertension	medcodeid	84112010	Hypertensive crisis
+hypertension	medcodeid	1780319017	Hypertension annual review
+hypertension	medcodeid	264471012	Good hypertension control
+hypertension	medcodeid	1409014	Benign hypertensive renal disease
+hypertension	medcodeid	64168014	Hypertensive disease
+hypertension	medcodeid	90135019	Malignant hypertensive heart disease
+hypertension	medcodeid	351481000006111	[X] Adverse reaction to antihypertensives NOS
+hypertension	medcodeid	404471000006113	[X]Oth antihyperten drug caus advers eff in therap use, NEC
+hypertension	medcodeid	299655012	Hypertensive heart disease NOS
+hypertension	medcodeid	299675015	Hypertensive heart and renal disease NOS
+hypertension	medcodeid	530221000000112	Trial withdrawal of antihypertensive therapy
+hypertension	medcodeid	411508017	Cardiomegaly - hypertensive
+hypertension	medcodeid	305818015	Pre-eclampsia or eclampsia with pre-existing hypertension
+hypertension	medcodeid	262960017	Hypertension induced by oral contraceptive pill
+hypertension	medcodeid	1529013	Blind hypertensive eye
+hypertension	medcodeid	151161000006115	Secondary malignant hypertension
+hypertension	medcodeid	741701000006114	Hypertensive heart&renal dis wth (congestive) heart failure
+hypertension	medcodeid	356121000006111	[X] Adverse reaction to other antihypertensives
+hypertension	medcodeid	1780252014	Hypertension treatment refused
+hypertension	medcodeid	1780253016	Hypertension six month review
+hypertension	medcodeid	443764015	On treatment for hypertension
+hypertension	medcodeid	299676019	Secondary malignant renovascular hypertension
+hypertension	medcodeid	299681011	Hypertension secondary to endocrine disorders
+hypertension	medcodeid	251674014	H/O: hypertension
+hypertension	medcodeid	53452019	Secondary hypertension
+hypertension	medcodeid	109700019	Benign hypertensive heart AND renal disease
+hypertension	medcodeid	131046010	Malignant essential hypertension
+hypertension	medcodeid	143003017	Hypertensive heart AND renal disease
+hypertension	medcodeid	299680012	Secondary benign hypertension NOS
+hypertension	medcodeid	299682016	Secondary hypertension NOS
+hypertension	medcodeid	331302012	Adverse reaction to antihypertensives NOS
+hypertension	medcodeid	395751018	Essential hypertension NOS
+hypertension	medcodeid	19431000006116	Other pre-existing hypertension in preg/childb/puerp - deliv
+hypertension	medcodeid	504901000006118	Benign hypertensive heart disease with CCF
+hypertension	SNOMEDCT	1201005	Benign essential hypertension
+hypertension	SNOMEDCT	6962006	Hypertensive retinopathy
+hypertension	SNOMEDCT	36221001	Benign hypertensive heart disease
+hypertension	SNOMEDCT	38481006	Hypertensive renal disease
+hypertension	SNOMEDCT	48146000	Diastolic hypertension
+hypertension	SNOMEDCT	50490005	Hypertensive encephalopathy
+hypertension	SNOMEDCT	56218007	Systolic hypertension
+hypertension	SNOMEDCT	59621000	Essential hypertension
+hypertension	SNOMEDCT	64715009	Hypertensive heart disease
+hypertension	SNOMEDCT	162659009	Hypertension resolved
+hypertension	SNOMEDCT	170578008	Poor hypertension control
+hypertension	SNOMEDCT	194780003	Hypertensive heart and renal disease with renal failure
+hypertension	SNOMEDCT	308116003	Antihypertensive therapy
+hypertension	SNOMEDCT	401117004	Moderate hypertension control
+hypertension	SNOMEDCT	407567007	Patient on maximal tolerated antihypertensive therapy
+hypertension	SNOMEDCT	220901000000101	High cost hypertension drugs
+hypertension	SNOMEDCT	123799005	Secondary renovascular hypertension NOS
+hypertension	SNOMEDCT	38341003	Other specified hypertensive disease
+hypertension	SNOMEDCT	38341003	Hypertensive disease NOS
+hypertension	SNOMEDCT	86041002	Other pre-existing hypertension in preg/childbirth/puerp
+hypertension	SNOMEDCT	38481006	Hypertensive renal disease NOS
+hypertension	SNOMEDCT	86041002	Other pre-exist hypertension in preg/childb/puerp-not deliv
+hypertension	SNOMEDCT	86041002	Other pre-existing hypertension in preg/childb/puerp NOS
+hypertension	SNOMEDCT	86041002	Other pre-existing hypertension in preg/childb/puerp unspec
+hypertension	SNOMEDCT	198997005	Pre-eclampsia or eclampsia + pre-existing hypertension NOS
+hypertension	SNOMEDCT	199008003	Pre-exist 2ndry hypertens comp preg childbth and puerperium
+hypertension	SNOMEDCT	199006004	Pre-exist hyperten heart dis compl preg childbth+puerperium
+hypertension	SNOMEDCT	83105008	Malignant hypertensive heart disease with CCF
+hypertension	SNOMEDCT	36315003	Malignant hypertensive heart disease without CCF
+hypertension	SNOMEDCT	64715009	Hypertensive heart disease NOS
+hypertension	SNOMEDCT	64715009	Hypertensive heart disease NOS with CCF
+hypertension	SNOMEDCT	64715009	Hypertensive heart disease NOS without CCF
+hypertension	SNOMEDCT	194781004	Hyperten heart&renal dis+both(congestv)heart and renal fail
+hypertension	SNOMEDCT	185724004	Hypertens.monitor deleted
+hypertension	SNOMEDCT	38341003	[X]Hypertensive diseases
+hypertension	SNOMEDCT	77970009	Benign hypertensive heart disease without CCF
+hypertension	SNOMEDCT	49220004	Hypertensive renal disease with renal failure
+hypertension	SNOMEDCT	170574005	Borderline hyperten:yearly obs
+hypertension	SNOMEDCT	170586008	Hypertension treatm. started
+hypertension	SNOMEDCT	170587004	Hypertensive treatm.changed
+hypertension	SNOMEDCT	31992008	Secondary hypertension NOS
+hypertension	SNOMEDCT	73410007	Secondary benign renovascular hypertension
+hypertension	SNOMEDCT	194785008	Secondary benign hypertension
+hypertension	SNOMEDCT	194791005	Hypertension secondary to drug
+hypertension	SNOMEDCT	65443008	Malignant hypertensive renal disease
+hypertension	SNOMEDCT	66610008	Malignant hypertensive heart AND renal disease
+hypertension	SNOMEDCT	199005000	Pre-exist hypertension compl preg childbirth and puerperium
+hypertension	SNOMEDCT	38341003	Hypertension NOS
+hypertension	SNOMEDCT	38341003	BP - hypertensive disease
+hypertension	SNOMEDCT	293495006	Adverse reaction to other antihypertensives
+hypertension	SNOMEDCT	89242004	Secondary malignant hypertension NOS
+hypertension	SNOMEDCT	31992008	[X]Hypertension secondary to other renal disorders
+hypertension	SNOMEDCT	38481006	Renal hypertension
+hypertension	SNOMEDCT	50490005	Hypertensive crisis
+hypertension	SNOMEDCT	401118009	Hypertension annual review
+hypertension	SNOMEDCT	170577003	Good hypertension control
+hypertension	SNOMEDCT	193003	Benign hypertensive renal disease
+hypertension	SNOMEDCT	38341003	Hypertensive disease
+hypertension	SNOMEDCT	54225002	Malignant hypertensive heart disease
+hypertension	SNOMEDCT	293495006	[X] Adverse reaction to antihypertensives NOS
+hypertension	SNOMEDCT	293495006	[X]Oth antihyperten drug caus advers eff in therap use, NEC
+hypertension	SNOMEDCT	86234004	Hypertensive heart and renal disease NOS
+hypertension	SNOMEDCT	299561000000105	Trial withdrawal of antihypertensive therapy
+hypertension	SNOMEDCT	275516004	Cardiomegaly - hypertensive
+hypertension	SNOMEDCT	198997005	Pre-eclampsia or eclampsia with pre-existing hypertension
+hypertension	SNOMEDCT	169465000	Hypertension induced by oral contraceptive pill
+hypertension	SNOMEDCT	264008	Blind hypertensive eye
+hypertension	SNOMEDCT	89242004	Secondary malignant hypertension
+hypertension	SNOMEDCT	194779001	Hypertensive heart&renal dis wth (congestive) heart failure
+hypertension	SNOMEDCT	293495006	[X] Adverse reaction to other antihypertensives
+hypertension	SNOMEDCT	401047000	Hypertension treatment refused
+hypertension	SNOMEDCT	401048005	Hypertension six month review
+hypertension	SNOMEDCT	302192008	On treatment for hypertension
+hypertension	SNOMEDCT	194783001	Secondary malignant renovascular hypertension
+hypertension	SNOMEDCT	194788005	Hypertension secondary to endocrine disorders
+hypertension	SNOMEDCT	161501007	H/O: hypertension
+hypertension	SNOMEDCT	31992008	Secondary hypertension
+hypertension	SNOMEDCT	66052004	Benign hypertensive heart AND renal disease
+hypertension	SNOMEDCT	78975002	Malignant essential hypertension
+hypertension	SNOMEDCT	86234004	Hypertensive heart AND renal disease
+hypertension	SNOMEDCT	194785008	Secondary benign hypertension NOS
+hypertension	SNOMEDCT	293495006	Adverse reaction to antihypertensives NOS
+hypertension	SNOMEDCT	59621000	Essential hypertension NOS
+hypertension	SNOMEDCT	86041002	Other pre-existing hypertension in preg/childb/puerp - deliv
+hypertension	SNOMEDCT	194767001	Benign hypertensive heart disease with CCF
+hypertension	Read2_5digit	14A2.	H/O: hypertension
+hypertension	Read2_5digit	21261	Hypertension resolved
+hypertension	Read2_5digit	212K.	Hypertension resolved
+hypertension	Read2_5digit	61462	Hypertension induced by oral contraceptive pill
+hypertension	Read2_5digit	6624.	Borderline hyperten:yearly obs
+hypertension	Read2_5digit	6627.	Good hypertension control
+hypertension	Read2_5digit	6628.	Poor hypertension control
+hypertension	Read2_5digit	662b.	Moderate hypertension control
+hypertension	Read2_5digit	662c.	Hypertension six month review
+hypertension	Read2_5digit	662d.	Hypertension annual review
+hypertension	Read2_5digit	662F.	Hypertension treatm. started
+hypertension	Read2_5digit	662G.	Hypertensive treatm.changed
+hypertension	Read2_5digit	662O.	On treatment for hypertension
+hypertension	Read2_5digit	662r.	Trial withdrawal of antihypertensive therapy
+hypertension	Read2_5digit	7Q01.	High cost hypertension drugs
+hypertension	Read2_5digit	8B26.	Antihypertensive therapy
+hypertension	Read2_5digit	8BL0.	Patient on maximal tolerated antihypertensive therapy
+hypertension	Read2_5digit	8I3N.	Hypertension treatment refused
+hypertension	Read2_5digit	9OI9.	Hypertens.monitor deleted
+hypertension	Read2_5digit	F4213	Hypertensive retinopathy
+hypertension	Read2_5digit	G2...	Hypertensive disease
+hypertension	Read2_5digit	G20..	Essential hypertension
+hypertension	Read2_5digit	G200.	Malignant essential hypertension
+hypertension	Read2_5digit	G201.	Benign essential hypertension
+hypertension	Read2_5digit	G202.	Systolic hypertension
+hypertension	Read2_5digit	G203.	Diastolic hypertension
+hypertension	Read2_5digit	G20z.	Essential hypertension NOS
+hypertension	Read2_5digit	G21..	Hypertensive heart disease
+hypertension	Read2_5digit	G210.	Malignant hypertensive heart disease
+hypertension	Read2_5digit	G2100	Malignant hypertensive heart disease without congestive cardiac failure
+hypertension	Read2_5digit	G2101	Malignant hypertensive heart disease with congestive cardiac failure
+hypertension	Read2_5digit	G211.	Benign hypertensive heart disease
+hypertension	Read2_5digit	G2110	Benign hypertensive heart disease without congestive cardiac failure
+hypertension	Read2_5digit	G2111	Benign hypertensive heart disease with congestive cardiac failure
+hypertension	Read2_5digit	G21z.	Hypertensive heart disease NOS
+hypertension	Read2_5digit	G21z0	Hypertensive heart disease NOS without congestive cardic failure
+hypertension	Read2_5digit	G21z1	Hypertensive heart disease NOS with congestive cardiac failure
+hypertension	Read2_5digit	G21zz	Hypertensive heart disease NOS
+hypertension	Read2_5digit	G220.	Malignant hypertensive renal disease
+hypertension	Read2_5digit	G221.	Benign hypertensive renal disease
+hypertension	Read2_5digit	G222.	Hypertensive renal disease with renal failure
+hypertension	Read2_5digit	G22z.	Hypertensive renal disease NOS
+hypertension	Read2_5digit	G23..	Hypertensive heart and renal disease
+hypertension	Read2_5digit	G230.	Malignant hypertensive heart and renal disease
+hypertension	Read2_5digit	G231.	Benign hypertensive heart and renal disease
+hypertension	Read2_5digit	G232.	Hypertensive heart and renal disease with (congestive) heart failure
+hypertension	Read2_5digit	G233.	Hypertensive heart and renal disease with renal failure
+hypertension	Read2_5digit	G234.	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+hypertension	Read2_5digit	G23z.	Hypertensive heart and renal disease NOS
+hypertension	Read2_5digit	G24..	Secondary hypertension
+hypertension	Read2_5digit	G240.	Secondary malignant hypertension
+hypertension	Read2_5digit	G2400	Secondary malignant renovascular hypertension
+hypertension	Read2_5digit	G240z	Secondary malignant hypertension NOS
+hypertension	Read2_5digit	G241.	Secondary benign hypertension
+hypertension	Read2_5digit	G2410	Secondary benign renovascular hypertension
+hypertension	Read2_5digit	G241z	Secondary benign hypertension NOS
+hypertension	Read2_5digit	G244.	Hypertension secondary to endocrine disorders
+hypertension	Read2_5digit	G24z.	Secondary hypertension NOS
+hypertension	Read2_5digit	G24z0	Secondary renovascular hypertension NOS
+hypertension	Read2_5digit	G24z1	Hypertension secondary to drug
+hypertension	Read2_5digit	G24zz	Secondary hypertension NOS
+hypertension	Read2_5digit	G2y..	Other specified hypertensive disease
+hypertension	Read2_5digit	G2z..	Hypertensive disease NOS
+hypertension	Read2_5digit	G672.	Hypertensive encephalopathy
+hypertension	Read2_5digit	Gyu2.	[X]Hypertensive diseases
+hypertension	Read2_5digit	Gyu21	[X]Hypertension secondary to other renal disorders
+hypertension	Read2_5digit	L122.	Other pre-existing hypertension in preg/childbirth/puerp
+hypertension	Read2_5digit	L1220	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium unspecified
+hypertension	Read2_5digit	L1221	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - delivered
+hypertension	Read2_5digit	L1223	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - not delivered
+hypertension	Read2_5digit	L122z	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium NOS
+hypertension	Read2_5digit	L127.	Pre-eclampsia or eclampsia with pre-existing hypertension
+hypertension	Read2_5digit	L127z	Pre-eclampsia or eclampsia with pre-existing hypertension NOS
+hypertension	Read2_5digit	L128.	Pre-existing hypertension complicating pregnancy, childbirth and puerperium
+hypertension	Read2_5digit	L1280	Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium
+hypertension	Read2_5digit	L1282	Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium
+hypertension	Read2_5digit	TJC7.	Adverse reaction to other antihypertensives
+hypertension	Read2_5digit	TJC7z	Adverse reaction to antihypertensives NOS
+hypertension	CTV3_5digit	14A2.	H/O: hypertension
+hypertension	CTV3_5digit	21261	Hypertension resolved
+hypertension	CTV3_5digit	61462	Hypertension induced by oral contraceptive pill
+hypertension	CTV3_5digit	6624.	Borderline hyperten:yearly obs
+hypertension	CTV3_5digit	6627.	Good hypertension control
+hypertension	CTV3_5digit	6628.	Poor hypertension control
+hypertension	CTV3_5digit	XaIy8	Moderate hypertension control
+hypertension	CTV3_5digit	XaIyD	Hypertension six month review
+hypertension	CTV3_5digit	XaIyE	Hypertension annual review
+hypertension	CTV3_5digit	662F.	Hypertension treatm. started
+hypertension	CTV3_5digit	662G.	Hypertensive treatm.changed
+hypertension	CTV3_5digit	Xa8HD	On treatment for hypertension
+hypertension	CTV3_5digit	XaNFs	Trial withdrawal of antihypertensive therapy
+hypertension	CTV3_5digit	XaM5f	High cost hypertension drugs
+hypertension	CTV3_5digit	XaBLq	Antihypertensive therapy
+hypertension	CTV3_5digit	XaJ5h	Patient on maximal tolerated antihypertensive therapy
+hypertension	CTV3_5digit	XaIyC	Hypertension treatment refused
+hypertension	CTV3_5digit	9OI9.	Hypertension monitoring deleted
+hypertension	CTV3_5digit	XE15r	Blind hypertensive eye
+hypertension	CTV3_5digit	G2...	Hypertensive disease
+hypertension	CTV3_5digit	XE0Uc	Essential hypertension
+hypertension	CTV3_5digit	G200.	Malignant essential hypertension
+hypertension	CTV3_5digit	G201.	Benign essential hypertension
+hypertension	CTV3_5digit	G202.	Systolic hypertension
+hypertension	CTV3_5digit	XSDSb	Diastolic hypertension
+hypertension	CTV3_5digit	XE0Ud	Essential hypertension NOS
+hypertension	CTV3_5digit	G20z.	Hypertension NOS
+hypertension	CTV3_5digit	XE0Ub	Hypertension
+hypertension	CTV3_5digit	G21..	Hypertensive heart disease
+hypertension	CTV3_5digit	G210.	Malignant hypertensive heart disease
+hypertension	CTV3_5digit	G2100	Malignant hypertensive heart disease without congestive cardiac failure
+hypertension	CTV3_5digit	G2101	Malignant hypertensive heart disease with congestive cardiac failure
+hypertension	CTV3_5digit	G211.	Benign hypertensive heart disease
+hypertension	CTV3_5digit	G2110	Benign hypertensive heart disease without congestive cardiac failure
+hypertension	CTV3_5digit	G2111	Benign hypertensive heart disease with congestive cardiac failure
+hypertension	CTV3_5digit	G21z.	Hypertensive heart disease NOS
+hypertension	CTV3_5digit	XE0Ue	Hypertensive heart disease NOS without congestive cardiac failure
+hypertension	CTV3_5digit	XM1Qp	Cardiomegaly - hypertensive
+hypertension	CTV3_5digit	G21z1	Hypertensive heart disease NOS with congestive cardiac failure
+hypertension	CTV3_5digit	XE0Uf	Hypertensive renal disease
+hypertension	CTV3_5digit	G220.	Malignant hypertensive renal disease
+hypertension	CTV3_5digit	G221.	Benign hypertensive renal disease
+hypertension	CTV3_5digit	G222.	Hypertensive renal disease with renal failure
+hypertension	CTV3_5digit	XE0Ug	Hypertensive renal disease NOS
+hypertension	CTV3_5digit	G22z.	Renal hypertension
+hypertension	CTV3_5digit	G23..	Hypertensive heart and renal disease
+hypertension	CTV3_5digit	G230.	Malignant hypertensive heart and renal disease
+hypertension	CTV3_5digit	G231.	Benign hypertensive heart and renal disease
+hypertension	CTV3_5digit	G232.	Hypertensive heart and renal disease with (congestive) heart failure
+hypertension	CTV3_5digit	G233.	Hypertensive heart and renal disease with renal failure
+hypertension	CTV3_5digit	G234.	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+hypertension	CTV3_5digit	G23z.	Hypertensive heart and renal disease NOS
+hypertension	CTV3_5digit	G24..	Secondary hypertension
+hypertension	CTV3_5digit	G240.	Malignant secondary hypertension
+hypertension	CTV3_5digit	G2400	Secondary malignant renovascular hypertension
+hypertension	CTV3_5digit	G240z	Secondary malignant hypertension NOS
+hypertension	CTV3_5digit	G241.	Secondary benign hypertension
+hypertension	CTV3_5digit	G2410	Secondary benign renovascular hypertension
+hypertension	CTV3_5digit	G241z	Secondary benign hypertension NOS
+hypertension	CTV3_5digit	G244.	Hypertension secondary to endocrine disorders
+hypertension	CTV3_5digit	G24z.	Secondary hypertension NOS
+hypertension	CTV3_5digit	G24z0	Secondary renovascular hypertension NOS
+hypertension	CTV3_5digit	G24z1	Hypertension secondary to drug
+hypertension	CTV3_5digit	G2y..	Other specified hypertensive disease
+hypertension	CTV3_5digit	G2z..	Hypertensive disease NOS
+hypertension	CTV3_5digit	XE0VM	Hypertensive encephalopathy
+hypertension	CTV3_5digit	Gyu2.	[X]Hypertensive diseases
+hypertension	CTV3_5digit	Gyu21	[X]Hypertension secondary to other renal disorders
+hypertension	CTV3_5digit	L122.	Other pre-existing hypertension in preg/childbirth/puerp
+hypertension	CTV3_5digit	L1220	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium unspecified
+hypertension	CTV3_5digit	L1221	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - delivered
+hypertension	CTV3_5digit	L1223	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - not delivered
+hypertension	CTV3_5digit	L122z	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium NOS
+hypertension	CTV3_5digit	L127.	Pre-eclampsia or eclampsia with pre-existing hypertension
+hypertension	CTV3_5digit	L127z	Pre-eclampsia or eclampsia with pre-existing hypertension NOS
+hypertension	CTV3_5digit	L128.	Pre-existing hypertension complicating pregnancy, childbirth and puerperium
+hypertension	CTV3_5digit	L1280	Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium
+hypertension	CTV3_5digit	L1282	Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium
+hypertension	CTV3_5digit	TJC7.	Adverse reaction to other antihypertensives
+hypertension	CTV3_5digit	TJC7z	Adverse reaction to antihypertensives NOS
+hypertension	CTV3_5digit	U60C5	[X]Other antihypertensive drugs causing adverse effects in therapeutic use, not elsewhere classified

@@ -1,0 +1,379 @@
+condition	vocab_id	code	description
+RA	ICD10	J99.0	Rheumatoid lung disease
+RA	ICD10	M05	Seropositive rheumatoid arthritis
+RA	ICD10	M06	Other rheumatoid arthritis
+RA	ICD10	M06.0	Seronegative rheumatoid arthritis
+RA	ICD10	M06.1	Adult-onset Still disease
+RA	ICD10	M06.2	Rheumatoid bursitis
+RA	ICD10	M06.3	Rheumatoid nodule
+RA	ICD10	M06.4	Inflammatory polyarthropathy
+RA	ICD10	M06.8	Other specified rheumatoid arthritis
+RA	ICD10	M06.9	Rheumatoid arthritis, unspecified
+RA	Read2	14G1.00	H/O: rheumatoid arthritis
+RA	Read2	2G25.00	O/E - hands - ulnar deviation
+RA	Read2	2G25.11	O/E - ulnar deviation
+RA	Read2	2G27.00	O/E-hands-rheumatoid spindling
+RA	Read2	66H..13	Rheumatoid arthrit. monitoring
+RA	Read2	7P20300	Delivery of rehabilitation for rheumatoid arthritis
+RA	Read2	9mM..00	Rheumatoid arthritis monitoring invitation
+RA	Read2	9mM0.00	Rheumatoid arthritis monitoring invitation first letter
+RA	Read2	9mM1.00	Rheumatoid arthritis monitoring invitation second letter
+RA	Read2	9mM2.00	Rheumatoid arthritis monitoring invitation third letter
+RA	Read2	9mM3.00	Rheumatoid arthritis monitoring verbal invitation
+RA	Read2	9mM4.00	Rheumatoid arthritis monitoring telephone invitation
+RA	Read2	F371200	Polyneuropathy in rheumatoid arthritis
+RA	Read2	F396400	Myopathy due to rheumatoid arthritis
+RA	Read2	G5y8.00	Rheumatoid myocarditis
+RA	Read2	G5yA.00	Rheumatoid carditis
+RA	Read2	H570.00	Rheumatoid lung
+RA	Read2	N005.00	Adult Still's Disease
+RA	Read2	N04..00	Rheumatoid arthritis and other inflammatory polyarthropathies
+RA	Read2	N040.00	Rheumatoid arthritis
+RA	Read2	N040000	Rheumatoid arthritis of cervical spine
+RA	Read2	N040100	Other rheumatoid arthritis of spine
+RA	Read2	N040200	Rheumatoid arthritis of shoulder
+RA	Read2	N040300	Rheumatoid arthritis of sternoclavicular joint
+RA	Read2	N040400	Rheumatoid arthritis of acromioclavicular joint
+RA	Read2	N040500	Rheumatoid arthritis of elbow
+RA	Read2	N040600	Rheumatoid arthritis of distal radio-ulnar joint
+RA	Read2	N040700	Rheumatoid arthritis of wrist
+RA	Read2	N040800	Rheumatoid arthritis of metacarpophalangeal joint
+RA	Read2	N040900	Rheumatoid arthritis of proximal interphalangeal joint of finger
+RA	Read2	N040A00	Rheumatoid arthritis of distal interphalangeal joint of finger
+RA	Read2	N040B00	Rheumatoid arthritis of hip
+RA	Read2	N040C00	Rheumatoid arthritis of sacro-iliac joint
+RA	Read2	N040D00	Rheumatoid arthritis of knee
+RA	Read2	N040E00	Rheumatoid arthritis of tibio-fibular joint
+RA	Read2	N040F00	Rheumatoid arthritis of ankle
+RA	Read2	N040G00	Rheumatoid arthritis of subtalar joint
+RA	Read2	N040H00	Rheumatoid arthritis of talonavicular joint
+RA	Read2	N040J00	Rheumatoid arthritis of other tarsal joint
+RA	Read2	N040K00	Rheumatoid arthritis of 1st metatarsophalangeal joint
+RA	Read2	N040L00	Rheumatoid arthritis of lesser metatarsophalangeal joint
+RA	Read2	N040M00	Rheumatoid arthritis of interphalangeal joint of toe
+RA	Read2	N040N00	Rheumatoid vasculitis
+RA	Read2	N040P00	Seronegative rheumatoid arthritis
+RA	Read2	N040Q00	Rheumatoid bursitis
+RA	Read2	N040R00	Rheumatoid nodule
+RA	Read2	N040S00	Rheumatoid arthritis - multiple joint
+RA	Read2	N040T00	Flare of rheumatoid arthritis
+RA	Read2	N041.00	Felty's syndrome
+RA	Read2	N042.00	Other rheumatoid arthropathy with visceral or systemic involvement
+RA	Read2	N042100	Rheumatoid lung disease
+RA	Read2	N042200	Rheumatoid nodule
+RA	Read2	N042z00	Rheumatoid arthropathy with visceral or systemic involvement NOS
+RA	Read2	N047.00	Seropositive errosive rheumatoid arthritis
+RA	Read2	N04X.00	Seropositive rheumatoid arthritis, unspecified
+RA	Read2	N04y000	Rheumatoid lung
+RA	Read2	N04y011	Caplan's syndrome
+RA	Read2	N04y012	Fibrosing alveolitis associated with rheumatoid arthritis
+RA	Read2	N04y200	Adult-onset Still's disease
+RA	Read2	N362200	Swan-neck finger deformity
+RA	Read2	Nyu1000	[X]Rheumatoid arthritis with involvement of other organs or systems
+RA	Read2	Nyu1100	[X]Other seropositive rheumatoid arthritis
+RA	Read2	Nyu1200	[X]Other specified rheumatoid arthritis
+RA	Read2	Nyu1G00	[X]Seropositive rheumatoid arthritis, unspecified
+RA	CTV3	14G1.Ya05Z	H/O: rheumatoid arthritis
+RA	CTV3	2G25.YM0TX	O/E - hands - ulnar deviation
+RA	CTV3	2G25.YM0TY	O/E - ulnar deviation
+RA	CTV3	2G27.YM0Ta	O/E-hands-rheumatoid spindling
+RA	CTV3	XM1XVYacCq	Rheumatoid arthritis monitoring
+RA	CTV3	XaLsjYap0T	Delivery of rehabilitation for rheumatoid arthritis
+RA	CTV3	XaaWWYawNV	Rheumatoid arthritis monitoring invitation
+RA	CTV3	XaaWtYawNb	Rheumatoid arthritis monitoring invitation first letter
+RA	CTV3	XaaWuYawNc	Rheumatoid arthritis monitoring invitation second letter
+RA	CTV3	XaaWvYawNd	Rheumatoid arthritis monitoring invitation third letter
+RA	CTV3	XaaWwYawNe	Rheumatoid arthritis monitoring verbal invitation
+RA	CTV3	XaaWxYawNf	Rheumatoid arthritis monitoring telephone invitation
+RA	CTV3	F3712Y00Yd	Polyneuropathy in rheumatoid arthritis
+RA	CTV3	F3964Y70ZY	Myopathy due to rheumatoid arthritis
+RA	CTV3	G5y8.YMAkO	Rheumatoid myocarditis
+RA	CTV3	G5yA.YMAkS	Rheumatoid carditis
+RA	CTV3	N0421Y70Dk	Rheumatoid lung
+RA	CTV3	X705IY70Py	Adult onset Still's disease
+RA	CTV3	XE1DUYM0t7	Rheumatoid arthritis and other inflammatory polyarthropathies
+RA	CTV3	N040.Y70DE	Rheumatoid arthritis
+RA	CTV3	N0400Y70Dd	Rheumatoid arthritis of cervical spine
+RA	CTV3	N0401Y70Dc	Other rheumatoid arthritis of spine
+RA	CTV3	N0402Y70Db	Rheumatoid arthritis of shoulder
+RA	CTV3	N0403Y70Da	Rheumatoid arthritis of sternoclavicular joint
+RA	CTV3	N0404Y70DZ	Rheumatoid arthritis of acromioclavicular joint
+RA	CTV3	N0405Y70DY	Rheumatoid arthritis of elbow
+RA	CTV3	N0406YadOD	Rheumatoid arthritis of distal radioulnar joint
+RA	CTV3	N0407Y70DW	Rheumatoid arthritis of wrist
+RA	CTV3	N0408Y70DV	Rheumatoid arthritis of metacarpophalangeal joint
+RA	CTV3	N0409Y70DU	Rheumatoid arthritis of proximal interphalangeal joint of finger
+RA	CTV3	N040AY70DT	Rheumatoid arthritis of distal interphalangeal joint of finger
+RA	CTV3	N040BY70DS	Rheumatoid arthritis of hip
+RA	CTV3	N040CYadOU	Rheumatoid arthritis of sacroiliac joint
+RA	CTV3	N040DY70DQ	Rheumatoid arthritis of knee
+RA	CTV3	N040EYadDV	Rheumatoid arthritis of tibiofibular joint
+RA	CTV3	N040FY70DO	Rheumatoid arthritis of ankle
+RA	CTV3	N040GY70DN	Rheumatoid arthritis of subtalar joint
+RA	CTV3	N040HY70DM	Rheumatoid arthritis of talonavicular joint
+RA	CTV3	N040JY70DL	Rheumatoid arthritis of other tarsal joint
+RA	CTV3	N040KY70DK	Rheumatoid arthritis of 1st metatarsophalangeal joint
+RA	CTV3	N040LY70DJ	Rheumatoid arthritis of lesser metatarsophalangeal joint
+RA	CTV3	N040MY70DI	Rheumatoid arthritis of interphalangeal joint of toe
+RA	CTV3	X701lY70Dn	Rheumatoid vasculitis
+RA	CTV3	X701iY70Df	Seronegative rheumatoid arthritis
+RA	CTV3	N040QYMAqJ	Rheumatoid bursitis
+RA	CTV3	N0422Y70Xb	Rheumatoid nodule
+RA	CTV3	Xa3gLYa65k	Rheumatoid arthritis - multiple joint
+RA	CTV3	N040TYaY9Q	Flare of rheumatoid arthritis
+RA	CTV3	N041.Y20ah	Felty's syndrome
+RA	CTV3	N042.Y70DH	Other rheumatoid arthropathy with visceral or systemic involvement
+RA	CTV3	N0421Y70Dl	Rheumatoid lung disease
+RA	CTV3	N042zY70Di	Rheumatoid arthropathy with visceral or systemic involvement NOS
+RA	CTV3	XaBMOYaag9	Seropositive errosive rheumatoid arthritis
+RA	CTV3	Nyu1GYMAMj	[X]Seropositive rheumatoid arthritis, unspecified
+RA	CTV3	X103YY10DP	Rheumatoid pneumoconiosis
+RA	CTV3	X103YY10DQ	Caplans syndrome
+RA	CTV3	X701kY70Dm	Fibrosing alveolitis associated with rheumatoid arthritis
+RA	CTV3	N3622Y70so	Swan-neck deformity of finger
+RA	CTV3	Nyu10YMAMT	[X]Rheumatoid arthritis with involvement of other organs or systems
+RA	CTV3	Nyu11YMAMU	[X]Other seropositive rheumatoid arthritis
+RA	CTV3	Nyu12YMAMV	[X]Other specified rheumatoid arthritis
+RA	medcodeid	95067016	Felty's syndrome
+RA	medcodeid	251794010	H/O: rheumatoid arthritis
+RA	medcodeid	255925015	O/E-hands-rheumatoid spindling
+RA	medcodeid	297544012	Polyneuropathy in rheumatoid arthritis
+RA	medcodeid	309787016	Rheumatoid arthritis of cervical spine
+RA	medcodeid	309790010	Rheumatoid arthritis of sternoclavicular joint
+RA	medcodeid	309791014	Rheumatoid arthritis of acromioclavicular joint
+RA	medcodeid	309792019	Rheumatoid arthritis of elbow
+RA	medcodeid	309794018	Rheumatoid arthritis of wrist
+RA	medcodeid	309803012	Rheumatoid arthritis of subtalar joint
+RA	medcodeid	309804018	Rheumatoid arthritis of talonavicular joint
+RA	medcodeid	309816012	Flare of rheumatoid arthritis
+RA	medcodeid	485614018	Rheumatoid nodule
+RA	medcodeid	1778239014	Rheumatoid lung disease
+RA	medcodeid	371261000000111	Delivery of rehabilitation for rheumatoid arthritis
+RA	medcodeid	2275671000000111	Rheumatoid arthritis monitoring invitation first letter
+RA	medcodeid	2275791000000115	Rheumatoid arthritis monitoring verbal invitation
+RA	medcodeid	311496011	Fibrosing alveolitis associated with rheumatoid arthritis
+RA	medcodeid	312518013	[X]Other seropositive rheumatoid arthritis
+RA	medcodeid	312520011	[X]Other specified rheumatoid arthritis
+RA	medcodeid	312534011	[X]Seropositive rheumatoid arthritis, unspecified
+RA	medcodeid	162051000006115	Rheumatoid arthritis of distal radio-ulnar joint
+RA	medcodeid	162101000006115	Rheumatoid arthritis of lesser MTP joint
+RA	medcodeid	162111000006117	Rheumatoid arthritis of MCP joint
+RA	medcodeid	162301000006117	Rheumatoid lung
+RA	medcodeid	168751000006115	Rheumatoid arthritis and other inflammatory polyarthropathy
+RA	medcodeid	168761000006118	Rheumatoid arthritis of 1st MTP joint
+RA	medcodeid	463281000006113	Adult Still's Disease
+RA	medcodeid	463301000006112	Adult-onset Still's disease
+RA	medcodeid	309788014	Other rheumatoid arthritis of spine
+RA	medcodeid	309805017	Rheumatoid arthritis of other tarsal joint
+RA	medcodeid	16911000006114	Other rheumatoid arthropathy + visceral/systemic involvement
+RA	medcodeid	451461014	Seropositive errosive rheumatoid arthritis
+RA	medcodeid	162041000006117	Rheumatoid arthritis of DIP joint of finger
+RA	medcodeid	162131000006111	Rheumatoid arthritis of PIP joint of finger
+RA	medcodeid	162191000006110	Rheumatoid arthritis of tibio-fibular joint
+RA	medcodeid	162341000006115	Rheumatoid nodule
+RA	medcodeid	2275501000000119	Rheumatoid arthritis monitoring invitation
+RA	medcodeid	2275831000000110	Rheumatoid arthritis monitoring telephone invitation
+RA	medcodeid	309789018	Rheumatoid arthritis of shoulder
+RA	medcodeid	309798015	Rheumatoid arthritis of hip
+RA	medcodeid	309800010	Rheumatoid arthritis of knee
+RA	medcodeid	219021000000114	Rheumatoid arthrit. monitoring
+RA	medcodeid	111401000006119	Swan-neck finger deformity
+RA	medcodeid	149911000006117	Seropositive rheumatoid arthritis, unspecified
+RA	medcodeid	162141000006118	Rheumatoid arthritis of sacro-iliac joint
+RA	medcodeid	162231000006117	Rheumatoid arthropathy + visceral/systemic involvement NOS
+RA	medcodeid	1786505011	Caplan's syndrome
+RA	medcodeid	2275711000000112	Rheumatoid arthritis monitoring invitation second letter
+RA	medcodeid	300221014	Rheumatoid myocarditis
+RA	medcodeid	424981000006114	[X]Rheumatoid arthritis+involvement/other organs or systems
+RA	medcodeid	2275751000000111	Rheumatoid arthritis monitoring invitation third letter
+RA	medcodeid	1786545019	Rheumatoid lung
+RA	medcodeid	426510015	Rheumatoid arthritis - multiple joint
+RA	medcodeid	309802019	Rheumatoid arthritis of ankle
+RA	medcodeid	255922017	O/E - ulnar deviation
+RA	medcodeid	255923010	O/E - hands - ulnar deviation
+RA	medcodeid	48361011	Rheumatoid carditis
+RA	medcodeid	162081000006111	Rheumatoid arthritis of IP joint of toe
+RA	medcodeid	1779323014	Rheumatoid vasculitis
+RA	medcodeid	359292012	Seronegative rheumatoid arthritis
+RA	medcodeid	297641010	Myopathy due to rheumatoid arthritis
+RA	medcodeid	116082011	Rheumatoid arthritis
+RA	medcodeid	309812014	Rheumatoid bursitis
+RA	SNOMEDCT	57160007	Felty's syndrome
+RA	SNOMEDCT	161567008	H/O: rheumatoid arthritis
+RA	SNOMEDCT	164456005	O/E-hands-rheumatoid spindling
+RA	SNOMEDCT	193180002	Polyneuropathy in rheumatoid arthritis
+RA	SNOMEDCT	201764007	Rheumatoid arthritis of cervical spine
+RA	SNOMEDCT	201767000	Rheumatoid arthritis of sternoclavicular joint
+RA	SNOMEDCT	201768005	Rheumatoid arthritis of acromioclavicular joint
+RA	SNOMEDCT	201769002	Rheumatoid arthritis of elbow
+RA	SNOMEDCT	201771002	Rheumatoid arthritis of wrist
+RA	SNOMEDCT	201780002	Rheumatoid arthritis of subtalar joint
+RA	SNOMEDCT	201781003	Rheumatoid arthritis of talonavicular joint
+RA	SNOMEDCT	201791009	Flare of rheumatoid arthritis
+RA	SNOMEDCT	33719002	Rheumatoid nodule
+RA	SNOMEDCT	398726004	Rheumatoid lung disease
+RA	SNOMEDCT	231041000000107	Delivery of rehabilitation for rheumatoid arthritis
+RA	SNOMEDCT	882401000000106	Rheumatoid arthritis monitoring invitation first letter
+RA	SNOMEDCT	882461000000105	Rheumatoid arthritis monitoring verbal invitation
+RA	SNOMEDCT	10713006	Fibrosing alveolitis associated with rheumatoid arthritis
+RA	SNOMEDCT	239791005	[X]Other seropositive rheumatoid arthritis
+RA	SNOMEDCT	69896004	[X]Other specified rheumatoid arthritis
+RA	SNOMEDCT	239791005	[X]Seropositive rheumatoid arthritis, unspecified
+RA	SNOMEDCT	201770001	Rheumatoid arthritis of distal radio-ulnar joint
+RA	SNOMEDCT	201784006	Rheumatoid arthritis of lesser MTP joint
+RA	SNOMEDCT	201772009	Rheumatoid arthritis of MCP joint
+RA	SNOMEDCT	398726004	Rheumatoid lung
+RA	SNOMEDCT	69896004	Rheumatoid arthritis and other inflammatory polyarthropathy
+RA	SNOMEDCT	201783000	Rheumatoid arthritis of 1st MTP joint
+RA	SNOMEDCT	239920006	Adult Still's Disease
+RA	SNOMEDCT	239920006	Adult-onset Still's disease
+RA	SNOMEDCT	9631008	Other rheumatoid arthritis of spine
+RA	SNOMEDCT	429192004	Rheumatoid arthritis of other tarsal joint
+RA	SNOMEDCT	239793008	Other rheumatoid arthropathy + visceral/systemic involvement
+RA	SNOMEDCT	308143008	Seropositive errosive rheumatoid arthritis
+RA	SNOMEDCT	201774005	Rheumatoid arthritis of DIP joint of finger
+RA	SNOMEDCT	201773004	Rheumatoid arthritis of PIP joint of finger
+RA	SNOMEDCT	201778008	Rheumatoid arthritis of tibio-fibular joint
+RA	SNOMEDCT	882321000000105	Rheumatoid arthritis monitoring invitation
+RA	SNOMEDCT	882481000000101	Rheumatoid arthritis monitoring telephone invitation
+RA	SNOMEDCT	201766009	Rheumatoid arthritis of shoulder
+RA	SNOMEDCT	201775006	Rheumatoid arthritis of hip
+RA	SNOMEDCT	201777003	Rheumatoid arthritis of knee
+RA	SNOMEDCT	275902004	Rheumatoid arthrit. monitoring
+RA	SNOMEDCT	23060008	Swan-neck finger deformity
+RA	SNOMEDCT	239791005	Seropositive rheumatoid arthritis, unspecified
+RA	SNOMEDCT	201776007	Rheumatoid arthritis of sacro-iliac joint
+RA	SNOMEDCT	239793008	Rheumatoid arthropathy + visceral/systemic involvement NOS
+RA	SNOMEDCT	398640008	Caplan's syndrome
+RA	SNOMEDCT	882421000000102	Rheumatoid arthritis monitoring invitation second letter
+RA	SNOMEDCT	195136004	Rheumatoid myocarditis
+RA	SNOMEDCT	239793008	[X]Rheumatoid arthritis+involvement/other organs or systems
+RA	SNOMEDCT	882441000000109	Rheumatoid arthritis monitoring invitation third letter
+RA	SNOMEDCT	287006005	Rheumatoid arthritis - multiple joint
+RA	SNOMEDCT	201779000	Rheumatoid arthritis of ankle
+RA	SNOMEDCT	164454008	O/E - ulnar deviation
+RA	SNOMEDCT	164454008	O/E - hands - ulnar deviation
+RA	SNOMEDCT	28880005	Rheumatoid carditis
+RA	SNOMEDCT	201785007	Rheumatoid arthritis of IP joint of toe
+RA	SNOMEDCT	400054000	Rheumatoid vasculitis
+RA	SNOMEDCT	239792003	Seronegative rheumatoid arthritis
+RA	SNOMEDCT	193250002	Myopathy due to rheumatoid arthritis
+RA	SNOMEDCT	69896004	Rheumatoid arthritis
+RA	SNOMEDCT	84017003	Rheumatoid bursitis
+RA	Read2_5digit	14G1.	H/O: rheumatoid arthritis
+RA	Read2_5digit	2G25.	O/E - hands - ulnar deviation
+RA	Read2_5digit	2G27.	O/E-hands-rheumatoid spindling
+RA	Read2_5digit	7P203	Delivery of rehabilitation for rheumatoid arthritis
+RA	Read2_5digit	9mM..	Rheumatoid arthritis monitoring invitation
+RA	Read2_5digit	9mM0.	Rheumatoid arthritis monitoring invitation first letter
+RA	Read2_5digit	9mM1.	Rheumatoid arthritis monitoring invitation second letter
+RA	Read2_5digit	9mM2.	Rheumatoid arthritis monitoring invitation third letter
+RA	Read2_5digit	9mM3.	Rheumatoid arthritis monitoring verbal invitation
+RA	Read2_5digit	9mM4.	Rheumatoid arthritis monitoring telephone invitation
+RA	Read2_5digit	F3712	Polyneuropathy in rheumatoid arthritis
+RA	Read2_5digit	F3964	Myopathy due to rheumatoid arthritis
+RA	Read2_5digit	G5y8.	Rheumatoid myocarditis
+RA	Read2_5digit	G5yA.	Rheumatoid carditis
+RA	Read2_5digit	H570.	Rheumatoid lung
+RA	Read2_5digit	N005.	Adult Still's Disease
+RA	Read2_5digit	N040.	Rheumatoid arthritis
+RA	Read2_5digit	N0400	Rheumatoid arthritis of cervical spine
+RA	Read2_5digit	N0401	Other rheumatoid arthritis of spine
+RA	Read2_5digit	N0402	Rheumatoid arthritis of shoulder
+RA	Read2_5digit	N0403	Rheumatoid arthritis of sternoclavicular joint
+RA	Read2_5digit	N0404	Rheumatoid arthritis of acromioclavicular joint
+RA	Read2_5digit	N0405	Rheumatoid arthritis of elbow
+RA	Read2_5digit	N0406	Rheumatoid arthritis of distal radio-ulnar joint
+RA	Read2_5digit	N0407	Rheumatoid arthritis of wrist
+RA	Read2_5digit	N0408	Rheumatoid arthritis of metacarpophalangeal joint
+RA	Read2_5digit	N0409	Rheumatoid arthritis of proximal interphalangeal joint of finger
+RA	Read2_5digit	N040A	Rheumatoid arthritis of distal interphalangeal joint of finger
+RA	Read2_5digit	N040B	Rheumatoid arthritis of hip
+RA	Read2_5digit	N040C	Rheumatoid arthritis of sacro-iliac joint
+RA	Read2_5digit	N040D	Rheumatoid arthritis of knee
+RA	Read2_5digit	N040E	Rheumatoid arthritis of tibio-fibular joint
+RA	Read2_5digit	N040F	Rheumatoid arthritis of ankle
+RA	Read2_5digit	N040G	Rheumatoid arthritis of subtalar joint
+RA	Read2_5digit	N040H	Rheumatoid arthritis of talonavicular joint
+RA	Read2_5digit	N040J	Rheumatoid arthritis of other tarsal joint
+RA	Read2_5digit	N040K	Rheumatoid arthritis of 1st metatarsophalangeal joint
+RA	Read2_5digit	N040L	Rheumatoid arthritis of lesser metatarsophalangeal joint
+RA	Read2_5digit	N040M	Rheumatoid arthritis of interphalangeal joint of toe
+RA	Read2_5digit	N040N	Rheumatoid vasculitis
+RA	Read2_5digit	N040P	Seronegative rheumatoid arthritis
+RA	Read2_5digit	N040Q	Rheumatoid bursitis
+RA	Read2_5digit	N040R	Rheumatoid nodule
+RA	Read2_5digit	N040S	Rheumatoid arthritis - multiple joint
+RA	Read2_5digit	N040T	Flare of rheumatoid arthritis
+RA	Read2_5digit	N041.	Felty's syndrome
+RA	Read2_5digit	N042.	Other rheumatoid arthropathy with visceral or systemic involvement
+RA	Read2_5digit	N0421	Rheumatoid lung disease
+RA	Read2_5digit	N0422	Rheumatoid nodule
+RA	Read2_5digit	N042z	Rheumatoid arthropathy with visceral or systemic involvement NOS
+RA	Read2_5digit	N047.	Seropositive errosive rheumatoid arthritis
+RA	Read2_5digit	N04X.	Seropositive rheumatoid arthritis, unspecified
+RA	Read2_5digit	N04y0	Rheumatoid lung
+RA	Read2_5digit	N04y2	Adult-onset Still's disease
+RA	Read2_5digit	N3622	Swan-neck finger deformity
+RA	Read2_5digit	Nyu10	[X]Rheumatoid arthritis with involvement of other organs or systems
+RA	Read2_5digit	Nyu11	[X]Other seropositive rheumatoid arthritis
+RA	Read2_5digit	Nyu12	[X]Other specified rheumatoid arthritis
+RA	Read2_5digit	Nyu1G	[X]Seropositive rheumatoid arthritis, unspecified
+RA	CTV3_5digit	14G1.	H/O: rheumatoid arthritis
+RA	CTV3_5digit	2G25.	O/E - hands - ulnar deviation
+RA	CTV3_5digit	2G27.	O/E-hands-rheumatoid spindling
+RA	CTV3_5digit	XM1XV	Rheumatoid arthritis monitoring
+RA	CTV3_5digit	XaLsj	Delivery of rehabilitation for rheumatoid arthritis
+RA	CTV3_5digit	XaaWW	Rheumatoid arthritis monitoring invitation
+RA	CTV3_5digit	XaaWt	Rheumatoid arthritis monitoring invitation first letter
+RA	CTV3_5digit	XaaWu	Rheumatoid arthritis monitoring invitation second letter
+RA	CTV3_5digit	XaaWv	Rheumatoid arthritis monitoring invitation third letter
+RA	CTV3_5digit	XaaWw	Rheumatoid arthritis monitoring verbal invitation
+RA	CTV3_5digit	XaaWx	Rheumatoid arthritis monitoring telephone invitation
+RA	CTV3_5digit	F3712	Polyneuropathy in rheumatoid arthritis
+RA	CTV3_5digit	F3964	Myopathy due to rheumatoid arthritis
+RA	CTV3_5digit	G5y8.	Rheumatoid myocarditis
+RA	CTV3_5digit	G5yA.	Rheumatoid carditis
+RA	CTV3_5digit	N0421	Rheumatoid lung
+RA	CTV3_5digit	X705I	Adult onset Still's disease
+RA	CTV3_5digit	XE1DU	Rheumatoid arthritis and other inflammatory polyarthropathies
+RA	CTV3_5digit	N040.	Rheumatoid arthritis
+RA	CTV3_5digit	N0400	Rheumatoid arthritis of cervical spine
+RA	CTV3_5digit	N0401	Other rheumatoid arthritis of spine
+RA	CTV3_5digit	N0402	Rheumatoid arthritis of shoulder
+RA	CTV3_5digit	N0403	Rheumatoid arthritis of sternoclavicular joint
+RA	CTV3_5digit	N0404	Rheumatoid arthritis of acromioclavicular joint
+RA	CTV3_5digit	N0405	Rheumatoid arthritis of elbow
+RA	CTV3_5digit	N0406	Rheumatoid arthritis of distal radioulnar joint
+RA	CTV3_5digit	N0407	Rheumatoid arthritis of wrist
+RA	CTV3_5digit	N0408	Rheumatoid arthritis of metacarpophalangeal joint
+RA	CTV3_5digit	N0409	Rheumatoid arthritis of proximal interphalangeal joint of finger
+RA	CTV3_5digit	N040A	Rheumatoid arthritis of distal interphalangeal joint of finger
+RA	CTV3_5digit	N040B	Rheumatoid arthritis of hip
+RA	CTV3_5digit	N040C	Rheumatoid arthritis of sacroiliac joint
+RA	CTV3_5digit	N040D	Rheumatoid arthritis of knee
+RA	CTV3_5digit	N040E	Rheumatoid arthritis of tibiofibular joint
+RA	CTV3_5digit	N040F	Rheumatoid arthritis of ankle
+RA	CTV3_5digit	N040G	Rheumatoid arthritis of subtalar joint
+RA	CTV3_5digit	N040H	Rheumatoid arthritis of talonavicular joint
+RA	CTV3_5digit	N040J	Rheumatoid arthritis of other tarsal joint
+RA	CTV3_5digit	N040K	Rheumatoid arthritis of 1st metatarsophalangeal joint
+RA	CTV3_5digit	N040L	Rheumatoid arthritis of lesser metatarsophalangeal joint
+RA	CTV3_5digit	N040M	Rheumatoid arthritis of interphalangeal joint of toe
+RA	CTV3_5digit	X701l	Rheumatoid vasculitis
+RA	CTV3_5digit	X701i	Seronegative rheumatoid arthritis
+RA	CTV3_5digit	N040Q	Rheumatoid bursitis
+RA	CTV3_5digit	N0422	Rheumatoid nodule
+RA	CTV3_5digit	Xa3gL	Rheumatoid arthritis - multiple joint
+RA	CTV3_5digit	N040T	Flare of rheumatoid arthritis
+RA	CTV3_5digit	N041.	Felty's syndrome
+RA	CTV3_5digit	N042.	Other rheumatoid arthropathy with visceral or systemic involvement
+RA	CTV3_5digit	N042z	Rheumatoid arthropathy with visceral or systemic involvement NOS
+RA	CTV3_5digit	XaBMO	Seropositive errosive rheumatoid arthritis
+RA	CTV3_5digit	Nyu1G	[X]Seropositive rheumatoid arthritis, unspecified
+RA	CTV3_5digit	X103Y	Rheumatoid pneumoconiosis
+RA	CTV3_5digit	X701k	Fibrosing alveolitis associated with rheumatoid arthritis
+RA	CTV3_5digit	N3622	Swan-neck deformity of finger
+RA	CTV3_5digit	Nyu10	[X]Rheumatoid arthritis with involvement of other organs or systems
+RA	CTV3_5digit	Nyu11	[X]Other seropositive rheumatoid arthritis
+RA	CTV3_5digit	Nyu12	[X]Other specified rheumatoid arthritis

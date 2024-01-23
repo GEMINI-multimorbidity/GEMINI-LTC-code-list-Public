@@ -1,0 +1,158 @@
+condition	vocab_id	code	description
+isch_stroke	ICD10	I63.0	Cerebral infarction due to thrombosis of precerebral arteries
+isch_stroke	ICD10	I63.1	Cerebral infarction due to embolism of precerebral arteries
+isch_stroke	ICD10	I63.2	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+isch_stroke	ICD10	I63.3	Cerebral infarction due to thrombosis of cerebral arteries
+isch_stroke	ICD10	I63.4	Cerebral infarction due to embolism of cerebral arteries
+isch_stroke	ICD10	I63.5	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+isch_stroke	ICD10	I63.8	Other cerebral infarction
+isch_stroke	ICD10	I63.9	Cerebral infarction, unspecified
+isch_stroke	ICD10	I69.3	Sequelae of cerebral infarction
+isch_stroke	Read2	G63..11	Infarction - precerebral
+isch_stroke	Read2	G63y000	Cerebral infarct due to thrombosis of precerebral arteries
+isch_stroke	Read2	G63y100	Cerebral infarction due to embolism of precerebral arteries
+isch_stroke	Read2	G64..00	Cerebral arterial occlusion
+isch_stroke	Read2	G64..11	CVA - cerebrovascular accident due to cerebral artery occlusion
+isch_stroke	Read2	G64..12	Infarction - cerebral
+isch_stroke	Read2	G64..13	Stroke due to cerebral arterial occlusion
+isch_stroke	Read2	G640.00	Cerebral thrombosis
+isch_stroke	Read2	G640000	Cerebral infarction due to thrombosis of cerebral arteries
+isch_stroke	Read2	G641.00	Cerebral embolism
+isch_stroke	Read2	G641.11	Cerebral embolus
+isch_stroke	Read2	G641000	Cerebral infarction due to embolism of cerebral arteries
+isch_stroke	Read2	G64z.00	Cerebral infarction NOS
+isch_stroke	Read2	G64z.11	Brainstem infarction NOS
+isch_stroke	Read2	G64z.12	Cerebellar infarction
+isch_stroke	Read2	G64z000	Brainstem infarction
+isch_stroke	Read2	G64z100	Wallenberg syndrome
+isch_stroke	Read2	G64z111	Lateral medullary syndrome
+isch_stroke	Read2	G64z200	Left sided cerebral infarction
+isch_stroke	Read2	G64z300	Right sided cerebral infarction
+isch_stroke	Read2	G64z400	Infarction of basal ganglia
+isch_stroke	Read2	G683.00	Sequelae of cerebral infarction
+isch_stroke	Read2	G6W..00	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+isch_stroke	Read2	G6X..00	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+isch_stroke	Read2	Gyu6300	[X]Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+isch_stroke	Read2	Gyu6400	[X]Other cerebral infarction
+isch_stroke	Read2	Gyu6G00	[X]Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+isch_stroke	CTV3	X00D4Y00cp	Infarction - precerebral
+isch_stroke	CTV3	G63y0YMAiD	Cerebral infarct due to thrombosis of precerebral arteries
+isch_stroke	CTV3	G63y1YMAiE	Cerebral infarction due to embolism of precerebral arteries
+isch_stroke	CTV3	XE0VIY20FP	Cerebral arterial occlusion
+isch_stroke	CTV3	X00D3Y00co	CVA - cerebrovascular accident due to cerebral artery occlusion
+isch_stroke	CTV3	Xa0kZY00ci	Cerebral infarction
+isch_stroke	CTV3	G640.Y00cj	Cerebral thrombosis
+isch_stroke	CTV3	G640.Yah3i	Occlusive stroke
+isch_stroke	CTV3	G6400YMAiF	Cerebral infarction due to thrombosis of cerebral arteries
+isch_stroke	CTV3	G641.Y20G2	Cerebral embolism
+isch_stroke	CTV3	G641.Y20G1	Cerebral embolus
+isch_stroke	CTV3	G6410YMAiG	Cerebral infarction due to embolism of cerebral arteries
+isch_stroke	CTV3	XE0VJY00cn	Cerebral infarction NOS
+isch_stroke	CTV3	X00D9Y00d0	Brainstem infarction NOS
+isch_stroke	CTV3	Xa00JYa0rd	Cerebellar infarction
+isch_stroke	CTV3	Xa00KYa0re	Brainstem infarction
+isch_stroke	CTV3	Xa00MYa0rg	Wallenberg syndrome
+isch_stroke	CTV3	Xa00MYa3VD	Lateral medullary syndrome
+isch_stroke	CTV3	XaBECYaaWG	Left sided cerebral infarction
+isch_stroke	CTV3	XaBEDYaaWH	Right sided cerebral infarction
+isch_stroke	CTV3	XaJgQYamlC	Infarction of basal ganglia
+isch_stroke	CTV3	G683.YMAiM	Sequelae of cerebral infarction
+isch_stroke	CTV3	Gyu6GYMAIB	[X]Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+isch_stroke	CTV3	Gyu63YMAHy	[X]Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+isch_stroke	CTV3	Gyu64YMAHz	[X]Other cerebral infarction
+isch_stroke	medcodeid	125470015	Cerebral embolism
+isch_stroke	medcodeid	300313017	Cerebral infarction due to embolism of precerebral arteries
+isch_stroke	medcodeid	300322016	Cerebral infarction due to embolism of cerebral arteries
+isch_stroke	medcodeid	300411016	Sequelae of cerebral infarction
+isch_stroke	medcodeid	345639010	Infarction - precerebral
+isch_stroke	medcodeid	451133011	Left sided cerebral infarction
+isch_stroke	medcodeid	451134017	Right sided cerebral infarction
+isch_stroke	medcodeid	1222398015	Cerebral arterial occlusion
+isch_stroke	medcodeid	345650013	Brainstem infarction NOS
+isch_stroke	medcodeid	57341000006119	Wallenberg syndrome
+isch_stroke	medcodeid	370701000006118	[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+isch_stroke	medcodeid	542831000006116	Cerebral embolus
+isch_stroke	medcodeid	543141000006110	Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+isch_stroke	medcodeid	370661000006114	[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+isch_stroke	medcodeid	542261000006114	Cereb infarct due unsp occlus/stenos precerebr arteries
+isch_stroke	medcodeid	158118014	Cerebellar infarction
+isch_stroke	medcodeid	395780010	Cerebral infarction NOS
+isch_stroke	medcodeid	122361000006113	Stroke due to cerebral arterial occlusion
+isch_stroke	medcodeid	2474651019	Infarction of basal ganglia
+isch_stroke	medcodeid	300321011	Cerebral infarction due to thrombosis of cerebral arteries
+isch_stroke	medcodeid	130375018	Lateral medullary syndrome
+isch_stroke	medcodeid	605461000006117	CVA - cerebral artery occlusion
+isch_stroke	medcodeid	118689010	Cerebral thrombosis
+isch_stroke	medcodeid	524541000006117	Brainstem infarction
+isch_stroke	medcodeid	300312010	Cerebral infarct due to thrombosis of precerebral arteries
+isch_stroke	medcodeid	300941014	[X]Other cerebral infarction
+isch_stroke	medcodeid	218511000000117	Infarction - cerebral
+isch_stroke	SNOMEDCT	75543006	Cerebral embolism
+isch_stroke	SNOMEDCT	195186005	Cerebral infarction due to embolism of precerebral arteries
+isch_stroke	SNOMEDCT	195190007	Cerebral infarction due to embolism of cerebral arteries
+isch_stroke	SNOMEDCT	195243003	Sequelae of cerebral infarction
+isch_stroke	SNOMEDCT	230692004	Infarction - precerebral
+isch_stroke	SNOMEDCT	307766002	Left sided cerebral infarction
+isch_stroke	SNOMEDCT	307767006	Right sided cerebral infarction
+isch_stroke	SNOMEDCT	20059004	Cerebral arterial occlusion
+isch_stroke	SNOMEDCT	95457000	Brainstem infarction NOS
+isch_stroke	SNOMEDCT	78569004	Wallenberg syndrome
+isch_stroke	SNOMEDCT	20059004	[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+isch_stroke	SNOMEDCT	75543006	Cerebral embolus
+isch_stroke	SNOMEDCT	20059004	Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+isch_stroke	SNOMEDCT	125081000119106	[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+isch_stroke	SNOMEDCT	125081000119106	Cereb infarct due unsp occlus/stenos precerebr arteries
+isch_stroke	SNOMEDCT	95460007	Cerebellar infarction
+isch_stroke	SNOMEDCT	432504007	Cerebral infarction NOS
+isch_stroke	SNOMEDCT	230691006	Stroke due to cerebral arterial occlusion
+isch_stroke	SNOMEDCT	413102000	Infarction of basal ganglia
+isch_stroke	SNOMEDCT	195189003	Cerebral infarction due to thrombosis of cerebral arteries
+isch_stroke	SNOMEDCT	78569004	Lateral medullary syndrome
+isch_stroke	SNOMEDCT	230691006	CVA - cerebral artery occlusion
+isch_stroke	SNOMEDCT	71444005	Cerebral thrombosis
+isch_stroke	SNOMEDCT	95457000	Brainstem infarction
+isch_stroke	SNOMEDCT	195185009	Cerebral infarct due to thrombosis of precerebral arteries
+isch_stroke	SNOMEDCT	432504007	[X]Other cerebral infarction
+isch_stroke	SNOMEDCT	432504007	Infarction - cerebral
+isch_stroke	Read2_5digit	G63..	Infarction - precerebral
+isch_stroke	Read2_5digit	G63y0	Cerebral infarct due to thrombosis of precerebral arteries
+isch_stroke	Read2_5digit	G63y1	Cerebral infarction due to embolism of precerebral arteries
+isch_stroke	Read2_5digit	G64..	Cerebral arterial occlusion
+isch_stroke	Read2_5digit	G640.	Cerebral thrombosis
+isch_stroke	Read2_5digit	G6400	Cerebral infarction due to thrombosis of cerebral arteries
+isch_stroke	Read2_5digit	G641.	Cerebral embolism
+isch_stroke	Read2_5digit	G6410	Cerebral infarction due to embolism of cerebral arteries
+isch_stroke	Read2_5digit	G64z.	Cerebral infarction NOS
+isch_stroke	Read2_5digit	G64z0	Brainstem infarction
+isch_stroke	Read2_5digit	G64z1	Wallenberg syndrome
+isch_stroke	Read2_5digit	G64z2	Left sided cerebral infarction
+isch_stroke	Read2_5digit	G64z3	Right sided cerebral infarction
+isch_stroke	Read2_5digit	G64z4	Infarction of basal ganglia
+isch_stroke	Read2_5digit	G683.	Sequelae of cerebral infarction
+isch_stroke	Read2_5digit	G6W..	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+isch_stroke	Read2_5digit	G6X..	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+isch_stroke	Read2_5digit	Gyu63	[X]Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+isch_stroke	Read2_5digit	Gyu64	[X]Other cerebral infarction
+isch_stroke	Read2_5digit	Gyu6G	[X]Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+isch_stroke	CTV3_5digit	X00D4	Infarction - precerebral
+isch_stroke	CTV3_5digit	G63y0	Cerebral infarct due to thrombosis of precerebral arteries
+isch_stroke	CTV3_5digit	G63y1	Cerebral infarction due to embolism of precerebral arteries
+isch_stroke	CTV3_5digit	XE0VI	Cerebral arterial occlusion
+isch_stroke	CTV3_5digit	X00D3	CVA - cerebrovascular accident due to cerebral artery occlusion
+isch_stroke	CTV3_5digit	Xa0kZ	Cerebral infarction
+isch_stroke	CTV3_5digit	G640.	Cerebral thrombosis
+isch_stroke	CTV3_5digit	G6400	Cerebral infarction due to thrombosis of cerebral arteries
+isch_stroke	CTV3_5digit	G641.	Cerebral embolism
+isch_stroke	CTV3_5digit	G6410	Cerebral infarction due to embolism of cerebral arteries
+isch_stroke	CTV3_5digit	XE0VJ	Cerebral infarction NOS
+isch_stroke	CTV3_5digit	X00D9	Brainstem infarction NOS
+isch_stroke	CTV3_5digit	Xa00J	Cerebellar infarction
+isch_stroke	CTV3_5digit	Xa00K	Brainstem infarction
+isch_stroke	CTV3_5digit	Xa00M	Wallenberg syndrome
+isch_stroke	CTV3_5digit	XaBEC	Left sided cerebral infarction
+isch_stroke	CTV3_5digit	XaBED	Right sided cerebral infarction
+isch_stroke	CTV3_5digit	XaJgQ	Infarction of basal ganglia
+isch_stroke	CTV3_5digit	G683.	Sequelae of cerebral infarction
+isch_stroke	CTV3_5digit	Gyu6G	[X]Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+isch_stroke	CTV3_5digit	Gyu63	[X]Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+isch_stroke	CTV3_5digit	Gyu64	[X]Other cerebral infarction

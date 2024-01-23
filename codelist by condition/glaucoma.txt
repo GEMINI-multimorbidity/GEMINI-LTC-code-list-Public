@@ -1,0 +1,213 @@
+condition	vocab_id	code	description
+glaucoma	ICD10	H40.1	Primary open-angle glaucoma
+glaucoma	ICD10	H40.2	Primary angle-closure glaucoma
+glaucoma	ICD10	H40.9	Glaucoma, unspecified
+glaucoma	Read2	7259.00	Operations following glaucoma surgery
+glaucoma	Read2	7259000	Needling of bleb following glaucoma surgery
+glaucoma	Read2	7259100	Injection of bleb following glaucoma surgery
+glaucoma	Read2	7259200	Revision of bleb NEC following glaucoma surgery
+glaucoma	Read2	7259300	Removal of releasable suture following glaucoma surgery
+glaucoma	Read2	7259400	Laser suture lysis following glaucoma surgery
+glaucoma	Read2	7259y00	Other specified operations following glaucoma surgery
+glaucoma	Read2	7259z00	Operations following glaucoma surgery NOS
+glaucoma	Read2	7275.00	Pan retinal photocoagulation for glaucoma
+glaucoma	Read2	F404211	Glaucoma - absolute
+glaucoma	Read2	F45..00	Glaucoma
+glaucoma	Read2	F450100	Open angle glaucoma with borderline intraocular pressure
+glaucoma	Read2	F451.00	Open-angle glaucoma
+glaucoma	Read2	F451000	Unspecified open-angle glaucoma
+glaucoma	Read2	F451100	Primary open-angle glaucoma
+glaucoma	Read2	F451111	Simple chronic glaucoma
+glaucoma	Read2	F451200	Low tension glaucoma
+glaucoma	Read2	F451211	Normal pressure glaucoma
+glaucoma	Read2	F451500	Open-angle glaucoma residual stage
+glaucoma	Read2	F451z00	Open-angle glaucoma NOS
+glaucoma	Read2	F452.00	Primary angle-closure glaucoma
+glaucoma	Read2	F452.11	Closed angle glaucoma
+glaucoma	Read2	F452000	Unspecified primary angle-closure glaucoma
+glaucoma	Read2	F452100	Intermittent primary angle-closure glaucoma
+glaucoma	Read2	F452200	Acute primary angle-closure glaucoma
+glaucoma	Read2	F452300	Chronic primary angle-closure glaucoma
+glaucoma	Read2	F452400	Primary angle-closure glaucoma residual stage
+glaucoma	Read2	F452500	Plateau iris
+glaucoma	Read2	F452z00	Primary angle-closure glaucoma NOS
+glaucoma	Read2	F45y.00	Other specified forms of glaucoma
+glaucoma	Read2	F45y200	Low tension glaucoma
+glaucoma	Read2	F45yz00	Other specified glaucoma NOS
+glaucoma	Read2	F45z.00	Glaucoma NOS
+glaucoma	Read2	F463100	Glaucomatous subcapsular flecks
+glaucoma	Read2	F4H1400	Optic disc glaucomatous atrophy
+glaucoma	Read2	FyuG.00	[X]Glaucoma
+glaucoma	CTV3	XaL58YaoBH	Operations following glaucoma surgery
+glaucoma	CTV3	XaL5mYaoC3	Needling of bleb following glaucoma surgery
+glaucoma	CTV3	XaL5nYaoC4	Injection of bleb following glaucoma surgery
+glaucoma	CTV3	XaL5oYaoC5	Revision of bleb NEC following glaucoma surgery
+glaucoma	CTV3	XaL59YaoBI	Removal of releasable suture following glaucoma surgery
+glaucoma	CTV3	XaL5AYaoBJ	Laser suture lysis following glaucoma surgery
+glaucoma	CTV3	XaL5BYaoBK	Other specified operations following glaucoma surgery
+glaucoma	CTV3	XaL5CYaoBL	Operations following glaucoma surgery NOS
+glaucoma	CTV3	7275.YadX6	Panretinal photocoagulation for glaucoma
+glaucoma	CTV3	X00efY022T	Absolute glaucoma
+glaucoma	CTV3	F45..Y021c	Glaucoma
+glaucoma	CTV3	F4501Y021r	Open-angle glaucoma - borderline
+glaucoma	CTV3	F451.Y021y	Open-angle glaucoma
+glaucoma	CTV3	F4510Y021z	Unspecified open-angle glaucoma
+glaucoma	CTV3	F4511Y0222	Primary open-angle glaucoma
+glaucoma	CTV3	F4511Y0224	CSG - Chronic simple glaucoma
+glaucoma	CTV3	F4512Y0228	Low tension glaucoma
+glaucoma	CTV3	F4512Y0229	Normal pressure glaucoma
+glaucoma	CTV3	F4515Y0220	Open-angle glaucoma residual stage
+glaucoma	CTV3	F451zY0221	Open-angle glaucoma NOS
+glaucoma	CTV3	XE2a8Y022A	Primary angle-closure glaucoma
+glaucoma	CTV3	F452.YMK3o	Closed angle glaucoma
+glaucoma	CTV3	XE2a8Y022B	ACG - Angle-closure glaucoma
+glaucoma	CTV3	F4520Y022E	Unspecified primary angle-closure glaucoma
+glaucoma	CTV3	F4521Y022K	Intermittent angle-closure glaucoma
+glaucoma	CTV3	F4521Y022N	Intermittent closed-angle glaucoma
+glaucoma	CTV3	F4522Y022H	Acute angle-closure glaucoma
+glaucoma	CTV3	F4522Y022J	Acute closed-angle glaucoma
+glaucoma	CTV3	F4523Y022O	Chronic angle-closure glaucoma
+glaucoma	CTV3	F4523Y022Q	Chronic closed-angle glaucoma
+glaucoma	CTV3	F4524Y022F	Primary angle-closure glaucoma residual stage
+glaucoma	CTV3	X00edY022R	Plateau iris
+glaucoma	CTV3	F452zY022G	Primary angle-closure glaucoma NOS
+glaucoma	CTV3	F45y.Y021i	Other specified forms of glaucoma
+glaucoma	CTV3	F45yzY021j	Other specified glaucoma NOS
+glaucoma	CTV3	F45z.Y021k	Glaucoma NOS
+glaucoma	CTV3	F4631Y01ti	Glaucomatous subcapsular flecks
+glaucoma	CTV3	F4H14YM0jD	Optic disc glaucomatous atrophy
+glaucoma	medcodeid	84105018	Low tension glaucoma
+glaucoma	medcodeid	140102012	Open-angle glaucoma
+glaucoma	medcodeid	298048019	Primary angle-closure glaucoma residual stage
+glaucoma	medcodeid	503452018	Primary open-angle glaucoma
+glaucoma	medcodeid	1220514012	Optic disc glaucomatous atrophy
+glaucoma	medcodeid	1486268015	Primary angle-closure glaucoma
+glaucoma	medcodeid	378701000000110	Laser suture lysis following glaucoma surgery
+glaucoma	medcodeid	298047012	Unspecified primary angle-closure glaucoma
+glaucoma	medcodeid	298049010	Primary angle-closure glaucoma NOS
+glaucoma	medcodeid	298072012	Other specified forms of glaucoma
+glaucoma	medcodeid	298074013	Other specified glaucoma NOS
+glaucoma	medcodeid	298075014	Glaucoma NOS
+glaucoma	medcodeid	141721000006112	Simple chronic glaucoma
+glaucoma	medcodeid	249331000006112	Pan retinal photocoagulation for glaucoma
+glaucoma	medcodeid	264071000006115	Open angle glaucoma with borderline intraocular pressure
+glaucoma	medcodeid	378061000000112	Revision of bleb NEC following glaucoma surgery
+glaucoma	medcodeid	378721000000118	Other specified operations following glaucoma surgery
+glaucoma	medcodeid	388091000006115	[X]Glaucoma
+glaucoma	medcodeid	459721000006110	Acute primary angle-closure glaucoma
+glaucoma	medcodeid	556201000006114	Chronic primary angle-closure glaucoma
+glaucoma	medcodeid	560611000006117	Closed angle glaucoma
+glaucoma	medcodeid	734071000006115	Low tension glaucoma
+glaucoma	medcodeid	383381000000118	Injection of bleb following glaucoma surgery
+glaucoma	medcodeid	495680018	Normal pressure glaucoma
+glaucoma	medcodeid	770481000006118	Intermittent primary angle-closure glaucoma
+glaucoma	medcodeid	298042018	Open-angle glaucoma NOS
+glaucoma	medcodeid	383421000000110	Needling of bleb following glaucoma surgery
+glaucoma	medcodeid	1232965011	Glaucomatous subcapsular flecks
+glaucoma	medcodeid	347744010	Plateau iris
+glaucoma	medcodeid	361511000000118	Operations following glaucoma surgery
+glaucoma	medcodeid	383401000000118	Operations following glaucoma surgery NOS
+glaucoma	medcodeid	2676361011	Removal of releasable suture following glaucoma surgery
+glaucoma	medcodeid	40268016	Glaucoma
+glaucoma	medcodeid	802901000006112	Glaucoma - absolute
+glaucoma	medcodeid	298034019	Unspecified open-angle glaucoma
+glaucoma	medcodeid	47081000006113	Open-angle glaucoma residual stage
+glaucoma	SNOMEDCT	50485007	Low tension glaucoma
+glaucoma	SNOMEDCT	84494001	Open-angle glaucoma
+glaucoma	SNOMEDCT	193546005	Primary angle-closure glaucoma residual stage
+glaucoma	SNOMEDCT	77075001	Primary open-angle glaucoma
+glaucoma	SNOMEDCT	1207009	Optic disc glaucomatous atrophy
+glaucoma	SNOMEDCT	392288006	Primary angle-closure glaucoma
+glaucoma	SNOMEDCT	234611000000100	Laser suture lysis following glaucoma surgery
+glaucoma	SNOMEDCT	392288006	Unspecified primary angle-closure glaucoma
+glaucoma	SNOMEDCT	392288006	Primary angle-closure glaucoma NOS
+glaucoma	SNOMEDCT	23986001	Other specified forms of glaucoma
+glaucoma	SNOMEDCT	23986001	Other specified glaucoma NOS
+glaucoma	SNOMEDCT	23986001	Glaucoma NOS
+glaucoma	SNOMEDCT	77075001	Simple chronic glaucoma
+glaucoma	SNOMEDCT	172586003	Pan retinal photocoagulation for glaucoma
+glaucoma	SNOMEDCT	193533000	Open angle glaucoma with borderline intraocular pressure
+glaucoma	SNOMEDCT	236891000000101	Revision of bleb NEC following glaucoma surgery
+glaucoma	SNOMEDCT	792741000000100	Other specified operations following glaucoma surgery
+glaucoma	SNOMEDCT	23986001	[X]Glaucoma
+glaucoma	SNOMEDCT	30041005	Acute primary angle-closure glaucoma
+glaucoma	SNOMEDCT	33647009	Chronic primary angle-closure glaucoma
+glaucoma	SNOMEDCT	392288006	Closed angle glaucoma
+glaucoma	SNOMEDCT	428494000	Injection of bleb following glaucoma surgery
+glaucoma	SNOMEDCT	50485007	Normal pressure glaucoma
+glaucoma	SNOMEDCT	65460003	Intermittent primary angle-closure glaucoma
+glaucoma	SNOMEDCT	84494001	Open-angle glaucoma NOS
+glaucoma	SNOMEDCT	236891000000101	Needling of bleb following glaucoma surgery
+glaucoma	SNOMEDCT	67733005	Glaucomatous subcapsular flecks
+glaucoma	SNOMEDCT	232080006	Plateau iris
+glaucoma	SNOMEDCT	792741000000100	Operations following glaucoma surgery
+glaucoma	SNOMEDCT	792741000000100	Operations following glaucoma surgery NOS
+glaucoma	SNOMEDCT	426877004	Removal of releasable suture following glaucoma surgery
+glaucoma	SNOMEDCT	23986001	Glaucoma
+glaucoma	SNOMEDCT	19144002	Glaucoma - absolute
+glaucoma	SNOMEDCT	84494001	Unspecified open-angle glaucoma
+glaucoma	SNOMEDCT	66990007	Open-angle glaucoma residual stage
+glaucoma	Read2_5digit	7259.	Operations following glaucoma surgery
+glaucoma	Read2_5digit	72590	Needling of bleb following glaucoma surgery
+glaucoma	Read2_5digit	72591	Injection of bleb following glaucoma surgery
+glaucoma	Read2_5digit	72592	Revision of bleb NEC following glaucoma surgery
+glaucoma	Read2_5digit	72593	Removal of releasable suture following glaucoma surgery
+glaucoma	Read2_5digit	72594	Laser suture lysis following glaucoma surgery
+glaucoma	Read2_5digit	7259y	Other specified operations following glaucoma surgery
+glaucoma	Read2_5digit	7259z	Operations following glaucoma surgery NOS
+glaucoma	Read2_5digit	7275.	Pan retinal photocoagulation for glaucoma
+glaucoma	Read2_5digit	F45..	Glaucoma
+glaucoma	Read2_5digit	F4501	Open angle glaucoma with borderline intraocular pressure
+glaucoma	Read2_5digit	F451.	Open-angle glaucoma
+glaucoma	Read2_5digit	F4510	Unspecified open-angle glaucoma
+glaucoma	Read2_5digit	F4511	Primary open-angle glaucoma
+glaucoma	Read2_5digit	F4512	Low tension glaucoma
+glaucoma	Read2_5digit	F4515	Open-angle glaucoma residual stage
+glaucoma	Read2_5digit	F451z	Open-angle glaucoma NOS
+glaucoma	Read2_5digit	F452.	Primary angle-closure glaucoma
+glaucoma	Read2_5digit	F4520	Unspecified primary angle-closure glaucoma
+glaucoma	Read2_5digit	F4521	Intermittent primary angle-closure glaucoma
+glaucoma	Read2_5digit	F4522	Acute primary angle-closure glaucoma
+glaucoma	Read2_5digit	F4523	Chronic primary angle-closure glaucoma
+glaucoma	Read2_5digit	F4524	Primary angle-closure glaucoma residual stage
+glaucoma	Read2_5digit	F4525	Plateau iris
+glaucoma	Read2_5digit	F452z	Primary angle-closure glaucoma NOS
+glaucoma	Read2_5digit	F45y.	Other specified forms of glaucoma
+glaucoma	Read2_5digit	F45y2	Low tension glaucoma
+glaucoma	Read2_5digit	F45yz	Other specified glaucoma NOS
+glaucoma	Read2_5digit	F45z.	Glaucoma NOS
+glaucoma	Read2_5digit	F4631	Glaucomatous subcapsular flecks
+glaucoma	Read2_5digit	F4H14	Optic disc glaucomatous atrophy
+glaucoma	Read2_5digit	FyuG.	[X]Glaucoma
+glaucoma	CTV3_5digit	XaL58	Operations following glaucoma surgery
+glaucoma	CTV3_5digit	XaL5m	Needling of bleb following glaucoma surgery
+glaucoma	CTV3_5digit	XaL5n	Injection of bleb following glaucoma surgery
+glaucoma	CTV3_5digit	XaL5o	Revision of bleb NEC following glaucoma surgery
+glaucoma	CTV3_5digit	XaL59	Removal of releasable suture following glaucoma surgery
+glaucoma	CTV3_5digit	XaL5A	Laser suture lysis following glaucoma surgery
+glaucoma	CTV3_5digit	XaL5B	Other specified operations following glaucoma surgery
+glaucoma	CTV3_5digit	XaL5C	Operations following glaucoma surgery NOS
+glaucoma	CTV3_5digit	7275.	Panretinal photocoagulation for glaucoma
+glaucoma	CTV3_5digit	X00ef	Absolute glaucoma
+glaucoma	CTV3_5digit	F45..	Glaucoma
+glaucoma	CTV3_5digit	F4501	Open-angle glaucoma - borderline
+glaucoma	CTV3_5digit	F451.	Open-angle glaucoma
+glaucoma	CTV3_5digit	F4510	Unspecified open-angle glaucoma
+glaucoma	CTV3_5digit	F4511	Primary open-angle glaucoma
+glaucoma	CTV3_5digit	F4512	Low tension glaucoma
+glaucoma	CTV3_5digit	F4515	Open-angle glaucoma residual stage
+glaucoma	CTV3_5digit	F451z	Open-angle glaucoma NOS
+glaucoma	CTV3_5digit	XE2a8	Primary angle-closure glaucoma
+glaucoma	CTV3_5digit	F452.	Closed angle glaucoma
+glaucoma	CTV3_5digit	F4520	Unspecified primary angle-closure glaucoma
+glaucoma	CTV3_5digit	F4521	Intermittent angle-closure glaucoma
+glaucoma	CTV3_5digit	F4522	Acute angle-closure glaucoma
+glaucoma	CTV3_5digit	F4523	Chronic angle-closure glaucoma
+glaucoma	CTV3_5digit	F4524	Primary angle-closure glaucoma residual stage
+glaucoma	CTV3_5digit	X00ed	Plateau iris
+glaucoma	CTV3_5digit	F452z	Primary angle-closure glaucoma NOS
+glaucoma	CTV3_5digit	F45y.	Other specified forms of glaucoma
+glaucoma	CTV3_5digit	F45yz	Other specified glaucoma NOS
+glaucoma	CTV3_5digit	F45z.	Glaucoma NOS
+glaucoma	CTV3_5digit	F4631	Glaucomatous subcapsular flecks
+glaucoma	CTV3_5digit	F4H14	Optic disc glaucomatous atrophy

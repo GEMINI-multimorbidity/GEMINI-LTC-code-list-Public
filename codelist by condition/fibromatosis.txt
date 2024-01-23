@@ -1,0 +1,145 @@
+condition	vocab_id	code	description
+fibromatosis	ICD10	M72.0	Palmar fascial fibromatosis [Dupuytren]
+fibromatosis	ICD10	M72.1	Knuckle pads
+fibromatosis	Read2	7H32000	Palmar fasciectomy unspecified
+fibromatosis	Read2	7H32011	Dupuytren hand fasciectomy
+fibromatosis	Read2	7H32013	McIndoe radical palmar fasciectomy
+fibromatosis	Read2	7H32100	Revision of palmar fasciectomy
+fibromatosis	Read2	7H32400	Limited palmar fasciectomy
+fibromatosis	Read2	7H32500	Radical palmar fasciectomy
+fibromatosis	Read2	7H32700	Palmar fasciectomy using open palm technique
+fibromatosis	Read2	7H34000	Division of palmar fascia
+fibromatosis	Read2	7H34011	Division of hand fascia
+fibromatosis	Read2	7H34012	Dupuytren hand fasciotomy
+fibromatosis	Read2	7H34300	Needle fasciotomy of hand
+fibromatosis	Read2	7H35700	Fasciotomy hand
+fibromatosis	Read2	N236.00	Dupuytren's contracture
+fibromatosis	Read2	N236.11	Palmar fascia contracture
+fibromatosis	Read2	N236000	Dupuytren's disease of palm
+fibromatosis	Read2	N236100	Dupuytren's disease of palm, nodules with no contracture
+fibromatosis	Read2	N236200	Dupuytren's disease of palm, with contracture
+fibromatosis	Read2	N236300	Dupuytren's disease of finger(s)
+fibromatosis	Read2	N236400	Dupuytren's disease of finger(s), nodules with no contracture
+fibromatosis	Read2	N236500	Dupuytren's disease of finger(s), with contracture
+fibromatosis	Read2	N236600	Dupuytren's disease of palm and finger(s)
+fibromatosis	Read2	N236700	Dupuytren's disease of palm and finger(s), nodules with no contracture
+fibromatosis	Read2	N236800	Dupuytren's disease of palm and finger(s), with contracture
+fibromatosis	Read2	N237100	Knuckle pads
+fibromatosis	CTV3	XE04sY600g	Palmar fasciectomy unspecified
+fibromatosis	CTV3	Xa8RBY600h	Hand fasciectomy
+fibromatosis	CTV3	Xa8RBY600l	Excision of Dupuytren's contracture of palm
+fibromatosis	CTV3	Xa8RBY600k	McIndoe radical palmar fasciectomy
+fibromatosis	CTV3	7H321Y600o	Revision of palmar fasciectomy
+fibromatosis	CTV3	7H324Y600q	Limited palmar fasciectomy
+fibromatosis	CTV3	7H325Y600p	Radical palmar fasciectomy
+fibromatosis	CTV3	7H327Y600n	Palmar fasciectomy using open palm technique
+fibromatosis	CTV3	XE04tY601N	Division of palmar fascia
+fibromatosis	CTV3	7H340Y601P	Division of hand fascia
+fibromatosis	CTV3	Xa3vYYa6Kx	Hand fascia divided
+fibromatosis	CTV3	7H340Y601O	Dupuytren hand fasciotomy
+fibromatosis	CTV3	XaXYdYauMf	Needle fasciotomy of hand
+fibromatosis	CTV3	7H357Y601R	Fasciotomy hand
+fibromatosis	CTV3	XM0ugYMHAX	Dupuytren's contracture
+fibromatosis	CTV3	N236.YMKCT	Palmar fascia contracture
+fibromatosis	CTV3	XE1FjY70To	Dupuytren's contracture of hand
+fibromatosis	CTV3	N2360Y70Ty	Dupuytren's disease of palm
+fibromatosis	CTV3	N2361Y70Tx	Dupuytren's disease of palm, nodules with no contracture
+fibromatosis	CTV3	N2362Y70Tw	Dupuytren's disease of palm, with contracture
+fibromatosis	CTV3	N2363Y70Tv	Dupuytren's disease of finger(s)
+fibromatosis	CTV3	N2364Y70Tu	Dupuytren's disease of finger(s), nodules with no contracture
+fibromatosis	CTV3	N2365Y70Tt	Dupuytren's disease of finger(s), with contracture
+fibromatosis	CTV3	N2366Y70Ts	Dupuytren's disease of palm and finger(s)
+fibromatosis	CTV3	N2367Y70Tr	Dupuytren's disease of palm and finger(s), nodules with no contracture
+fibromatosis	CTV3	N2368Y70Tq	Dupuytren's disease of palm and finger(s), with contracture
+fibromatosis	CTV3	N2371Y50kA	Knuckle pads
+fibromatosis	medcodeid	275593012	Revision of palmar fasciectomy
+fibromatosis	medcodeid	275596016	Limited palmar fasciectomy
+fibromatosis	medcodeid	275597013	Radical palmar fasciectomy
+fibromatosis	medcodeid	275599011	Palmar fasciectomy using open palm technique
+fibromatosis	medcodeid	311622011	Dupuytren's disease of palm
+fibromatosis	medcodeid	311623018	Dupuytren's disease of palm, nodules with no contracture
+fibromatosis	medcodeid	311628010	Dupuytren's disease of finger(s)
+fibromatosis	medcodeid	311633014	Dupuytren's disease of palm and finger(s), with contracture
+fibromatosis	medcodeid	1720821000000114	Needle fasciotomy of hand
+fibromatosis	medcodeid	393495014	Palmar fasciectomy unspecified
+fibromatosis	medcodeid	224161000000114	Division of hand fascia
+fibromatosis	medcodeid	249221000006119	Palmar fascia contracture
+fibromatosis	medcodeid	632511000006117	Dupuytren hand fasciotomy
+fibromatosis	medcodeid	632531000006111	Dupuytren's dis, palm and finger(s), nodules, no contracture
+fibromatosis	medcodeid	28257010	Knuckle pads
+fibromatosis	medcodeid	632501000006115	Dupuytren hand fasciectomy
+fibromatosis	medcodeid	1786172019	McIndoe radical palmar fasciectomy
+fibromatosis	medcodeid	409907011	Dupuytren's contracture
+fibromatosis	medcodeid	632541000006118	Dupuytren's disease - finger(s), nodules with no contracture
+fibromatosis	medcodeid	1786131016	Division of palmar fascia
+fibromatosis	medcodeid	311624012	Dupuytren's disease of palm, with contracture
+fibromatosis	medcodeid	311630012	Dupuytren's disease of finger(s), with contracture
+fibromatosis	medcodeid	311631011	Dupuytren's disease of palm and finger(s)
+fibromatosis	medcodeid	275631019	Fasciotomy hand
+fibromatosis	SNOMEDCT	178050002	Revision of palmar fasciectomy
+fibromatosis	SNOMEDCT	178053000	Limited palmar fasciectomy
+fibromatosis	SNOMEDCT	178054006	Radical palmar fasciectomy
+fibromatosis	SNOMEDCT	178056008	Palmar fasciectomy using open palm technique
+fibromatosis	SNOMEDCT	203045001	Dupuytren's disease of palm
+fibromatosis	SNOMEDCT	203046000	Dupuytren's disease of palm, nodules with no contracture
+fibromatosis	SNOMEDCT	203049007	Dupuytren's disease of finger(s)
+fibromatosis	SNOMEDCT	203054003	Dupuytren's disease of palm and finger(s), with contracture
+fibromatosis	SNOMEDCT	448339003	Needle fasciotomy of hand
+fibromatosis	SNOMEDCT	24437000	Palmar fasciectomy unspecified
+fibromatosis	SNOMEDCT	397737001	Division of hand fascia
+fibromatosis	SNOMEDCT	274142002	Palmar fascia contracture
+fibromatosis	SNOMEDCT	398141006	Dupuytren hand fasciotomy
+fibromatosis	SNOMEDCT	203053009	Dupuytren's dis, palm and finger(s), nodules, no contracture
+fibromatosis	SNOMEDCT	16687001	Knuckle pads
+fibromatosis	SNOMEDCT	398211002	Dupuytren hand fasciectomy
+fibromatosis	SNOMEDCT	398211002	McIndoe radical palmar fasciectomy
+fibromatosis	SNOMEDCT	274142002	Dupuytren's contracture
+fibromatosis	SNOMEDCT	203050007	Dupuytren's disease - finger(s), nodules with no contracture
+fibromatosis	SNOMEDCT	398141006	Division of palmar fascia
+fibromatosis	SNOMEDCT	203047009	Dupuytren's disease of palm, with contracture
+fibromatosis	SNOMEDCT	203051006	Dupuytren's disease of finger(s), with contracture
+fibromatosis	SNOMEDCT	203052004	Dupuytren's disease of palm and finger(s)
+fibromatosis	SNOMEDCT	178077006	Fasciotomy hand
+fibromatosis	Read2_5digit	7H320	Palmar fasciectomy unspecified
+fibromatosis	Read2_5digit	7H321	Revision of palmar fasciectomy
+fibromatosis	Read2_5digit	7H324	Limited palmar fasciectomy
+fibromatosis	Read2_5digit	7H325	Radical palmar fasciectomy
+fibromatosis	Read2_5digit	7H327	Palmar fasciectomy using open palm technique
+fibromatosis	Read2_5digit	7H340	Division of palmar fascia
+fibromatosis	Read2_5digit	7H343	Needle fasciotomy of hand
+fibromatosis	Read2_5digit	7H357	Fasciotomy hand
+fibromatosis	Read2_5digit	N236.	Dupuytren's contracture
+fibromatosis	Read2_5digit	N2360	Dupuytren's disease of palm
+fibromatosis	Read2_5digit	N2361	Dupuytren's disease of palm, nodules with no contracture
+fibromatosis	Read2_5digit	N2362	Dupuytren's disease of palm, with contracture
+fibromatosis	Read2_5digit	N2363	Dupuytren's disease of finger(s)
+fibromatosis	Read2_5digit	N2364	Dupuytren's disease of finger(s), nodules with no contracture
+fibromatosis	Read2_5digit	N2365	Dupuytren's disease of finger(s), with contracture
+fibromatosis	Read2_5digit	N2366	Dupuytren's disease of palm and finger(s)
+fibromatosis	Read2_5digit	N2367	Dupuytren's disease of palm and finger(s), nodules with no contracture
+fibromatosis	Read2_5digit	N2368	Dupuytren's disease of palm and finger(s), with contracture
+fibromatosis	Read2_5digit	N2371	Knuckle pads
+fibromatosis	CTV3_5digit	XE04s	Palmar fasciectomy unspecified
+fibromatosis	CTV3_5digit	Xa8RB	Hand fasciectomy
+fibromatosis	CTV3_5digit	7H321	Revision of palmar fasciectomy
+fibromatosis	CTV3_5digit	7H324	Limited palmar fasciectomy
+fibromatosis	CTV3_5digit	7H325	Radical palmar fasciectomy
+fibromatosis	CTV3_5digit	7H327	Palmar fasciectomy using open palm technique
+fibromatosis	CTV3_5digit	XE04t	Division of palmar fascia
+fibromatosis	CTV3_5digit	7H340	Division of hand fascia
+fibromatosis	CTV3_5digit	Xa3vY	Hand fascia divided
+fibromatosis	CTV3_5digit	XaXYd	Needle fasciotomy of hand
+fibromatosis	CTV3_5digit	7H357	Fasciotomy hand
+fibromatosis	CTV3_5digit	XM0ug	Dupuytren's contracture
+fibromatosis	CTV3_5digit	N236.	Palmar fascia contracture
+fibromatosis	CTV3_5digit	XE1Fj	Dupuytren's contracture of hand
+fibromatosis	CTV3_5digit	N2360	Dupuytren's disease of palm
+fibromatosis	CTV3_5digit	N2361	Dupuytren's disease of palm, nodules with no contracture
+fibromatosis	CTV3_5digit	N2362	Dupuytren's disease of palm, with contracture
+fibromatosis	CTV3_5digit	N2363	Dupuytren's disease of finger(s)
+fibromatosis	CTV3_5digit	N2364	Dupuytren's disease of finger(s), nodules with no contracture
+fibromatosis	CTV3_5digit	N2365	Dupuytren's disease of finger(s), with contracture
+fibromatosis	CTV3_5digit	N2366	Dupuytren's disease of palm and finger(s)
+fibromatosis	CTV3_5digit	N2367	Dupuytren's disease of palm and finger(s), nodules with no contracture
+fibromatosis	CTV3_5digit	N2368	Dupuytren's disease of palm and finger(s), with contracture
+fibromatosis	CTV3_5digit	N2371	Knuckle pads

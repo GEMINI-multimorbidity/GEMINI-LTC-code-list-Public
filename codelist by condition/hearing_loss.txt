@@ -1,0 +1,744 @@
+condition	vocab_id	code	description
+hearing_loss	ICD10	H90	Conductive and sensorineural hearing loss
+hearing_loss	ICD10	H91	Other hearing loss
+hearing_loss	ICD10	Z45.3	Adjustment and management of implanted hearing device
+hearing_loss	ICD10	Z45.32	Encounter for adjustment and management of implanted hearing device
+hearing_loss	ICD10	Z46.1	Fitting and adjustment of hearing aid
+hearing_loss	ICD10	Z97.4	Presence of external hearing-aid
+hearing_loss	Read2	1493.00	H/O: hearing problem
+hearing_loss	Read2	1C13.00	Deafness
+hearing_loss	Read2	1C13.11	Deafness symptom
+hearing_loss	Read2	1C13100	Unilateral deafness
+hearing_loss	Read2	1C13200	Partial deafness
+hearing_loss	Read2	1C13300	Bilateral deafness
+hearing_loss	Read2	1C17.00	Hearing aid problem
+hearing_loss	Read2	2BL..11	O/E - deaf
+hearing_loss	Read2	2BL3.00	O/E - significantly deaf
+hearing_loss	Read2	2BL4.00	O/E - very deaf
+hearing_loss	Read2	2BL5.00	O/E - completely deaf
+hearing_loss	Read2	2BM2.11	O/E - conductive deafness
+hearing_loss	Read2	2BM3.11	O/E - perceptive deafness
+hearing_loss	Read2	2DG..00	Hearing aid worn
+hearing_loss	Read2	2DH0.00	Uses hearing loop
+hearing_loss	Read2	7308400	Placement of hearing implant in external ear
+hearing_loss	Read2	7308500	Attention to hearing implant in external ear
+hearing_loss	Read2	7308600	Removal of hearing implant from external ear
+hearing_loss	Read2	7311A00	Insertion of bone anchors for subcutaneous bone anchored hearing aid
+hearing_loss	Read2	7317.00	Other operations on middle ear
+hearing_loss	Read2	7317C00	Placement of hearing implant in middle ear
+hearing_loss	Read2	7317D00	Attention to hearing implant in middle ear
+hearing_loss	Read2	7319.00	Attachment of bone anchored hearing prosthesis
+hearing_loss	Read2	7319000	Insertion of fixtures for bone anchored hearing prosthesis Stage 1
+hearing_loss	Read2	7319100	Insertion of fixtures for bone anchored hearing prosthesis Stage 2
+hearing_loss	Read2	7319200	Reduction of soft tissue for bone anchored hearing prosthesis
+hearing_loss	Read2	7319300	Attention to fixtures for bone anchored hearing prosthesis
+hearing_loss	Read2	7319400	One stage insertion of fixtures for bone anchored hearing prosthesis
+hearing_loss	Read2	7319500	Fitting of external hearing prosthesis to bone anchored fixtures
+hearing_loss	Read2	7319600	First stage insertion of fixtures for bone anchored hearing prosthesis
+hearing_loss	Read2	7319700	Second stage insertion of fixtures for bone anchored hearing prosthesis
+hearing_loss	Read2	7319y00	Other specified attachment of bone anchored hearing prosthesis
+hearing_loss	Read2	7319z00	Attachment of bone anchored hearing prosthesis NOS
+hearing_loss	Read2	8D2..12	Hearing aid provision
+hearing_loss	Read2	8D21.00	Provide head worn hearing aid
+hearing_loss	Read2	8D22.00	Provide body worn hearing aid
+hearing_loss	Read2	8D23.00	Ear fitting hearing aid
+hearing_loss	Read2	8D24.00	Replace hearing aid battery
+hearing_loss	Read2	8D26.00	Provision of replacement hearing aid
+hearing_loss	Read2	8E3..00	Deafness remedial therapy
+hearing_loss	Read2	8E3Z.00	Deafness remedial therapy NOS
+hearing_loss	Read2	8HT2.00	Referral to hearing aid clinic
+hearing_loss	Read2	8M41.00	Hearing aid requested
+hearing_loss	Read2	9N0b.00	Seen in hearing aid clinic
+hearing_loss	Read2	9NfB.00	Requires deafblind communicator guide
+hearing_loss	Read2	A560200	Rubella deafness
+hearing_loss	Read2	F580100	Presbyacusis
+hearing_loss	Read2	F580111	Senile presbyacusis
+hearing_loss	Read2	F581200	Noise-induced hearing loss
+hearing_loss	Read2	F581211	Noise induced deafness
+hearing_loss	Read2	F582.00	Unspecified sudden hearing loss
+hearing_loss	Read2	F59..00	Hearing loss
+hearing_loss	Read2	F59..11	Deafness
+hearing_loss	Read2	F590.00	Conductive hearing loss
+hearing_loss	Read2	F590.11	Conductive deafness
+hearing_loss	Read2	F590000	Unspecified conductive hearing loss
+hearing_loss	Read2	F590100	Conductive hearing loss due to disorder of external ear
+hearing_loss	Read2	F590200	Conductive hearing loss due to disorder of tympanic membrane
+hearing_loss	Read2	F590300	Conductive hearing loss due to disorder of middle ear
+hearing_loss	Read2	F590400	Conductive hearing loss due to disorder of inner ear
+hearing_loss	Read2	F590500	Conductive hearing loss, bilateral
+hearing_loss	Read2	F590600	Conductive hearing loss, unilateral with unrestricted hearing on the contralateral side
+hearing_loss	Read2	F590y00	Combined conductive hearing loss
+hearing_loss	Read2	F590z00	Conductive hearing loss NOS
+hearing_loss	Read2	F591.00	Sensorineural hearing loss
+hearing_loss	Read2	F591.11	High frequency deafness
+hearing_loss	Read2	F591.12	Low frequency deafness
+hearing_loss	Read2	F591.13	Perceptive deafness
+hearing_loss	Read2	F591.14	Perceptive hearing loss
+hearing_loss	Read2	F591000	Unspecified perceptive hearing loss
+hearing_loss	Read2	F591100	Sensory hearing loss
+hearing_loss	Read2	F591200	Neural hearing loss
+hearing_loss	Read2	F591211	Nerve deafness
+hearing_loss	Read2	F591300	Central hearing loss
+hearing_loss	Read2	F591400	Congenital sensorineural deafness
+hearing_loss	Read2	F591500	Ototoxicity - deafness
+hearing_loss	Read2	F591511	Drug ototoxicity - deafness
+hearing_loss	Read2	F591600	Sensorineural hearing loss, bilateral
+hearing_loss	Read2	F591700	Sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side
+hearing_loss	Read2	F591800	Congenital prelingual deafness
+hearing_loss	Read2	F591900	Bilateral profound sensorineural hearing loss
+hearing_loss	Read2	F591A00	Bilateral congenital sensorineural hearing loss
+hearing_loss	Read2	F591B00	Profound sensorineural hearing loss
+hearing_loss	Read2	F591C00	Moderate sensorineural hearing loss
+hearing_loss	Read2	F591D00	Mild sensorineural hearing loss
+hearing_loss	Read2	F591E00	Severe sensorineural hearing loss
+hearing_loss	Read2	F591y00	Combined perceptive hearing loss
+hearing_loss	Read2	F591z00	Perceptive hearing loss NOS
+hearing_loss	Read2	F592.00	Mixed conductive and sensorineural deafness
+hearing_loss	Read2	F592.11	Mixed hearing loss
+hearing_loss	Read2	F592000	Mixed conductive and sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side
+hearing_loss	Read2	F592100	Mixed conductive and sensorineural hearing loss, bilateral
+hearing_loss	Read2	F593.00	Deaf mutism, NEC
+hearing_loss	Read2	F594.00	High frequency deafness
+hearing_loss	Read2	F595.00	Low frequency deafness
+hearing_loss	Read2	F596.00	Maternally inherited deafness
+hearing_loss	Read2	F597.00	Mild acquired hearing loss
+hearing_loss	Read2	F598.00	Moderate acquired hearing loss
+hearing_loss	Read2	F599.00	Severe acquired hearing loss
+hearing_loss	Read2	F59A.00	Profound acquired hearing loss
+hearing_loss	Read2	F59A.11	Deafened
+hearing_loss	Read2	F59y.00	Other specified forms of hearing loss
+hearing_loss	Read2	F59z.00	Deafness NOS
+hearing_loss	Read2	F59z.11	Chronic deafness
+hearing_loss	Read2	F5A..00	Hearing impairment
+hearing_loss	Read2	Fy1..00	Combined visual and hearing impairment
+hearing_loss	Read2	FyuU000	[X]Deaf mutism, not elsewhere classified
+hearing_loss	Read2	FyuU100	[X]Other specified hearing loss
+hearing_loss	Read2	P40..00	Ear anomalies with hearing impairment
+hearing_loss	Read2	P400.00	Ear anomalies with hearing impaired, unspecified
+hearing_loss	Read2	P402.00	Other external ear anomaly with hearing impairment
+hearing_loss	Read2	P402z00	Other external ear anomaly with hearing impairment NOS
+hearing_loss	Read2	P40z.00	Other and unspecified ear anomaly with hearing impaired
+hearing_loss	Read2	P40z.11	Deafness due to congenital anomaly NEC
+hearing_loss	Read2	P40zz00	Ear anomaly with hearing impaired NOS
+hearing_loss	Read2	PKyP.00	Diabetes insipidus, diabetes mellitus, optic atrophy and deafness
+hearing_loss	Read2	Pyu1B00	[X]Malformation of ear with impairment of hearing, unspecified
+hearing_loss	Read2	Z8B5.00	Ability to use hearing aid
+hearing_loss	Read2	Z8B5100	Able to use hearing aid
+hearing_loss	Read2	Z8B5300	Does use hearing aid
+hearing_loss	Read2	Z8B5311	Uses hearing aid
+hearing_loss	Read2	Z8B5500	Difficulty using hearing aid
+hearing_loss	Read2	Z911.00	Hearing aid procedure
+hearing_loss	Read2	Z911100	Fit hearing aid
+hearing_loss	Read2	Z911300	Adjust hearing aid settings
+hearing_loss	Read2	Z911400	Changing hearing aid battery
+hearing_loss	Read2	Z911500	Checking hearing aid
+hearing_loss	Read2	Z911700	Switching on hearing aid
+hearing_loss	Read2	Z911800	Turning off hearing aid
+hearing_loss	Read2	Z911900	Putting on hearing aid
+hearing_loss	Read2	Z911A00	Listening for feedback whistle of hearing aid
+hearing_loss	Read2	Z911B00	Attention to hearing aid
+hearing_loss	Read2	Z911E00	Fit ear mould for existing hearing aid
+hearing_loss	Read2	Z911G00	Fit ear mould for hearing protection
+hearing_loss	Read2	Z9E8100	Hearing aid provision
+hearing_loss	Read2	ZE87.00	Hearing loss
+hearing_loss	Read2	ZE87.11	Deafness
+hearing_loss	Read2	ZE87.13	Hard of hearing
+hearing_loss	Read2	ZE87.15	HI - Hearing impairment
+hearing_loss	Read2	ZE87.16	HL - Hearing loss
+hearing_loss	Read2	ZE87.17	HOH - Hard of hearing
+hearing_loss	Read2	ZE87.18	Hearing impairment
+hearing_loss	Read2	ZE87.19	Hearing impaired
+hearing_loss	Read2	ZE87.20	Hearing impaired
+hearing_loss	Read2	ZL71600	Referral to registered hearing aid dispenser
+hearing_loss	Read2	ZN56900	Deaf telephone user
+hearing_loss	Read2	ZV45G00	[V]Presence of external hearing-aid
+hearing_loss	Read2	ZV45N00	[V]Bone anchored hearing aid in situ
+hearing_loss	Read2	ZV53200	[V]Fitting or adjustment of hearing aid
+hearing_loss	Read2	ZV53D00	[V]Adjustment and management of implanted hearing device
+hearing_loss	CTV3	1493.Ya04f	H/O: hearing problem
+hearing_loss	CTV3	XE0s9Y02Q0	Deafness
+hearing_loss	CTV3	XM0CbYM1il	Deafness symptom
+hearing_loss	CTV3	1C131Y7CgF	Unilateral deafness
+hearing_loss	CTV3	1C132YaXyV	Partial deafness
+hearing_loss	CTV3	1C133YaYSb	Bilateral deafness
+hearing_loss	CTV3	XaIRoYaktZ	Hearing aid problem
+hearing_loss	CTV3	XM1X8YM0LY	O/E - deaf
+hearing_loss	CTV3	2BL3.YM0Lb	O/E - significantly deaf
+hearing_loss	CTV3	2BL4.YM0Lc	O/E - very deaf
+hearing_loss	CTV3	2BL5.YM0Ld	O/E - completely deaf
+hearing_loss	CTV3	2BM2.YM0Li	O/E - conductive deafness
+hearing_loss	CTV3	F590.YMH36	Conductive deafness
+hearing_loss	CTV3	2BM3.YM0Lk	O/E - perceptive deafness
+hearing_loss	CTV3	Xa0LNYa1Tz	Hearing aid worn
+hearing_loss	CTV3	XaKjDYanza	Uses hearing loop
+hearing_loss	CTV3	XaLNaYaoSs	Placement of hearing implant in external ear
+hearing_loss	CTV3	XaLNbYaoSt	Attention to hearing implant in external ear
+hearing_loss	CTV3	XaLNcYaoSu	Removal of hearing implant from external ear
+hearing_loss	CTV3	X00h2Y02DU	Insertion of bone anchors for subcutaneous bone anchored hearing aid
+hearing_loss	CTV3	7317.Y02Cq	Other operations on middle ear
+hearing_loss	CTV3	XaLNhYaoSz	Placement of hearing implant in middle ear
+hearing_loss	CTV3	XaLNiYaoT0	Attention to hearing implant in middle ear
+hearing_loss	CTV3	XaLNlYaoT3	Attachment of bone anchored hearing prosthesis
+hearing_loss	CTV3	XaLNmYaoT4	Insertion of fixtures for bone anchored hearing prosthesis Stage 1
+hearing_loss	CTV3	XaLNnYaoT5	Insertion of fixtures for bone anchored hearing prosthesis Stage 2
+hearing_loss	CTV3	XaLNoYaoT6	Reduction of soft tissue for bone anchored hearing prosthesis
+hearing_loss	CTV3	XaLNpYaoT7	Attention to fixtures for bone anchored hearing prosthesis
+hearing_loss	CTV3	XaMkvYaplr	One stage insertion of fixtures for bone anchored hearing prosthesis
+hearing_loss	CTV3	XaMkwYapls	Fitting of external hearing prosthesis to bone anchored fixtures
+hearing_loss	CTV3	XaLNmYaps9	First stage insertion of fixtures for bone anchored hearing prosthesis
+hearing_loss	CTV3	XaLNnYapsA	Second stage insertion of fixtures for bone anchored hearing prosthesis
+hearing_loss	CTV3	XaLNqYaoT8	Other specified attachment of bone anchored hearing prosthesis
+hearing_loss	CTV3	XaLNrYaoT9	Attachment of bone anchored hearing prosthesis NOS
+hearing_loss	CTV3	Xa1plY79Kg	Hearing aid provision
+hearing_loss	CTV3	8D21.Y79Kj	Provide head worn hearing aid
+hearing_loss	CTV3	8D22.Y79Kk	Provide body worn hearing aid
+hearing_loss	CTV3	8D23.Y79Kl	Ear fitting hearing aid
+hearing_loss	CTV3	8D24.Y79Km	Replace hearing aid battery
+hearing_loss	CTV3	XaZp4Yavkx	Provision of replacement hearing aid
+hearing_loss	CTV3	8E3..Y75WV	Deafness remedial therapy
+hearing_loss	CTV3	8E3Z.Y75WY	Deafness remedial therapy NOS
+hearing_loss	CTV3	8HT2.YaVyt	Refer to hearing aid clinic
+hearing_loss	CTV3	XaIktYalHf	Hearing aid requested
+hearing_loss	CTV3	XaEEVYaeVx	Seen in hearing aid clinic
+hearing_loss	CTV3	XaYB3Yaugm	Requires deafblind communicator guide
+hearing_loss	CTV3	A5602YM0k3	Rubella deafness
+hearing_loss	CTV3	F5801Y02QW	Presbyacusis
+hearing_loss	CTV3	F5812Y02PU	Noise-induced hearing loss
+hearing_loss	CTV3	F5812Y02PV	NIHL - Noise-induced hearing loss
+hearing_loss	CTV3	F582.Y02Q1	Unspecified sudden hearing loss
+hearing_loss	CTV3	XE0s9Y02Pz	Hearing loss
+hearing_loss	CTV3	F590.Y02Q6	Conductive hearing loss
+hearing_loss	CTV3	F5900Y02Q8	Unspecified conductive hearing loss
+hearing_loss	CTV3	F5901Y02Q9	Conductive hearing loss due to disorder of external ear
+hearing_loss	CTV3	F5902Y02QA	Conductive hearing loss due to disorder of tympanic membrane
+hearing_loss	CTV3	F5903Y02QB	Conductive hearing loss due to disorder of middle ear
+hearing_loss	CTV3	F5904Y02QC	Conductive hearing loss due to disorder of inner ear
+hearing_loss	CTV3	F5905YMAyw	Conductive hearing loss, bilateral
+hearing_loss	CTV3	F5906YMAyx	Conductive hearing loss, unilateral with unrestricted hearing on the contralateral side
+hearing_loss	CTV3	F590yY02QD	Combined conductive hearing loss
+hearing_loss	CTV3	F590zY02QE	Conductive hearing loss NOS
+hearing_loss	CTV3	XE17NY02QF	Sensorineural hearing loss
+hearing_loss	CTV3	X00kPY02QJ	High frequency deafness
+hearing_loss	CTV3	X00kQY02QK	Low frequency deafness
+hearing_loss	CTV3	XE17NYMH37	Perceptive deafness
+hearing_loss	CTV3	XE17NY02QH	Perceptive hearing loss
+hearing_loss	CTV3	F5910Y02QL	Unspecified perceptive hearing loss
+hearing_loss	CTV3	F5911Y02Qb	Sensory hearing loss
+hearing_loss	CTV3	F5912Y02Qc	Neural hearing loss
+hearing_loss	CTV3	F5912Y02Qd	Nerve deafness
+hearing_loss	CTV3	F5913Y02Qi	Central hearing loss
+hearing_loss	CTV3	F5914Y02QM	Congenital sensorineural deafness
+hearing_loss	CTV3	XE17OY02QN	Ototoxicity - deafness
+hearing_loss	CTV3	XM1QGY02QO	Drug ototoxicity - deafness
+hearing_loss	CTV3	F5916YMAyy	Sensorineural hearing loss, bilateral
+hearing_loss	CTV3	F5917YMAyz	Sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side
+hearing_loss	CTV3	XaRE1Yati7	Congenital prelingual deafness
+hearing_loss	CTV3	XaaLfYawDg	Bilateral profound sensorineural hearing loss
+hearing_loss	CTV3	XaaLgYawDh	Bilateral congenital sensorineural hearing loss
+hearing_loss	CTV3	XaZuEYavoC	Profound sensorineural hearing loss
+hearing_loss	CTV3	XaZuAYavoA	Moderate sensorineural hearing loss
+hearing_loss	CTV3	XaZuFYavoD	Mild sensorineural hearing loss
+hearing_loss	CTV3	XaZuBYavoB	Severe sensorineural hearing loss
+hearing_loss	CTV3	F591yY02QP	Combined perceptive hearing loss
+hearing_loss	CTV3	F591zY02QQ	Perceptive hearing loss NOS
+hearing_loss	CTV3	F592.YMK5L	Mixed conductive and sensorineural deafness
+hearing_loss	CTV3	F592.Y02Qg	Mixed hearing loss
+hearing_loss	CTV3	F5920YMAz0	Mixed conductive and sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side
+hearing_loss	CTV3	F5921YMB8T	Mixed conductive and sensorineural hearing loss, bilateral
+hearing_loss	CTV3	F593.Y02Q2	Deaf mutism, NEC
+hearing_loss	CTV3	XaOPsYar0i	Maternally inherited deafness
+hearing_loss	CTV3	XaRE2Yati8	Mild acquired hearing loss
+hearing_loss	CTV3	XaRE3Yati9	Moderate acquired hearing loss
+hearing_loss	CTV3	XaRE4YatiA	Severe acquired hearing loss
+hearing_loss	CTV3	XaRE5YatiB	Profound acquired hearing loss
+hearing_loss	CTV3	XaRE5Yattc	Deafened
+hearing_loss	CTV3	F59y.Y02Q3	Other specified forms of hearing loss
+hearing_loss	CTV3	XE17PY02Q4	Deafness NOS
+hearing_loss	CTV3	X00kOY02Q5	Chronic deafness
+hearing_loss	CTV3	XE0s9Ya1ae	Hearing impairment
+hearing_loss	CTV3	XaYPJYaumG	Combined visual and hearing impairment
+hearing_loss	CTV3	FyuU0YMAGi	[X]Deaf mutism, not elsewhere classified
+hearing_loss	CTV3	FyuU1YMAGj	[X]Other specified hearing loss
+hearing_loss	CTV3	P40..Y7HcL	Ear anomalies with hearing impairment
+hearing_loss	CTV3	P400.Y7HcR	Ear anomalies with hearing impaired, unspecified
+hearing_loss	CTV3	P402.Y7HcP	Other external ear anomaly with hearing impairment
+hearing_loss	CTV3	P402zY7HcQ	Other external ear anomaly with hearing impairment NOS
+hearing_loss	CTV3	XE1K4Y7HcO	Other and unspecified ear anomaly with hearing impaired
+hearing_loss	CTV3	X77tBY7HcM	Deafness due to congenital anomaly NEC
+hearing_loss	CTV3	P40zzY7HcN	Ear anomaly with hearing impaired NOS
+hearing_loss	CTV3	X008tY00TM	Diabetes insipidus, diabetes mellitus, optic atrophy and deafness
+hearing_loss	CTV3	Pyu1BYMAUu	[X]Malformation of ear with impairment of hearing, unspecified
+hearing_loss	CTV3	ZV45GYM9lY	[V]Presence of external hearing-aid
+hearing_loss	CTV3	XaPEUYarqz	[V]Bone anchored hearing aid in situ
+hearing_loss	CTV3	ZV532Ya0kq	[V]Fitting or adjustment of hearing aid
+hearing_loss	CTV3	ZV53DYM9nC	[V]Adjustment and management of implanted hearing device
+hearing_loss	medcodeid	25788011	Hearing loss
+hearing_loss	medcodeid	70962017	Low frequency deafness
+hearing_loss	medcodeid	73473018	Conductive deafness
+hearing_loss	medcodeid	100850012	Sensorineural hearing loss
+hearing_loss	medcodeid	100856018	Perceptive hearing loss
+hearing_loss	medcodeid	100857010	Perceptive deafness
+hearing_loss	medcodeid	121849011	Neural hearing loss
+hearing_loss	medcodeid	253161014	Unilateral deafness
+hearing_loss	medcodeid	253163012	Bilateral deafness
+hearing_loss	medcodeid	255427017	O/E - very deaf
+hearing_loss	medcodeid	255435019	O/E - perceptive deafness
+hearing_loss	medcodeid	283069016	Provide head worn hearing aid
+hearing_loss	medcodeid	283070015	Provide body worn hearing aid
+hearing_loss	medcodeid	283071016	Ear fitting hearing aid
+hearing_loss	medcodeid	283305018	Deafness remedial therapy
+hearing_loss	medcodeid	299241011	Conductive hearing loss due to disorder of external ear
+hearing_loss	medcodeid	299242016	Conductive hearing loss due to disorder of tympanic membrane
+hearing_loss	medcodeid	299245019	Conductive hearing loss, bilateral
+hearing_loss	medcodeid	299261017	Combined perceptive hearing loss
+hearing_loss	medcodeid	348075014	Chronic deafness
+hearing_loss	medcodeid	348076010	High frequency deafness
+hearing_loss	medcodeid	399507018	Ototoxicity - deafness
+hearing_loss	medcodeid	407075014	Deafness symptom
+hearing_loss	medcodeid	411844019	O/E - deaf
+hearing_loss	medcodeid	457008018	Seen in hearing aid clinic
+hearing_loss	medcodeid	502417018	Nerve deafness
+hearing_loss	medcodeid	512317011	Congenital sensorineural deafness
+hearing_loss	medcodeid	1234118017	Mixed conductive and sensorineural deafness
+hearing_loss	medcodeid	1234119013	Mixed hearing loss
+hearing_loss	medcodeid	1488593014	Hearing aid requested
+hearing_loss	medcodeid	2675903011	Removal of hearing implant from external ear
+hearing_loss	medcodeid	2675905016	Attachment of bone anchored hearing prosthesis
+hearing_loss	medcodeid	2695992016	Attention to hearing implant in middle ear
+hearing_loss	medcodeid	1173591000000110	Congenital prelingual deafness
+hearing_loss	medcodeid	1779881000000115	Requires deafblind communicator guide
+hearing_loss	medcodeid	2226281000000117	Moderate sensorineural hearing loss
+hearing_loss	medcodeid	2264121000000111	Bilateral profound sensorineural hearing loss
+hearing_loss	medcodeid	267384010	Other operations on middle ear
+hearing_loss	medcodeid	299208013	Unspecified sudden hearing loss
+hearing_loss	medcodeid	299240012	Unspecified conductive hearing loss
+hearing_loss	medcodeid	299248017	Conductive hearing loss NOS
+hearing_loss	medcodeid	299255015	Unspecified perceptive hearing loss
+hearing_loss	medcodeid	299265014	Deaf mutism, NEC
+hearing_loss	medcodeid	313159017	Other external ear anomaly with hearing impairment
+hearing_loss	medcodeid	377153018	Deafness due to congenital anomaly NEC
+hearing_loss	medcodeid	148351000006111	Senile presbyacusis
+hearing_loss	medcodeid	185541000006117	Referral to hearing aid clinic
+hearing_loss	medcodeid	207971000006112	Presbyacusis
+hearing_loss	medcodeid	361091000000119	Placement of hearing implant in external ear
+hearing_loss	medcodeid	578361000006118	Conduct hear loss,unilat+unrestric hearing on contralat side
+hearing_loss	medcodeid	622201000000110	Maternally inherited deafness
+hearing_loss	medcodeid	1542761000006115	Insertion fixtures bone anchored hearing prosthesis Stage 2
+hearing_loss	medcodeid	1586391000006119	One stage insert fixtures bone anchored hearing prosthesis
+hearing_loss	medcodeid	25785014	Deafness
+hearing_loss	medcodeid	669051000000119	[V]Bone anchored hearing aid in situ
+hearing_loss	medcodeid	1173611000000119	Mild acquired hearing loss
+hearing_loss	medcodeid	1173631000000110	Moderate acquired hearing loss
+hearing_loss	medcodeid	1173671000000112	Profound acquired hearing loss
+hearing_loss	medcodeid	460695014	[V]Presence of external hearing-aid
+hearing_loss	medcodeid	460886016	[V]Adjustment and management of implanted hearing device
+hearing_loss	medcodeid	413668018	Hearing aid worn
+hearing_loss	medcodeid	299262012	Perceptive hearing loss NOS
+hearing_loss	medcodeid	299550012	[X]Deaf mutism, not elsewhere classified
+hearing_loss	medcodeid	255434015	O/E - conductive deafness
+hearing_loss	medcodeid	2226361000000117	Profound sensorineural hearing loss
+hearing_loss	medcodeid	298231000000110	Uses hearing loop
+hearing_loss	medcodeid	2773231012	Combined visual and hearing impairment
+hearing_loss	medcodeid	299243014	Conductive hearing loss due to disorder of middle ear
+hearing_loss	medcodeid	299247010	Combined conductive hearing loss
+hearing_loss	medcodeid	299264013	Mixed conductive and sensorineural hearing loss, bilateral
+hearing_loss	medcodeid	286780017	Rubella deafness
+hearing_loss	medcodeid	113719012	Central hearing loss
+hearing_loss	medcodeid	299551011	[X]Other specified hearing loss
+hearing_loss	medcodeid	608101000006118	Deafness
+hearing_loss	medcodeid	700951000006112	Mix cond/sensneurl hear loss,unlat unrestrc hear/contrlat sd
+hearing_loss	medcodeid	772531000006119	Insertn bone anchors subcutaneous bone anchored hearing aid
+hearing_loss	medcodeid	1542791000006111	Other specified attachment bone anchored hearing prosthesis
+hearing_loss	medcodeid	148551000006115	Sensorineurl hear loss,unilat unrestrict hear/contralat side
+hearing_loss	medcodeid	477221017	Hearing impairment
+hearing_loss	medcodeid	360731000000111	Attention to fixtures for bone anchored hearing prosthesis
+hearing_loss	medcodeid	2882346015	Provision of replacement hearing aid
+hearing_loss	medcodeid	411470013	Drug ototoxicity - deafness
+hearing_loss	medcodeid	283072011	Replace hearing aid battery
+hearing_loss	medcodeid	255428010	O/E - completely deaf
+hearing_loss	medcodeid	360771000000113	Placement of hearing implant in middle ear
+hearing_loss	medcodeid	378241000000119	Attachment of bone anchored hearing prosthesis NOS
+hearing_loss	medcodeid	587171000006119	Noise induced deafness
+hearing_loss	medcodeid	733941000006114	Low frequency deafness
+hearing_loss	medcodeid	822981000006112	High frequency deafness
+hearing_loss	medcodeid	1586401000006117	Fitting external hearing prosthesis bone anchored fixtures
+hearing_loss	medcodeid	399508011	Deafness NOS
+hearing_loss	medcodeid	460872015	[V]Fitting or adjustment of hearing aid
+hearing_loss	medcodeid	313164018	Other external ear anomaly with hearing impairment NOS
+hearing_loss	medcodeid	2226301000000116	Severe sensorineural hearing loss
+hearing_loss	medcodeid	2226381000000114	Mild sensorineural hearing loss
+hearing_loss	medcodeid	2264161000000115	Bilateral congenital sensorineural hearing loss
+hearing_loss	medcodeid	470343013	Partial deafness
+hearing_loss	medcodeid	313148014	Ear anomalies with hearing impairment
+hearing_loss	medcodeid	251667016	H/O: hearing problem
+hearing_loss	medcodeid	255426014	O/E - significantly deaf
+hearing_loss	medcodeid	1586421000006110	Second stage ins fixtures for bone anchored hearing prosth
+hearing_loss	medcodeid	1848531000006116	Diab insipidus,diab mell,optic atrophy and deafness
+hearing_loss	medcodeid	396151000006111	[X]Malformation of ear with impairment of hearing, unspec
+hearing_loss	medcodeid	2693867016	Attention to hearing implant in external ear
+hearing_loss	medcodeid	1484996016	Hearing aid problem
+hearing_loss	medcodeid	419723011	Hearing aid provision
+hearing_loss	medcodeid	299244015	Conductive hearing loss due to disorder of inner ear
+hearing_loss	medcodeid	299259014	Sensorineural hearing loss, bilateral
+hearing_loss	medcodeid	73470015	Conductive hearing loss
+hearing_loss	medcodeid	121916015	Noise-induced hearing loss
+hearing_loss	medcodeid	141844010	Sensory hearing loss
+hearing_loss	medcodeid	1542751000006117	Insertion fixtures bone anchored hearing prosthesis Stage 1
+hearing_loss	medcodeid	1542771000006110	Reduction soft tissue for bone anchored hearing prosthesis
+hearing_loss	medcodeid	1586411000006119	First stge ins fixtures for bone anchored hearing prosthesis
+hearing_loss	medcodeid	283308016	Deafness remedial therapy NOS
+hearing_loss	medcodeid	313149018	Ear anomalies with hearing impaired, unspecified
+hearing_loss	medcodeid	313177010	Ear anomaly with hearing impaired NOS
+hearing_loss	medcodeid	400791015	Other and unspecified ear anomaly with hearing impaired
+hearing_loss	medcodeid	1173651000000115	Severe acquired hearing loss
+hearing_loss	medcodeid	1668111000000114	Deafened
+hearing_loss	medcodeid	299266010	Other specified forms of hearing loss
+hearing_loss	SNOMEDCT	15188001	Hearing loss
+hearing_loss	SNOMEDCT	42538001	Low frequency deafness
+hearing_loss	SNOMEDCT	44057004	Conductive deafness
+hearing_loss	SNOMEDCT	60700002	Sensorineural hearing loss
+hearing_loss	SNOMEDCT	60700002	Perceptive hearing loss
+hearing_loss	SNOMEDCT	60700002	Perceptive deafness
+hearing_loss	SNOMEDCT	73371001	Neural hearing loss
+hearing_loss	SNOMEDCT	162342008	Unilateral deafness
+hearing_loss	SNOMEDCT	162344009	Bilateral deafness
+hearing_loss	SNOMEDCT	164062007	O/E - very deaf
+hearing_loss	SNOMEDCT	164069003	O/E - perceptive deafness
+hearing_loss	SNOMEDCT	183123004	Provide head worn hearing aid
+hearing_loss	SNOMEDCT	183124005	Provide body worn hearing aid
+hearing_loss	SNOMEDCT	183125006	Ear fitting hearing aid
+hearing_loss	SNOMEDCT	183280009	Deafness remedial therapy
+hearing_loss	SNOMEDCT	194413008	Conductive hearing loss due to disorder of external ear
+hearing_loss	SNOMEDCT	194414002	Conductive hearing loss due to disorder of tympanic membrane
+hearing_loss	SNOMEDCT	194417009	Conductive hearing loss, bilateral
+hearing_loss	SNOMEDCT	194426007	Combined perceptive hearing loss
+hearing_loss	SNOMEDCT	232325008	Chronic deafness
+hearing_loss	SNOMEDCT	232326009	High frequency deafness
+hearing_loss	SNOMEDCT	267677007	Ototoxicity - deafness
+hearing_loss	SNOMEDCT	272033007	Deafness symptom
+hearing_loss	SNOMEDCT	275879008	O/E - deaf
+hearing_loss	SNOMEDCT	313152005	Seen in hearing aid clinic
+hearing_loss	SNOMEDCT	73371001	Nerve deafness
+hearing_loss	SNOMEDCT	95828007	Congenital sensorineural deafness
+hearing_loss	SNOMEDCT	77507001	Mixed conductive and sensorineural deafness
+hearing_loss	SNOMEDCT	77507001	Mixed hearing loss
+hearing_loss	SNOMEDCT	394889008	Hearing aid requested
+hearing_loss	SNOMEDCT	426706000	Removal of hearing implant from external ear
+hearing_loss	SNOMEDCT	426733001	Attachment of bone anchored hearing prosthesis
+hearing_loss	SNOMEDCT	429383008	Attention to hearing implant in middle ear
+hearing_loss	SNOMEDCT	699238006	Congenital prelingual deafness
+hearing_loss	SNOMEDCT	796201000000109	Requires deafblind communicator guide
+hearing_loss	SNOMEDCT	860801000000109	Moderate sensorineural hearing loss
+hearing_loss	SNOMEDCT	877191000000104	Bilateral profound sensorineural hearing loss
+hearing_loss	SNOMEDCT	21355007	Other operations on middle ear
+hearing_loss	SNOMEDCT	79471008	Unspecified sudden hearing loss
+hearing_loss	SNOMEDCT	44057004	Unspecified conductive hearing loss
+hearing_loss	SNOMEDCT	44057004	Conductive hearing loss NOS
+hearing_loss	SNOMEDCT	60700002	Unspecified perceptive hearing loss
+hearing_loss	SNOMEDCT	61947007	Deaf mutism, NEC
+hearing_loss	SNOMEDCT	25906001	Other external ear anomaly with hearing impairment
+hearing_loss	SNOMEDCT	204224006	Deafness due to congenital anomaly NEC
+hearing_loss	SNOMEDCT	49526009	Senile presbyacusis
+hearing_loss	SNOMEDCT	183853009	Referral to hearing aid clinic
+hearing_loss	SNOMEDCT	49526009	Presbyacusis
+hearing_loss	SNOMEDCT	429585000	Placement of hearing implant in external ear
+hearing_loss	SNOMEDCT	194418004	Conduct hear loss,unilat+unrestric hearing on contralat side
+hearing_loss	SNOMEDCT	95828007	Maternally inherited deafness
+hearing_loss	SNOMEDCT	225951000000109	Insertion fixtures bone anchored hearing prosthesis Stage 2
+hearing_loss	SNOMEDCT	280651000000104	One stage insert fixtures bone anchored hearing prosthesis
+hearing_loss	SNOMEDCT	15188001	Deafness
+hearing_loss	SNOMEDCT	761591000000105	[V]Bone anchored hearing aid in situ
+hearing_loss	SNOMEDCT	737047001	Mild acquired hearing loss
+hearing_loss	SNOMEDCT	737048006	Moderate acquired hearing loss
+hearing_loss	SNOMEDCT	737050003	Profound acquired hearing loss
+hearing_loss	SNOMEDCT	285055002	[V]Presence of external hearing-aid
+hearing_loss	SNOMEDCT	416121000000101	[V]Adjustment and management of implanted hearing device
+hearing_loss	SNOMEDCT	285055002	Hearing aid worn
+hearing_loss	SNOMEDCT	60700002	Perceptive hearing loss NOS
+hearing_loss	SNOMEDCT	61947007	[X]Deaf mutism, not elsewhere classified
+hearing_loss	SNOMEDCT	44057004	O/E - conductive deafness
+hearing_loss	SNOMEDCT	700454004	Profound sensorineural hearing loss
+hearing_loss	SNOMEDCT	198061000000105	Uses hearing loop
+hearing_loss	SNOMEDCT	433147009	Combined visual and hearing impairment
+hearing_loss	SNOMEDCT	194415001	Conductive hearing loss due to disorder of middle ear
+hearing_loss	SNOMEDCT	194419007	Combined conductive hearing loss
+hearing_loss	SNOMEDCT	194429000	Mixed conductive and sensorineural hearing loss, bilateral
+hearing_loss	SNOMEDCT	186570004	Rubella deafness
+hearing_loss	SNOMEDCT	68467004	Central hearing loss
+hearing_loss	SNOMEDCT	15188001	[X]Other specified hearing loss
+hearing_loss	SNOMEDCT	194428008	Mix cond/sensneurl hear loss,unlat unrestrc hear/contrlat sd
+hearing_loss	SNOMEDCT	232183005	Insertn bone anchors subcutaneous bone anchored hearing aid
+hearing_loss	SNOMEDCT	426733001	Other specified attachment bone anchored hearing prosthesis
+hearing_loss	SNOMEDCT	194425006	Sensorineurl hear loss,unilat unrestrict hear/contralat side
+hearing_loss	SNOMEDCT	15188001	Hearing impairment
+hearing_loss	SNOMEDCT	225791000000104	Attention to fixtures for bone anchored hearing prosthesis
+hearing_loss	SNOMEDCT	446499008	Provision of replacement hearing aid
+hearing_loss	SNOMEDCT	275482009	Drug ototoxicity - deafness
+hearing_loss	SNOMEDCT	183126007	Replace hearing aid battery
+hearing_loss	SNOMEDCT	164063002	O/E - completely deaf
+hearing_loss	SNOMEDCT	428004000	Placement of hearing implant in middle ear
+hearing_loss	SNOMEDCT	426733001	Attachment of bone anchored hearing prosthesis NOS
+hearing_loss	SNOMEDCT	73415002	Noise induced deafness
+hearing_loss	SNOMEDCT	426647008	Fitting external hearing prosthesis bone anchored fixtures
+hearing_loss	SNOMEDCT	272033007	Deafness NOS
+hearing_loss	SNOMEDCT	411511000000107	[V]Fitting or adjustment of hearing aid
+hearing_loss	SNOMEDCT	25906001	Other external ear anomaly with hearing impairment NOS
+hearing_loss	SNOMEDCT	860811000000106	Severe sensorineural hearing loss
+hearing_loss	SNOMEDCT	860851000000105	Mild sensorineural hearing loss
+hearing_loss	SNOMEDCT	877211000000100	Bilateral congenital sensorineural hearing loss
+hearing_loss	SNOMEDCT	343087000	Partial deafness
+hearing_loss	SNOMEDCT	204224006	Ear anomalies with hearing impairment
+hearing_loss	SNOMEDCT	161497002	H/O: hearing problem
+hearing_loss	SNOMEDCT	164061000	O/E - significantly deaf
+hearing_loss	SNOMEDCT	225951000000109	Second stage ins fixtures for bone anchored hearing prosth
+hearing_loss	SNOMEDCT	70694009	Diab insipidus,diab mell,optic atrophy and deafness
+hearing_loss	SNOMEDCT	111339003	[X]Malformation of ear with impairment of hearing, unspec
+hearing_loss	SNOMEDCT	428619000	Attention to hearing implant in external ear
+hearing_loss	SNOMEDCT	390967001	Hearing aid problem
+hearing_loss	SNOMEDCT	281656009	Hearing aid provision
+hearing_loss	SNOMEDCT	194416000	Conductive hearing loss due to disorder of inner ear
+hearing_loss	SNOMEDCT	194424005	Sensorineural hearing loss, bilateral
+hearing_loss	SNOMEDCT	44057004	Conductive hearing loss
+hearing_loss	SNOMEDCT	73415002	Noise-induced hearing loss
+hearing_loss	SNOMEDCT	85571008	Sensory hearing loss
+hearing_loss	SNOMEDCT	225861000000101	Insertion fixtures bone anchored hearing prosthesis Stage 1
+hearing_loss	SNOMEDCT	225871000000108	Reduction soft tissue for bone anchored hearing prosthesis
+hearing_loss	SNOMEDCT	225861000000101	First stge ins fixtures for bone anchored hearing prosthesis
+hearing_loss	SNOMEDCT	183280009	Deafness remedial therapy NOS
+hearing_loss	SNOMEDCT	204224006	Ear anomalies with hearing impaired, unspecified
+hearing_loss	SNOMEDCT	204224006	Ear anomaly with hearing impaired NOS
+hearing_loss	SNOMEDCT	204224006	Other and unspecified ear anomaly with hearing impaired
+hearing_loss	SNOMEDCT	737049003	Severe acquired hearing loss
+hearing_loss	SNOMEDCT	737050003	Deafened
+hearing_loss	SNOMEDCT	118230007	Other specified forms of hearing loss
+hearing_loss	Read2_5digit	1493.	H/O: hearing problem
+hearing_loss	Read2_5digit	1C13.	Deafness
+hearing_loss	Read2_5digit	1C131	Unilateral deafness
+hearing_loss	Read2_5digit	1C132	Partial deafness
+hearing_loss	Read2_5digit	1C133	Bilateral deafness
+hearing_loss	Read2_5digit	1C17.	Hearing aid problem
+hearing_loss	Read2_5digit	2BL3.	O/E - significantly deaf
+hearing_loss	Read2_5digit	2BL4.	O/E - very deaf
+hearing_loss	Read2_5digit	2BL5.	O/E - completely deaf
+hearing_loss	Read2_5digit	2BM2.	O/E - conductive deafness
+hearing_loss	Read2_5digit	2BM3.	O/E - perceptive deafness
+hearing_loss	Read2_5digit	2DG..	Hearing aid worn
+hearing_loss	Read2_5digit	2DH0.	Uses hearing loop
+hearing_loss	Read2_5digit	73084	Placement of hearing implant in external ear
+hearing_loss	Read2_5digit	73085	Attention to hearing implant in external ear
+hearing_loss	Read2_5digit	73086	Removal of hearing implant from external ear
+hearing_loss	Read2_5digit	7311A	Insertion of bone anchors for subcutaneous bone anchored hearing aid
+hearing_loss	Read2_5digit	7317.	Other operations on middle ear
+hearing_loss	Read2_5digit	7317C	Placement of hearing implant in middle ear
+hearing_loss	Read2_5digit	7317D	Attention to hearing implant in middle ear
+hearing_loss	Read2_5digit	7319.	Attachment of bone anchored hearing prosthesis
+hearing_loss	Read2_5digit	73190	Insertion of fixtures for bone anchored hearing prosthesis Stage 1
+hearing_loss	Read2_5digit	73191	Insertion of fixtures for bone anchored hearing prosthesis Stage 2
+hearing_loss	Read2_5digit	73192	Reduction of soft tissue for bone anchored hearing prosthesis
+hearing_loss	Read2_5digit	73193	Attention to fixtures for bone anchored hearing prosthesis
+hearing_loss	Read2_5digit	73194	One stage insertion of fixtures for bone anchored hearing prosthesis
+hearing_loss	Read2_5digit	73195	Fitting of external hearing prosthesis to bone anchored fixtures
+hearing_loss	Read2_5digit	73196	First stage insertion of fixtures for bone anchored hearing prosthesis
+hearing_loss	Read2_5digit	73197	Second stage insertion of fixtures for bone anchored hearing prosthesis
+hearing_loss	Read2_5digit	7319y	Other specified attachment of bone anchored hearing prosthesis
+hearing_loss	Read2_5digit	7319z	Attachment of bone anchored hearing prosthesis NOS
+hearing_loss	Read2_5digit	8D2..	Hearing aid provision
+hearing_loss	Read2_5digit	8D21.	Provide head worn hearing aid
+hearing_loss	Read2_5digit	8D22.	Provide body worn hearing aid
+hearing_loss	Read2_5digit	8D23.	Ear fitting hearing aid
+hearing_loss	Read2_5digit	8D24.	Replace hearing aid battery
+hearing_loss	Read2_5digit	8D26.	Provision of replacement hearing aid
+hearing_loss	Read2_5digit	8E3..	Deafness remedial therapy
+hearing_loss	Read2_5digit	8E3Z.	Deafness remedial therapy NOS
+hearing_loss	Read2_5digit	8HT2.	Referral to hearing aid clinic
+hearing_loss	Read2_5digit	8M41.	Hearing aid requested
+hearing_loss	Read2_5digit	9N0b.	Seen in hearing aid clinic
+hearing_loss	Read2_5digit	9NfB.	Requires deafblind communicator guide
+hearing_loss	Read2_5digit	A5602	Rubella deafness
+hearing_loss	Read2_5digit	F5801	Presbyacusis
+hearing_loss	Read2_5digit	F5812	Noise-induced hearing loss
+hearing_loss	Read2_5digit	F582.	Unspecified sudden hearing loss
+hearing_loss	Read2_5digit	F59..	Hearing loss
+hearing_loss	Read2_5digit	F590.	Conductive hearing loss
+hearing_loss	Read2_5digit	F5900	Unspecified conductive hearing loss
+hearing_loss	Read2_5digit	F5901	Conductive hearing loss due to disorder of external ear
+hearing_loss	Read2_5digit	F5902	Conductive hearing loss due to disorder of tympanic membrane
+hearing_loss	Read2_5digit	F5903	Conductive hearing loss due to disorder of middle ear
+hearing_loss	Read2_5digit	F5904	Conductive hearing loss due to disorder of inner ear
+hearing_loss	Read2_5digit	F5905	Conductive hearing loss, bilateral
+hearing_loss	Read2_5digit	F5906	Conductive hearing loss, unilateral with unrestricted hearing on the contralateral side
+hearing_loss	Read2_5digit	F590y	Combined conductive hearing loss
+hearing_loss	Read2_5digit	F590z	Conductive hearing loss NOS
+hearing_loss	Read2_5digit	F591.	Sensorineural hearing loss
+hearing_loss	Read2_5digit	F5910	Unspecified perceptive hearing loss
+hearing_loss	Read2_5digit	F5911	Sensory hearing loss
+hearing_loss	Read2_5digit	F5912	Neural hearing loss
+hearing_loss	Read2_5digit	F5913	Central hearing loss
+hearing_loss	Read2_5digit	F5914	Congenital sensorineural deafness
+hearing_loss	Read2_5digit	F5915	Ototoxicity - deafness
+hearing_loss	Read2_5digit	F5916	Sensorineural hearing loss, bilateral
+hearing_loss	Read2_5digit	F5917	Sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side
+hearing_loss	Read2_5digit	F5918	Congenital prelingual deafness
+hearing_loss	Read2_5digit	F5919	Bilateral profound sensorineural hearing loss
+hearing_loss	Read2_5digit	F591A	Bilateral congenital sensorineural hearing loss
+hearing_loss	Read2_5digit	F591B	Profound sensorineural hearing loss
+hearing_loss	Read2_5digit	F591C	Moderate sensorineural hearing loss
+hearing_loss	Read2_5digit	F591D	Mild sensorineural hearing loss
+hearing_loss	Read2_5digit	F591E	Severe sensorineural hearing loss
+hearing_loss	Read2_5digit	F591y	Combined perceptive hearing loss
+hearing_loss	Read2_5digit	F591z	Perceptive hearing loss NOS
+hearing_loss	Read2_5digit	F592.	Mixed conductive and sensorineural deafness
+hearing_loss	Read2_5digit	F5920	Mixed conductive and sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side
+hearing_loss	Read2_5digit	F5921	Mixed conductive and sensorineural hearing loss, bilateral
+hearing_loss	Read2_5digit	F593.	Deaf mutism, NEC
+hearing_loss	Read2_5digit	F594.	High frequency deafness
+hearing_loss	Read2_5digit	F595.	Low frequency deafness
+hearing_loss	Read2_5digit	F596.	Maternally inherited deafness
+hearing_loss	Read2_5digit	F597.	Mild acquired hearing loss
+hearing_loss	Read2_5digit	F598.	Moderate acquired hearing loss
+hearing_loss	Read2_5digit	F599.	Severe acquired hearing loss
+hearing_loss	Read2_5digit	F59A.	Profound acquired hearing loss
+hearing_loss	Read2_5digit	F59y.	Other specified forms of hearing loss
+hearing_loss	Read2_5digit	F59z.	Deafness NOS
+hearing_loss	Read2_5digit	F5A..	Hearing impairment
+hearing_loss	Read2_5digit	Fy1..	Combined visual and hearing impairment
+hearing_loss	Read2_5digit	FyuU0	[X]Deaf mutism, not elsewhere classified
+hearing_loss	Read2_5digit	FyuU1	[X]Other specified hearing loss
+hearing_loss	Read2_5digit	P40..	Ear anomalies with hearing impairment
+hearing_loss	Read2_5digit	P400.	Ear anomalies with hearing impaired, unspecified
+hearing_loss	Read2_5digit	P402.	Other external ear anomaly with hearing impairment
+hearing_loss	Read2_5digit	P402z	Other external ear anomaly with hearing impairment NOS
+hearing_loss	Read2_5digit	P40z.	Other and unspecified ear anomaly with hearing impaired
+hearing_loss	Read2_5digit	P40zz	Ear anomaly with hearing impaired NOS
+hearing_loss	Read2_5digit	PKyP.	Diabetes insipidus, diabetes mellitus, optic atrophy and deafness
+hearing_loss	Read2_5digit	Pyu1B	[X]Malformation of ear with impairment of hearing, unspecified
+hearing_loss	Read2_5digit	Z8B5.	Ability to use hearing aid
+hearing_loss	Read2_5digit	Z8B51	Able to use hearing aid
+hearing_loss	Read2_5digit	Z8B53	Does use hearing aid
+hearing_loss	Read2_5digit	Z8B55	Difficulty using hearing aid
+hearing_loss	Read2_5digit	Z911.	Hearing aid procedure
+hearing_loss	Read2_5digit	Z9111	Fit hearing aid
+hearing_loss	Read2_5digit	Z9113	Adjust hearing aid settings
+hearing_loss	Read2_5digit	Z9114	Changing hearing aid battery
+hearing_loss	Read2_5digit	Z9115	Checking hearing aid
+hearing_loss	Read2_5digit	Z9117	Switching on hearing aid
+hearing_loss	Read2_5digit	Z9118	Turning off hearing aid
+hearing_loss	Read2_5digit	Z9119	Putting on hearing aid
+hearing_loss	Read2_5digit	Z911A	Listening for feedback whistle of hearing aid
+hearing_loss	Read2_5digit	Z911B	Attention to hearing aid
+hearing_loss	Read2_5digit	Z911E	Fit ear mould for existing hearing aid
+hearing_loss	Read2_5digit	Z911G	Fit ear mould for hearing protection
+hearing_loss	Read2_5digit	Z9E81	Hearing aid provision
+hearing_loss	Read2_5digit	ZE87.	Hearing loss
+hearing_loss	Read2_5digit	ZL716	Referral to registered hearing aid dispenser
+hearing_loss	Read2_5digit	ZN569	Deaf telephone user
+hearing_loss	Read2_5digit	ZV45G	[V]Presence of external hearing-aid
+hearing_loss	Read2_5digit	ZV45N	[V]Bone anchored hearing aid in situ
+hearing_loss	Read2_5digit	ZV532	[V]Fitting or adjustment of hearing aid
+hearing_loss	Read2_5digit	ZV53D	[V]Adjustment and management of implanted hearing device
+hearing_loss	CTV3_5digit	1493.	H/O: hearing problem
+hearing_loss	CTV3_5digit	XE0s9	Deafness
+hearing_loss	CTV3_5digit	XM0Cb	Deafness symptom
+hearing_loss	CTV3_5digit	1C131	Unilateral deafness
+hearing_loss	CTV3_5digit	1C132	Partial deafness
+hearing_loss	CTV3_5digit	1C133	Bilateral deafness
+hearing_loss	CTV3_5digit	XaIRo	Hearing aid problem
+hearing_loss	CTV3_5digit	XM1X8	O/E - deaf
+hearing_loss	CTV3_5digit	2BL3.	O/E - significantly deaf
+hearing_loss	CTV3_5digit	2BL4.	O/E - very deaf
+hearing_loss	CTV3_5digit	2BL5.	O/E - completely deaf
+hearing_loss	CTV3_5digit	2BM2.	O/E - conductive deafness
+hearing_loss	CTV3_5digit	F590.	Conductive deafness
+hearing_loss	CTV3_5digit	2BM3.	O/E - perceptive deafness
+hearing_loss	CTV3_5digit	Xa0LN	Hearing aid worn
+hearing_loss	CTV3_5digit	XaKjD	Uses hearing loop
+hearing_loss	CTV3_5digit	XaLNa	Placement of hearing implant in external ear
+hearing_loss	CTV3_5digit	XaLNb	Attention to hearing implant in external ear
+hearing_loss	CTV3_5digit	XaLNc	Removal of hearing implant from external ear
+hearing_loss	CTV3_5digit	X00h2	Insertion of bone anchors for subcutaneous bone anchored hearing aid
+hearing_loss	CTV3_5digit	7317.	Other operations on middle ear
+hearing_loss	CTV3_5digit	XaLNh	Placement of hearing implant in middle ear
+hearing_loss	CTV3_5digit	XaLNi	Attention to hearing implant in middle ear
+hearing_loss	CTV3_5digit	XaLNl	Attachment of bone anchored hearing prosthesis
+hearing_loss	CTV3_5digit	XaLNm	Insertion of fixtures for bone anchored hearing prosthesis Stage 1
+hearing_loss	CTV3_5digit	XaLNn	Insertion of fixtures for bone anchored hearing prosthesis Stage 2
+hearing_loss	CTV3_5digit	XaLNo	Reduction of soft tissue for bone anchored hearing prosthesis
+hearing_loss	CTV3_5digit	XaLNp	Attention to fixtures for bone anchored hearing prosthesis
+hearing_loss	CTV3_5digit	XaMkv	One stage insertion of fixtures for bone anchored hearing prosthesis
+hearing_loss	CTV3_5digit	XaMkw	Fitting of external hearing prosthesis to bone anchored fixtures
+hearing_loss	CTV3_5digit	XaLNq	Other specified attachment of bone anchored hearing prosthesis
+hearing_loss	CTV3_5digit	XaLNr	Attachment of bone anchored hearing prosthesis NOS
+hearing_loss	CTV3_5digit	Xa1pl	Hearing aid provision
+hearing_loss	CTV3_5digit	8D21.	Provide head worn hearing aid
+hearing_loss	CTV3_5digit	8D22.	Provide body worn hearing aid
+hearing_loss	CTV3_5digit	8D23.	Ear fitting hearing aid
+hearing_loss	CTV3_5digit	8D24.	Replace hearing aid battery
+hearing_loss	CTV3_5digit	XaZp4	Provision of replacement hearing aid
+hearing_loss	CTV3_5digit	8E3..	Deafness remedial therapy
+hearing_loss	CTV3_5digit	8E3Z.	Deafness remedial therapy NOS
+hearing_loss	CTV3_5digit	8HT2.	Refer to hearing aid clinic
+hearing_loss	CTV3_5digit	XaIkt	Hearing aid requested
+hearing_loss	CTV3_5digit	XaEEV	Seen in hearing aid clinic
+hearing_loss	CTV3_5digit	XaYB3	Requires deafblind communicator guide
+hearing_loss	CTV3_5digit	A5602	Rubella deafness
+hearing_loss	CTV3_5digit	F5801	Presbyacusis
+hearing_loss	CTV3_5digit	F5812	Noise-induced hearing loss
+hearing_loss	CTV3_5digit	F582.	Unspecified sudden hearing loss
+hearing_loss	CTV3_5digit	F5900	Unspecified conductive hearing loss
+hearing_loss	CTV3_5digit	F5901	Conductive hearing loss due to disorder of external ear
+hearing_loss	CTV3_5digit	F5902	Conductive hearing loss due to disorder of tympanic membrane
+hearing_loss	CTV3_5digit	F5903	Conductive hearing loss due to disorder of middle ear
+hearing_loss	CTV3_5digit	F5904	Conductive hearing loss due to disorder of inner ear
+hearing_loss	CTV3_5digit	F5905	Conductive hearing loss, bilateral
+hearing_loss	CTV3_5digit	F5906	Conductive hearing loss, unilateral with unrestricted hearing on the contralateral side
+hearing_loss	CTV3_5digit	F590y	Combined conductive hearing loss
+hearing_loss	CTV3_5digit	F590z	Conductive hearing loss NOS
+hearing_loss	CTV3_5digit	XE17N	Sensorineural hearing loss
+hearing_loss	CTV3_5digit	X00kP	High frequency deafness
+hearing_loss	CTV3_5digit	X00kQ	Low frequency deafness
+hearing_loss	CTV3_5digit	F5910	Unspecified perceptive hearing loss
+hearing_loss	CTV3_5digit	F5911	Sensory hearing loss
+hearing_loss	CTV3_5digit	F5912	Neural hearing loss
+hearing_loss	CTV3_5digit	F5913	Central hearing loss
+hearing_loss	CTV3_5digit	F5914	Congenital sensorineural deafness
+hearing_loss	CTV3_5digit	XE17O	Ototoxicity - deafness
+hearing_loss	CTV3_5digit	XM1QG	Drug ototoxicity - deafness
+hearing_loss	CTV3_5digit	F5916	Sensorineural hearing loss, bilateral
+hearing_loss	CTV3_5digit	F5917	Sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side
+hearing_loss	CTV3_5digit	XaRE1	Congenital prelingual deafness
+hearing_loss	CTV3_5digit	XaaLf	Bilateral profound sensorineural hearing loss
+hearing_loss	CTV3_5digit	XaaLg	Bilateral congenital sensorineural hearing loss
+hearing_loss	CTV3_5digit	XaZuE	Profound sensorineural hearing loss
+hearing_loss	CTV3_5digit	XaZuA	Moderate sensorineural hearing loss
+hearing_loss	CTV3_5digit	XaZuF	Mild sensorineural hearing loss
+hearing_loss	CTV3_5digit	XaZuB	Severe sensorineural hearing loss
+hearing_loss	CTV3_5digit	F591y	Combined perceptive hearing loss
+hearing_loss	CTV3_5digit	F591z	Perceptive hearing loss NOS
+hearing_loss	CTV3_5digit	F592.	Mixed conductive and sensorineural deafness
+hearing_loss	CTV3_5digit	F5920	Mixed conductive and sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side
+hearing_loss	CTV3_5digit	F5921	Mixed conductive and sensorineural hearing loss, bilateral
+hearing_loss	CTV3_5digit	F593.	Deaf mutism, NEC
+hearing_loss	CTV3_5digit	XaOPs	Maternally inherited deafness
+hearing_loss	CTV3_5digit	XaRE2	Mild acquired hearing loss
+hearing_loss	CTV3_5digit	XaRE3	Moderate acquired hearing loss
+hearing_loss	CTV3_5digit	XaRE4	Severe acquired hearing loss
+hearing_loss	CTV3_5digit	XaRE5	Profound acquired hearing loss
+hearing_loss	CTV3_5digit	F59y.	Other specified forms of hearing loss
+hearing_loss	CTV3_5digit	XE17P	Deafness NOS
+hearing_loss	CTV3_5digit	X00kO	Chronic deafness
+hearing_loss	CTV3_5digit	XaYPJ	Combined visual and hearing impairment
+hearing_loss	CTV3_5digit	FyuU0	[X]Deaf mutism, not elsewhere classified
+hearing_loss	CTV3_5digit	FyuU1	[X]Other specified hearing loss
+hearing_loss	CTV3_5digit	P40..	Ear anomalies with hearing impairment
+hearing_loss	CTV3_5digit	P400.	Ear anomalies with hearing impaired, unspecified
+hearing_loss	CTV3_5digit	P402.	Other external ear anomaly with hearing impairment
+hearing_loss	CTV3_5digit	P402z	Other external ear anomaly with hearing impairment NOS
+hearing_loss	CTV3_5digit	XE1K4	Other and unspecified ear anomaly with hearing impaired
+hearing_loss	CTV3_5digit	X77tB	Deafness due to congenital anomaly NEC
+hearing_loss	CTV3_5digit	P40zz	Ear anomaly with hearing impaired NOS
+hearing_loss	CTV3_5digit	X008t	Diabetes insipidus, diabetes mellitus, optic atrophy and deafness
+hearing_loss	CTV3_5digit	Pyu1B	[X]Malformation of ear with impairment of hearing, unspecified
+hearing_loss	CTV3_5digit	ZV45G	[V]Presence of external hearing-aid
+hearing_loss	CTV3_5digit	XaPEU	[V]Bone anchored hearing aid in situ
+hearing_loss	CTV3_5digit	ZV532	[V]Fitting or adjustment of hearing aid
+hearing_loss	CTV3_5digit	ZV53D	[V]Adjustment and management of implanted hearing device

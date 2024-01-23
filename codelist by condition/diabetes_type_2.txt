@@ -1,0 +1,320 @@
+condition	vocab_id	code	description
+diabetes_type_2	ICD10	E11	Type 2 diabetes mellitus
+diabetes_type_2	Read2	C109.12	Type 2 diabetes mellitus
+diabetes_type_2	Read2	C109.13	Type II diabetes mellitus
+diabetes_type_2	Read2	C109011	Type II diabetes mellitus with renal complications
+diabetes_type_2	Read2	C109012	Type 2 diabetes mellitus with renal complications
+diabetes_type_2	Read2	C109111	Type II diabetes mellitus with ophthalmic complications
+diabetes_type_2	Read2	C109112	Type 2 diabetes mellitus with ophthalmic complications
+diabetes_type_2	Read2	C109211	Type II diabetes mellitus with neurological complications
+diabetes_type_2	Read2	C109212	Type 2 diabetes mellitus with neurological complications
+diabetes_type_2	Read2	C109411	Type II diabetes mellitus with ulcer
+diabetes_type_2	Read2	C109412	Type 2 diabetes mellitus with ulcer
+diabetes_type_2	Read2	C109511	Type II diabetes mellitus with gangrene
+diabetes_type_2	Read2	C109512	Type 2 diabetes mellitus with gangrene
+diabetes_type_2	Read2	C109611	Type II diabetes mellitus with retinopathy
+diabetes_type_2	Read2	C109612	Type 2 diabetes mellitus with retinopathy
+diabetes_type_2	Read2	C109711	Type II diabetes mellitus - poor control
+diabetes_type_2	Read2	C109712	Type 2 diabetes mellitus - poor control
+diabetes_type_2	Read2	C109A11	Type II diabetes mellitus with mononeuropathy
+diabetes_type_2	Read2	C109B11	Type II diabetes mellitus with polyneuropathy
+diabetes_type_2	Read2	C109B12	Type 2 diabetes mellitus with polyneuropathy
+diabetes_type_2	Read2	C109C11	Type II diabetes mellitus with nephropathy
+diabetes_type_2	Read2	C109C12	Type 2 diabetes mellitus with nephropathy
+diabetes_type_2	Read2	C109D11	Type II diabetes mellitus with hypoglycaemic coma
+diabetes_type_2	Read2	C109D12	Type 2 diabetes mellitus with hypoglycaemic coma
+diabetes_type_2	Read2	C109E11	Type II diabetes mellitus with diabetic cataract
+diabetes_type_2	Read2	C109E12	Type 2 diabetes mellitus with diabetic cataract
+diabetes_type_2	Read2	C109F11	Type II diabetes mellitus with peripheral angiopathy
+diabetes_type_2	Read2	C109F12	Type 2 diabetes mellitus with peripheral angiopathy
+diabetes_type_2	Read2	C109G11	Type II diabetes mellitus with arthropathy
+diabetes_type_2	Read2	C109G12	Type 2 diabetes mellitus with arthropathy
+diabetes_type_2	Read2	C109H11	Type II diabetes mellitus with neuropathic arthropathy
+diabetes_type_2	Read2	C109H12	Type 2 diabetes mellitus with neuropathic arthropathy
+diabetes_type_2	Read2	C109J00	Insulin treated Type 2 diabetes mellitus
+diabetes_type_2	Read2	C109J12	Insulin treated Type II diabetes mellitus
+diabetes_type_2	Read2	C109K00	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+diabetes_type_2	Read2	C10F.00	Type 2 diabetes mellitus
+diabetes_type_2	Read2	C10F.11	Type II diabetes mellitus
+diabetes_type_2	Read2	C10F000	Type 2 diabetes mellitus with renal complications
+diabetes_type_2	Read2	C10F011	Type II diabetes mellitus with renal complications
+diabetes_type_2	Read2	C10F100	Type 2 diabetes mellitus with ophthalmic complications
+diabetes_type_2	Read2	C10F111	Type II diabetes mellitus with ophthalmic complications
+diabetes_type_2	Read2	C10F200	Type 2 diabetes mellitus with neurological complications
+diabetes_type_2	Read2	C10F211	Type II diabetes mellitus with neurological complications
+diabetes_type_2	Read2	C10F300	Type 2 diabetes mellitus with multiple complications
+diabetes_type_2	Read2	C10F311	Type II diabetes mellitus with multiple complications
+diabetes_type_2	Read2	C10F400	Type 2 diabetes mellitus with ulcer
+diabetes_type_2	Read2	C10F411	Type II diabetes mellitus with ulcer
+diabetes_type_2	Read2	C10F500	Type 2 diabetes mellitus with gangrene
+diabetes_type_2	Read2	C10F600	Type 2 diabetes mellitus with retinopathy
+diabetes_type_2	Read2	C10F611	Type II diabetes mellitus with retinopathy
+diabetes_type_2	Read2	C10F700	Type 2 diabetes mellitus - poor control
+diabetes_type_2	Read2	C10F711	Type II diabetes mellitus - poor control
+diabetes_type_2	Read2	C10F900	Type 2 diabetes mellitus without complication
+diabetes_type_2	Read2	C10F911	Type II diabetes mellitus without complication
+diabetes_type_2	Read2	C10FA00	Type 2 diabetes mellitus with mononeuropathy
+diabetes_type_2	Read2	C10FA11	Type II diabetes mellitus with mononeuropathy
+diabetes_type_2	Read2	C10FB00	Type 2 diabetes mellitus with polyneuropathy
+diabetes_type_2	Read2	C10FB11	Type II diabetes mellitus with polyneuropathy
+diabetes_type_2	Read2	C10FC00	Type 2 diabetes mellitus with nephropathy
+diabetes_type_2	Read2	C10FD00	Type 2 diabetes mellitus with hypoglycaemic coma
+diabetes_type_2	Read2	C10FD11	Type II diabetes mellitus with hypoglycaemic coma
+diabetes_type_2	Read2	C10FE00	Type 2 diabetes mellitus with diabetic cataract
+diabetes_type_2	Read2	C10FE11	Type II diabetes mellitus with diabetic cataract
+diabetes_type_2	Read2	C10FF00	Type 2 diabetes mellitus with peripheral angiopathy
+diabetes_type_2	Read2	C10FG00	Type 2 diabetes mellitus with arthropathy
+diabetes_type_2	Read2	C10FH00	Type 2 diabetes mellitus with neuropathic arthropathy
+diabetes_type_2	Read2	C10FH11	Type II diabetes mellitus with neuropathic arthropathy
+diabetes_type_2	Read2	C10FJ00	Insulin treated Type 2 diabetes mellitus
+diabetes_type_2	Read2	C10FJ11	Insulin treated Type II diabetes mellitus
+diabetes_type_2	Read2	C10FK00	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+diabetes_type_2	Read2	C10FL00	Type 2 diabetes mellitus with persistent proteinuria
+diabetes_type_2	Read2	C10FL11	Type II diabetes mellitus with persistent proteinuria
+diabetes_type_2	Read2	C10FM00	Type 2 diabetes mellitus with persistent microalbuminuria
+diabetes_type_2	Read2	C10FM11	Type II diabetes mellitus with persistent microalbuminuria
+diabetes_type_2	Read2	C10FN00	Type 2 diabetes mellitus with ketoacidosis
+diabetes_type_2	Read2	C10FP00	Type 2 diabetes mellitus with ketoacidotic coma
+diabetes_type_2	Read2	C10FQ00	Type 2 diabetes mellitus with exudative maculopathy
+diabetes_type_2	Read2	C10FR00	Type 2 diabetes mellitus with gastroparesis
+diabetes_type_2	CTV3	X40J5Y41PZ	Type 2 diabetes mellitus
+diabetes_type_2	CTV3	X40J5Yagv6	Type II diabetes mellitus
+diabetes_type_2	CTV3	C1090YajRS	Type 2 diabetes mellitus with renal complications
+diabetes_type_2	CTV3	C1090YagvQ	Type II diabetes mellitus with renal complications
+diabetes_type_2	CTV3	C1091YajRT	Type 2 diabetes mellitus with ophthalmic complications
+diabetes_type_2	CTV3	C1091YagvR	Type II diabetes mellitus with ophthalmic complications
+diabetes_type_2	CTV3	C1092YajRU	Type 2 diabetes mellitus with neurological complications
+diabetes_type_2	CTV3	C1092YagvS	Type II diabetes mellitus with neurological complications
+diabetes_type_2	CTV3	C1094YajRb	Type 2 diabetes mellitus with ulcer
+diabetes_type_2	CTV3	C1094YagvU	Type II diabetes mellitus with ulcer
+diabetes_type_2	CTV3	C1095YajRc	Type 2 diabetes mellitus with gangrene
+diabetes_type_2	CTV3	C1095YagvV	Type II diabetes mellitus with gangrene
+diabetes_type_2	CTV3	C1096YajRd	Type 2 diabetes mellitus with retinopathy
+diabetes_type_2	CTV3	C1096Yagvt	Type II diabetes mellitus with retinopathy
+diabetes_type_2	CTV3	C1097YajRe	Type 2 diabetes mellitus - poor control
+diabetes_type_2	CTV3	C1097Yagvu	Type II diabetes mellitus - poor control
+diabetes_type_2	CTV3	XaEnpYagvw	Type II diabetes mellitus with mononeuropathy
+diabetes_type_2	CTV3	XaEnqYajRi	Type 2 diabetes mellitus with polyneuropathy
+diabetes_type_2	CTV3	XaEnqYagvy	Type II diabetes mellitus with polyneuropathy
+diabetes_type_2	CTV3	XaF05YajRj	Type 2 diabetes mellitus with nephropathy
+diabetes_type_2	CTV3	XaF05Yagvz	Type II diabetes mellitus with nephropathy
+diabetes_type_2	CTV3	XaFWIYajRk	Type 2 diabetes mellitus with hypoglycaemic coma
+diabetes_type_2	CTV3	XaFWIYagw0	Type II diabetes mellitus with hypoglycaemic coma
+diabetes_type_2	CTV3	XaFmAYajRl	Type 2 diabetes mellitus with diabetic cataract
+diabetes_type_2	CTV3	XaFmAYagvW	Type II diabetes mellitus with diabetic cataract
+diabetes_type_2	CTV3	XaFn7YajRm	Type 2 diabetes mellitus with peripheral angiopathy
+diabetes_type_2	CTV3	XaFn7Yagwv	Type II diabetes mellitus with peripheral angiopathy
+diabetes_type_2	CTV3	XaFn8YajRn	Type 2 diabetes mellitus with arthropathy
+diabetes_type_2	CTV3	XaFn8Yagwx	Type II diabetes mellitus with arthropathy
+diabetes_type_2	CTV3	XaFn9YajRo	Type 2 diabetes mellitus with neuropathic arthropathy
+diabetes_type_2	CTV3	XaFn9Yagwz	Type II diabetes mellitus with neuropathic arthropathy
+diabetes_type_2	CTV3	X40J6Yakg3	Insulin treated Type 2 diabetes mellitus
+diabetes_type_2	CTV3	X40J6Yakg4	Insulin treated Type II diabetes mellitus
+diabetes_type_2	CTV3	XaIrfYalWY	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+diabetes_type_2	CTV3	C1093YajRY	Type 2 diabetes mellitus with multiple complications
+diabetes_type_2	CTV3	C1093YagvT	Type II diabetes mellitus with multiple complications
+diabetes_type_2	CTV3	XaELQYajRg	Type 2 diabetes mellitus without complication
+diabetes_type_2	CTV3	XaELQYagvv	Type II diabetes mellitus without complication
+diabetes_type_2	CTV3	XaEnpYajRh	Type 2 diabetes mellitus with mononeuropathy
+diabetes_type_2	CTV3	XaIzQYaluQ	Type 2 diabetes mellitus with persistent proteinuria
+diabetes_type_2	CTV3	XaIzQYaluR	Type II diabetes mellitus with persistent proteinuria
+diabetes_type_2	CTV3	XaIzRYaluS	Type 2 diabetes mellitus with persistent microalbuminuria
+diabetes_type_2	CTV3	XaIzRYaluT	Type II diabetes mellitus with persistent microalbuminuria
+diabetes_type_2	CTV3	C1011YaluU	Type 2 diabetes mellitus with ketoacidosis
+diabetes_type_2	CTV3	C1031YaluW	Type 2 diabetes mellitus with ketoacidotic coma
+diabetes_type_2	CTV3	XaJQpYamRz	Type 2 diabetes mellitus with exudative maculopathy
+diabetes_type_2	CTV3	XaKyXYao4G	Type 2 diabetes mellitus with gastroparesis
+diabetes_type_2	medcodeid	292577016	Type 2 diabetes mellitus with multiple complications
+diabetes_type_2	medcodeid	459308015	Type 2 diabetes mellitus with peripheral angiopathy
+diabetes_type_2	medcodeid	459310018	Type 2 diabetes mellitus with arthropathy
+diabetes_type_2	medcodeid	1488898011	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+diabetes_type_2	medcodeid	292589019	Type II diabetes mellitus - poor control
+diabetes_type_2	medcodeid	459167016	Type 2 diabetes mellitus with hypoglycaemic coma
+diabetes_type_2	medcodeid	84481000006116	Type 2 diabetes mellitus - poor control
+diabetes_type_2	medcodeid	84491000006118	Type 2 diabetes mellitus with arthropathy
+diabetes_type_2	medcodeid	84601000006110	Type 2 diabetes mellitus with polyneuropathy
+diabetes_type_2	medcodeid	84611000006113	Type 2 diabetes mellitus with renal complications
+diabetes_type_2	medcodeid	84841000006113	Type II diabetes mellitus
+diabetes_type_2	medcodeid	84861000006112	Type II diabetes mellitus with arthropathy
+diabetes_type_2	medcodeid	84921000006110	Type II diabetes mellitus with nephropathy
+diabetes_type_2	medcodeid	84961000006116	Type II diabetes mellitus with peripheral angiopathy
+diabetes_type_2	medcodeid	84981000006114	Type II diabetes mellitus with renal complications
+diabetes_type_2	medcodeid	841351000006110	Insulin treated Type II diabetes mellitus
+diabetes_type_2	medcodeid	850691000006118	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+diabetes_type_2	medcodeid	914031000006118	Type 2 diabetes mellitus with renal complications
+diabetes_type_2	medcodeid	914041000006111	Type II diabetes mellitus with renal complications
+diabetes_type_2	medcodeid	914251000006116	Type II diabetes mellitus with polyneuropathy
+diabetes_type_2	medcodeid	928541000006117	Type 2 diabetes mellitus with persistent proteinuria
+diabetes_type_2	medcodeid	928551000006115	Type II diabetes mellitus with persistent proteinuria
+diabetes_type_2	medcodeid	928561000006118	Type 2 diabetes mellitus with persistent microalbuminuria
+diabetes_type_2	medcodeid	928571000006113	Type II diabetes mellitus with persistent microalbuminuria
+diabetes_type_2	medcodeid	928581000006111	Type 2 diabetes mellitus with ketoacidosis
+diabetes_type_2	medcodeid	459169018	Type II diabetes mellitus with hypoglycaemic coma
+diabetes_type_2	medcodeid	84891000006116	Type II diabetes mellitus with hypoglycaemic coma
+diabetes_type_2	medcodeid	84561000006110	Type 2 diabetes mellitus with neurological complications
+diabetes_type_2	medcodeid	84581000006117	Type 2 diabetes mellitus with ophthalmic complications
+diabetes_type_2	medcodeid	84991000006112	Type II diabetes mellitus with retinopathy
+diabetes_type_2	medcodeid	299621000000117	Type 2 diabetes mellitus with gastroparesis
+diabetes_type_2	medcodeid	914051000006113	Type 2 diabetes mellitus with ophthalmic complications
+diabetes_type_2	medcodeid	914081000006117	Type II diabetes mellitus with neurological complications
+diabetes_type_2	medcodeid	914161000006114	Type II diabetes mellitus with retinopathy
+diabetes_type_2	medcodeid	914231000006111	Type II diabetes mellitus with mononeuropathy
+diabetes_type_2	medcodeid	84511000006112	Type 2 diabetes mellitus with gangrene
+diabetes_type_2	medcodeid	84881000006119	Type II diabetes mellitus with gangrene
+diabetes_type_2	medcodeid	914221000006113	Type 2 diabetes mellitus with mononeuropathy
+diabetes_type_2	medcodeid	938321000006116	Type 2 diabetes mellitus with exudative maculopathy
+diabetes_type_2	medcodeid	292583018	Type 2 diabetes mellitus with gangrene
+diabetes_type_2	medcodeid	84851000006110	Type II diabetes mellitus - poor control
+diabetes_type_2	medcodeid	84941000006115	Type II diabetes mellitus with neuropathic arthropathy
+diabetes_type_2	medcodeid	292590011	Type 2 diabetes mellitus - poor control
+diabetes_type_2	medcodeid	1223147012	Insulin treated Type II diabetes mellitus
+diabetes_type_2	medcodeid	914241000006118	Type 2 diabetes mellitus with polyneuropathy
+diabetes_type_2	medcodeid	84501000006114	Type 2 diabetes mellitus with diabetic cataract
+diabetes_type_2	medcodeid	914061000006110	Type II diabetes mellitus with ophthalmic complications
+diabetes_type_2	medcodeid	84571000006115	Type 2 diabetes mellitus with neuropathic arthropathy
+diabetes_type_2	medcodeid	84591000006119	Type 2 diabetes mellitus with peripheral angiopathy
+diabetes_type_2	medcodeid	84971000006111	Type II diabetes mellitus with polyneuropathy
+diabetes_type_2	medcodeid	914391000006116	Insulin treated Type 2 diabetes mellitus
+diabetes_type_2	medcodeid	84871000006117	Type II diabetes mellitus with diabetic cataract
+diabetes_type_2	medcodeid	84901000006117	Type II diabetes mellitus with mononeuropathy
+diabetes_type_2	medcodeid	84931000006113	Type II diabetes mellitus with neurological complications
+diabetes_type_2	medcodeid	914311000006114	Type II diabetes mellitus with diabetic cataract
+diabetes_type_2	medcodeid	84471000006119	Type 2 diabetes mellitus
+diabetes_type_2	medcodeid	84521000006116	Type 2 diabetes mellitus with hypoglycaemic coma
+diabetes_type_2	medcodeid	84551000006113	Type 2 diabetes mellitus with nephropathy
+diabetes_type_2	medcodeid	84631000006119	Type 2 diabetes mellitus with ulcer
+diabetes_type_2	medcodeid	85001000006117	Type II diabetes mellitus with ulcer
+diabetes_type_2	medcodeid	292576013	Type II diabetes mellitus with multiple complications
+diabetes_type_2	medcodeid	197761014	Type 2 diabetes mellitus
+diabetes_type_2	medcodeid	84621000006117	Type 2 diabetes mellitus with retinopathy
+diabetes_type_2	medcodeid	493774016	Type II diabetes mellitus
+diabetes_type_2	medcodeid	457329019	Type 2 diabetes mellitus without complication
+diabetes_type_2	medcodeid	457330012	Type II diabetes mellitus without complication
+diabetes_type_2	medcodeid	459312014	Type II diabetes mellitus with neuropathic arthropathy
+diabetes_type_2	medcodeid	459313016	Type 2 diabetes mellitus with neuropathic arthropathy
+diabetes_type_2	medcodeid	292579018	Type 2 diabetes mellitus with ulcer
+diabetes_type_2	medcodeid	292581016	Type II diabetes mellitus with ulcer
+diabetes_type_2	medcodeid	840951000006119	Insulin treated Type 2 diabetes mellitus
+diabetes_type_2	medcodeid	914261000006119	Type 2 diabetes mellitus with nephropathy
+diabetes_type_2	medcodeid	84951000006118	Type II diabetes mellitus with ophthalmic complications
+diabetes_type_2	medcodeid	914071000006115	Type 2 diabetes mellitus with neurological complications
+diabetes_type_2	medcodeid	914151000006112	Type 2 diabetes mellitus with retinopathy
+diabetes_type_2	medcodeid	914301000006111	Type 2 diabetes mellitus with diabetic cataract
+diabetes_type_2	medcodeid	928601000006118	Type 2 diabetes mellitus with ketoacidotic coma
+diabetes_type_2	SNOMEDCT	190388001	Type 2 diabetes mellitus with multiple complications
+diabetes_type_2	SNOMEDCT	314902007	Type 2 diabetes mellitus with peripheral angiopathy
+diabetes_type_2	SNOMEDCT	314903002	Type 2 diabetes mellitus with arthropathy
+diabetes_type_2	SNOMEDCT	395204000	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+diabetes_type_2	SNOMEDCT	443694000	Type II diabetes mellitus - poor control
+diabetes_type_2	SNOMEDCT	719216001	Type 2 diabetes mellitus with hypoglycaemic coma
+diabetes_type_2	SNOMEDCT	443694000	Type 2 diabetes mellitus - poor control
+diabetes_type_2	SNOMEDCT	713706002	Type 2 diabetes mellitus with polyneuropathy
+diabetes_type_2	SNOMEDCT	420279001	Type 2 diabetes mellitus with renal complications
+diabetes_type_2	SNOMEDCT	44054006	Type II diabetes mellitus
+diabetes_type_2	SNOMEDCT	314903002	Type II diabetes mellitus with arthropathy
+diabetes_type_2	SNOMEDCT	420279001	Type II diabetes mellitus with nephropathy
+diabetes_type_2	SNOMEDCT	314902007	Type II diabetes mellitus with peripheral angiopathy
+diabetes_type_2	SNOMEDCT	420279001	Type II diabetes mellitus with renal complications
+diabetes_type_2	SNOMEDCT	237599002	Insulin treated Type II diabetes mellitus
+diabetes_type_2	SNOMEDCT	713706002	Type II diabetes mellitus with polyneuropathy
+diabetes_type_2	SNOMEDCT	421986006	Type 2 diabetes mellitus with persistent proteinuria
+diabetes_type_2	SNOMEDCT	421986006	Type II diabetes mellitus with persistent proteinuria
+diabetes_type_2	SNOMEDCT	420715001	Type 2 diabetes mellitus with persistent microalbuminuria
+diabetes_type_2	SNOMEDCT	420715001	Type II diabetes mellitus with persistent microalbuminuria
+diabetes_type_2	SNOMEDCT	421750000	Type 2 diabetes mellitus with ketoacidosis
+diabetes_type_2	SNOMEDCT	719216001	Type II diabetes mellitus with hypoglycaemic coma
+diabetes_type_2	SNOMEDCT	421326000	Type 2 diabetes mellitus with neurological complications
+diabetes_type_2	SNOMEDCT	422099009	Type 2 diabetes mellitus with ophthalmic complications
+diabetes_type_2	SNOMEDCT	422034002	Type II diabetes mellitus with retinopathy
+diabetes_type_2	SNOMEDCT	713703005	Type 2 diabetes mellitus with gastroparesis
+diabetes_type_2	SNOMEDCT	421326000	Type II diabetes mellitus with neurological complications
+diabetes_type_2	SNOMEDCT	420436000	Type II diabetes mellitus with mononeuropathy
+diabetes_type_2	SNOMEDCT	421631007	Type 2 diabetes mellitus with gangrene
+diabetes_type_2	SNOMEDCT	421631007	Type II diabetes mellitus with gangrene
+diabetes_type_2	SNOMEDCT	420436000	Type 2 diabetes mellitus with mononeuropathy
+diabetes_type_2	SNOMEDCT	421779007	Type 2 diabetes mellitus with exudative maculopathy
+diabetes_type_2	SNOMEDCT	314904008	Type II diabetes mellitus with neuropathic arthropathy
+diabetes_type_2	SNOMEDCT	420756003	Type 2 diabetes mellitus with diabetic cataract
+diabetes_type_2	SNOMEDCT	422099009	Type II diabetes mellitus with ophthalmic complications
+diabetes_type_2	SNOMEDCT	314904008	Type 2 diabetes mellitus with neuropathic arthropathy
+diabetes_type_2	SNOMEDCT	237599002	Insulin treated Type 2 diabetes mellitus
+diabetes_type_2	SNOMEDCT	420756003	Type II diabetes mellitus with diabetic cataract
+diabetes_type_2	SNOMEDCT	44054006	Type 2 diabetes mellitus
+diabetes_type_2	SNOMEDCT	420279001	Type 2 diabetes mellitus with nephropathy
+diabetes_type_2	SNOMEDCT	190389009	Type 2 diabetes mellitus with ulcer
+diabetes_type_2	SNOMEDCT	190389009	Type II diabetes mellitus with ulcer
+diabetes_type_2	SNOMEDCT	190388001	Type II diabetes mellitus with multiple complications
+diabetes_type_2	SNOMEDCT	422034002	Type 2 diabetes mellitus with retinopathy
+diabetes_type_2	SNOMEDCT	313436004	Type 2 diabetes mellitus without complication
+diabetes_type_2	SNOMEDCT	313436004	Type II diabetes mellitus without complication
+diabetes_type_2	SNOMEDCT	421847006	Type 2 diabetes mellitus with ketoacidotic coma
+diabetes_type_2	Read2_5digit	C109.	Type 2 diabetes mellitus
+diabetes_type_2	Read2_5digit	C1090	Type II diabetes mellitus with renal complications
+diabetes_type_2	Read2_5digit	C1091	Type II diabetes mellitus with ophthalmic complications
+diabetes_type_2	Read2_5digit	C1092	Type II diabetes mellitus with neurological complications
+diabetes_type_2	Read2_5digit	C1094	Type II diabetes mellitus with ulcer
+diabetes_type_2	Read2_5digit	C1095	Type II diabetes mellitus with gangrene
+diabetes_type_2	Read2_5digit	C1096	Type II diabetes mellitus with retinopathy
+diabetes_type_2	Read2_5digit	C1097	Type II diabetes mellitus - poor control
+diabetes_type_2	Read2_5digit	C109A	Type II diabetes mellitus with mononeuropathy
+diabetes_type_2	Read2_5digit	C109B	Type II diabetes mellitus with polyneuropathy
+diabetes_type_2	Read2_5digit	C109C	Type II diabetes mellitus with nephropathy
+diabetes_type_2	Read2_5digit	C109D	Type II diabetes mellitus with hypoglycaemic coma
+diabetes_type_2	Read2_5digit	C109E	Type II diabetes mellitus with diabetic cataract
+diabetes_type_2	Read2_5digit	C109F	Type II diabetes mellitus with peripheral angiopathy
+diabetes_type_2	Read2_5digit	C109G	Type II diabetes mellitus with arthropathy
+diabetes_type_2	Read2_5digit	C109H	Type II diabetes mellitus with neuropathic arthropathy
+diabetes_type_2	Read2_5digit	C109J	Insulin treated Type 2 diabetes mellitus
+diabetes_type_2	Read2_5digit	C109K	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+diabetes_type_2	Read2_5digit	C10F.	Type 2 diabetes mellitus
+diabetes_type_2	Read2_5digit	C10F0	Type 2 diabetes mellitus with renal complications
+diabetes_type_2	Read2_5digit	C10F1	Type 2 diabetes mellitus with ophthalmic complications
+diabetes_type_2	Read2_5digit	C10F2	Type 2 diabetes mellitus with neurological complications
+diabetes_type_2	Read2_5digit	C10F3	Type 2 diabetes mellitus with multiple complications
+diabetes_type_2	Read2_5digit	C10F4	Type 2 diabetes mellitus with ulcer
+diabetes_type_2	Read2_5digit	C10F5	Type 2 diabetes mellitus with gangrene
+diabetes_type_2	Read2_5digit	C10F6	Type 2 diabetes mellitus with retinopathy
+diabetes_type_2	Read2_5digit	C10F7	Type 2 diabetes mellitus - poor control
+diabetes_type_2	Read2_5digit	C10F9	Type 2 diabetes mellitus without complication
+diabetes_type_2	Read2_5digit	C10FA	Type 2 diabetes mellitus with mononeuropathy
+diabetes_type_2	Read2_5digit	C10FB	Type 2 diabetes mellitus with polyneuropathy
+diabetes_type_2	Read2_5digit	C10FC	Type 2 diabetes mellitus with nephropathy
+diabetes_type_2	Read2_5digit	C10FD	Type 2 diabetes mellitus with hypoglycaemic coma
+diabetes_type_2	Read2_5digit	C10FE	Type 2 diabetes mellitus with diabetic cataract
+diabetes_type_2	Read2_5digit	C10FF	Type 2 diabetes mellitus with peripheral angiopathy
+diabetes_type_2	Read2_5digit	C10FG	Type 2 diabetes mellitus with arthropathy
+diabetes_type_2	Read2_5digit	C10FH	Type 2 diabetes mellitus with neuropathic arthropathy
+diabetes_type_2	Read2_5digit	C10FJ	Insulin treated Type 2 diabetes mellitus
+diabetes_type_2	Read2_5digit	C10FK	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+diabetes_type_2	Read2_5digit	C10FL	Type 2 diabetes mellitus with persistent proteinuria
+diabetes_type_2	Read2_5digit	C10FM	Type 2 diabetes mellitus with persistent microalbuminuria
+diabetes_type_2	Read2_5digit	C10FN	Type 2 diabetes mellitus with ketoacidosis
+diabetes_type_2	Read2_5digit	C10FP	Type 2 diabetes mellitus with ketoacidotic coma
+diabetes_type_2	Read2_5digit	C10FQ	Type 2 diabetes mellitus with exudative maculopathy
+diabetes_type_2	Read2_5digit	C10FR	Type 2 diabetes mellitus with gastroparesis
+diabetes_type_2	CTV3_5digit	X40J5	Type 2 diabetes mellitus
+diabetes_type_2	CTV3_5digit	C1090	Type 2 diabetes mellitus with renal complications
+diabetes_type_2	CTV3_5digit	C1091	Type 2 diabetes mellitus with ophthalmic complications
+diabetes_type_2	CTV3_5digit	C1092	Type 2 diabetes mellitus with neurological complications
+diabetes_type_2	CTV3_5digit	C1094	Type 2 diabetes mellitus with ulcer
+diabetes_type_2	CTV3_5digit	C1095	Type 2 diabetes mellitus with gangrene
+diabetes_type_2	CTV3_5digit	C1096	Type 2 diabetes mellitus with retinopathy
+diabetes_type_2	CTV3_5digit	C1097	Type 2 diabetes mellitus - poor control
+diabetes_type_2	CTV3_5digit	XaEnp	Type II diabetes mellitus with mononeuropathy
+diabetes_type_2	CTV3_5digit	XaEnq	Type 2 diabetes mellitus with polyneuropathy
+diabetes_type_2	CTV3_5digit	XaF05	Type 2 diabetes mellitus with nephropathy
+diabetes_type_2	CTV3_5digit	XaFWI	Type 2 diabetes mellitus with hypoglycaemic coma
+diabetes_type_2	CTV3_5digit	XaFmA	Type 2 diabetes mellitus with diabetic cataract
+diabetes_type_2	CTV3_5digit	XaFn7	Type 2 diabetes mellitus with peripheral angiopathy
+diabetes_type_2	CTV3_5digit	XaFn8	Type 2 diabetes mellitus with arthropathy
+diabetes_type_2	CTV3_5digit	XaFn9	Type 2 diabetes mellitus with neuropathic arthropathy
+diabetes_type_2	CTV3_5digit	X40J6	Insulin treated Type 2 diabetes mellitus
+diabetes_type_2	CTV3_5digit	XaIrf	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+diabetes_type_2	CTV3_5digit	C1093	Type 2 diabetes mellitus with multiple complications
+diabetes_type_2	CTV3_5digit	XaELQ	Type 2 diabetes mellitus without complication
+diabetes_type_2	CTV3_5digit	XaIzQ	Type 2 diabetes mellitus with persistent proteinuria
+diabetes_type_2	CTV3_5digit	XaIzR	Type 2 diabetes mellitus with persistent microalbuminuria
+diabetes_type_2	CTV3_5digit	C1011	Type 2 diabetes mellitus with ketoacidosis
+diabetes_type_2	CTV3_5digit	C1031	Type 2 diabetes mellitus with ketoacidotic coma
+diabetes_type_2	CTV3_5digit	XaJQp	Type 2 diabetes mellitus with exudative maculopathy
+diabetes_type_2	CTV3_5digit	XaKyX	Type 2 diabetes mellitus with gastroparesis

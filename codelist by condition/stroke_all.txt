@@ -1,0 +1,499 @@
+condition	vocab_id	code	description
+stroke_all	ICD10	G46.3	Brain stem stroke syndrome
+stroke_all	ICD10	G46.4	Cerebellar stroke syndrome
+stroke_all	ICD10	G46.5	Pure motor lacunar syndrome
+stroke_all	ICD10	G46.6	Pure sensory lacunar syndrome
+stroke_all	ICD10	G46.7	Other lacunar syndromes
+stroke_all	ICD10	G46.8	Other vascular syndromes of brain in cerebrovascular diseases
+stroke_all	ICD10	I61	Intracerebral haemorrhage
+stroke_all	ICD10	I63.0	Cerebral infarction due to thrombosis of precerebral arteries
+stroke_all	ICD10	I63.1	Cerebral infarction due to embolism of precerebral arteries
+stroke_all	ICD10	I63.2	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+stroke_all	ICD10	I63.3	Cerebral infarction due to thrombosis of cerebral arteries
+stroke_all	ICD10	I63.4	Cerebral infarction due to embolism of cerebral arteries
+stroke_all	ICD10	I63.5	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+stroke_all	ICD10	I63.8	Other cerebral infarction
+stroke_all	ICD10	I63.9	Cerebral infarction, unspecified
+stroke_all	ICD10	I64	Stroke, not specified as haemorrhage or infarction
+stroke_all	ICD10	I69.1	Sequelae of intracerebral haemorrhage
+stroke_all	ICD10	I69.3	Sequelae of cerebral infarction
+stroke_all	ICD10	I69.4	Sequelae of stroke, not specified as haemorrhage or infarction
+stroke_all	Read2	14A7.00	H/O: CVA/stroke
+stroke_all	Read2	14A7.11	H/O: CVA
+stroke_all	Read2	14A7.12	H/O: stroke
+stroke_all	Read2	14AK.00	H/O: Stroke in last year
+stroke_all	Read2	1M4..00	Central post-stroke pain
+stroke_all	Read2	661M700	Stroke self-management plan agreed
+stroke_all	Read2	661N700	Stroke self-management plan review
+stroke_all	Read2	662e.00	Stroke/CVA annual review
+stroke_all	Read2	662e.11	Stroke annual review
+stroke_all	Read2	662M.00	Stroke monitoring
+stroke_all	Read2	662M100	Stroke 6 month review
+stroke_all	Read2	662M200	Stroke initial post discharge review
+stroke_all	Read2	662o.00	Haemorrhagic stroke monitoring
+stroke_all	Read2	7004300	Evacuation of intracerebral haematoma NEC
+stroke_all	Read2	7P24200	Delivery of rehabilitation for stroke
+stroke_all	Read2	8HHM.00	Referral to multidisciplinary stroke function improvement service
+stroke_all	Read2	8IEC.00	Referral for multidisciplinary stroke function improvement declined
+stroke_all	Read2	9h2..00	Exception reporting: stroke quality indicators
+stroke_all	Read2	9h21.00	Excepted from stroke quality indicators: Patient unsuitable
+stroke_all	Read2	9h22.00	Excepted from stroke quality indicators: Informed dissent
+stroke_all	Read2	Fyu5600	[X]Other lacunar syndromes
+stroke_all	Read2	G61..00	Intracerebral haemorrhage
+stroke_all	Read2	G61..11	CVA - cerebrovascular accident due to intracerebral haemorrhage
+stroke_all	Read2	G61..12	Stroke due to intracerebral haemorrhage
+stroke_all	Read2	G610.00	Cortical haemorrhage
+stroke_all	Read2	G611.00	Internal capsule haemorrhage
+stroke_all	Read2	G612.00	Basal nucleus haemorrhage
+stroke_all	Read2	G613.00	Cerebellar haemorrhage
+stroke_all	Read2	G614.00	Pontine haemorrhage
+stroke_all	Read2	G615.00	Bulbar haemorrhage
+stroke_all	Read2	G616.00	External capsule haemorrhage
+stroke_all	Read2	G617.00	Intracerebral haemorrhage, intraventricular
+stroke_all	Read2	G618.00	Intracerebral haemorrhage, multiple localized
+stroke_all	Read2	G619.00	Lobar cerebral haemorrhage
+stroke_all	Read2	G61X.00	Intracerebral haemorrhage in hemisphere, unspecified
+stroke_all	Read2	G61X000	Left sided intracerebral haemorrhage, unspecified
+stroke_all	Read2	G61X100	Right sided intracerebral haemorrhage, unspecified
+stroke_all	Read2	G61z.00	Intracerebral haemorrhage NOS
+stroke_all	Read2	G63..11	Infarction - precerebral
+stroke_all	Read2	G63y000	Cerebral infarct due to thrombosis of precerebral arteries
+stroke_all	Read2	G63y100	Cerebral infarction due to embolism of precerebral arteries
+stroke_all	Read2	G64..00	Cerebral arterial occlusion
+stroke_all	Read2	G64..11	CVA - cerebrovascular accident due to cerebral artery occlusion
+stroke_all	Read2	G64..12	Infarction - cerebral
+stroke_all	Read2	G64..13	Stroke due to cerebral arterial occlusion
+stroke_all	Read2	G640.00	Cerebral thrombosis
+stroke_all	Read2	G640000	Cerebral infarction due to thrombosis of cerebral arteries
+stroke_all	Read2	G641.00	Cerebral embolism
+stroke_all	Read2	G641.11	Cerebral embolus
+stroke_all	Read2	G641000	Cerebral infarction due to embolism of cerebral arteries
+stroke_all	Read2	G64z.00	Cerebral infarction NOS
+stroke_all	Read2	G64z.11	Brainstem infarction NOS
+stroke_all	Read2	G64z.12	Cerebellar infarction
+stroke_all	Read2	G64z000	Brainstem infarction
+stroke_all	Read2	G64z100	Wallenberg syndrome
+stroke_all	Read2	G64z111	Lateral medullary syndrome
+stroke_all	Read2	G64z200	Left sided cerebral infarction
+stroke_all	Read2	G64z300	Right sided cerebral infarction
+stroke_all	Read2	G64z400	Infarction of basal ganglia
+stroke_all	Read2	G66..00	Stroke and cerebrovascular accident unspecified
+stroke_all	Read2	G66..11	CVA unspecified
+stroke_all	Read2	G66..12	Stroke unspecified
+stroke_all	Read2	G66..13	CVA - Cerebrovascular accident unspecified
+stroke_all	Read2	G663.00	Brain stem stroke syndrome
+stroke_all	Read2	G664.00	Cerebellar stroke syndrome
+stroke_all	Read2	G665.00	Pure motor lacunar syndrome
+stroke_all	Read2	G666.00	Pure sensory lacunar syndrome
+stroke_all	Read2	G667.00	Left sided CVA
+stroke_all	Read2	G668.00	Right sided CVA
+stroke_all	Read2	G681.00	Sequelae of intracerebral haemorrhage
+stroke_all	Read2	G682.00	Sequelae of other nontraumatic intracranial haemorrhage
+stroke_all	Read2	G683.00	Sequelae of cerebral infarction
+stroke_all	Read2	G68X.00	Sequelae of stroke, not specified as haemorrhage or infarction
+stroke_all	Read2	G6W..00	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+stroke_all	Read2	G6X..00	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+stroke_all	Read2	Gyu6200	[X]Other intracerebral haemorrhage
+stroke_all	Read2	Gyu6300	[X]Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+stroke_all	Read2	Gyu6400	[X]Other cerebral infarction
+stroke_all	Read2	Gyu6C00	[X]Sequelae of stroke, not specified as haemorrhage or infarction
+stroke_all	Read2	Gyu6F00	[X]Intracerebral haemorrhage in hemisphere, unspecified
+stroke_all	Read2	Gyu6G00	[X]Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+stroke_all	Read2	L440.11	CVA - cerebrovascular accident in the puerperium
+stroke_all	Read2	L440.12	Stroke in the puerperium
+stroke_all	Read2	ZV12511	[V]Personal history of stroke
+stroke_all	Read2	ZV12512	[V]Personal history of cerebrovascular accident (CVA)
+stroke_all	CTV3	XE2teYa04o	H/O: CVA/stroke
+stroke_all	CTV3	XM1R2Ya0W4	H/O: CVA
+stroke_all	CTV3	XM1R3Ya0W5	H/O: stroke
+stroke_all	CTV3	XaBL3Yaaeo	H/O: Stroke in last year
+stroke_all	CTV3	Xa0MlY7CrK	Central post-stroke pain
+stroke_all	CTV3	XaYbEYauv4	Stroke self-management plan agreed
+stroke_all	CTV3	XaYZQYautb	Stroke self-management plan review
+stroke_all	CTV3	XaIzFYalu8	Stroke/CVA annual review
+stroke_all	CTV3	XaIzFYausH	Stroke annual review
+stroke_all	CTV3	662M.YM9hB	Stroke monitoring
+stroke_all	CTV3	XaR68YausG	Stroke 6 month review
+stroke_all	CTV3	XaYm4Yav4z	Stroke initial post discharge review
+stroke_all	CTV3	XaKSHYanj5	Haemorrhagic stroke monitoring
+stroke_all	CTV3	70043Y00jv	Evacuation of intracerebral haematoma NEC
+stroke_all	CTV3	XaLtAYap0u	Delivery of rehabilitation for stroke
+stroke_all	CTV3	XaJi5Yammy	Referral to multidisciplinary stroke function improvement service
+stroke_all	CTV3	XaXlLYauV4	Referral for multidisciplinary stroke function improvement declined
+stroke_all	CTV3	XaJ4OYam0H	Exception reporting: stroke quality indicators
+stroke_all	CTV3	XaJ4bYam0h	Excepted from stroke quality indicators: Patient unsuitable
+stroke_all	CTV3	XaJ4cYam0j	Excepted from stroke quality indicators: Informed dissent
+stroke_all	CTV3	Fyu56YMADW	[X]Other lacunar syndromes
+stroke_all	CTV3	XE0VFY00dX	Intracerebral haemorrhage
+stroke_all	CTV3	XE0VFY00dU	Cerebral parenchymal haemorrhage
+stroke_all	CTV3	XE0VFY00dW	CVA - Cerebrovascular accident due to intracerebral haemorrhage
+stroke_all	CTV3	XE0VFY00dV	Stroke due to intracerebral haemorrhage
+stroke_all	CTV3	G610.Y00dc	Cortical haemorrhage
+stroke_all	CTV3	G611.Y00db	Internal capsule haemorrhage
+stroke_all	CTV3	G612.Y00dh	Basal ganglia haemorrhage
+stroke_all	CTV3	G613.Y00dm	Cerebellar haemorrhage
+stroke_all	CTV3	G614.Y00dl	Pontine haemorrhage
+stroke_all	CTV3	G615.Y00da	Bulbar haemorrhage
+stroke_all	CTV3	G616.Y00dZ	External capsule haemorrhage
+stroke_all	CTV3	G617.YMAiH	Intracerebral haemorrhage, intraventricular
+stroke_all	CTV3	G618.YadaB	Intracerebral haemorrhage, multiple localised
+stroke_all	CTV3	X00DMY00de	Lobar cerebral haemorrhage
+stroke_all	CTV3	Gyu6FYMAIA	[X]Intracerebral haemorrhage in hemisphere, unspecified
+stroke_all	CTV3	XaBM4Yaafp	Left sided intracerebral haemorrhage, unspecified
+stroke_all	CTV3	XaBM5Yaafq	Right sided intracerebral haemorrhage, unspecified
+stroke_all	CTV3	G61z.Y00dY	Intracerebral haemorrhage NOS
+stroke_all	CTV3	X00D4Y00cp	Infarction - precerebral
+stroke_all	CTV3	G63y0YMAiD	Cerebral infarct due to thrombosis of precerebral arteries
+stroke_all	CTV3	G63y1YMAiE	Cerebral infarction due to embolism of precerebral arteries
+stroke_all	CTV3	XE0VIY20FP	Cerebral arterial occlusion
+stroke_all	CTV3	X00D3Y00co	CVA - cerebrovascular accident due to cerebral artery occlusion
+stroke_all	CTV3	Xa0kZY00ci	Cerebral infarction
+stroke_all	CTV3	G640.Y00cj	Cerebral thrombosis
+stroke_all	CTV3	G640.Yah3i	Occlusive stroke
+stroke_all	CTV3	G6400YMAiF	Cerebral infarction due to thrombosis of cerebral arteries
+stroke_all	CTV3	G641.Y20G2	Cerebral embolism
+stroke_all	CTV3	G641.Y20G1	Cerebral embolus
+stroke_all	CTV3	G6410YMAiG	Cerebral infarction due to embolism of cerebral arteries
+stroke_all	CTV3	XE0VJY00cn	Cerebral infarction NOS
+stroke_all	CTV3	X00D9Y00d0	Brainstem infarction NOS
+stroke_all	CTV3	Xa00JYa0rd	Cerebellar infarction
+stroke_all	CTV3	Xa00KYa0re	Brainstem infarction
+stroke_all	CTV3	Xa00MYa0rg	Wallenberg syndrome
+stroke_all	CTV3	Xa00MYa3VD	Lateral medullary syndrome
+stroke_all	CTV3	XaBECYaaWG	Left sided cerebral infarction
+stroke_all	CTV3	XaBEDYaaWH	Right sided cerebral infarction
+stroke_all	CTV3	XaJgQYamlC	Infarction of basal ganglia
+stroke_all	CTV3	XE2aBY00ch	Stroke and cerebrovascular accident unspecified
+stroke_all	CTV3	G66..YabW4	CVA - Cerebrovascular accident unspecified
+stroke_all	CTV3	X00D1Y00ce	Cerebrovascular accident
+stroke_all	CTV3	X00D1Y00cf	CVA - Cerebrovascular accident
+stroke_all	CTV3	G66..YaeBs	Stroke unspecified
+stroke_all	CTV3	G663.Yae3w	Brainstem stroke syndrome
+stroke_all	CTV3	G664.YMAiC	Cerebellar stroke syndrome
+stroke_all	CTV3	X00DBYMAi9	NA
+stroke_all	CTV3	XaQbKYMAi9	Pure motor lacunar syndrome
+stroke_all	CTV3	X00DCYMAiA	NA
+stroke_all	CTV3	XaQbMYMAiA	Pure sensory lacunar syndrome
+stroke_all	CTV3	G667.YaYAW	Left sided CVA
+stroke_all	CTV3	G668.YaYAX	Right sided CVA
+stroke_all	CTV3	G681.YMAiJ	Sequelae of intracerebral haemorrhage
+stroke_all	CTV3	G682.Yad1m	Sequelae of other non-traumatic intracranial haemorrhage
+stroke_all	CTV3	G683.YMAiM	Sequelae of cerebral infarction
+stroke_all	CTV3	Gyu6CYMAI7	[X]Sequelae of stroke, not specified as haemorrhage or infarction
+stroke_all	CTV3	Gyu6GYMAIB	[X]Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+stroke_all	CTV3	Gyu63YMAHy	[X]Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+stroke_all	CTV3	Gyu62YMAHx	[X]Other intracerebral haemorrhage
+stroke_all	CTV3	Gyu64YMAHz	[X]Other cerebral infarction
+stroke_all	CTV3	XM1PLY415m	Stroke in the puerperium
+stroke_all	CTV3	ZV125Ya0eG	[V]Personal history of cerebrovascular accident (CVA)
+stroke_all	CTV3	ZV125Ya0eH	[V]Personal history of stroke
+stroke_all	medcodeid	125470015	Cerebral embolism
+stroke_all	medcodeid	300313017	Cerebral infarction due to embolism of precerebral arteries
+stroke_all	medcodeid	300322016	Cerebral infarction due to embolism of cerebral arteries
+stroke_all	medcodeid	300411016	Sequelae of cerebral infarction
+stroke_all	medcodeid	345639010	Infarction - precerebral
+stroke_all	medcodeid	345675012	Lobar cerebral haemorrhage
+stroke_all	medcodeid	411416011	Stroke in the puerperium
+stroke_all	medcodeid	413750011	Central post-stroke pain
+stroke_all	medcodeid	451133011	Left sided cerebral infarction
+stroke_all	medcodeid	451134017	Right sided cerebral infarction
+stroke_all	medcodeid	451371010	H/O: Stroke in last year
+stroke_all	medcodeid	496232015	Internal capsule haemorrhage
+stroke_all	medcodeid	1222398015	Cerebral arterial occlusion
+stroke_all	medcodeid	2548554013	Haemorrhagic stroke monitoring
+stroke_all	medcodeid	371641000000112	Delivery of rehabilitation for stroke
+stroke_all	medcodeid	2115821000000118	Stroke self-management plan review
+stroke_all	medcodeid	2126181000000114	Stroke annual review
+stroke_all	medcodeid	2127781000000110	Stroke initial post discharge review
+stroke_all	medcodeid	299342019	[X]Other lacunar syndromes
+stroke_all	medcodeid	345650013	Brainstem infarction NOS
+stroke_all	medcodeid	345655015	Pure motor lacunar syndrome
+stroke_all	medcodeid	405339016	Stroke and cerebrovascular accident unspecified
+stroke_all	medcodeid	1227591017	[V]Personal history of stroke
+stroke_all	medcodeid	57341000006119	Wallenberg syndrome
+stroke_all	medcodeid	138981000000113	Exception reporting: stroke quality indicators
+stroke_all	medcodeid	139081000000117	Excepted from stroke quality indicators: Patient unsuitable
+stroke_all	medcodeid	149551000006111	Sequelae of other nontraumatic intracranial haemorrhage
+stroke_all	medcodeid	149571000006118	Sequelae of stroke,not specfd as h'morrhage or infarction
+stroke_all	medcodeid	370701000006118	[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+stroke_all	medcodeid	426321000006116	[X]Sequelae of stroke,not specfd as h'morrhage or infarction
+stroke_all	medcodeid	524511000006116	Brain stem stroke syndrome
+stroke_all	medcodeid	542831000006116	Cerebral embolus
+stroke_all	medcodeid	543141000006110	Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+stroke_all	medcodeid	605471000006112	CVA - cerebrovascular accid due to intracerebral haemorrhage
+stroke_all	medcodeid	605481000006110	CVA - cerebrovascular accident in the puerperium
+stroke_all	medcodeid	605491000006113	CVA - Cerebrovascular accident unspecified
+stroke_all	medcodeid	746571000006116	Intracerebral haemorrhage, multiple localized
+stroke_all	medcodeid	809421000006116	H/O: CVA/stroke
+stroke_all	medcodeid	966981000006112	Ref to multidisciplinary stroke function improvement service
+stroke_all	medcodeid	1784651000006110	Ref multidisciplinary stroke function improvement declined
+stroke_all	medcodeid	370661000006114	[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+stroke_all	medcodeid	542261000006114	Cereb infarct due unsp occlus/stenos precerebr arteries
+stroke_all	medcodeid	1227592012	[V]Personal history of cerebrovascular accident (CVA)
+stroke_all	medcodeid	748941000006115	Left sided intracerebral haemorrhage, unspecified
+stroke_all	medcodeid	163261000006119	Right sided intracerebral haemorrhage, unspecified
+stroke_all	medcodeid	122371000006118	Stroke due to intracerebral haemorrhage
+stroke_all	medcodeid	1780304018	Stroke/CVA annual review
+stroke_all	medcodeid	122401000006115	Stroke unspecified
+stroke_all	medcodeid	300370010	Left sided CVA
+stroke_all	medcodeid	264499015	Stroke monitoring
+stroke_all	medcodeid	158118014	Cerebellar infarction
+stroke_all	medcodeid	395780010	Cerebral infarction NOS
+stroke_all	medcodeid	300956017	[X]Intracerebral haemorrhage in hemisphere, unspecified
+stroke_all	medcodeid	503791000006114	Basal nucleus haemorrhage
+stroke_all	medcodeid	122361000006113	Stroke due to cerebral arterial occlusion
+stroke_all	medcodeid	265692011	Evacuation of intracerebral haematoma NEC
+stroke_all	medcodeid	2474651019	Infarction of basal ganglia
+stroke_all	medcodeid	300276019	External capsule haemorrhage
+stroke_all	medcodeid	300321011	Cerebral infarction due to thrombosis of cerebral arteries
+stroke_all	medcodeid	130375018	Lateral medullary syndrome
+stroke_all	medcodeid	605461000006117	CVA - cerebral artery occlusion
+stroke_all	medcodeid	345658018	Pure sensory lacunar syndrome
+stroke_all	medcodeid	300287010	Intracerebral haemorrhage NOS
+stroke_all	medcodeid	495394013	Cortical haemorrhage
+stroke_all	medcodeid	502878012	Cerebellar haemorrhage
+stroke_all	medcodeid	411518010	H/O: CVA
+stroke_all	medcodeid	300407010	Sequelae of intracerebral haemorrhage
+stroke_all	medcodeid	118689010	Cerebral thrombosis
+stroke_all	medcodeid	744901000006114	Intracerebral haemorrhage
+stroke_all	medcodeid	524541000006117	Brainstem infarction
+stroke_all	medcodeid	483988011	Bulbar haemorrhage
+stroke_all	medcodeid	1160471000000111	Stroke 6 month review
+stroke_all	medcodeid	2118011000000114	Stroke self-management plan agreed
+stroke_all	medcodeid	503469016	Pontine haemorrhage
+stroke_all	medcodeid	2476091017	H/O: stroke
+stroke_all	medcodeid	300277011	Intracerebral haemorrhage, intraventricular
+stroke_all	medcodeid	300312010	Cerebral infarct due to thrombosis of precerebral arteries
+stroke_all	medcodeid	300366019	Cerebellar stroke syndrome
+stroke_all	medcodeid	300371014	Right sided CVA
+stroke_all	medcodeid	300941014	[X]Other cerebral infarction
+stroke_all	medcodeid	139091000000115	Excepted from stroke quality indicators: Informed dissent
+stroke_all	medcodeid	218511000000117	Infarction - cerebral
+stroke_all	medcodeid	605501000006117	CVA unspecified
+stroke_all	medcodeid	300939013	[X]Other intracerebral haemorrhage
+stroke_all	medcodeid	744921000006116	Intracerebral haemorrhage in hemisphere, unspecified
+stroke_all	SNOMEDCT	75543006	Cerebral embolism
+stroke_all	SNOMEDCT	195186005	Cerebral infarction due to embolism of precerebral arteries
+stroke_all	SNOMEDCT	195190007	Cerebral infarction due to embolism of cerebral arteries
+stroke_all	SNOMEDCT	195243003	Sequelae of cerebral infarction
+stroke_all	SNOMEDCT	230692004	Infarction - precerebral
+stroke_all	SNOMEDCT	230710000	Lobar cerebral haemorrhage
+stroke_all	SNOMEDCT	275434003	Stroke in the puerperium
+stroke_all	SNOMEDCT	277286006	Central post-stroke pain
+stroke_all	SNOMEDCT	307766002	Left sided cerebral infarction
+stroke_all	SNOMEDCT	307767006	Right sided cerebral infarction
+stroke_all	SNOMEDCT	308067002	H/O: Stroke in last year
+stroke_all	SNOMEDCT	52201006	Internal capsule haemorrhage
+stroke_all	SNOMEDCT	20059004	Cerebral arterial occlusion
+stroke_all	SNOMEDCT	417506008	Haemorrhagic stroke monitoring
+stroke_all	SNOMEDCT	231231000000107	Delivery of rehabilitation for stroke
+stroke_all	SNOMEDCT	810991000000109	Stroke self-management plan review
+stroke_all	SNOMEDCT	699270006	Stroke annual review
+stroke_all	SNOMEDCT	816561000000108	Stroke initial post discharge review
+stroke_all	SNOMEDCT	230698000	[X]Other lacunar syndromes
+stroke_all	SNOMEDCT	95457000	Brainstem infarction NOS
+stroke_all	SNOMEDCT	230699008	Pure motor lacunar syndrome
+stroke_all	SNOMEDCT	230690007	Stroke and cerebrovascular accident unspecified
+stroke_all	SNOMEDCT	275526006	[V]Personal history of stroke
+stroke_all	SNOMEDCT	78569004	Wallenberg syndrome
+stroke_all	SNOMEDCT	716331000000108	Exception reporting: stroke quality indicators
+stroke_all	SNOMEDCT	716581000000101	Excepted from stroke quality indicators: Patient unsuitable
+stroke_all	SNOMEDCT	363302008	Sequelae of other nontraumatic intracranial haemorrhage
+stroke_all	SNOMEDCT	195239002	Sequelae of stroke,not specfd as h'morrhage or infarction
+stroke_all	SNOMEDCT	20059004	[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+stroke_all	SNOMEDCT	195239002	[X]Sequelae of stroke,not specfd as h'morrhage or infarction
+stroke_all	SNOMEDCT	195212005	Brain stem stroke syndrome
+stroke_all	SNOMEDCT	75543006	Cerebral embolus
+stroke_all	SNOMEDCT	20059004	Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+stroke_all	SNOMEDCT	274100004	CVA - cerebrovascular accid due to intracerebral haemorrhage
+stroke_all	SNOMEDCT	275434003	CVA - cerebrovascular accident in the puerperium
+stroke_all	SNOMEDCT	230690007	CVA - Cerebrovascular accident unspecified
+stroke_all	SNOMEDCT	195169004	Intracerebral haemorrhage, multiple localized
+stroke_all	SNOMEDCT	275526006	H/O: CVA/stroke
+stroke_all	SNOMEDCT	112901000000108	Ref to multidisciplinary stroke function improvement service
+stroke_all	SNOMEDCT	781731000000103	Ref multidisciplinary stroke function improvement declined
+stroke_all	SNOMEDCT	125081000119106	[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+stroke_all	SNOMEDCT	125081000119106	Cereb infarct due unsp occlus/stenos precerebr arteries
+stroke_all	SNOMEDCT	266995000	[V]Personal history of cerebrovascular accident (CVA)
+stroke_all	SNOMEDCT	274100004	Left sided intracerebral haemorrhage, unspecified
+stroke_all	SNOMEDCT	195168007	Right sided intracerebral haemorrhage, unspecified
+stroke_all	SNOMEDCT	274100004	Stroke due to intracerebral haemorrhage
+stroke_all	SNOMEDCT	699270006	Stroke/CVA annual review
+stroke_all	SNOMEDCT	230690007	Stroke unspecified
+stroke_all	SNOMEDCT	195216008	Left sided CVA
+stroke_all	SNOMEDCT	170600009	Stroke monitoring
+stroke_all	SNOMEDCT	95460007	Cerebellar infarction
+stroke_all	SNOMEDCT	432504007	Cerebral infarction NOS
+stroke_all	SNOMEDCT	274100004	[X]Intracerebral haemorrhage in hemisphere, unspecified
+stroke_all	SNOMEDCT	195165005	Basal nucleus haemorrhage
+stroke_all	SNOMEDCT	230691006	Stroke due to cerebral arterial occlusion
+stroke_all	SNOMEDCT	10458001	Evacuation of intracerebral haematoma NEC
+stroke_all	SNOMEDCT	413102000	Infarction of basal ganglia
+stroke_all	SNOMEDCT	195167002	External capsule haemorrhage
+stroke_all	SNOMEDCT	195189003	Cerebral infarction due to thrombosis of cerebral arteries
+stroke_all	SNOMEDCT	78569004	Lateral medullary syndrome
+stroke_all	SNOMEDCT	230691006	CVA - cerebral artery occlusion
+stroke_all	SNOMEDCT	230700009	Pure sensory lacunar syndrome
+stroke_all	SNOMEDCT	274100004	Intracerebral haemorrhage NOS
+stroke_all	SNOMEDCT	49422009	Cortical haemorrhage
+stroke_all	SNOMEDCT	75038005	Cerebellar haemorrhage
+stroke_all	SNOMEDCT	275526006	H/O: CVA
+stroke_all	SNOMEDCT	195241001	Sequelae of intracerebral haemorrhage
+stroke_all	SNOMEDCT	71444005	Cerebral thrombosis
+stroke_all	SNOMEDCT	274100004	Intracerebral haemorrhage
+stroke_all	SNOMEDCT	95457000	Brainstem infarction
+stroke_all	SNOMEDCT	732923001	Bulbar haemorrhage
+stroke_all	SNOMEDCT	519751000000106	Stroke 6 month review
+stroke_all	SNOMEDCT	812041000000104	Stroke self-management plan agreed
+stroke_all	SNOMEDCT	7713009	Pontine haemorrhage
+stroke_all	SNOMEDCT	275526006	H/O: stroke
+stroke_all	SNOMEDCT	195168007	Intracerebral haemorrhage, intraventricular
+stroke_all	SNOMEDCT	195185009	Cerebral infarct due to thrombosis of precerebral arteries
+stroke_all	SNOMEDCT	195213000	Cerebellar stroke syndrome
+stroke_all	SNOMEDCT	195217004	Right sided CVA
+stroke_all	SNOMEDCT	432504007	[X]Other cerebral infarction
+stroke_all	SNOMEDCT	716021000000109	Excepted from stroke quality indicators: Informed dissent
+stroke_all	SNOMEDCT	432504007	Infarction - cerebral
+stroke_all	SNOMEDCT	230690007	CVA unspecified
+stroke_all	SNOMEDCT	274100004	[X]Other intracerebral haemorrhage
+stroke_all	SNOMEDCT	274100004	Intracerebral haemorrhage in hemisphere, unspecified
+stroke_all	Read2_5digit	14A7.	H/O: CVA/stroke
+stroke_all	Read2_5digit	14AK.	H/O: Stroke in last year
+stroke_all	Read2_5digit	1M4..	Central post-stroke pain
+stroke_all	Read2_5digit	661M7	Stroke self-management plan agreed
+stroke_all	Read2_5digit	661N7	Stroke self-management plan review
+stroke_all	Read2_5digit	662e.	Stroke/CVA annual review
+stroke_all	Read2_5digit	662M.	Stroke monitoring
+stroke_all	Read2_5digit	662M1	Stroke 6 month review
+stroke_all	Read2_5digit	662M2	Stroke initial post discharge review
+stroke_all	Read2_5digit	662o.	Haemorrhagic stroke monitoring
+stroke_all	Read2_5digit	70043	Evacuation of intracerebral haematoma NEC
+stroke_all	Read2_5digit	7P242	Delivery of rehabilitation for stroke
+stroke_all	Read2_5digit	8HHM.	Referral to multidisciplinary stroke function improvement service
+stroke_all	Read2_5digit	8IEC.	Referral for multidisciplinary stroke function improvement declined
+stroke_all	Read2_5digit	9h2..	Exception reporting: stroke quality indicators
+stroke_all	Read2_5digit	9h21.	Excepted from stroke quality indicators: Patient unsuitable
+stroke_all	Read2_5digit	9h22.	Excepted from stroke quality indicators: Informed dissent
+stroke_all	Read2_5digit	Fyu56	[X]Other lacunar syndromes
+stroke_all	Read2_5digit	G61..	Intracerebral haemorrhage
+stroke_all	Read2_5digit	G610.	Cortical haemorrhage
+stroke_all	Read2_5digit	G611.	Internal capsule haemorrhage
+stroke_all	Read2_5digit	G612.	Basal nucleus haemorrhage
+stroke_all	Read2_5digit	G613.	Cerebellar haemorrhage
+stroke_all	Read2_5digit	G614.	Pontine haemorrhage
+stroke_all	Read2_5digit	G615.	Bulbar haemorrhage
+stroke_all	Read2_5digit	G616.	External capsule haemorrhage
+stroke_all	Read2_5digit	G617.	Intracerebral haemorrhage, intraventricular
+stroke_all	Read2_5digit	G618.	Intracerebral haemorrhage, multiple localized
+stroke_all	Read2_5digit	G619.	Lobar cerebral haemorrhage
+stroke_all	Read2_5digit	G61X.	Intracerebral haemorrhage in hemisphere, unspecified
+stroke_all	Read2_5digit	G61X0	Left sided intracerebral haemorrhage, unspecified
+stroke_all	Read2_5digit	G61X1	Right sided intracerebral haemorrhage, unspecified
+stroke_all	Read2_5digit	G61z.	Intracerebral haemorrhage NOS
+stroke_all	Read2_5digit	G63..	Infarction - precerebral
+stroke_all	Read2_5digit	G63y0	Cerebral infarct due to thrombosis of precerebral arteries
+stroke_all	Read2_5digit	G63y1	Cerebral infarction due to embolism of precerebral arteries
+stroke_all	Read2_5digit	G64..	Cerebral arterial occlusion
+stroke_all	Read2_5digit	G640.	Cerebral thrombosis
+stroke_all	Read2_5digit	G6400	Cerebral infarction due to thrombosis of cerebral arteries
+stroke_all	Read2_5digit	G641.	Cerebral embolism
+stroke_all	Read2_5digit	G6410	Cerebral infarction due to embolism of cerebral arteries
+stroke_all	Read2_5digit	G64z.	Cerebral infarction NOS
+stroke_all	Read2_5digit	G64z0	Brainstem infarction
+stroke_all	Read2_5digit	G64z1	Wallenberg syndrome
+stroke_all	Read2_5digit	G64z2	Left sided cerebral infarction
+stroke_all	Read2_5digit	G64z3	Right sided cerebral infarction
+stroke_all	Read2_5digit	G64z4	Infarction of basal ganglia
+stroke_all	Read2_5digit	G66..	Stroke and cerebrovascular accident unspecified
+stroke_all	Read2_5digit	G663.	Brain stem stroke syndrome
+stroke_all	Read2_5digit	G664.	Cerebellar stroke syndrome
+stroke_all	Read2_5digit	G665.	Pure motor lacunar syndrome
+stroke_all	Read2_5digit	G666.	Pure sensory lacunar syndrome
+stroke_all	Read2_5digit	G667.	Left sided CVA
+stroke_all	Read2_5digit	G668.	Right sided CVA
+stroke_all	Read2_5digit	G681.	Sequelae of intracerebral haemorrhage
+stroke_all	Read2_5digit	G682.	Sequelae of other nontraumatic intracranial haemorrhage
+stroke_all	Read2_5digit	G683.	Sequelae of cerebral infarction
+stroke_all	Read2_5digit	G68X.	Sequelae of stroke, not specified as haemorrhage or infarction
+stroke_all	Read2_5digit	G6W..	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+stroke_all	Read2_5digit	G6X..	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+stroke_all	Read2_5digit	Gyu62	[X]Other intracerebral haemorrhage
+stroke_all	Read2_5digit	Gyu63	[X]Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+stroke_all	Read2_5digit	Gyu64	[X]Other cerebral infarction
+stroke_all	Read2_5digit	Gyu6C	[X]Sequelae of stroke, not specified as haemorrhage or infarction
+stroke_all	Read2_5digit	Gyu6F	[X]Intracerebral haemorrhage in hemisphere, unspecified
+stroke_all	Read2_5digit	Gyu6G	[X]Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+stroke_all	CTV3_5digit	XE2te	H/O: CVA/stroke
+stroke_all	CTV3_5digit	XM1R2	H/O: CVA
+stroke_all	CTV3_5digit	XM1R3	H/O: stroke
+stroke_all	CTV3_5digit	XaBL3	H/O: Stroke in last year
+stroke_all	CTV3_5digit	Xa0Ml	Central post-stroke pain
+stroke_all	CTV3_5digit	XaYbE	Stroke self-management plan agreed
+stroke_all	CTV3_5digit	XaYZQ	Stroke self-management plan review
+stroke_all	CTV3_5digit	XaIzF	Stroke/CVA annual review
+stroke_all	CTV3_5digit	662M.	Stroke monitoring
+stroke_all	CTV3_5digit	XaR68	Stroke 6 month review
+stroke_all	CTV3_5digit	XaYm4	Stroke initial post discharge review
+stroke_all	CTV3_5digit	XaKSH	Haemorrhagic stroke monitoring
+stroke_all	CTV3_5digit	70043	Evacuation of intracerebral haematoma NEC
+stroke_all	CTV3_5digit	XaLtA	Delivery of rehabilitation for stroke
+stroke_all	CTV3_5digit	XaJi5	Referral to multidisciplinary stroke function improvement service
+stroke_all	CTV3_5digit	XaXlL	Referral for multidisciplinary stroke function improvement declined
+stroke_all	CTV3_5digit	XaJ4O	Exception reporting: stroke quality indicators
+stroke_all	CTV3_5digit	XaJ4b	Excepted from stroke quality indicators: Patient unsuitable
+stroke_all	CTV3_5digit	XaJ4c	Excepted from stroke quality indicators: Informed dissent
+stroke_all	CTV3_5digit	Fyu56	[X]Other lacunar syndromes
+stroke_all	CTV3_5digit	XE0VF	Intracerebral haemorrhage
+stroke_all	CTV3_5digit	G610.	Cortical haemorrhage
+stroke_all	CTV3_5digit	G611.	Internal capsule haemorrhage
+stroke_all	CTV3_5digit	G612.	Basal ganglia haemorrhage
+stroke_all	CTV3_5digit	G613.	Cerebellar haemorrhage
+stroke_all	CTV3_5digit	G614.	Pontine haemorrhage
+stroke_all	CTV3_5digit	G615.	Bulbar haemorrhage
+stroke_all	CTV3_5digit	G616.	External capsule haemorrhage
+stroke_all	CTV3_5digit	G617.	Intracerebral haemorrhage, intraventricular
+stroke_all	CTV3_5digit	G618.	Intracerebral haemorrhage, multiple localised
+stroke_all	CTV3_5digit	X00DM	Lobar cerebral haemorrhage
+stroke_all	CTV3_5digit	Gyu6F	[X]Intracerebral haemorrhage in hemisphere, unspecified
+stroke_all	CTV3_5digit	XaBM4	Left sided intracerebral haemorrhage, unspecified
+stroke_all	CTV3_5digit	XaBM5	Right sided intracerebral haemorrhage, unspecified
+stroke_all	CTV3_5digit	G61z.	Intracerebral haemorrhage NOS
+stroke_all	CTV3_5digit	X00D4	Infarction - precerebral
+stroke_all	CTV3_5digit	G63y0	Cerebral infarct due to thrombosis of precerebral arteries
+stroke_all	CTV3_5digit	G63y1	Cerebral infarction due to embolism of precerebral arteries
+stroke_all	CTV3_5digit	XE0VI	Cerebral arterial occlusion
+stroke_all	CTV3_5digit	X00D3	CVA - cerebrovascular accident due to cerebral artery occlusion
+stroke_all	CTV3_5digit	Xa0kZ	Cerebral infarction
+stroke_all	CTV3_5digit	G640.	Cerebral thrombosis
+stroke_all	CTV3_5digit	G6400	Cerebral infarction due to thrombosis of cerebral arteries
+stroke_all	CTV3_5digit	G641.	Cerebral embolism
+stroke_all	CTV3_5digit	G6410	Cerebral infarction due to embolism of cerebral arteries
+stroke_all	CTV3_5digit	XE0VJ	Cerebral infarction NOS
+stroke_all	CTV3_5digit	X00D9	Brainstem infarction NOS
+stroke_all	CTV3_5digit	Xa00J	Cerebellar infarction
+stroke_all	CTV3_5digit	Xa00K	Brainstem infarction
+stroke_all	CTV3_5digit	Xa00M	Wallenberg syndrome
+stroke_all	CTV3_5digit	XaBEC	Left sided cerebral infarction
+stroke_all	CTV3_5digit	XaBED	Right sided cerebral infarction
+stroke_all	CTV3_5digit	XaJgQ	Infarction of basal ganglia
+stroke_all	CTV3_5digit	XE2aB	Stroke and cerebrovascular accident unspecified
+stroke_all	CTV3_5digit	G66..	CVA - Cerebrovascular accident unspecified
+stroke_all	CTV3_5digit	X00D1	Cerebrovascular accident
+stroke_all	CTV3_5digit	G663.	Brainstem stroke syndrome
+stroke_all	CTV3_5digit	G664.	Cerebellar stroke syndrome
+stroke_all	CTV3_5digit	X00DB	NA
+stroke_all	CTV3_5digit	XaQbK	Pure motor lacunar syndrome
+stroke_all	CTV3_5digit	X00DC	NA
+stroke_all	CTV3_5digit	XaQbM	Pure sensory lacunar syndrome
+stroke_all	CTV3_5digit	G667.	Left sided CVA
+stroke_all	CTV3_5digit	G668.	Right sided CVA
+stroke_all	CTV3_5digit	G681.	Sequelae of intracerebral haemorrhage
+stroke_all	CTV3_5digit	G682.	Sequelae of other non-traumatic intracranial haemorrhage
+stroke_all	CTV3_5digit	G683.	Sequelae of cerebral infarction
+stroke_all	CTV3_5digit	Gyu6C	[X]Sequelae of stroke, not specified as haemorrhage or infarction
+stroke_all	CTV3_5digit	Gyu6G	[X]Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+stroke_all	CTV3_5digit	Gyu63	[X]Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+stroke_all	CTV3_5digit	Gyu62	[X]Other intracerebral haemorrhage
+stroke_all	CTV3_5digit	Gyu64	[X]Other cerebral infarction
+stroke_all	CTV3_5digit	XM1PL	Stroke in the puerperium
+stroke_all	CTV3_5digit	ZV125	[V]Personal history of cerebrovascular accident (CVA)

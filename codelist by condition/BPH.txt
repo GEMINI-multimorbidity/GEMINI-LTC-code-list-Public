@@ -1,0 +1,56 @@
+condition	vocab_id	code	description
+BPH	ICD10	N40	Hyperplasia of prostate
+BPH	ICD10	N40.0	Benign prostatic hyperplasia without lower urinary tract symptoms
+BPH	ICD10	N40.1	Benign prostatic hyperplasia with lower urinary tract symptoms
+BPH	Read2	14E1.00	H/O: prostatism
+BPH	Read2	1AA..00	Prostatism
+BPH	Read2	K20..00	Benign prostatic hypertrophy
+BPH	Read2	K20..14	Enlarged prostate - benign
+BPH	Read2	K20..15	BPH - benign prostatic hypertrophy
+BPH	Read2	K20..16	Prostatism
+BPH	Read2	K200.00	Prostatic hyperplasia unspecified
+BPH	Read2	K201.00	Prostatic hyperplasia of the lateral lobe
+BPH	Read2	K202.00	Prostatic hyperplasia of the medial lobe
+BPH	Read2	K20z.00	Prostatic hyperplasia NOS
+BPH	CTV3	14E1.Ya05O	H/O: prostatism
+BPH	CTV3	1AA..Y7ETm	Prostatism
+BPH	CTV3	XE0e6YaYkq	Benign prostatic hypertrophy
+BPH	CTV3	XE0e6Y7J94	Benign prostatic hyperplasia
+BPH	CTV3	XE0e6YaYke	Prostatic hypertrophy
+BPH	CTV3	K200.YM0mf	Prostatic hyperplasia unspecified
+BPH	CTV3	K201.YM0mg	Prostatic hyperplasia of the lateral lobe
+BPH	CTV3	K202.YM0mh	Prostatic hyperplasia of the medial lobe
+BPH	CTV3	K20z.YM0mi	Prostatic hyperplasia NOS
+BPH	medcodeid	19794011	Prostatism
+BPH	medcodeid	304383016	Prostatic hyperplasia of the lateral lobe
+BPH	medcodeid	304382014	Prostatic hyperplasia unspecified
+BPH	medcodeid	304385011	Prostatic hyperplasia NOS
+BPH	medcodeid	396742015	BPH - Benign prostatic hypertrophy
+BPH	medcodeid	645331000006112	Enlarged prostate - benign
+BPH	medcodeid	304384010	Prostatic hyperplasia of the medial lobe
+BPH	medcodeid	251774018	H/O: prostatism
+BPH	medcodeid	396738018	Benign prostatic hypertrophy
+BPH	medcodeid	203421000006110	Prostatism
+BPH	SNOMEDCT	11441004	Prostatism
+BPH	SNOMEDCT	197959008	Prostatic hyperplasia of the lateral lobe
+BPH	SNOMEDCT	433234005	Prostatic hyperplasia unspecified
+BPH	SNOMEDCT	433234005	Prostatic hyperplasia NOS
+BPH	SNOMEDCT	266569009	BPH - Benign prostatic hypertrophy
+BPH	SNOMEDCT	266569009	Enlarged prostate - benign
+BPH	SNOMEDCT	197960003	Prostatic hyperplasia of the medial lobe
+BPH	SNOMEDCT	161555006	H/O: prostatism
+BPH	SNOMEDCT	266569009	Benign prostatic hypertrophy
+BPH	Read2_5digit	14E1.	H/O: prostatism
+BPH	Read2_5digit	1AA..	Prostatism
+BPH	Read2_5digit	K20..	Benign prostatic hypertrophy
+BPH	Read2_5digit	K200.	Prostatic hyperplasia unspecified
+BPH	Read2_5digit	K201.	Prostatic hyperplasia of the lateral lobe
+BPH	Read2_5digit	K202.	Prostatic hyperplasia of the medial lobe
+BPH	Read2_5digit	K20z.	Prostatic hyperplasia NOS
+BPH	CTV3_5digit	14E1.	H/O: prostatism
+BPH	CTV3_5digit	1AA..	Prostatism
+BPH	CTV3_5digit	XE0e6	Benign prostatic hypertrophy
+BPH	CTV3_5digit	K200.	Prostatic hyperplasia unspecified
+BPH	CTV3_5digit	K201.	Prostatic hyperplasia of the lateral lobe
+BPH	CTV3_5digit	K202.	Prostatic hyperplasia of the medial lobe
+BPH	CTV3_5digit	K20z.	Prostatic hyperplasia NOS

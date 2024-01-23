@@ -1,0 +1,513 @@
+condition	vocab_id	code	description
+female_genital_prolapse	ICD10	N81	Female genital prolapse
+female_genital_prolapse	Read2	1594.00	H/O: genital prolapse
+female_genital_prolapse	Read2	7D17.00	Repair of vaginal prolapse and amputation of cervix uteri
+female_genital_prolapse	Read2	7D17.11	Colporrhaphy and amputation of cervix uteri
+female_genital_prolapse	Read2	7D17000	Anterior and posterior colporrhaphy and amputation of cervix uteri
+female_genital_prolapse	Read2	7D17100	Anterior colporrhaphy and amputation of cervix uteri NEC
+female_genital_prolapse	Read2	7D17111	Fothergill anterior colporrhaphy and amputation of cervix uteri
+female_genital_prolapse	Read2	7D17200	Posterior colporrhaphy and amputation of cervix uteri NEC
+female_genital_prolapse	Read2	7D17y00	Other specified repair of vaginal prolapse and amputation of cervix uteri
+female_genital_prolapse	Read2	7D17z00	Repair of vaginal prolapse and amputation of cervix uteri NOS
+female_genital_prolapse	Read2	7D17z11	Manchester repair
+female_genital_prolapse	Read2	7D18.00	Other repair of vaginal prolapse
+female_genital_prolapse	Read2	7D18.11	Colporrhaphy
+female_genital_prolapse	Read2	7D18000	Anterior and posterior colporrhaphy NEC
+female_genital_prolapse	Read2	7D18011	Anterior and posterior repair
+female_genital_prolapse	Read2	7D18100	Anterior colporrhaphy NEC
+female_genital_prolapse	Read2	7D18111	Anterior repair
+female_genital_prolapse	Read2	7D18200	Posterior colporrhaphy NEC
+female_genital_prolapse	Read2	7D18211	Posterior repair
+female_genital_prolapse	Read2	7D18300	Repair of enterocele NEC
+female_genital_prolapse	Read2	7D18311	McCall repair of enterocele
+female_genital_prolapse	Read2	7D18312	Moschowitz repair of enterocele
+female_genital_prolapse	Read2	7D18400	Colporrhaphy NEC
+female_genital_prolapse	Read2	7D18500	Anterior mesh vaginal repair
+female_genital_prolapse	Read2	7D18600	Paravaginal repair
+female_genital_prolapse	Read2	7D18700	Anterior colporrhaphy with mesh reinforcement
+female_genital_prolapse	Read2	7D18800	Posterior colporrhaphy with mesh reinforcement
+female_genital_prolapse	Read2	7D18y00	Other specified other repair of vaginal prolapse
+female_genital_prolapse	Read2	7D18z00	Other repair of vaginal prolapse NOS
+female_genital_prolapse	Read2	7D19.00	Repair of vault of vagina
+female_genital_prolapse	Read2	7D19000	Repair of vault of vagina using combined abdominal and vaginal approach
+female_genital_prolapse	Read2	7D19100	Repair of vault of vagina using abdominal approach NEC
+female_genital_prolapse	Read2	7D19200	Repair of vault of vagina using vaginal approach NEC
+female_genital_prolapse	Read2	7D19300	Sacrocolpopexy
+female_genital_prolapse	Read2	7D19400	Suspension of vagina NEC
+female_genital_prolapse	Read2	7D19500	Sacrospinous fixation of vaginal vault
+female_genital_prolapse	Read2	7D19600	Repair of vault of vagina with mesh using abdominal approach
+female_genital_prolapse	Read2	7D19700	Repair of vault of vagina with mesh using vaginal approach
+female_genital_prolapse	Read2	7D19y00	Other specified repair of vault of vagina
+female_genital_prolapse	Read2	7D19z00	Repair of vault of vagina NOS
+female_genital_prolapse	Read2	7D1A411	Colpoperineorrhaphy
+female_genital_prolapse	Read2	7D1B.00	Introduction of supporting pessary into vagina
+female_genital_prolapse	Read2	7D1B000	Insertion of Hodge pessary into vagina
+female_genital_prolapse	Read2	7D1B100	Insertion of ring into vagina
+female_genital_prolapse	Read2	7D1B200	Removal of supporting pessary from vagina
+female_genital_prolapse	Read2	7D1B300	Change of vaginal pessary
+female_genital_prolapse	Read2	7D1B400	Removal of ring pessary from vagina
+female_genital_prolapse	Read2	7D1B500	Renewal of supporting pessary in vagina
+female_genital_prolapse	Read2	7D1B600	Insertion of ring pessary into vagina
+female_genital_prolapse	Read2	7D1By00	Other specified introduction of supporting pessary into vagina
+female_genital_prolapse	Read2	7D1Bz00	Introduction of supporting pessary into vagina NOS
+female_genital_prolapse	Read2	K51..00	Genital prolapse
+female_genital_prolapse	Read2	K510.00	Vaginal wall prolapse without uterine prolapse
+female_genital_prolapse	Read2	K510000	Cystocele without uterine prolapse
+female_genital_prolapse	Read2	K510100	Cystourethrocele without uterine prolapse
+female_genital_prolapse	Read2	K510200	Rectocele without uterine prolapse
+female_genital_prolapse	Read2	K510211	Proctocele without uterine prolapse
+female_genital_prolapse	Read2	K510300	Urethrocele without uterine prolapse
+female_genital_prolapse	Read2	K510400	Vaginal prolapse unspecified without uterine prolapse
+female_genital_prolapse	Read2	K510z00	Vaginal prolapse without uterine prolapse NOS
+female_genital_prolapse	Read2	K511.00	Uterine prolapse without vaginal wall prolapse
+female_genital_prolapse	Read2	K511.11	Descens uteri
+female_genital_prolapse	Read2	K511000	First degree uterine prolapse
+female_genital_prolapse	Read2	K511100	Second degree uterine prolapse
+female_genital_prolapse	Read2	K511200	Third degree uterine prolapse
+female_genital_prolapse	Read2	K511z00	Uterine prolapse without vaginal wall prolapse NOS
+female_genital_prolapse	Read2	K512.00	Uterovaginal prolapse, incomplete
+female_genital_prolapse	Read2	K512000	Cystocele with first degree uterine prolapse
+female_genital_prolapse	Read2	K512100	Cystocele with second degree uterine prolapse
+female_genital_prolapse	Read2	K513.00	Uterovaginal prolapse, complete
+female_genital_prolapse	Read2	K513.11	Procidentia - uterine
+female_genital_prolapse	Read2	K513000	Cystocele with third degree uterine prolapse
+female_genital_prolapse	Read2	K514.00	Uterovaginal prolapse, unspecified
+female_genital_prolapse	Read2	K514000	Cystocele with unspecified uterine prolapse
+female_genital_prolapse	Read2	K515.00	Post hysterectomy vaginal vault prolapse
+female_genital_prolapse	Read2	K516.00	Vaginal enterocele
+female_genital_prolapse	Read2	K516.11	Pelvic enterocele
+female_genital_prolapse	Read2	K516100	Acquired vaginal enterocele
+female_genital_prolapse	Read2	K516z00	Vaginal enterocele NOS
+female_genital_prolapse	Read2	K517.00	Old laceration of pelvic floor muscle
+female_genital_prolapse	Read2	K518.00	Female rectocele
+female_genital_prolapse	Read2	K519.00	Cystocele
+female_genital_prolapse	Read2	K51y.00	Other genital prolapse
+female_genital_prolapse	Read2	K51y000	Incompetence of pelvic fundus
+female_genital_prolapse	Read2	K51y100	Weakening of pelvic fundus
+female_genital_prolapse	Read2	K51y300	Relaxation of pelvis
+female_genital_prolapse	Read2	K51yz00	Other genital prolapse NOS
+female_genital_prolapse	Read2	K51z.00	Genital prolapse NOS
+female_genital_prolapse	Read2	Kyu9100	[X]Other female genital prolapse
+female_genital_prolapse	Read2	SP07900	Problem with vaginal pessary
+female_genital_prolapse	CTV3	XE0qVYM0YX	H/O: genital prolapse
+female_genital_prolapse	CTV3	7D17.Y408o	Repair of vaginal prolapse and amputation of cervix uteri
+female_genital_prolapse	CTV3	7D17.Y408p	Colporrhaphy and amputation of cervix uteri
+female_genital_prolapse	CTV3	7D170Y409F	Anterior and posterior colporrhaphy and amputation of cervix uteri
+female_genital_prolapse	CTV3	XE0HAY408z	Anterior colporrhaphy and amputation of cervix uteri NEC
+female_genital_prolapse	CTV3	Xa8PJY408y	Anterior colporrhaphy and amputation of cervix uteri
+female_genital_prolapse	CTV3	Xa8PJY4090	Manchester repair
+female_genital_prolapse	CTV3	7D172Y4097	Posterior colporrhaphy and amputation of cervix uteri NEC
+female_genital_prolapse	CTV3	7D17yY408r	Other specified repair of vaginal prolapse and amputation of cervix uteri
+female_genital_prolapse	CTV3	XE0HBY408q	Repair of vaginal prolapse and amputation of cervix uteri NOS
+female_genital_prolapse	CTV3	XE0HCY408n	Other repair of vaginal prolapse
+female_genital_prolapse	CTV3	Xa8POY408h	Colporrhaphy
+female_genital_prolapse	CTV3	XE0HDY409D	Anterior and posterior colporrhaphy NEC
+female_genital_prolapse	CTV3	Xa8PKY409E	Anterior and posterior repair
+female_genital_prolapse	CTV3	XE0HEY408t	Anterior colporrhaphy NEC
+female_genital_prolapse	CTV3	Xa8PLY408u	Anterior repair
+female_genital_prolapse	CTV3	XE0HFY4095	Posterior colporrhaphy NEC
+female_genital_prolapse	CTV3	Xa8PMY4094	Posterior repair
+female_genital_prolapse	CTV3	XE0HGY409I	Repair of enterocele NEC
+female_genital_prolapse	CTV3	Xa8PNY409G	Repair of enterocele
+female_genital_prolapse	CTV3	X402eY409L	Moschowitz repair of enterocele
+female_genital_prolapse	CTV3	7D184Y408g	Colporrhaphy NEC
+female_genital_prolapse	CTV3	XaF7hYag8M	Anterior mesh vaginal repair
+female_genital_prolapse	CTV3	XaM56YapD7	Paravaginal repair
+female_genital_prolapse	CTV3	XaMu8YapwX	Anterior colporrhaphy with mesh reinforcement
+female_genital_prolapse	CTV3	XaMu9YapwY	Posterior colporrhaphy with mesh reinforcement
+female_genital_prolapse	CTV3	7D18yY408m	Other specified other repair of vaginal prolapse
+female_genital_prolapse	CTV3	7D18zY408l	Other repair of vaginal prolapse NOS
+female_genital_prolapse	CTV3	7D19.Y409M	Repair of vault of vagina
+female_genital_prolapse	CTV3	7D190YM0v0	Repair of vault of vagina using combined abdominal and vaginal approach
+female_genital_prolapse	CTV3	7D191YaWM1	Repair of vault of vagina using abdominal approach NEC
+female_genital_prolapse	CTV3	7D192Y409Q	Repair of vault of vagina using vaginal approach NEC
+female_genital_prolapse	CTV3	7D193Y409S	Sacrocolpopexy
+female_genital_prolapse	CTV3	7D194Y409P	Suspension of vagina NEC
+female_genital_prolapse	CTV3	X402fY409V	Sacrospinous fixation of vaginal vault
+female_genital_prolapse	CTV3	XaM53YapD4	Repair of vault of vagina with mesh using abdominal approach
+female_genital_prolapse	CTV3	XaM54YapD5	Repair of vault of vagina with mesh using vaginal approach
+female_genital_prolapse	CTV3	7D19yY409O	Other specified repair of vault of vagina
+female_genital_prolapse	CTV3	7D19zY409N	Repair of vault of vagina NOS
+female_genital_prolapse	CTV3	X402bY4098	Colpoperineorrhaphy
+female_genital_prolapse	CTV3	7D1B.Y409l	Insertion of supporting pessary into vagina
+female_genital_prolapse	CTV3	7D1B0Y409q	Insertion of Hodge pessary into vagina
+female_genital_prolapse	CTV3	7D1B1Y409o	Insertion of ring pessary into vagina
+female_genital_prolapse	CTV3	7D1B2Y409r	Removal of supporting pessary from vagina
+female_genital_prolapse	CTV3	X402iYa4ET	Change of vaginal pessary
+female_genital_prolapse	CTV3	X402nY409s	Removal of ring pessary from vagina
+female_genital_prolapse	CTV3	X402iY409h	Renewal of supporting pessary in vagina
+female_genital_prolapse	CTV3	7D1ByY409n	Other specified introduction of supporting pessary into vagina
+female_genital_prolapse	CTV3	7D1BzY409m	Introduction of supporting pessary into vagina NOS
+female_genital_prolapse	CTV3	K51..Y40YS	Genital prolapse
+female_genital_prolapse	CTV3	K510.YaXHy	Vaginal wall prolapse without uterine prolapse
+female_genital_prolapse	CTV3	K5100Y40Yd	Cystocele without uterine prolapse
+female_genital_prolapse	CTV3	K5101Y40Yf	Cystourethrocele without uterine prolapse
+female_genital_prolapse	CTV3	K5102Y40Yj	Rectocele without uterine prolapse
+female_genital_prolapse	CTV3	K5102Y40Yl	Proctocele without uterine prolapse
+female_genital_prolapse	CTV3	K5103Y31sY	Urethrocele without uterine prolapse
+female_genital_prolapse	CTV3	K5104Y40Yb	Vaginal prolapse unspecified without uterine prolapse
+female_genital_prolapse	CTV3	K510zY40Ya	Vaginal prolapse without uterine prolapse NOS
+female_genital_prolapse	CTV3	XE0eYY40Z2	Uterine prolapse without vaginal wall prolapse
+female_genital_prolapse	CTV3	X408KY40Yy	Descens uteri
+female_genital_prolapse	CTV3	K5110Y40Z3	First degree uterine prolapse
+female_genital_prolapse	CTV3	K5111Y40Z4	Second degree uterine prolapse
+female_genital_prolapse	CTV3	K5112Y40Z5	Third degree uterine prolapse
+female_genital_prolapse	CTV3	K511zY40Z1	Uterine prolapse without vaginal wall prolapse NOS
+female_genital_prolapse	CTV3	K512.Y40Z0	Uterovaginal prolapse, incomplete
+female_genital_prolapse	CTV3	XaJzOYan8f	Cystocele with first degree uterine prolapse
+female_genital_prolapse	CTV3	XaJzPYan8g	Cystocele with second degree uterine prolapse
+female_genital_prolapse	CTV3	K5112Y40Z6	Complete uterovaginal prolapse
+female_genital_prolapse	CTV3	K5112Y40Z7	Uterine procidentia
+female_genital_prolapse	CTV3	XaJzQYan8h	Cystocele with third degree uterine prolapse
+female_genital_prolapse	CTV3	K514.Y40Yz	Uterovaginal prolapse, unspecified
+female_genital_prolapse	CTV3	XaJzRYan8i	Cystocele with unspecified uterine prolapse
+female_genital_prolapse	CTV3	K515.YadXo	Post-hysterectomy vaginal vault prolapse
+female_genital_prolapse	CTV3	XE2aDY40Yr	Vaginal enterocele
+female_genital_prolapse	CTV3	XE2aDY40Yp	Enterocele
+female_genital_prolapse	CTV3	K5161Y40Yt	Acquired vaginal enterocele
+female_genital_prolapse	CTV3	K516zY40Ys	Vaginal enterocele NOS
+female_genital_prolapse	CTV3	K517.Y40Y5	Old laceration of pelvic floor muscle
+female_genital_prolapse	CTV3	Xa9CLYasbp	Female rectocele
+female_genital_prolapse	CTV3	X77ScY40Yc	Cystocele
+female_genital_prolapse	CTV3	K51y.Y40YU	Other genital prolapse
+female_genital_prolapse	CTV3	K51y0Y40YY	Incompetence of pelvic fundus
+female_genital_prolapse	CTV3	K51y1Y40YX	Weakening of pelvic fundus
+female_genital_prolapse	CTV3	K51y3Y40YW	Relaxation of pelvis
+female_genital_prolapse	CTV3	K51yzY40YV	Other genital prolapse NOS
+female_genital_prolapse	CTV3	K51z.Y40YT	Genital prolapse NOS
+female_genital_prolapse	CTV3	Kyu91YMAQy	[X]Other female genital prolapse
+female_genital_prolapse	CTV3	SP079YaY8R	Problem with vaginal pessary
+female_genital_prolapse	medcodeid	67395018	Cystocele without uterine prolapse
+female_genital_prolapse	medcodeid	106143018	Third degree uterine prolapse
+female_genital_prolapse	medcodeid	122880015	Genital prolapse
+female_genital_prolapse	medcodeid	265671011	Repair of vault of vagina
+female_genital_prolapse	medcodeid	304815013	Uterovaginal prolapse, incomplete
+female_genital_prolapse	medcodeid	324959012	Problem with vaginal pessary
+female_genital_prolapse	medcodeid	355002017	Sacrospinous fixation of vaginal vault
+female_genital_prolapse	medcodeid	397858018	H/O: genital prolapse
+female_genital_prolapse	medcodeid	458854012	Anterior mesh vaginal repair
+female_genital_prolapse	medcodeid	475586011	Anterior and posterior repair
+female_genital_prolapse	medcodeid	482042011	Removal of supporting pessary from vagina
+female_genital_prolapse	medcodeid	482074016	Descens uteri
+female_genital_prolapse	medcodeid	492278013	Anterior repair
+female_genital_prolapse	medcodeid	1495579017	Relaxation of pelvis
+female_genital_prolapse	medcodeid	1777629012	Vaginal enterocele
+female_genital_prolapse	medcodeid	2476660012	Vaginal wall prolapse without uterine prolapse
+female_genital_prolapse	medcodeid	2532948010	Cystocele with third degree uterine prolapse
+female_genital_prolapse	medcodeid	2674349017	Repair of vault of vagina with mesh using vaginal approach
+female_genital_prolapse	medcodeid	1491651014	Moschowitz repair of enterocele
+female_genital_prolapse	medcodeid	273592016	Other repair of vaginal prolapse NOS
+female_genital_prolapse	medcodeid	273598017	Repair of vault of vagina using vaginal approach NEC
+female_genital_prolapse	medcodeid	273600011	Suspension of vagina NEC
+female_genital_prolapse	medcodeid	273601010	Other specified repair of vault of vagina
+female_genital_prolapse	medcodeid	273602015	Repair of vault of vagina NOS
+female_genital_prolapse	medcodeid	304817017	Uterovaginal prolapse, unspecified
+female_genital_prolapse	medcodeid	304824016	Vaginal enterocele NOS
+female_genital_prolapse	medcodeid	304825015	Other genital prolapse
+female_genital_prolapse	medcodeid	304833019	Genital prolapse NOS
+female_genital_prolapse	medcodeid	305248013	[X]Other female genital prolapse
+female_genital_prolapse	medcodeid	394459012	Anterior colporrhaphy and amputation of cervix uteri NEC
+female_genital_prolapse	medcodeid	394465012	Posterior colporrhaphy NEC
+female_genital_prolapse	medcodeid	71541000006116	Uterovaginal prolapse, complete
+female_genital_prolapse	medcodeid	172801000006116	Repair of vaginal prolapse & amputation of cervix uteri NOS
+female_genital_prolapse	medcodeid	188921000006111	Rectocele without uterine prolapse
+female_genital_prolapse	medcodeid	237281000006110	Pelvic enterocele
+female_genital_prolapse	medcodeid	485981000006115	Anterior and posterior colporrhaphy NEC
+female_genital_prolapse	medcodeid	698981000006110	Manchester repair
+female_genital_prolapse	medcodeid	715461000006112	McCall repair of enterocele
+female_genital_prolapse	medcodeid	739131000006116	Insertion of ring into vagina
+female_genital_prolapse	medcodeid	767481000006114	Introduction of supporting pessary into vagina
+female_genital_prolapse	medcodeid	767501000006116	Introduction of supporting pessary into vagina OS
+female_genital_prolapse	medcodeid	790201000006116	Fothergill anterior colporrhaphy and amputation of cervix
+female_genital_prolapse	medcodeid	1588221000006112	Anterior colporrhaphy with mesh reinforcement
+female_genital_prolapse	medcodeid	304809013	Vaginal prolapse unspecified without uterine prolapse
+female_genital_prolapse	medcodeid	304810015	Vaginal prolapse without uterine prolapse NOS
+female_genital_prolapse	medcodeid	150853015	Incompetence of pelvic fundus
+female_genital_prolapse	medcodeid	273566011	Posterior colporrhaphy and amputation of cervix uteri NEC
+female_genital_prolapse	medcodeid	545301000006110	Change of vaginal pessary
+female_genital_prolapse	medcodeid	365131000000118	Paravaginal repair
+female_genital_prolapse	medcodeid	2674348013	Repair of vault of vagina with mesh using abdominal approach
+female_genital_prolapse	medcodeid	472886013	Acquired vaginal enterocele
+female_genital_prolapse	medcodeid	1230378010	Old laceration of pelvic floor muscle
+female_genital_prolapse	medcodeid	354998017	Colpoperineorrhaphy
+female_genital_prolapse	medcodeid	356788017	Colporrhaphy
+female_genital_prolapse	medcodeid	20046011	Uterine prolapse without vaginal wall prolapse
+female_genital_prolapse	medcodeid	173111000006117	Repair vaginal vault combined abdominal & vaginal approach
+female_genital_prolapse	medcodeid	210981000006112	Posterior repair
+female_genital_prolapse	medcodeid	394466013	Repair of enterocele NEC
+female_genital_prolapse	medcodeid	273591011	Other specified other repair of vaginal prolapse
+female_genital_prolapse	medcodeid	1216364011	Renewal of supporting pessary in vagina
+female_genital_prolapse	medcodeid	273561018	Repair of vaginal prolapse and amputation of cervix uteri
+female_genital_prolapse	medcodeid	485271000006111	Ant and post colporrhaphy and amputation of cervix uteri
+female_genital_prolapse	medcodeid	304832012	Other genital prolapse NOS
+female_genital_prolapse	medcodeid	273589015	Colporrhaphy NEC
+female_genital_prolapse	medcodeid	273597010	Repair of vault of vagina using abdominal approach NEC
+female_genital_prolapse	medcodeid	273615012	Introduction of supporting pessary into vagina NOS
+female_genital_prolapse	medcodeid	491011000000117	Posterior colporrhaphy with mesh reinforcement
+female_genital_prolapse	medcodeid	2534194013	Cystocele with second degree uterine prolapse
+female_genital_prolapse	medcodeid	1231269014	Urethrocele without uterine prolapse
+female_genital_prolapse	medcodeid	355009014	Removal of ring pessary from vagina
+female_genital_prolapse	medcodeid	375351014	Cystocele
+female_genital_prolapse	medcodeid	16299015	Second degree uterine prolapse
+female_genital_prolapse	medcodeid	80356011	First degree uterine prolapse
+female_genital_prolapse	medcodeid	201221000006112	Procidentia - uterine
+female_genital_prolapse	medcodeid	1705831000006116	Female rectocele
+female_genital_prolapse	medcodeid	304827011	Weakening of pelvic fundus
+female_genital_prolapse	medcodeid	2534193019	Cystocele with first degree uterine prolapse
+female_genital_prolapse	medcodeid	2534254015	Cystocele with unspecified uterine prolapse
+female_genital_prolapse	medcodeid	273562013	Colporrhaphy and amputation of cervix uteri
+female_genital_prolapse	medcodeid	273599013	Sacrocolpopexy
+female_genital_prolapse	medcodeid	273610019	Insertion of Hodge pessary into vagina
+female_genital_prolapse	medcodeid	273611015	Insertion of ring pessary into vagina
+female_genital_prolapse	medcodeid	136591012	Cystourethrocele without uterine prolapse
+female_genital_prolapse	medcodeid	304814012	Uterine prolapse without vaginal wall prolapse NOS
+female_genital_prolapse	medcodeid	394462010	Other repair of vaginal prolapse
+female_genital_prolapse	medcodeid	394464011	Anterior colporrhaphy NEC
+female_genital_prolapse	medcodeid	172811000006118	Repair of vaginal prolapse & amputation of cervix uteri OS
+female_genital_prolapse	medcodeid	201281000006111	Proctocele without uterine prolapse
+female_genital_prolapse	medcodeid	216331000006113	Post hysterectomy vaginal vault prolapse
+female_genital_prolapse	SNOMEDCT	40421008	Cystocele without uterine prolapse
+female_genital_prolapse	SNOMEDCT	63871009	Third degree uterine prolapse
+female_genital_prolapse	SNOMEDCT	73998008	Genital prolapse
+female_genital_prolapse	SNOMEDCT	171456005	Repair of vault of vagina
+female_genital_prolapse	SNOMEDCT	198268002	Uterovaginal prolapse, incomplete
+female_genital_prolapse	SNOMEDCT	213139001	Problem with vaginal pessary
+female_genital_prolapse	SNOMEDCT	236859002	Sacrospinous fixation of vaginal vault
+female_genital_prolapse	SNOMEDCT	267018007	H/O: genital prolapse
+female_genital_prolapse	SNOMEDCT	314487008	Anterior mesh vaginal repair
+female_genital_prolapse	SNOMEDCT	13910004	Anterior and posterior repair
+female_genital_prolapse	SNOMEDCT	24893009	Removal of supporting pessary from vagina
+female_genital_prolapse	SNOMEDCT	24976005	Descens uteri
+female_genital_prolapse	SNOMEDCT	39845007	Anterior repair
+female_genital_prolapse	SNOMEDCT	11374003	Relaxation of pelvis
+female_genital_prolapse	SNOMEDCT	398061002	Vaginal enterocele
+female_genital_prolapse	SNOMEDCT	354737001	Vaginal wall prolapse without uterine prolapse
+female_genital_prolapse	SNOMEDCT	413940003	Cystocele with third degree uterine prolapse
+female_genital_prolapse	SNOMEDCT	426193005	Repair of vault of vagina with mesh using vaginal approach
+female_genital_prolapse	SNOMEDCT	386631003	Moschowitz repair of enterocele
+female_genital_prolapse	SNOMEDCT	238034001	Other repair of vaginal prolapse NOS
+female_genital_prolapse	SNOMEDCT	171456005	Repair of vault of vagina using vaginal approach NEC
+female_genital_prolapse	SNOMEDCT	171456005	Suspension of vagina NEC
+female_genital_prolapse	SNOMEDCT	171456005	Other specified repair of vault of vagina
+female_genital_prolapse	SNOMEDCT	171456005	Repair of vault of vagina NOS
+female_genital_prolapse	SNOMEDCT	18973006	Uterovaginal prolapse, unspecified
+female_genital_prolapse	SNOMEDCT	398061002	Vaginal enterocele NOS
+female_genital_prolapse	SNOMEDCT	73998008	Other genital prolapse
+female_genital_prolapse	SNOMEDCT	73998008	Genital prolapse NOS
+female_genital_prolapse	SNOMEDCT	73998008	[X]Other female genital prolapse
+female_genital_prolapse	SNOMEDCT	82418001	Anterior colporrhaphy and amputation of cervix uteri NEC
+female_genital_prolapse	SNOMEDCT	397823004	Posterior colporrhaphy NEC
+female_genital_prolapse	SNOMEDCT	63871009	Uterovaginal prolapse, complete
+female_genital_prolapse	SNOMEDCT	176697007	Repair of vaginal prolapse & amputation of cervix uteri NOS
+female_genital_prolapse	SNOMEDCT	62730001	Rectocele without uterine prolapse
+female_genital_prolapse	SNOMEDCT	398061002	Pelvic enterocele
+female_genital_prolapse	SNOMEDCT	13910004	Anterior and posterior colporrhaphy NEC
+female_genital_prolapse	SNOMEDCT	82418001	Manchester repair
+female_genital_prolapse	SNOMEDCT	302371001	McCall repair of enterocele
+female_genital_prolapse	SNOMEDCT	176726001	Insertion of ring into vagina
+female_genital_prolapse	SNOMEDCT	45372001	Introduction of supporting pessary into vagina
+female_genital_prolapse	SNOMEDCT	45372001	Introduction of supporting pessary into vagina OS
+female_genital_prolapse	SNOMEDCT	82418001	Fothergill anterior colporrhaphy and amputation of cervix
+female_genital_prolapse	SNOMEDCT	314487008	Anterior colporrhaphy with mesh reinforcement
+female_genital_prolapse	SNOMEDCT	354737001	Vaginal prolapse unspecified without uterine prolapse
+female_genital_prolapse	SNOMEDCT	354737001	Vaginal prolapse without uterine prolapse NOS
+female_genital_prolapse	SNOMEDCT	444599008	Incompetence of pelvic fundus
+female_genital_prolapse	SNOMEDCT	176697007	Posterior colporrhaphy and amputation of cervix uteri NEC
+female_genital_prolapse	SNOMEDCT	31591008	Change of vaginal pessary
+female_genital_prolapse	SNOMEDCT	227981000000105	Paravaginal repair
+female_genital_prolapse	SNOMEDCT	426573009	Repair of vault of vagina with mesh using abdominal approach
+female_genital_prolapse	SNOMEDCT	355736000	Acquired vaginal enterocele
+female_genital_prolapse	SNOMEDCT	467003	Old laceration of pelvic floor muscle
+female_genital_prolapse	SNOMEDCT	236857000	Colpoperineorrhaphy
+female_genital_prolapse	SNOMEDCT	238034001	Colporrhaphy
+female_genital_prolapse	SNOMEDCT	11597004	Uterine prolapse without vaginal wall prolapse
+female_genital_prolapse	SNOMEDCT	176712005	Repair vaginal vault combined abdominal & vaginal approach
+female_genital_prolapse	SNOMEDCT	397823004	Posterior repair
+female_genital_prolapse	SNOMEDCT	302371001	Repair of enterocele NEC
+female_genital_prolapse	SNOMEDCT	238034001	Other specified other repair of vaginal prolapse
+female_genital_prolapse	SNOMEDCT	31591008	Renewal of supporting pessary in vagina
+female_genital_prolapse	SNOMEDCT	176697007	Repair of vaginal prolapse and amputation of cervix uteri
+female_genital_prolapse	SNOMEDCT	46226009	Ant and post colporrhaphy and amputation of cervix uteri
+female_genital_prolapse	SNOMEDCT	73998008	Other genital prolapse NOS
+female_genital_prolapse	SNOMEDCT	367444000	Colporrhaphy NEC
+female_genital_prolapse	SNOMEDCT	171456005	Repair of vault of vagina using abdominal approach NEC
+female_genital_prolapse	SNOMEDCT	45372001	Introduction of supporting pessary into vagina NOS
+female_genital_prolapse	SNOMEDCT	429574002	Posterior colporrhaphy with mesh reinforcement
+female_genital_prolapse	SNOMEDCT	413939000	Cystocele with second degree uterine prolapse
+female_genital_prolapse	SNOMEDCT	53944005	Urethrocele without uterine prolapse
+female_genital_prolapse	SNOMEDCT	236865002	Removal of ring pessary from vagina
+female_genital_prolapse	SNOMEDCT	252005008	Cystocele
+female_genital_prolapse	SNOMEDCT	9283009	Second degree uterine prolapse
+female_genital_prolapse	SNOMEDCT	48230001	First degree uterine prolapse
+female_genital_prolapse	SNOMEDCT	63871009	Procidentia - uterine
+female_genital_prolapse	SNOMEDCT	447072005	Female rectocele
+female_genital_prolapse	SNOMEDCT	444599008	Weakening of pelvic fundus
+female_genital_prolapse	SNOMEDCT	413938008	Cystocele with first degree uterine prolapse
+female_genital_prolapse	SNOMEDCT	413941004	Cystocele with unspecified uterine prolapse
+female_genital_prolapse	SNOMEDCT	176697007	Colporrhaphy and amputation of cervix uteri
+female_genital_prolapse	SNOMEDCT	176716008	Sacrocolpopexy
+female_genital_prolapse	SNOMEDCT	176725002	Insertion of Hodge pessary into vagina
+female_genital_prolapse	SNOMEDCT	176726001	Insertion of ring pessary into vagina
+female_genital_prolapse	SNOMEDCT	82347009	Cystourethrocele without uterine prolapse
+female_genital_prolapse	SNOMEDCT	11597004	Uterine prolapse without vaginal wall prolapse NOS
+female_genital_prolapse	SNOMEDCT	238034001	Other repair of vaginal prolapse
+female_genital_prolapse	SNOMEDCT	39845007	Anterior colporrhaphy NEC
+female_genital_prolapse	SNOMEDCT	176697007	Repair of vaginal prolapse & amputation of cervix uteri OS
+female_genital_prolapse	SNOMEDCT	62730001	Proctocele without uterine prolapse
+female_genital_prolapse	SNOMEDCT	42116007	Post hysterectomy vaginal vault prolapse
+female_genital_prolapse	Read2_5digit	1594.	H/O: genital prolapse
+female_genital_prolapse	Read2_5digit	7D17.	Repair of vaginal prolapse and amputation of cervix uteri
+female_genital_prolapse	Read2_5digit	7D170	Anterior and posterior colporrhaphy and amputation of cervix uteri
+female_genital_prolapse	Read2_5digit	7D171	Anterior colporrhaphy and amputation of cervix uteri NEC
+female_genital_prolapse	Read2_5digit	7D172	Posterior colporrhaphy and amputation of cervix uteri NEC
+female_genital_prolapse	Read2_5digit	7D17y	Other specified repair of vaginal prolapse and amputation of cervix uteri
+female_genital_prolapse	Read2_5digit	7D17z	Repair of vaginal prolapse and amputation of cervix uteri NOS
+female_genital_prolapse	Read2_5digit	7D18.	Other repair of vaginal prolapse
+female_genital_prolapse	Read2_5digit	7D180	Anterior and posterior colporrhaphy NEC
+female_genital_prolapse	Read2_5digit	7D181	Anterior colporrhaphy NEC
+female_genital_prolapse	Read2_5digit	7D182	Posterior colporrhaphy NEC
+female_genital_prolapse	Read2_5digit	7D183	Repair of enterocele NEC
+female_genital_prolapse	Read2_5digit	7D184	Colporrhaphy NEC
+female_genital_prolapse	Read2_5digit	7D185	Anterior mesh vaginal repair
+female_genital_prolapse	Read2_5digit	7D186	Paravaginal repair
+female_genital_prolapse	Read2_5digit	7D187	Anterior colporrhaphy with mesh reinforcement
+female_genital_prolapse	Read2_5digit	7D188	Posterior colporrhaphy with mesh reinforcement
+female_genital_prolapse	Read2_5digit	7D18y	Other specified other repair of vaginal prolapse
+female_genital_prolapse	Read2_5digit	7D18z	Other repair of vaginal prolapse NOS
+female_genital_prolapse	Read2_5digit	7D19.	Repair of vault of vagina
+female_genital_prolapse	Read2_5digit	7D190	Repair of vault of vagina using combined abdominal and vaginal approach
+female_genital_prolapse	Read2_5digit	7D191	Repair of vault of vagina using abdominal approach NEC
+female_genital_prolapse	Read2_5digit	7D192	Repair of vault of vagina using vaginal approach NEC
+female_genital_prolapse	Read2_5digit	7D193	Sacrocolpopexy
+female_genital_prolapse	Read2_5digit	7D194	Suspension of vagina NEC
+female_genital_prolapse	Read2_5digit	7D195	Sacrospinous fixation of vaginal vault
+female_genital_prolapse	Read2_5digit	7D196	Repair of vault of vagina with mesh using abdominal approach
+female_genital_prolapse	Read2_5digit	7D197	Repair of vault of vagina with mesh using vaginal approach
+female_genital_prolapse	Read2_5digit	7D19y	Other specified repair of vault of vagina
+female_genital_prolapse	Read2_5digit	7D19z	Repair of vault of vagina NOS
+female_genital_prolapse	Read2_5digit	7D1B.	Introduction of supporting pessary into vagina
+female_genital_prolapse	Read2_5digit	7D1B0	Insertion of Hodge pessary into vagina
+female_genital_prolapse	Read2_5digit	7D1B1	Insertion of ring into vagina
+female_genital_prolapse	Read2_5digit	7D1B2	Removal of supporting pessary from vagina
+female_genital_prolapse	Read2_5digit	7D1B3	Change of vaginal pessary
+female_genital_prolapse	Read2_5digit	7D1B4	Removal of ring pessary from vagina
+female_genital_prolapse	Read2_5digit	7D1B5	Renewal of supporting pessary in vagina
+female_genital_prolapse	Read2_5digit	7D1B6	Insertion of ring pessary into vagina
+female_genital_prolapse	Read2_5digit	7D1By	Other specified introduction of supporting pessary into vagina
+female_genital_prolapse	Read2_5digit	7D1Bz	Introduction of supporting pessary into vagina NOS
+female_genital_prolapse	Read2_5digit	K51..	Genital prolapse
+female_genital_prolapse	Read2_5digit	K510.	Vaginal wall prolapse without uterine prolapse
+female_genital_prolapse	Read2_5digit	K5100	Cystocele without uterine prolapse
+female_genital_prolapse	Read2_5digit	K5101	Cystourethrocele without uterine prolapse
+female_genital_prolapse	Read2_5digit	K5102	Rectocele without uterine prolapse
+female_genital_prolapse	Read2_5digit	K5103	Urethrocele without uterine prolapse
+female_genital_prolapse	Read2_5digit	K5104	Vaginal prolapse unspecified without uterine prolapse
+female_genital_prolapse	Read2_5digit	K510z	Vaginal prolapse without uterine prolapse NOS
+female_genital_prolapse	Read2_5digit	K511.	Uterine prolapse without vaginal wall prolapse
+female_genital_prolapse	Read2_5digit	K5110	First degree uterine prolapse
+female_genital_prolapse	Read2_5digit	K5111	Second degree uterine prolapse
+female_genital_prolapse	Read2_5digit	K5112	Third degree uterine prolapse
+female_genital_prolapse	Read2_5digit	K511z	Uterine prolapse without vaginal wall prolapse NOS
+female_genital_prolapse	Read2_5digit	K512.	Uterovaginal prolapse, incomplete
+female_genital_prolapse	Read2_5digit	K5120	Cystocele with first degree uterine prolapse
+female_genital_prolapse	Read2_5digit	K5121	Cystocele with second degree uterine prolapse
+female_genital_prolapse	Read2_5digit	K513.	Uterovaginal prolapse, complete
+female_genital_prolapse	Read2_5digit	K5130	Cystocele with third degree uterine prolapse
+female_genital_prolapse	Read2_5digit	K514.	Uterovaginal prolapse, unspecified
+female_genital_prolapse	Read2_5digit	K5140	Cystocele with unspecified uterine prolapse
+female_genital_prolapse	Read2_5digit	K515.	Post hysterectomy vaginal vault prolapse
+female_genital_prolapse	Read2_5digit	K516.	Vaginal enterocele
+female_genital_prolapse	Read2_5digit	K5161	Acquired vaginal enterocele
+female_genital_prolapse	Read2_5digit	K516z	Vaginal enterocele NOS
+female_genital_prolapse	Read2_5digit	K517.	Old laceration of pelvic floor muscle
+female_genital_prolapse	Read2_5digit	K518.	Female rectocele
+female_genital_prolapse	Read2_5digit	K519.	Cystocele
+female_genital_prolapse	Read2_5digit	K51y.	Other genital prolapse
+female_genital_prolapse	Read2_5digit	K51y0	Incompetence of pelvic fundus
+female_genital_prolapse	Read2_5digit	K51y1	Weakening of pelvic fundus
+female_genital_prolapse	Read2_5digit	K51y3	Relaxation of pelvis
+female_genital_prolapse	Read2_5digit	K51yz	Other genital prolapse NOS
+female_genital_prolapse	Read2_5digit	K51z.	Genital prolapse NOS
+female_genital_prolapse	Read2_5digit	Kyu91	[X]Other female genital prolapse
+female_genital_prolapse	Read2_5digit	SP079	Problem with vaginal pessary
+female_genital_prolapse	CTV3_5digit	XE0qV	H/O: genital prolapse
+female_genital_prolapse	CTV3_5digit	7D17.	Repair of vaginal prolapse and amputation of cervix uteri
+female_genital_prolapse	CTV3_5digit	7D170	Anterior and posterior colporrhaphy and amputation of cervix uteri
+female_genital_prolapse	CTV3_5digit	XE0HA	Anterior colporrhaphy and amputation of cervix uteri NEC
+female_genital_prolapse	CTV3_5digit	Xa8PJ	Anterior colporrhaphy and amputation of cervix uteri
+female_genital_prolapse	CTV3_5digit	7D172	Posterior colporrhaphy and amputation of cervix uteri NEC
+female_genital_prolapse	CTV3_5digit	7D17y	Other specified repair of vaginal prolapse and amputation of cervix uteri
+female_genital_prolapse	CTV3_5digit	XE0HB	Repair of vaginal prolapse and amputation of cervix uteri NOS
+female_genital_prolapse	CTV3_5digit	XE0HC	Other repair of vaginal prolapse
+female_genital_prolapse	CTV3_5digit	Xa8PO	Colporrhaphy
+female_genital_prolapse	CTV3_5digit	XE0HD	Anterior and posterior colporrhaphy NEC
+female_genital_prolapse	CTV3_5digit	Xa8PK	Anterior and posterior repair
+female_genital_prolapse	CTV3_5digit	XE0HE	Anterior colporrhaphy NEC
+female_genital_prolapse	CTV3_5digit	Xa8PL	Anterior repair
+female_genital_prolapse	CTV3_5digit	XE0HF	Posterior colporrhaphy NEC
+female_genital_prolapse	CTV3_5digit	Xa8PM	Posterior repair
+female_genital_prolapse	CTV3_5digit	XE0HG	Repair of enterocele NEC
+female_genital_prolapse	CTV3_5digit	Xa8PN	Repair of enterocele
+female_genital_prolapse	CTV3_5digit	X402e	Moschowitz repair of enterocele
+female_genital_prolapse	CTV3_5digit	7D184	Colporrhaphy NEC
+female_genital_prolapse	CTV3_5digit	XaF7h	Anterior mesh vaginal repair
+female_genital_prolapse	CTV3_5digit	XaM56	Paravaginal repair
+female_genital_prolapse	CTV3_5digit	XaMu8	Anterior colporrhaphy with mesh reinforcement
+female_genital_prolapse	CTV3_5digit	XaMu9	Posterior colporrhaphy with mesh reinforcement
+female_genital_prolapse	CTV3_5digit	7D18y	Other specified other repair of vaginal prolapse
+female_genital_prolapse	CTV3_5digit	7D18z	Other repair of vaginal prolapse NOS
+female_genital_prolapse	CTV3_5digit	7D19.	Repair of vault of vagina
+female_genital_prolapse	CTV3_5digit	7D190	Repair of vault of vagina using combined abdominal and vaginal approach
+female_genital_prolapse	CTV3_5digit	7D191	Repair of vault of vagina using abdominal approach NEC
+female_genital_prolapse	CTV3_5digit	7D192	Repair of vault of vagina using vaginal approach NEC
+female_genital_prolapse	CTV3_5digit	7D193	Sacrocolpopexy
+female_genital_prolapse	CTV3_5digit	7D194	Suspension of vagina NEC
+female_genital_prolapse	CTV3_5digit	X402f	Sacrospinous fixation of vaginal vault
+female_genital_prolapse	CTV3_5digit	XaM53	Repair of vault of vagina with mesh using abdominal approach
+female_genital_prolapse	CTV3_5digit	XaM54	Repair of vault of vagina with mesh using vaginal approach
+female_genital_prolapse	CTV3_5digit	7D19y	Other specified repair of vault of vagina
+female_genital_prolapse	CTV3_5digit	7D19z	Repair of vault of vagina NOS
+female_genital_prolapse	CTV3_5digit	X402b	Colpoperineorrhaphy
+female_genital_prolapse	CTV3_5digit	7D1B.	Insertion of supporting pessary into vagina
+female_genital_prolapse	CTV3_5digit	7D1B0	Insertion of Hodge pessary into vagina
+female_genital_prolapse	CTV3_5digit	7D1B1	Insertion of ring pessary into vagina
+female_genital_prolapse	CTV3_5digit	7D1B2	Removal of supporting pessary from vagina
+female_genital_prolapse	CTV3_5digit	X402i	Change of vaginal pessary
+female_genital_prolapse	CTV3_5digit	X402n	Removal of ring pessary from vagina
+female_genital_prolapse	CTV3_5digit	7D1By	Other specified introduction of supporting pessary into vagina
+female_genital_prolapse	CTV3_5digit	7D1Bz	Introduction of supporting pessary into vagina NOS
+female_genital_prolapse	CTV3_5digit	K51..	Genital prolapse
+female_genital_prolapse	CTV3_5digit	K510.	Vaginal wall prolapse without uterine prolapse
+female_genital_prolapse	CTV3_5digit	K5100	Cystocele without uterine prolapse
+female_genital_prolapse	CTV3_5digit	K5101	Cystourethrocele without uterine prolapse
+female_genital_prolapse	CTV3_5digit	K5102	Rectocele without uterine prolapse
+female_genital_prolapse	CTV3_5digit	K5103	Urethrocele without uterine prolapse
+female_genital_prolapse	CTV3_5digit	K5104	Vaginal prolapse unspecified without uterine prolapse
+female_genital_prolapse	CTV3_5digit	K510z	Vaginal prolapse without uterine prolapse NOS
+female_genital_prolapse	CTV3_5digit	XE0eY	Uterine prolapse without vaginal wall prolapse
+female_genital_prolapse	CTV3_5digit	X408K	Descens uteri
+female_genital_prolapse	CTV3_5digit	K5110	First degree uterine prolapse
+female_genital_prolapse	CTV3_5digit	K5111	Second degree uterine prolapse
+female_genital_prolapse	CTV3_5digit	K5112	Third degree uterine prolapse
+female_genital_prolapse	CTV3_5digit	K511z	Uterine prolapse without vaginal wall prolapse NOS
+female_genital_prolapse	CTV3_5digit	K512.	Uterovaginal prolapse, incomplete
+female_genital_prolapse	CTV3_5digit	XaJzO	Cystocele with first degree uterine prolapse
+female_genital_prolapse	CTV3_5digit	XaJzP	Cystocele with second degree uterine prolapse
+female_genital_prolapse	CTV3_5digit	XaJzQ	Cystocele with third degree uterine prolapse
+female_genital_prolapse	CTV3_5digit	K514.	Uterovaginal prolapse, unspecified
+female_genital_prolapse	CTV3_5digit	XaJzR	Cystocele with unspecified uterine prolapse
+female_genital_prolapse	CTV3_5digit	K515.	Post-hysterectomy vaginal vault prolapse
+female_genital_prolapse	CTV3_5digit	XE2aD	Vaginal enterocele
+female_genital_prolapse	CTV3_5digit	K5161	Acquired vaginal enterocele
+female_genital_prolapse	CTV3_5digit	K516z	Vaginal enterocele NOS
+female_genital_prolapse	CTV3_5digit	K517.	Old laceration of pelvic floor muscle
+female_genital_prolapse	CTV3_5digit	Xa9CL	Female rectocele
+female_genital_prolapse	CTV3_5digit	X77Sc	Cystocele
+female_genital_prolapse	CTV3_5digit	K51y.	Other genital prolapse
+female_genital_prolapse	CTV3_5digit	K51y0	Incompetence of pelvic fundus
+female_genital_prolapse	CTV3_5digit	K51y1	Weakening of pelvic fundus
+female_genital_prolapse	CTV3_5digit	K51y3	Relaxation of pelvis
+female_genital_prolapse	CTV3_5digit	K51yz	Other genital prolapse NOS
+female_genital_prolapse	CTV3_5digit	K51z.	Genital prolapse NOS
+female_genital_prolapse	CTV3_5digit	Kyu91	[X]Other female genital prolapse
+female_genital_prolapse	CTV3_5digit	SP079	Problem with vaginal pessary

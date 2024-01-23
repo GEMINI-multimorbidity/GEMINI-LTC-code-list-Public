@@ -1,0 +1,267 @@
+condition	vocab_id	code	description
+pri_breast	ICD10	C50	Malignant neoplasm of breast
+pri_breast	ICD10	D05	Carcinoma in situ of breast
+pri_breast	Read2	B34..00	Malignant neoplasm of female breast
+pri_breast	Read2	B34..11	Ca female breast
+pri_breast	Read2	B340.00	Malignant neoplasm of nipple and areola of female breast
+pri_breast	Read2	B340000	Malignant neoplasm of nipple of female breast
+pri_breast	Read2	B340100	Malignant neoplasm of areola of female breast
+pri_breast	Read2	B340z00	Malignant neoplasm of nipple or areola of female breast NOS
+pri_breast	Read2	B341.00	Malignant neoplasm of central part of female breast
+pri_breast	Read2	B342.00	Malignant neoplasm of upper-inner quadrant of female breast
+pri_breast	Read2	B343.00	Malignant neoplasm of lower-inner quadrant of female breast
+pri_breast	Read2	B344.00	Malignant neoplasm of upper-outer quadrant of female breast
+pri_breast	Read2	B345.00	Malignant neoplasm of lower-outer quadrant of female breast
+pri_breast	Read2	B346.00	Malignant neoplasm of axillary tail of female breast
+pri_breast	Read2	B347.00	Malignant neoplasm, overlapping lesion of breast
+pri_breast	Read2	B34y.00	Malignant neoplasm of other site of female breast
+pri_breast	Read2	B34y000	Malignant neoplasm of ectopic site of female breast
+pri_breast	Read2	B34yz00	Malignant neoplasm of other site of female breast NOS
+pri_breast	Read2	B34z.00	Malignant neoplasm of female breast NOS
+pri_breast	Read2	B35..00	Malignant neoplasm of male breast
+pri_breast	Read2	B350.00	Malignant neoplasm of nipple and areola of male breast
+pri_breast	Read2	B350000	Malignant neoplasm of nipple of male breast
+pri_breast	Read2	B350100	Malignant neoplasm of areola of male breast
+pri_breast	Read2	B35z.00	Malignant neoplasm of other site of male breast
+pri_breast	Read2	B35z000	Malignant neoplasm of ectopic site of male breast
+pri_breast	Read2	B35zz00	Malignant neoplasm of male breast NOS
+pri_breast	Read2	B36..00	Local recurrence of malignant tumour of breast
+pri_breast	Read2	B830.00	Carcinoma in situ of breast
+pri_breast	Read2	B830000	Lobular carcinoma in situ of breast
+pri_breast	Read2	B830100	Intraductal carcinoma in situ of breast
+pri_breast	Read2	BB91.00	[M]Infiltrating duct carcinoma
+pri_breast	Read2	BB91.11	[M]Duct carcinoma NOS
+pri_breast	Read2	BB91000	[M]Intraductal papillary adenocarcinoma with invasion
+pri_breast	Read2	BB91100	[M]Infiltrating duct and lobular carcinoma
+pri_breast	Read2	BB92.00	[M]Comedocarcinoma, noninfiltrating
+pri_breast	Read2	BB93.00	[M]Comedocarcinoma NOS
+pri_breast	Read2	BB94.00	[M]Juvenile breast carcinoma
+pri_breast	Read2	BB94.11	[M]Secretory breast carcinoma
+pri_breast	Read2	BB96.00	[M]Noninfiltrating intraductal papillary adenocarcinoma
+pri_breast	Read2	BB9J.00	[M]Paget's disease, mammary
+pri_breast	Read2	BB9J.11	[M]Paget's disease, breast
+pri_breast	Read2	BB9K.00	[M]Paget's disease and infiltrating breast duct carcinoma
+pri_breast	Read2	BB9K000	[M]Paget's disease and intraductal carcinoma of breast
+pri_breast	Read2	BB9M.00	[M]Intracystic carcinoma NOS
+pri_breast	Read2	Byu6.00	[X]Malignant neoplasm of breast
+pri_breast	Read2	ByuFG00	[X]Other carcinoma in situ of breast
+pri_breast	Read2	ZV10300	[V]Personal history of malignant neoplasm of breast
+pri_breast	CTV3	B34..Y7JhJ	Malignant neoplasm of female breast
+pri_breast	CTV3	B340.Y7JhK	Malignant neoplasm of nipple and areola of female breast
+pri_breast	CTV3	B3400Y7JhL	Malignant neoplasm of nipple of female breast
+pri_breast	CTV3	B3401Y7JhM	Malignant neoplasm of areola of female breast
+pri_breast	CTV3	B340zY7JhN	Malignant neoplasm of nipple or areola of female breast NOS
+pri_breast	CTV3	B341.Y7JhO	Malignant neoplasm of central part of female breast
+pri_breast	CTV3	B342.Y7JhP	Malignant neoplasm of upper-inner quadrant of female breast
+pri_breast	CTV3	B343.Y7JhQ	Malignant neoplasm of lower-inner quadrant of female breast
+pri_breast	CTV3	B344.Y7JhR	Malignant neoplasm of upper-outer quadrant of female breast
+pri_breast	CTV3	B345.Y7JhS	Malignant neoplasm of lower-outer quadrant of female breast
+pri_breast	CTV3	B346.Y7JhT	Malignant neoplasm of axillary tail of female breast
+pri_breast	CTV3	B347.YMAok	Malignant neoplasm, overlapping lesion of breast
+pri_breast	CTV3	B34y.Y7JhU	Malignant neoplasm of other site of female breast
+pri_breast	CTV3	B34y0Y7JhV	Malignant neoplasm of ectopic site of female breast
+pri_breast	CTV3	B34yzY7JhW	Malignant neoplasm of other site of female breast NOS
+pri_breast	CTV3	B34z.Y7JhX	Malignant neoplasm of female breast NOS
+pri_breast	CTV3	B35..Y7JhB	Malignant neoplasm of male breast
+pri_breast	CTV3	B350.Y7JhC	Malignant neoplasm of nipple and areola of male breast
+pri_breast	CTV3	B3500Y7JhD	Malignant neoplasm of nipple of male breast
+pri_breast	CTV3	B3501Y7JhE	Malignant neoplasm of areola of male breast
+pri_breast	CTV3	B35z.Y7JhG	Malignant neoplasm of other site of male breast
+pri_breast	CTV3	B35z0Y7JhH	Malignant neoplasm of ectopic site of male breast
+pri_breast	CTV3	B35zzY7JhI	Malignant neoplasm of male breast NOS
+pri_breast	CTV3	XaFr8Yah1p	Local recurrence of malignant tumour of breast
+pri_breast	CTV3	B830.Y7J6p	Carcinoma in situ of breast
+pri_breast	CTV3	X78WVY7J6r	Lobular carcinoma in situ of breast
+pri_breast	CTV3	X78WWY7J6s	Intraductal carcinoma in situ of breast
+pri_breast	CTV3	BB91.Y7H46	Infiltrating duct carcinoma
+pri_breast	CTV3	BB91.Y7H49	Duct carcinoma
+pri_breast	CTV3	X77nuY7H4G	Intraductal papillary adenocarcinoma with invasion
+pri_breast	CTV3	X77nuYMB02	[M] Intraductal papillary adenocarcinoma with invasion
+pri_breast	CTV3	X77nwY7H4W	Infiltrating duct and lobular carcinoma
+pri_breast	CTV3	X77nwYMB04	[M] Infiltrating duct and lobular carcinoma
+pri_breast	CTV3	BB92.Y7H4l	Non-infiltrating comedocarcinoma
+pri_breast	CTV3	BB93.Y7H45	[M]Comedocarcinoma NOS
+pri_breast	CTV3	BB94.Y7H4E	Juvenile carcinoma of the breast
+pri_breast	CTV3	BB94.Y7H4F	Secretory carcinoma of the breast
+pri_breast	CTV3	BB96.Y7H4n	Non-infiltrating intraductal papillary adenocarcinoma
+pri_breast	CTV3	BB9J.Y7H4d	Mammary Paget's disease
+pri_breast	CTV3	BB9J.Y7H4e	Paget's disease of breast
+pri_breast	CTV3	BB9K.Y7H4f	Paget's disease and infiltrating duct carcinoma of breast
+pri_breast	CTV3	X77nyY7H4g	Paget's disease and intraductal carcinoma of breast
+pri_breast	CTV3	X77nyYMB06	[M] Paget's disease and intraductal carcinoma of breast
+pri_breast	CTV3	BB9M.YMB03	[M] Intracystic carcinoma NOS
+pri_breast	CTV3	Byu6.YMA8l	[X]Malignant neoplasm of breast
+pri_breast	CTV3	ByuFGYMA9p	[X]Other carcinoma in situ of breast
+pri_breast	CTV3	ZV103Ya0dU	[V]Personal history of malignant neoplasm of breast
+pri_breast	medcodeid	155089014	Malignant neoplasm of areola of female breast
+pri_breast	medcodeid	155364013	Malignant neoplasm of male breast
+pri_breast	medcodeid	155417012	Malignant neoplasm of nipple of female breast
+pri_breast	medcodeid	174576019	Lobular carcinoma in situ of breast
+pri_breast	medcodeid	174577011	Intraductal carcinoma in situ of breast
+pri_breast	medcodeid	289142014	Malignant neoplasm of upper-inner quadrant of female breast
+pri_breast	medcodeid	289145011	Malignant neoplasm of lower-outer quadrant of female breast
+pri_breast	medcodeid	289146012	Malignant neoplasm of axillary tail of female breast
+pri_breast	medcodeid	289153015	Malignant neoplasm of nipple and areola of male breast
+pri_breast	medcodeid	289158012	Malignant neoplasm of ectopic site of male breast
+pri_breast	medcodeid	459378019	Local recurrence of malignant tumour of breast
+pri_breast	medcodeid	289140018	Malignant neoplasm of nipple or areola of female breast NOS
+pri_breast	medcodeid	289148013	Malignant neoplasm of other site of female breast
+pri_breast	medcodeid	289150017	Malignant neoplasm of other site of female breast NOS
+pri_breast	medcodeid	289157019	Malignant neoplasm of other site of male breast
+pri_breast	medcodeid	289159016	Malignant neoplasm of male breast NOS
+pri_breast	medcodeid	292137017	[X]Malignant neoplasm of breast
+pri_breast	medcodeid	1228259019	[M]Infiltrating duct and lobular carcinoma
+pri_breast	medcodeid	307631000006111	[M]Duct carcinoma NOS
+pri_breast	medcodeid	310741000006110	[M]Juvenile breast carcinoma
+pri_breast	medcodeid	314091000006113	[M]Noninfiltrating intraductal papillary adenocarcinoma
+pri_breast	medcodeid	314711000006117	[M]Paget's disease, mammary
+pri_breast	medcodeid	316311000006112	[M]Secretory breast carcinoma
+pri_breast	medcodeid	531851000006119	Ca female breast
+pri_breast	medcodeid	291536017	[M]Comedocarcinoma NOS
+pri_breast	medcodeid	310411000006117	[M]Intracystic carcinoma NOS
+pri_breast	medcodeid	1232564019	[M]Intraductal papillary adenocarcinoma with invasion
+pri_breast	medcodeid	292214019	[X]Other carcinoma in situ of breast
+pri_breast	medcodeid	289149017	Malignant neoplasm of ectopic site of female breast
+pri_breast	medcodeid	307131000006115	[M]Comedocarcinoma, noninfiltrating
+pri_breast	medcodeid	314671000006116	[M]Paget's disease and infiltrating breast duct carcinoma
+pri_breast	medcodeid	314691000006115	[M]Paget's disease, breast
+pri_breast	medcodeid	1231363012	[M]Paget's disease and intraductal carcinoma of breast
+pri_breast	medcodeid	289151018	Malignant neoplasm of female breast NOS
+pri_breast	medcodeid	289137018	Malignant neoplasm of nipple and areola of female breast
+pri_breast	medcodeid	289141019	Malignant neoplasm of central part of female breast
+pri_breast	medcodeid	289144010	Malignant neoplasm of upper-outer quadrant of female breast
+pri_breast	medcodeid	155090017	Malignant neoplasm of areola of male breast
+pri_breast	medcodeid	460263019	[V]Personal history of malignant neoplasm of breast
+pri_breast	medcodeid	310311000006110	[M]Infiltrating duct carcinoma
+pri_breast	medcodeid	1210642019	Malignant neoplasm of female breast
+pri_breast	medcodeid	289143016	Malignant neoplasm of lower-inner quadrant of female breast
+pri_breast	medcodeid	289147015	Malignant neoplasm, overlapping lesion of breast
+pri_breast	medcodeid	290868010	Carcinoma in situ of breast
+pri_breast	medcodeid	155418019	Malignant neoplasm of nipple of male breast
+pri_breast	SNOMEDCT	93680004	Malignant neoplasm of areola of female breast
+pri_breast	SNOMEDCT	372095001	Malignant neoplasm of male breast
+pri_breast	SNOMEDCT	93924008	Malignant neoplasm of nipple of female breast
+pri_breast	SNOMEDCT	109888004	Lobular carcinoma in situ of breast
+pri_breast	SNOMEDCT	109889007	Intraductal carcinoma in situ of breast
+pri_breast	SNOMEDCT	188152004	Malignant neoplasm of upper-inner quadrant of female breast
+pri_breast	SNOMEDCT	188155002	Malignant neoplasm of lower-outer quadrant of female breast
+pri_breast	SNOMEDCT	188156001	Malignant neoplasm of axillary tail of female breast
+pri_breast	SNOMEDCT	188163001	Malignant neoplasm of nipple and areola of male breast
+pri_breast	SNOMEDCT	188168005	Malignant neoplasm of ectopic site of male breast
+pri_breast	SNOMEDCT	314955001	Local recurrence of malignant tumour of breast
+pri_breast	SNOMEDCT	188147009	Malignant neoplasm of nipple or areola of female breast NOS
+pri_breast	SNOMEDCT	372064008	Malignant neoplasm of other site of female breast
+pri_breast	SNOMEDCT	372064008	Malignant neoplasm of other site of female breast NOS
+pri_breast	SNOMEDCT	372095001	Malignant neoplasm of other site of male breast
+pri_breast	SNOMEDCT	372095001	Malignant neoplasm of male breast NOS
+pri_breast	SNOMEDCT	254837009	[X]Malignant neoplasm of breast
+pri_breast	SNOMEDCT	35232005	[M]Infiltrating duct and lobular carcinoma
+pri_breast	SNOMEDCT	82711006	[M]Duct carcinoma NOS
+pri_breast	SNOMEDCT	41919003	[M]Juvenile breast carcinoma
+pri_breast	SNOMEDCT	30566004	[M]Noninfiltrating intraductal papillary adenocarcinoma
+pri_breast	SNOMEDCT	2985005	[M]Paget's disease, mammary
+pri_breast	SNOMEDCT	41919003	[M]Secretory breast carcinoma
+pri_breast	SNOMEDCT	372064008	Ca female breast
+pri_breast	SNOMEDCT	722237009	[M]Comedocarcinoma NOS
+pri_breast	SNOMEDCT	703545003	[M]Intracystic carcinoma NOS
+pri_breast	SNOMEDCT	64524002	[M]Intraductal papillary adenocarcinoma with invasion
+pri_breast	SNOMEDCT	189336000	[X]Other carcinoma in situ of breast
+pri_breast	SNOMEDCT	188159008	Malignant neoplasm of ectopic site of female breast
+pri_breast	SNOMEDCT	78197004	[M]Comedocarcinoma, noninfiltrating
+pri_breast	SNOMEDCT	82591005	[M]Paget's disease and infiltrating breast duct carcinoma
+pri_breast	SNOMEDCT	2985005	[M]Paget's disease, breast
+pri_breast	SNOMEDCT	54666007	[M]Paget's disease and intraductal carcinoma of breast
+pri_breast	SNOMEDCT	372064008	Malignant neoplasm of female breast NOS
+pri_breast	SNOMEDCT	188147009	Malignant neoplasm of nipple and areola of female breast
+pri_breast	SNOMEDCT	188151006	Malignant neoplasm of central part of female breast
+pri_breast	SNOMEDCT	188154003	Malignant neoplasm of upper-outer quadrant of female breast
+pri_breast	SNOMEDCT	93681000	Malignant neoplasm of areola of male breast
+pri_breast	SNOMEDCT	429087003	[V]Personal history of malignant neoplasm of breast
+pri_breast	SNOMEDCT	82711006	[M]Infiltrating duct carcinoma
+pri_breast	SNOMEDCT	372064008	Malignant neoplasm of female breast
+pri_breast	SNOMEDCT	188153009	Malignant neoplasm of lower-inner quadrant of female breast
+pri_breast	SNOMEDCT	188157005	Malignant neoplasm, overlapping lesion of breast
+pri_breast	SNOMEDCT	189336000	Carcinoma in situ of breast
+pri_breast	SNOMEDCT	93925009	Malignant neoplasm of nipple of male breast
+pri_breast	Read2_5digit	B34..	Malignant neoplasm of female breast
+pri_breast	Read2_5digit	B340.	Malignant neoplasm of nipple and areola of female breast
+pri_breast	Read2_5digit	B3400	Malignant neoplasm of nipple of female breast
+pri_breast	Read2_5digit	B3401	Malignant neoplasm of areola of female breast
+pri_breast	Read2_5digit	B340z	Malignant neoplasm of nipple or areola of female breast NOS
+pri_breast	Read2_5digit	B341.	Malignant neoplasm of central part of female breast
+pri_breast	Read2_5digit	B342.	Malignant neoplasm of upper-inner quadrant of female breast
+pri_breast	Read2_5digit	B343.	Malignant neoplasm of lower-inner quadrant of female breast
+pri_breast	Read2_5digit	B344.	Malignant neoplasm of upper-outer quadrant of female breast
+pri_breast	Read2_5digit	B345.	Malignant neoplasm of lower-outer quadrant of female breast
+pri_breast	Read2_5digit	B346.	Malignant neoplasm of axillary tail of female breast
+pri_breast	Read2_5digit	B347.	Malignant neoplasm, overlapping lesion of breast
+pri_breast	Read2_5digit	B34y.	Malignant neoplasm of other site of female breast
+pri_breast	Read2_5digit	B34y0	Malignant neoplasm of ectopic site of female breast
+pri_breast	Read2_5digit	B34yz	Malignant neoplasm of other site of female breast NOS
+pri_breast	Read2_5digit	B34z.	Malignant neoplasm of female breast NOS
+pri_breast	Read2_5digit	B35..	Malignant neoplasm of male breast
+pri_breast	Read2_5digit	B350.	Malignant neoplasm of nipple and areola of male breast
+pri_breast	Read2_5digit	B3500	Malignant neoplasm of nipple of male breast
+pri_breast	Read2_5digit	B3501	Malignant neoplasm of areola of male breast
+pri_breast	Read2_5digit	B35z.	Malignant neoplasm of other site of male breast
+pri_breast	Read2_5digit	B35z0	Malignant neoplasm of ectopic site of male breast
+pri_breast	Read2_5digit	B35zz	Malignant neoplasm of male breast NOS
+pri_breast	Read2_5digit	B36..	Local recurrence of malignant tumour of breast
+pri_breast	Read2_5digit	B830.	Carcinoma in situ of breast
+pri_breast	Read2_5digit	B8300	Lobular carcinoma in situ of breast
+pri_breast	Read2_5digit	B8301	Intraductal carcinoma in situ of breast
+pri_breast	Read2_5digit	BB91.	[M]Infiltrating duct carcinoma
+pri_breast	Read2_5digit	BB910	[M]Intraductal papillary adenocarcinoma with invasion
+pri_breast	Read2_5digit	BB911	[M]Infiltrating duct and lobular carcinoma
+pri_breast	Read2_5digit	BB92.	[M]Comedocarcinoma, noninfiltrating
+pri_breast	Read2_5digit	BB93.	[M]Comedocarcinoma NOS
+pri_breast	Read2_5digit	BB94.	[M]Juvenile breast carcinoma
+pri_breast	Read2_5digit	BB96.	[M]Noninfiltrating intraductal papillary adenocarcinoma
+pri_breast	Read2_5digit	BB9J.	[M]Paget's disease, mammary
+pri_breast	Read2_5digit	BB9K.	[M]Paget's disease and infiltrating breast duct carcinoma
+pri_breast	Read2_5digit	BB9K0	[M]Paget's disease and intraductal carcinoma of breast
+pri_breast	Read2_5digit	BB9M.	[M]Intracystic carcinoma NOS
+pri_breast	Read2_5digit	Byu6.	[X]Malignant neoplasm of breast
+pri_breast	Read2_5digit	ByuFG	[X]Other carcinoma in situ of breast
+pri_breast	Read2_5digit	ZV103	[V]Personal history of malignant neoplasm of breast
+pri_breast	CTV3_5digit	B34..	Malignant neoplasm of female breast
+pri_breast	CTV3_5digit	B340.	Malignant neoplasm of nipple and areola of female breast
+pri_breast	CTV3_5digit	B3400	Malignant neoplasm of nipple of female breast
+pri_breast	CTV3_5digit	B3401	Malignant neoplasm of areola of female breast
+pri_breast	CTV3_5digit	B340z	Malignant neoplasm of nipple or areola of female breast NOS
+pri_breast	CTV3_5digit	B341.	Malignant neoplasm of central part of female breast
+pri_breast	CTV3_5digit	B342.	Malignant neoplasm of upper-inner quadrant of female breast
+pri_breast	CTV3_5digit	B343.	Malignant neoplasm of lower-inner quadrant of female breast
+pri_breast	CTV3_5digit	B344.	Malignant neoplasm of upper-outer quadrant of female breast
+pri_breast	CTV3_5digit	B345.	Malignant neoplasm of lower-outer quadrant of female breast
+pri_breast	CTV3_5digit	B346.	Malignant neoplasm of axillary tail of female breast
+pri_breast	CTV3_5digit	B347.	Malignant neoplasm, overlapping lesion of breast
+pri_breast	CTV3_5digit	B34y.	Malignant neoplasm of other site of female breast
+pri_breast	CTV3_5digit	B34y0	Malignant neoplasm of ectopic site of female breast
+pri_breast	CTV3_5digit	B34yz	Malignant neoplasm of other site of female breast NOS
+pri_breast	CTV3_5digit	B34z.	Malignant neoplasm of female breast NOS
+pri_breast	CTV3_5digit	B35..	Malignant neoplasm of male breast
+pri_breast	CTV3_5digit	B350.	Malignant neoplasm of nipple and areola of male breast
+pri_breast	CTV3_5digit	B3500	Malignant neoplasm of nipple of male breast
+pri_breast	CTV3_5digit	B3501	Malignant neoplasm of areola of male breast
+pri_breast	CTV3_5digit	B35z.	Malignant neoplasm of other site of male breast
+pri_breast	CTV3_5digit	B35z0	Malignant neoplasm of ectopic site of male breast
+pri_breast	CTV3_5digit	B35zz	Malignant neoplasm of male breast NOS
+pri_breast	CTV3_5digit	XaFr8	Local recurrence of malignant tumour of breast
+pri_breast	CTV3_5digit	B830.	Carcinoma in situ of breast
+pri_breast	CTV3_5digit	X78WV	Lobular carcinoma in situ of breast
+pri_breast	CTV3_5digit	X78WW	Intraductal carcinoma in situ of breast
+pri_breast	CTV3_5digit	BB91.	Infiltrating duct carcinoma
+pri_breast	CTV3_5digit	X77nu	Intraductal papillary adenocarcinoma with invasion
+pri_breast	CTV3_5digit	X77nw	Infiltrating duct and lobular carcinoma
+pri_breast	CTV3_5digit	BB92.	Non-infiltrating comedocarcinoma
+pri_breast	CTV3_5digit	BB93.	[M]Comedocarcinoma NOS
+pri_breast	CTV3_5digit	BB94.	Juvenile carcinoma of the breast
+pri_breast	CTV3_5digit	BB96.	Non-infiltrating intraductal papillary adenocarcinoma
+pri_breast	CTV3_5digit	BB9J.	Mammary Paget's disease
+pri_breast	CTV3_5digit	BB9K.	Paget's disease and infiltrating duct carcinoma of breast
+pri_breast	CTV3_5digit	X77ny	Paget's disease and intraductal carcinoma of breast
+pri_breast	CTV3_5digit	BB9M.	[M] Intracystic carcinoma NOS
+pri_breast	CTV3_5digit	Byu6.	[X]Malignant neoplasm of breast
+pri_breast	CTV3_5digit	ByuFG	[X]Other carcinoma in situ of breast
+pri_breast	CTV3_5digit	ZV103	[V]Personal history of malignant neoplasm of breast

@@ -1,0 +1,58 @@
+condition	vocab_id	code	description
+carpal_tunnel	ICD10	G56.0	Carpal tunnel syndrome
+carpal_tunnel	Read2	7056000	Carpal tunnel release
+carpal_tunnel	Read2	7056011	Carpal tunnel decompression
+carpal_tunnel	Read2	7056200	Re-release of carpal tunnel
+carpal_tunnel	Read2	7056400	Endoscopic carpal tunnel release
+carpal_tunnel	Read2	705A100	Revision of carpal tunnel release
+carpal_tunnel	Read2	85BE.00	Injection of carpal tunnel
+carpal_tunnel	Read2	8Hlr.00	Referral for carpal tunnel injection
+carpal_tunnel	Read2	9Nu3000	Consent given for carpal tunnel injection
+carpal_tunnel	Read2	F340.00	Carpal tunnel syndrome
+carpal_tunnel	Read2	F340.12	CTS - Carpal tunnel syndrome
+carpal_tunnel	CTV3	70560YMGrq	Carpal tunnel release
+carpal_tunnel	CTV3	70560YanqD	Carpal tunnel decompression
+carpal_tunnel	CTV3	70562Y00vX	Re-release of carpal tunnel
+carpal_tunnel	CTV3	70564Ya2Pj	Endoscopic carpal tunnel release
+carpal_tunnel	CTV3	XaPpHYasRZ	Revision of decompression of median nerve at wrist
+carpal_tunnel	CTV3	85BE.Y73CL	Injection of carpal tunnel
+carpal_tunnel	CTV3	XaZhOYaviT	Referral for carpal tunnel injection
+carpal_tunnel	CTV3	XaZbYYaveq	Consent given for carpal tunnel injection
+carpal_tunnel	CTV3	XE15gY00Zr	Carpal tunnel syndrome
+carpal_tunnel	CTV3	XE15gY00Zt	CTS - Carpal tunnel syndrome
+carpal_tunnel	medcodeid	282332019	Injection of carpal tunnel
+carpal_tunnel	medcodeid	494859016	Carpal tunnel release
+carpal_tunnel	medcodeid	2551763014	Carpal tunnel decompression
+carpal_tunnel	medcodeid	2194181000000113	Consent given for carpal tunnel injection
+carpal_tunnel	medcodeid	497880019	CTS - Carpal tunnel syndrome
+carpal_tunnel	medcodeid	266126010	Re-release of carpal tunnel
+carpal_tunnel	medcodeid	2203731000000110	Referral for carpal tunnel injection
+carpal_tunnel	medcodeid	266128011	Endoscopic carpal tunnel release
+carpal_tunnel	medcodeid	742721000000115	Revision of carpal tunnel release
+carpal_tunnel	medcodeid	95473010	Carpal tunnel syndrome
+carpal_tunnel	SNOMEDCT	182641004	Injection of carpal tunnel
+carpal_tunnel	SNOMEDCT	47534009	Carpal tunnel release
+carpal_tunnel	SNOMEDCT	47534009	Carpal tunnel decompression
+carpal_tunnel	SNOMEDCT	845991000000109	Consent given for carpal tunnel injection
+carpal_tunnel	SNOMEDCT	57406009	CTS - Carpal tunnel syndrome
+carpal_tunnel	SNOMEDCT	171839006	Re-release of carpal tunnel
+carpal_tunnel	SNOMEDCT	850481000000105	Referral for carpal tunnel injection
+carpal_tunnel	SNOMEDCT	171841007	Endoscopic carpal tunnel release
+carpal_tunnel	SNOMEDCT	442573000	Revision of carpal tunnel release
+carpal_tunnel	SNOMEDCT	57406009	Carpal tunnel syndrome
+carpal_tunnel	Read2_5digit	70560	Carpal tunnel release
+carpal_tunnel	Read2_5digit	70562	Re-release of carpal tunnel
+carpal_tunnel	Read2_5digit	70564	Endoscopic carpal tunnel release
+carpal_tunnel	Read2_5digit	705A1	Revision of carpal tunnel release
+carpal_tunnel	Read2_5digit	85BE.	Injection of carpal tunnel
+carpal_tunnel	Read2_5digit	8Hlr.	Referral for carpal tunnel injection
+carpal_tunnel	Read2_5digit	9Nu30	Consent given for carpal tunnel injection
+carpal_tunnel	Read2_5digit	F340.	Carpal tunnel syndrome
+carpal_tunnel	CTV3_5digit	70560	Carpal tunnel release
+carpal_tunnel	CTV3_5digit	70562	Re-release of carpal tunnel
+carpal_tunnel	CTV3_5digit	70564	Endoscopic carpal tunnel release
+carpal_tunnel	CTV3_5digit	XaPpH	Revision of decompression of median nerve at wrist
+carpal_tunnel	CTV3_5digit	85BE.	Injection of carpal tunnel
+carpal_tunnel	CTV3_5digit	XaZhO	Referral for carpal tunnel injection
+carpal_tunnel	CTV3_5digit	XaZbY	Consent given for carpal tunnel injection
+carpal_tunnel	CTV3_5digit	XE15g	Carpal tunnel syndrome

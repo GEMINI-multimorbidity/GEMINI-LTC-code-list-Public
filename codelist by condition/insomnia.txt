@@ -1,0 +1,107 @@
+condition	vocab_id	code	description
+insomnia	ICD10	G47.0	Disorders of initiating and maintaining sleep [insomnias]
+insomnia	ICD10	F51.0	Nonorganic insomnia
+insomnia	Read2	1B1B.00	Cannot sleep - insomnia
+insomnia	Read2	1B1B.11	C/O - insomnia
+insomnia	Read2	1B1B000	Initial insomnia
+insomnia	Read2	1B1B100	Middle insomnia
+insomnia	Read2	1B1B200	Late insomnia
+insomnia	Read2	1BX0.00	Delayed onset of sleep
+insomnia	Read2	1BX3.00	Early morning waking
+insomnia	Read2	1BX9.00	Light sleep
+insomnia	Read2	E274.12	Insomnia due to nonorganic sleep disorder
+insomnia	Read2	E274100	Transient insomnia
+insomnia	Read2	E274111	Insomnia NOS
+insomnia	Read2	E274200	Persistent insomnia
+insomnia	Read2	E274D11	Restless sleep
+insomnia	Read2	E274E00	Short-sleeper
+insomnia	Read2	Eu51000	[X]Nonorganic insomnia
+insomnia	Read2	Fy00.00	Disorders of initiating and maintaining sleep
+insomnia	Read2	R005.11	[D]Insomnia - symptom
+insomnia	Read2	R005200	[D]Insomnia NOS
+insomnia	CTV3	XE2PvY00RD	Insomnia
+insomnia	CTV3	XE2PvY7DN7	Sleeplessness
+insomnia	CTV3	XM0CTYM1id	C/O - insomnia
+insomnia	CTV3	1B1B0YaYSN	Initial insomnia
+insomnia	CTV3	1B1B1YaYSO	Middle insomnia
+insomnia	CTV3	1B1B2YaYSP	Late insomnia
+insomnia	CTV3	XaItiYaldh	Delayed onset of sleep
+insomnia	CTV3	XaIv5Yalfm	Early morning waking
+insomnia	CTV3	XSGLzYSQUU	Light sleep
+insomnia	CTV3	Eu510YMB5P	Nonorganic insomnia
+insomnia	CTV3	XE1YgY00RH	Transient insomnia
+insomnia	CTV3	X007sY00RG	Insomnia NOS
+insomnia	CTV3	E2742Y00RF	Persistent insomnia
+insomnia	CTV3	X76ANY7DNM	Restless sleep
+insomnia	CTV3	E274EY00RA	Short-sleeper
+insomnia	CTV3	Fy00.YMAhc	Disorders of initiating and maintaining sleep
+insomnia	CTV3	R005.YM0vm	[D]Insomnia - symptom
+insomnia	CTV3	XM0yuYa6Xi	[D]Insomnia
+insomnia	CTV3	R0052YM0vq	[D]Insomnia NOS
+insomnia	medcodeid	21110011	Restless sleep
+insomnia	medcodeid	49145012	Light sleep
+insomnia	medcodeid	98133013	Initial insomnia
+insomnia	medcodeid	252935019	Late insomnia
+insomnia	medcodeid	295427011	'Short-sleeper'
+insomnia	medcodeid	299274011	Disorders of initiating and maintaining sleep
+insomnia	medcodeid	401805019	Transient insomnia
+insomnia	medcodeid	1780361011	Delayed onset of sleep
+insomnia	medcodeid	1780430015	Early morning waking
+insomnia	medcodeid	317035012	[D]Insomnia NOS
+insomnia	medcodeid	345377013	Insomnia NOS
+insomnia	medcodeid	407067015	C/O - insomnia
+insomnia	medcodeid	772561000006111	Insomnia due to nonorganic sleep disorder
+insomnia	medcodeid	295412011	Persistent insomnia
+insomnia	medcodeid	217721000000117	Cannot sleep - insomnia
+insomnia	medcodeid	111701012	Middle insomnia
+insomnia	medcodeid	400121000006111	[X]Nonorganic insomnia
+insomnia	medcodeid	1222474014	[D]Insomnia - symptom
+insomnia	SNOMEDCT	12262002	Restless sleep
+insomnia	SNOMEDCT	29373008	Light sleep
+insomnia	SNOMEDCT	59050008	Initial insomnia
+insomnia	SNOMEDCT	162204000	Late insomnia
+insomnia	SNOMEDCT	192007009	'Short-sleeper'
+insomnia	SNOMEDCT	194437008	Disorders of initiating and maintaining sleep
+insomnia	SNOMEDCT	268652009	Transient insomnia
+insomnia	SNOMEDCT	401161007	Delayed onset of sleep
+insomnia	SNOMEDCT	401236004	Early morning waking
+insomnia	SNOMEDCT	193462001	[D]Insomnia NOS
+insomnia	SNOMEDCT	193462001	Insomnia NOS
+insomnia	SNOMEDCT	272025006	C/O - insomnia
+insomnia	SNOMEDCT	192454004	Insomnia due to nonorganic sleep disorder
+insomnia	SNOMEDCT	191997003	Persistent insomnia
+insomnia	SNOMEDCT	193462001	Cannot sleep - insomnia
+insomnia	SNOMEDCT	67233009	Middle insomnia
+insomnia	SNOMEDCT	192454004	[X]Nonorganic insomnia
+insomnia	SNOMEDCT	193462001	[D]Insomnia - symptom
+insomnia	Read2_5digit	1B1B.	Cannot sleep - insomnia
+insomnia	Read2_5digit	1B1B0	Initial insomnia
+insomnia	Read2_5digit	1B1B1	Middle insomnia
+insomnia	Read2_5digit	1B1B2	Late insomnia
+insomnia	Read2_5digit	1BX0.	Delayed onset of sleep
+insomnia	Read2_5digit	1BX3.	Early morning waking
+insomnia	Read2_5digit	1BX9.	Light sleep
+insomnia	Read2_5digit	E2741	Transient insomnia
+insomnia	Read2_5digit	E2742	Persistent insomnia
+insomnia	Read2_5digit	E274E	Short-sleeper
+insomnia	Read2_5digit	Eu510	[X]Nonorganic insomnia
+insomnia	Read2_5digit	Fy00.	Disorders of initiating and maintaining sleep
+insomnia	Read2_5digit	R0052	[D]Insomnia NOS
+insomnia	CTV3_5digit	XE2Pv	Insomnia
+insomnia	CTV3_5digit	XM0CT	C/O - insomnia
+insomnia	CTV3_5digit	1B1B0	Initial insomnia
+insomnia	CTV3_5digit	1B1B1	Middle insomnia
+insomnia	CTV3_5digit	1B1B2	Late insomnia
+insomnia	CTV3_5digit	XaIti	Delayed onset of sleep
+insomnia	CTV3_5digit	XaIv5	Early morning waking
+insomnia	CTV3_5digit	XSGLz	Light sleep
+insomnia	CTV3_5digit	Eu510	Nonorganic insomnia
+insomnia	CTV3_5digit	XE1Yg	Transient insomnia
+insomnia	CTV3_5digit	X007s	Insomnia NOS
+insomnia	CTV3_5digit	E2742	Persistent insomnia
+insomnia	CTV3_5digit	X76AN	Restless sleep
+insomnia	CTV3_5digit	E274E	Short-sleeper
+insomnia	CTV3_5digit	Fy00.	Disorders of initiating and maintaining sleep
+insomnia	CTV3_5digit	R005.	[D]Insomnia - symptom
+insomnia	CTV3_5digit	XM0yu	[D]Insomnia
+insomnia	CTV3_5digit	R0052	[D]Insomnia NOS

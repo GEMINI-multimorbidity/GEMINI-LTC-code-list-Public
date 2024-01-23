@@ -1,0 +1,552 @@
+condition	vocab_id	code	description
+thromboembolic	ICD10	I26	Pulmonary embolism
+thromboembolic	ICD10	I63.6	Cerebral infarction due to cerebral venous thrombosis, nonpyogenic
+thromboembolic	ICD10	I67.6	Nonpyogenic thrombosis of intracranial venous system
+thromboembolic	ICD10	I74.3	Embolism and thrombosis of arteries of lower extremities
+thromboembolic	ICD10	I74.4	Embolism and thrombosis of arteries of extremities, unspecified
+thromboembolic	ICD10	I74.5	Embolism and thrombosis of iliac artery
+thromboembolic	ICD10	I80.1	Phlebitis and thrombophlebitis of femoral vein
+thromboembolic	ICD10	I80.2	Phlebitis and thrombophlebitis of other deep vessels of lower extremities
+thromboembolic	ICD10	I81	Portal vein thrombosis
+thromboembolic	ICD10	I82.0	Budd-Chiari syndrome
+thromboembolic	ICD10	I82.2	Embolism and thrombosis of vena cava
+thromboembolic	ICD10	I82.3	Embolism and thrombosis of renal vein
+thromboembolic	Read2	14A8100	H/O: Deep Vein Thrombosis
+thromboembolic	Read2	14AC.00	H/O: pulmonary embolus
+thromboembolic	Read2	7A09300	Open embolectomy of pulmonary artery
+thromboembolic	Read2	7A09311	Trendelenburg pulmonary embolectomy
+thromboembolic	Read2	7A0A100	Percutaneous transluminal embolectomy of pulmonary artery
+thromboembolic	Read2	7A0B000	Pulmonary thromboendarterectomy
+thromboembolic	Read2	7A19200	Open embolectomy of bifurcation of aorta
+thromboembolic	Read2	7A43100	Open embolectomy of iliac artery
+thromboembolic	Read2	7A43111	Open embolectomy of common iliac artery
+thromboembolic	Read2	7A44100	Percutaneous transluminal embolectomy of iliac artery
+thromboembolic	Read2	7A4A200	Open embolectomy of femoral artery
+thromboembolic	Read2	7A4A211	Open thrombectomy of femoral artery
+thromboembolic	Read2	7A4A212	Open femoral embolectomy
+thromboembolic	Read2	7A4A300	Open embolectomy popliteal artery
+thromboembolic	Read2	7A4A311	Open thrombectomy of popliteal artery
+thromboembolic	Read2	7A4B200	Percutaneous transluminal embolectomy of femoral artery
+thromboembolic	Read2	7A4B300	Percutaneous transluminal embolectomy of popliteal artery
+thromboembolic	Read2	8CMWA00	On deep vein thrombosis care pathway
+thromboembolic	Read2	9kg..00	Deep vein thrombosis - enhanced services administration
+thromboembolic	Read2	9kg0.00	Deep vein thrombosis stage 1 service level - enhanced services administration
+thromboembolic	Read2	9kg0.11	Deep vein thrombosis enhanced services administration stage 1 service level
+thromboembolic	Read2	9kg1.00	Deep vein thrombosis stage 2 service level - enhanced services administration
+thromboembolic	Read2	9kg2.00	Deep vein thrombosis stage 3 service level - enhanced services administration
+thromboembolic	Read2	F05..00	Phlebitis and thrombophlebitis of intracranial sinuses
+thromboembolic	Read2	F050.00	Embolism of central nervous system venous sinus
+thromboembolic	Read2	F050000	Embolism cavernous sinus
+thromboembolic	Read2	F050100	Embolism superior longitudinal sinus
+thromboembolic	Read2	F050300	Embolism transverse sinus
+thromboembolic	Read2	F051.00	Thrombosis of central nervous system venous sinuses
+thromboembolic	Read2	F051000	Thrombosis cavernous sinus
+thromboembolic	Read2	F051100	Thrombosis of superior longitudinal sinus
+thromboembolic	Read2	F051200	Thrombosis lateral sinus
+thromboembolic	Read2	F051300	Thrombosis transverse sinus
+thromboembolic	Read2	F051z00	Thrombosis of central nervous system venous sinus NOS
+thromboembolic	Read2	F053.00	Thrombophlebitis of central nervous system venous sinuses
+thromboembolic	Read2	F053000	Thrombophlebitis of cavernous sinus
+thromboembolic	Read2	F053100	Thrombophlebitis of superior longitudinal venous sinus
+thromboembolic	Read2	F05z.00	Phlebitis or thrombophlebitis of central nervous system venous sinus NOS
+thromboembolic	Read2	G401.00	Pulmonary embolism
+thromboembolic	Read2	G401.12	Pulmonary embolus
+thromboembolic	Read2	G401000	Post operative pulmonary embolus
+thromboembolic	Read2	G401100	Recurrent pulmonary embolism
+thromboembolic	Read2	G676.00	Nonpyogenic venous sinus thrombosis
+thromboembolic	Read2	G676000	Cerebral infarction due to cerebral venous thrombosis, nonpyogenic
+thromboembolic	Read2	G67A.00	Cerebral vein thrombosis
+thromboembolic	Read2	G742400	Embolism and thrombosis of the femoral artery
+thromboembolic	Read2	G742500	Embolism and thrombosis of the popliteal artery
+thromboembolic	Read2	G742600	Embolism and thrombosis of the anterior tibial artery
+thromboembolic	Read2	G742700	Embolism and thrombosis of the dorsalis pedis artery
+thromboembolic	Read2	G742900	Embolism and thrombosis of a leg artery NOS
+thromboembolic	Read2	G742z00	Peripheral arterial embolism and thrombosis NOS
+thromboembolic	Read2	G74y000	Embolism and/or thrombosis of the common iliac artery
+thromboembolic	Read2	G74y100	Embolism and/or thrombosis of the internal iliac artery
+thromboembolic	Read2	G74y200	Embolism and/or thrombosis of the external iliac artery
+thromboembolic	Read2	G74y300	Embolism and thrombosis of the iliac artery unspecified
+thromboembolic	Read2	G801.00	Deep vein phlebitis and thrombophlebitis of the leg
+thromboembolic	Read2	G801.11	Deep vein thrombosis
+thromboembolic	Read2	G801.12	Deep vein thrombosis, leg
+thromboembolic	Read2	G801.13	DVT - Deep vein thrombosis
+thromboembolic	Read2	G801600	Thrombophlebitis of the femoral vein
+thromboembolic	Read2	G801700	Thrombophlebitis of the popliteal vein
+thromboembolic	Read2	G801800	Thrombophlebitis of the anterior tibial vein
+thromboembolic	Read2	G801900	Thrombophlebitis of the dorsalis pedis vein
+thromboembolic	Read2	G801A00	Thrombophlebitis of the posterior tibial vein
+thromboembolic	Read2	G801B00	Deep vein thrombophlebitis of the leg unspecified
+thromboembolic	Read2	G801C00	Deep vein thrombosis of leg related to air travel
+thromboembolic	Read2	G801D00	Deep vein thrombosis of lower limb
+thromboembolic	Read2	G801E00	Deep vein thrombosis of leg related to intravenous drug use
+thromboembolic	Read2	G801F00	Deep vein thrombosis of peroneal vein
+thromboembolic	Read2	G801G00	Recurrent deep vein thrombosis
+thromboembolic	Read2	G801z00	Deep vein phlebitis and thrombophlebitis of the leg NOS
+thromboembolic	Read2	G80y.11	Phlebitis and/or thrombophlebitis of iliac vein
+thromboembolic	Read2	G80y400	Thrombophlebitis of the common iliac vein
+thromboembolic	Read2	G80y500	Thrombophlebitis of the internal iliac vein
+thromboembolic	Read2	G80y600	Thrombophlebitis of the external iliac vein
+thromboembolic	Read2	G80y700	Thrombophlebitis of the iliac vein unspecified
+thromboembolic	Read2	G80y800	Phlebitis and thrombophlebitis of the iliac vein NOS
+thromboembolic	Read2	G81..00	Portal vein thrombosis
+thromboembolic	Read2	G820.00	Budd - Chiari syndrome (hepatic vein thrombosis)
+thromboembolic	Read2	G820.11	Hepatic vein thrombosis
+thromboembolic	Read2	G822.00	Embolism and thrombosis of the vena cava
+thromboembolic	Read2	G822000	Thrombosis of inferior vena cava
+thromboembolic	Read2	G823.00	Embolism and thrombosis of the renal vein
+thromboembolic	Read2	G824.00	Axillary vein thrombosis
+thromboembolic	Read2	G825.00	Thrombosis of subclavian vein
+thromboembolic	Read2	G826.00	Thrombosis of internal jugular vein
+thromboembolic	Read2	G827.00	Thrombosis of external jugular vein
+thromboembolic	Read2	Gyu8000	[X]Phlebitis and thrombophlebitis of other deep vessels of lower extremities
+thromboembolic	Read2	J420200	Thrombus of the superior mesenteric veins
+thromboembolic	Read2	SP12200	Post operative deep vein thrombosis
+thromboembolic	Read2	ZV12800	[V] Personal history deep vein thrombosis
+thromboembolic	Read2	ZV12811	[V] Personal history DVT- deep vein thrombosis
+thromboembolic	Read2	ZV12900	[V] Personal history of pulmonary embolism
+thromboembolic	CTV3	14A81Ya3Fb	H/O: Deep Vein Thrombosis
+thromboembolic	CTV3	14AC.Ya04t	H/O: pulmonary embolus
+thromboembolic	CTV3	7A093Y03GL	Open pulmonary embolectomy
+thromboembolic	CTV3	7A093Y03GM	Trendelenburg pulmonary embolectomy
+thromboembolic	CTV3	7A0A1Y03GN	Transluminal pulmonary embolectomy
+thromboembolic	CTV3	7A0A1Ya1Ms	Percutaneous embolectomy of pulmonary artery
+thromboembolic	CTV3	XaLgyYaopH	Pulmonary thromboendarterectomy
+thromboembolic	CTV3	7A192Y03Mu	Open embolectomy of bifurcation of aorta
+thromboembolic	CTV3	XE0FSY03Md	Open embolectomy of iliac artery
+thromboembolic	CTV3	XM1M5Y03Me	Open embolectomy of common iliac artery
+thromboembolic	CTV3	7A441Y03Mc	Percutaneous transluminal embolectomy of iliac artery
+thromboembolic	CTV3	7A4A2Y03N9	Open embolectomy of femoral artery
+thromboembolic	CTV3	7A4A2Y03NA	Open femoral embolectomy
+thromboembolic	CTV3	7A4A2Y03NB	Open thrombectomy of femoral artery
+thromboembolic	CTV3	7A4A3Y03NE	Open embolectomy popliteal artery
+thromboembolic	CTV3	7A4A3Y03NF	Open thrombectomy of popliteal artery
+thromboembolic	CTV3	7A4B2Y03N8	Percutaneous transluminal embolectomy of femoral artery
+thromboembolic	CTV3	7A4B3Y03ND	Percutaneous transluminal embolectomy of popliteal artery
+thromboembolic	CTV3	XaaBGYaw3h	On deep vein thrombosis care pathway
+thromboembolic	CTV3	XaQ8UYasjj	NA
+thromboembolic	CTV3	XaQ8UYatVI	Deep vein thrombosis enhanced services administration
+thromboembolic	CTV3	XaQHwYasrA	NA
+thromboembolic	CTV3	XaQHwYatVK	Deep vein thrombosis enhanced services administration stage 1 service level
+thromboembolic	CTV3	XaQHxYasrC	NA
+thromboembolic	CTV3	XaQHxYatVL	Deep vein thrombosis enhanced services administration stage 2 service level
+thromboembolic	CTV3	XaQHyYasrE	NA
+thromboembolic	CTV3	XaQHyYatVJ	Deep vein thrombosis enhanced services administration stage 3 service level
+thromboembolic	CTV3	F05..Y00Eg	Phlebitis and thrombophlebitis of intracranial sinuses
+thromboembolic	CTV3	F050.Y20Le	Embolism of central nervous system venous sinus
+thromboembolic	CTV3	F0500Y20Lf	Embolism cavernous sinus
+thromboembolic	CTV3	F0501Y20Lg	Embolism superior longitudinal sinus
+thromboembolic	CTV3	F0503Y20Li	Embolism transverse sinus
+thromboembolic	CTV3	F051.Y00eN	Cerebral venous sinus thrombosis
+thromboembolic	CTV3	F0510Y00eT	Cerebral venous thrombosis of cavernous sinus
+thromboembolic	CTV3	F0511Y00eP	Thrombosis of superior longitudinal sinus
+thromboembolic	CTV3	F0512Y00eU	Cerebral venous thrombosis of lateral sinus
+thromboembolic	CTV3	F0513YM0kS	Thrombosis transverse sinus
+thromboembolic	CTV3	F051zY00eO	Thrombosis of central nervous system venous sinus NOS
+thromboembolic	CTV3	F053.Y00Eh	Thrombophlebitis of central nervous system venous sinuses
+thromboembolic	CTV3	F0530Y00Et	Thrombophlebitis of cavernous sinus
+thromboembolic	CTV3	F0531Y00Eo	Thrombophlebitis of superior longitudinal venous sinus
+thromboembolic	CTV3	F05z.Y00El	Phlebitis or thrombophlebitis of central nervous system venous sinus NOS
+thromboembolic	CTV3	XE0UmY20DV	Pulmonary embolism
+thromboembolic	CTV3	XE0UmY20DX	Pulmonary embolus
+thromboembolic	CTV3	G4010Yacwm	Postoperative pulmonary embolus
+thromboembolic	CTV3	XaOYVYar49	Recurrent pulmonary embolism
+thromboembolic	CTV3	G676.YadUY	Non-pyogenic venous sinus thrombosis
+thromboembolic	CTV3	G6760YadUZ	Cerebral infarction due to cerebral venous thrombosis, non-pyogenic
+thromboembolic	CTV3	Xa6YtYaTdM	Cerebral vein thrombosis
+thromboembolic	CTV3	G7424Y20Ff	Embolism and thrombosis of the femoral artery
+thromboembolic	CTV3	G7425Y20Fg	Embolism and thrombosis of the popliteal artery
+thromboembolic	CTV3	G7426Y20Fh	Embolism and thrombosis of the anterior tibial artery
+thromboembolic	CTV3	G7427Y20Fi	Embolism and thrombosis of the dorsalis pedis artery
+thromboembolic	CTV3	G7429Y20Fk	Embolism and thrombosis of a leg artery NOS
+thromboembolic	CTV3	G742zY20Fl	Peripheral arterial embolism and thrombosis NOS
+thromboembolic	CTV3	G74y0Y20Fn	Embolism and/or thrombosis of the common iliac artery
+thromboembolic	CTV3	G74y1Y20Fo	Embolism and/or thrombosis of the internal iliac artery
+thromboembolic	CTV3	G74y2Y20Fp	Embolism and/or thrombosis of the external iliac artery
+thromboembolic	CTV3	G74y3Y20Fq	Embolism and thrombosis of the iliac artery unspecified
+thromboembolic	CTV3	XE0VYY20L7	Deep vein phlebitis and thrombophlebitis of the leg
+thromboembolic	CTV3	Xa9BsY20Kh	Deep vein thrombosis
+thromboembolic	CTV3	Xa9BsYMGVj	DVT - Deep vein thrombosis
+thromboembolic	CTV3	G8016Y20LG	Thrombophlebitis of the femoral vein
+thromboembolic	CTV3	G8017Y20LM	Thrombophlebitis of the popliteal vein
+thromboembolic	CTV3	G8018Y20LN	Thrombophlebitis of the anterior tibial vein
+thromboembolic	CTV3	G8019Y20LO	Thrombophlebitis of the dorsalis pedis vein
+thromboembolic	CTV3	G801AY20LP	Thrombophlebitis of the posterior tibial vein
+thromboembolic	CTV3	G801BY20LC	Deep vein thrombophlebitis of the leg unspecified
+thromboembolic	CTV3	XaIIoYakhK	Deep vein thrombosis of leg related to air travel
+thromboembolic	CTV3	Xa9BsY20L6	Deep vein thrombosis of lower limb
+thromboembolic	CTV3	XaJxoYan76	Deep vein thrombosis of leg related to intravenous drug use
+thromboembolic	CTV3	XaQIVYasrn	Deep vein thrombosis of peroneal vein
+thromboembolic	CTV3	XaZ43YavIN	Recurrent deep vein thrombosis
+thromboembolic	CTV3	G801zY20LD	Deep vein phlebitis and thrombophlebitis of the leg NOS
+thromboembolic	CTV3	Xa07GYa15U	Phlebitis and/or thrombophlebitis of iliac vein
+thromboembolic	CTV3	G80y4YM0mN	Thrombophlebitis of the common iliac vein
+thromboembolic	CTV3	G80y5YM0mO	Thrombophlebitis of the internal iliac vein
+thromboembolic	CTV3	G80y6YM0mP	Thrombophlebitis of the external iliac vein
+thromboembolic	CTV3	G80y7YM0mQ	Thrombophlebitis of the iliac vein unspecified
+thromboembolic	CTV3	G80y8YM0mR	Phlebitis and thrombophlebitis of the iliac vein NOS
+thromboembolic	CTV3	G81..Y20Kp	Portal vein thrombosis
+thromboembolic	CTV3	XE0VaY20Kv	Budd-Chiari syndrome
+thromboembolic	CTV3	G820.Y20Kt	Hepatic vein thrombosis
+thromboembolic	CTV3	G822.Y20K5	Embolism and thrombosis of the vena cava
+thromboembolic	CTV3	Xa1oUYa3VV	Thrombosis of inferior vena cava
+thromboembolic	CTV3	G823.Y20K6	Embolism and thrombosis of the renal vein
+thromboembolic	CTV3	Xa6YrYaTdK	Axillary vein thrombosis
+thromboembolic	CTV3	XaZhtYavio	Thrombosis of subclavian vein
+thromboembolic	CTV3	Xaa2KYavvy	Thrombosis of internal jugular vein
+thromboembolic	CTV3	Xaa2LYavvz	Thrombosis of external jugular vein
+thromboembolic	CTV3	Gyu80YMAIQ	[X]Phlebitis and thrombophlebitis of other deep vessels of lower extremities
+thromboembolic	CTV3	J4202Y20Ky	Superior mesenteric vein thrombosis
+thromboembolic	CTV3	J4202Y20Kz	Deep venous thrombosis of the superior mesenteric vein
+thromboembolic	CTV3	SP122Yacwn	Postoperative deep vein thrombosis
+thromboembolic	CTV3	XaBMcYaagN	[V] Personal history deep vein thrombosis
+thromboembolic	CTV3	XaBMcYaahJ	[V] Personal history DVT- deep vein thrombosis
+thromboembolic	CTV3	XaBMdYaagO	[V] Personal history of pulmonary embolism
+thromboembolic	medcodeid	216205019	Deep vein thrombosis of leg related to air travel
+thromboembolic	medcodeid	251693011	H/O: pulmonary embolus
+thromboembolic	medcodeid	271392011	Trendelenburg pulmonary embolectomy
+thromboembolic	medcodeid	271509013	Open embolectomy of bifurcation of aorta
+thromboembolic	medcodeid	272032018	Open thrombectomy of femoral artery
+thromboembolic	medcodeid	272055015	Percutaneous transluminal embolectomy of femoral artery
+thromboembolic	medcodeid	272056019	Percutaneous transluminal embolectomy of popliteal artery
+thromboembolic	medcodeid	296931015	Phlebitis and thrombophlebitis of intracranial sinuses
+thromboembolic	medcodeid	296938014	Thrombosis of superior longitudinal sinus
+thromboembolic	medcodeid	300541017	Embolism and thrombosis of the anterior tibial artery
+thromboembolic	medcodeid	300676013	Thrombophlebitis of the posterior tibial vein
+thromboembolic	medcodeid	300691010	Thrombophlebitis of the common iliac vein
+thromboembolic	medcodeid	300695018	Thrombophlebitis of the external iliac vein
+thromboembolic	medcodeid	300710016	Embolism and thrombosis of the vena cava
+thromboembolic	medcodeid	394332017	Open embolectomy of iliac artery
+thromboembolic	medcodeid	437622013	Axillary vein thrombosis
+thromboembolic	medcodeid	1221072019	Embolism of central nervous system venous sinus
+thromboembolic	medcodeid	2534187010	Deep vein thrombosis of leg related to intravenous drug use
+thromboembolic	medcodeid	632111000000118	Recurrent pulmonary embolism
+thromboembolic	medcodeid	2144741000000111	Recurrent deep vein thrombosis
+thromboembolic	medcodeid	2234371000000119	Thrombosis of internal jugular vein
+thromboembolic	medcodeid	2234411000000115	Thrombosis of external jugular vein
+thromboembolic	medcodeid	64466019	Hepatic vein thrombosis
+thromboembolic	medcodeid	296940016	Thrombosis of central nervous system venous sinus NOS
+thromboembolic	medcodeid	300696017	Thrombophlebitis of the iliac vein unspecified
+thromboembolic	medcodeid	451479013	[V] Personal history of pulmonary embolism
+thromboembolic	medcodeid	100691000006118	Thrombosis cavernous sinus
+thromboembolic	medcodeid	100701000006118	Thrombosis lateral sinus
+thromboembolic	medcodeid	100821000006116	Thrombus of the superior mesenteric veins
+thromboembolic	medcodeid	193601000006115	Pulmonary embolus
+thromboembolic	medcodeid	216571000006116	Post operative deep vein thrombosis
+thromboembolic	medcodeid	231561000006110	Phlebitis or thrombophlebitis of CNS venous sinus NOS
+thromboembolic	medcodeid	527221000006115	Budd - Chiari syndrome (hepatic vein thrombosis)
+thromboembolic	medcodeid	1059641000000112	Deep vein thrombosis - enhanced services administration
+thromboembolic	medcodeid	1716271000006111	DVT stage 2 service level - enhanced services administration
+thromboembolic	medcodeid	300677016	Deep vein thrombophlebitis of the leg unspecified
+thromboembolic	medcodeid	451478017	[V] Personal history deep vein thrombosis
+thromboembolic	medcodeid	1227369013	[V] Personal history DVT- deep vein thrombosis
+thromboembolic	medcodeid	300697014	Phlebitis and thrombophlebitis of the iliac vein NOS
+thromboembolic	medcodeid	2795114019	Thrombosis of subclavian vein
+thromboembolic	medcodeid	300539018	Embolism and thrombosis of the femoral artery
+thromboembolic	medcodeid	300542012	Embolism and thrombosis of the dorsalis pedis artery
+thromboembolic	medcodeid	300711017	Embolism and thrombosis of the renal vein
+thromboembolic	medcodeid	272034017	Open thrombectomy of popliteal artery
+thromboembolic	medcodeid	272035016	Open embolectomy popliteal artery
+thromboembolic	medcodeid	30273012	Portal vein thrombosis
+thromboembolic	medcodeid	98484016	Pulmonary embolism
+thromboembolic	medcodeid	251689017	H/O: Deep Vein Thrombosis
+thromboembolic	medcodeid	232951000006114	Percutaneous transluminal embolectomy of pulmonary artery
+thromboembolic	medcodeid	261021000006119	Open embolectomy of pulmonary artery
+thromboembolic	medcodeid	216591000006115	Post operative pulmonary embolus
+thromboembolic	medcodeid	100721000006111	Thrombosis of central nervous system venous sinuses
+thromboembolic	medcodeid	300681016	Deep vein phlebitis and thrombophlebitis of the leg NOS
+thromboembolic	medcodeid	2247661000000111	On deep vein thrombosis care pathway
+thromboembolic	medcodeid	1235913017	Cerebral vein thrombosis
+thromboembolic	medcodeid	395801015	Deep vein phlebitis and thrombophlebitis of the leg
+thromboembolic	medcodeid	412645018	Phlebitis and/or thrombophlebitis of iliac vein
+thromboembolic	medcodeid	296939018	Thrombosis transverse sinus
+thromboembolic	medcodeid	271901019	Percutaneous transluminal embolectomy of iliac artery
+thromboembolic	medcodeid	586241000006116	Nonpyogenic venous sinus thrombosis
+thromboembolic	medcodeid	1119161000000115	Deep vein thrombosis of peroneal vein
+thromboembolic	medcodeid	1741651000006115	DVT enhanced services administration stage 1 service level
+thromboembolic	medcodeid	300554012	Embolism and/or thrombosis of the internal iliac artery
+thromboembolic	medcodeid	2162148012	DVT - Deep vein thrombosis
+thromboembolic	medcodeid	300547018	Embolism and thrombosis of a leg artery NOS
+thromboembolic	medcodeid	300550015	Peripheral arterial embolism and thrombosis NOS
+thromboembolic	medcodeid	2675439010	Pulmonary thromboendarterectomy
+thromboembolic	medcodeid	419640012	Thrombosis of inferior vena cava
+thromboembolic	medcodeid	296932010	Embolism cavernous sinus
+thromboembolic	medcodeid	296947018	Thrombophlebitis of central nervous system venous sinuses
+thromboembolic	medcodeid	296948011	Thrombophlebitis of cavernous sinus
+thromboembolic	medcodeid	300553018	Embolism and/or thrombosis of the common iliac artery
+thromboembolic	medcodeid	300672010	Thrombophlebitis of the femoral vein
+thromboembolic	medcodeid	300674011	Thrombophlebitis of the anterior tibial vein
+thromboembolic	medcodeid	218551000000118	Deep vein thrombosis, leg
+thromboembolic	medcodeid	542251000006112	Cereb infarct due cerebral venous thrombosis, nonpyogenic
+thromboembolic	medcodeid	1715681000006116	DVT stage 3 service level - enhanced services administration
+thromboembolic	medcodeid	300555013	Embolism and/or thrombosis of the external iliac artery
+thromboembolic	medcodeid	420621000006111	[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites
+thromboembolic	medcodeid	2162422011	Deep vein thrombosis of lower limb
+thromboembolic	medcodeid	411214011	Open embolectomy of common iliac artery
+thromboembolic	medcodeid	272031013	Open embolectomy of femoral artery
+thromboembolic	medcodeid	272033011	Open femoral embolectomy
+thromboembolic	medcodeid	296933017	Embolism superior longitudinal sinus
+thromboembolic	medcodeid	296935012	Embolism transverse sinus
+thromboembolic	medcodeid	296949015	Thrombophlebitis of superior longitudinal venous sinus
+thromboembolic	medcodeid	300540016	Embolism and thrombosis of the popliteal artery
+thromboembolic	medcodeid	300673017	Thrombophlebitis of the popliteal vein
+thromboembolic	medcodeid	300692015	Thrombophlebitis of the internal iliac vein
+thromboembolic	medcodeid	1715671000006119	DVT stage 1 service level - enhanced services administration
+thromboembolic	medcodeid	2162149016	Deep vein thrombosis
+thromboembolic	medcodeid	300675012	Thrombophlebitis of the dorsalis pedis vein
+thromboembolic	medcodeid	300556014	Embolism and thrombosis of the iliac artery unspecified
+thromboembolic	SNOMEDCT	134399007	Deep vein thrombosis of leg related to air travel
+thromboembolic	SNOMEDCT	161512007	H/O: pulmonary embolus
+thromboembolic	SNOMEDCT	175262009	Trendelenburg pulmonary embolectomy
+thromboembolic	SNOMEDCT	175348000	Open embolectomy of bifurcation of aorta
+thromboembolic	SNOMEDCT	175704008	Open thrombectomy of femoral artery
+thromboembolic	SNOMEDCT	175717006	Percutaneous transluminal embolectomy of femoral artery
+thromboembolic	SNOMEDCT	175718001	Percutaneous transluminal embolectomy of popliteal artery
+thromboembolic	SNOMEDCT	192753009	Phlebitis and thrombophlebitis of intracranial sinuses
+thromboembolic	SNOMEDCT	192760003	Thrombosis of superior longitudinal sinus
+thromboembolic	SNOMEDCT	195325004	Embolism and thrombosis of the anterior tibial artery
+thromboembolic	SNOMEDCT	195414009	Thrombophlebitis of the posterior tibial vein
+thromboembolic	SNOMEDCT	195425000	Thrombophlebitis of the common iliac vein
+thromboembolic	SNOMEDCT	195427008	Thrombophlebitis of the external iliac vein
+thromboembolic	SNOMEDCT	195437003	Embolism and thrombosis of the vena cava
+thromboembolic	SNOMEDCT	265521000	Open embolectomy of iliac artery
+thromboembolic	SNOMEDCT	297156001	Axillary vein thrombosis
+thromboembolic	SNOMEDCT	14246007	Embolism of central nervous system venous sinus
+thromboembolic	SNOMEDCT	413956008	Deep vein thrombosis of leg related to intravenous drug use
+thromboembolic	SNOMEDCT	438773007	Recurrent pulmonary embolism
+thromboembolic	SNOMEDCT	710167004	Recurrent deep vein thrombosis
+thromboembolic	SNOMEDCT	864191000000104	Thrombosis of internal jugular vein
+thromboembolic	SNOMEDCT	864211000000100	Thrombosis of external jugular vein
+thromboembolic	SNOMEDCT	82385007	Hepatic vein thrombosis
+thromboembolic	SNOMEDCT	192759008	Thrombosis of central nervous system venous sinus NOS
+thromboembolic	SNOMEDCT	42861008	Thrombophlebitis of the iliac vein unspecified
+thromboembolic	SNOMEDCT	161512007	[V] Personal history of pulmonary embolism
+thromboembolic	SNOMEDCT	89980009	Thrombosis cavernous sinus
+thromboembolic	SNOMEDCT	21258007	Thrombosis lateral sinus
+thromboembolic	SNOMEDCT	197001004	Thrombus of the superior mesenteric veins
+thromboembolic	SNOMEDCT	59282003	Pulmonary embolus
+thromboembolic	SNOMEDCT	213220000	Post operative deep vein thrombosis
+thromboembolic	SNOMEDCT	192753009	Phlebitis or thrombophlebitis of CNS venous sinus NOS
+thromboembolic	SNOMEDCT	82385007	Budd - Chiari syndrome (hepatic vein thrombosis)
+thromboembolic	SNOMEDCT	492161000000109	Deep vein thrombosis - enhanced services administration
+thromboembolic	SNOMEDCT	503451000000100	DVT stage 2 service level - enhanced services administration
+thromboembolic	SNOMEDCT	40198004	Deep vein thrombophlebitis of the leg unspecified
+thromboembolic	SNOMEDCT	161508001	[V] Personal history deep vein thrombosis
+thromboembolic	SNOMEDCT	161508001	[V] Personal history DVT- deep vein thrombosis
+thromboembolic	SNOMEDCT	276494008	Phlebitis and thrombophlebitis of the iliac vein NOS
+thromboembolic	SNOMEDCT	438647008	Thrombosis of subclavian vein
+thromboembolic	SNOMEDCT	195323006	Embolism and thrombosis of the femoral artery
+thromboembolic	SNOMEDCT	195326003	Embolism and thrombosis of the dorsalis pedis artery
+thromboembolic	SNOMEDCT	195438008	Embolism and thrombosis of the renal vein
+thromboembolic	SNOMEDCT	175705009	Open thrombectomy of popliteal artery
+thromboembolic	SNOMEDCT	175705009	Open embolectomy popliteal artery
+thromboembolic	SNOMEDCT	17920008	Portal vein thrombosis
+thromboembolic	SNOMEDCT	59282003	Pulmonary embolism
+thromboembolic	SNOMEDCT	161508001	H/O: Deep Vein Thrombosis
+thromboembolic	SNOMEDCT	175268008	Percutaneous transluminal embolectomy of pulmonary artery
+thromboembolic	SNOMEDCT	175262009	Open embolectomy of pulmonary artery
+thromboembolic	SNOMEDCT	194883006	Post operative pulmonary embolus
+thromboembolic	SNOMEDCT	192759008	Thrombosis of central nervous system venous sinuses
+thromboembolic	SNOMEDCT	266267005	Deep vein phlebitis and thrombophlebitis of the leg NOS
+thromboembolic	SNOMEDCT	869611000000104	On deep vein thrombosis care pathway
+thromboembolic	SNOMEDCT	95455008	Cerebral vein thrombosis
+thromboembolic	SNOMEDCT	266267005	Deep vein phlebitis and thrombophlebitis of the leg
+thromboembolic	SNOMEDCT	276494008	Phlebitis and/or thrombophlebitis of iliac vein
+thromboembolic	SNOMEDCT	192761004	Thrombosis transverse sinus
+thromboembolic	SNOMEDCT	175613000	Percutaneous transluminal embolectomy of iliac artery
+thromboembolic	SNOMEDCT	195229008	Nonpyogenic venous sinus thrombosis
+thromboembolic	SNOMEDCT	443210003	Deep vein thrombosis of peroneal vein
+thromboembolic	SNOMEDCT	503421000000105	DVT enhanced services administration stage 1 service level
+thromboembolic	SNOMEDCT	734298005	Embolism and/or thrombosis of the internal iliac artery
+thromboembolic	SNOMEDCT	128053003	DVT - Deep vein thrombosis
+thromboembolic	SNOMEDCT	195318006	Embolism and thrombosis of a leg artery NOS
+thromboembolic	SNOMEDCT	195318006	Peripheral arterial embolism and thrombosis NOS
+thromboembolic	SNOMEDCT	426900002	Pulmonary thromboendarterectomy
+thromboembolic	SNOMEDCT	281595001	Thrombosis of inferior vena cava
+thromboembolic	SNOMEDCT	192754003	Embolism cavernous sinus
+thromboembolic	SNOMEDCT	192769002	Thrombophlebitis of central nervous system venous sinuses
+thromboembolic	SNOMEDCT	192770001	Thrombophlebitis of cavernous sinus
+thromboembolic	SNOMEDCT	195335005	Embolism and/or thrombosis of the common iliac artery
+thromboembolic	SNOMEDCT	195410000	Thrombophlebitis of the femoral vein
+thromboembolic	SNOMEDCT	195412008	Thrombophlebitis of the anterior tibial vein
+thromboembolic	SNOMEDCT	266267005	Deep vein thrombosis, leg
+thromboembolic	SNOMEDCT	195230003	Cereb infarct due cerebral venous thrombosis, nonpyogenic
+thromboembolic	SNOMEDCT	503481000000106	DVT stage 3 service level - enhanced services administration
+thromboembolic	SNOMEDCT	734299002	Embolism and/or thrombosis of the external iliac artery
+thromboembolic	SNOMEDCT	195394007	[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites
+thromboembolic	SNOMEDCT	404223003	Deep vein thrombosis of lower limb
+thromboembolic	SNOMEDCT	275254000	Open embolectomy of common iliac artery
+thromboembolic	SNOMEDCT	175704008	Open embolectomy of femoral artery
+thromboembolic	SNOMEDCT	175704008	Open femoral embolectomy
+thromboembolic	SNOMEDCT	192755002	Embolism superior longitudinal sinus
+thromboembolic	SNOMEDCT	192757005	Embolism transverse sinus
+thromboembolic	SNOMEDCT	192771002	Thrombophlebitis of superior longitudinal venous sinus
+thromboembolic	SNOMEDCT	195324000	Embolism and thrombosis of the popliteal artery
+thromboembolic	SNOMEDCT	195411001	Thrombophlebitis of the popliteal vein
+thromboembolic	SNOMEDCT	195426004	Thrombophlebitis of the internal iliac vein
+thromboembolic	SNOMEDCT	503421000000105	DVT stage 1 service level - enhanced services administration
+thromboembolic	SNOMEDCT	128053003	Deep vein thrombosis
+thromboembolic	SNOMEDCT	770111009	Thrombophlebitis of the dorsalis pedis vein
+thromboembolic	SNOMEDCT	266262004	Embolism and thrombosis of the iliac artery unspecified
+thromboembolic	Read2_5digit	14A81	H/O: Deep Vein Thrombosis
+thromboembolic	Read2_5digit	14AC.	H/O: pulmonary embolus
+thromboembolic	Read2_5digit	7A093	Open embolectomy of pulmonary artery
+thromboembolic	Read2_5digit	7A0A1	Percutaneous transluminal embolectomy of pulmonary artery
+thromboembolic	Read2_5digit	7A0B0	Pulmonary thromboendarterectomy
+thromboembolic	Read2_5digit	7A192	Open embolectomy of bifurcation of aorta
+thromboembolic	Read2_5digit	7A431	Open embolectomy of iliac artery
+thromboembolic	Read2_5digit	7A441	Percutaneous transluminal embolectomy of iliac artery
+thromboembolic	Read2_5digit	7A4A2	Open embolectomy of femoral artery
+thromboembolic	Read2_5digit	7A4A3	Open embolectomy popliteal artery
+thromboembolic	Read2_5digit	7A4B2	Percutaneous transluminal embolectomy of femoral artery
+thromboembolic	Read2_5digit	7A4B3	Percutaneous transluminal embolectomy of popliteal artery
+thromboembolic	Read2_5digit	8CMWA	On deep vein thrombosis care pathway
+thromboembolic	Read2_5digit	9kg..	Deep vein thrombosis - enhanced services administration
+thromboembolic	Read2_5digit	9kg0.	Deep vein thrombosis stage 1 service level - enhanced services administration
+thromboembolic	Read2_5digit	9kg1.	Deep vein thrombosis stage 2 service level - enhanced services administration
+thromboembolic	Read2_5digit	9kg2.	Deep vein thrombosis stage 3 service level - enhanced services administration
+thromboembolic	Read2_5digit	F05..	Phlebitis and thrombophlebitis of intracranial sinuses
+thromboembolic	Read2_5digit	F050.	Embolism of central nervous system venous sinus
+thromboembolic	Read2_5digit	F0500	Embolism cavernous sinus
+thromboembolic	Read2_5digit	F0501	Embolism superior longitudinal sinus
+thromboembolic	Read2_5digit	F0503	Embolism transverse sinus
+thromboembolic	Read2_5digit	F051.	Thrombosis of central nervous system venous sinuses
+thromboembolic	Read2_5digit	F0510	Thrombosis cavernous sinus
+thromboembolic	Read2_5digit	F0511	Thrombosis of superior longitudinal sinus
+thromboembolic	Read2_5digit	F0512	Thrombosis lateral sinus
+thromboembolic	Read2_5digit	F0513	Thrombosis transverse sinus
+thromboembolic	Read2_5digit	F051z	Thrombosis of central nervous system venous sinus NOS
+thromboembolic	Read2_5digit	F053.	Thrombophlebitis of central nervous system venous sinuses
+thromboembolic	Read2_5digit	F0530	Thrombophlebitis of cavernous sinus
+thromboembolic	Read2_5digit	F0531	Thrombophlebitis of superior longitudinal venous sinus
+thromboembolic	Read2_5digit	F05z.	Phlebitis or thrombophlebitis of central nervous system venous sinus NOS
+thromboembolic	Read2_5digit	G401.	Pulmonary embolism
+thromboembolic	Read2_5digit	G4010	Post operative pulmonary embolus
+thromboembolic	Read2_5digit	G4011	Recurrent pulmonary embolism
+thromboembolic	Read2_5digit	G676.	Nonpyogenic venous sinus thrombosis
+thromboembolic	Read2_5digit	G6760	Cerebral infarction due to cerebral venous thrombosis, nonpyogenic
+thromboembolic	Read2_5digit	G67A.	Cerebral vein thrombosis
+thromboembolic	Read2_5digit	G7424	Embolism and thrombosis of the femoral artery
+thromboembolic	Read2_5digit	G7425	Embolism and thrombosis of the popliteal artery
+thromboembolic	Read2_5digit	G7426	Embolism and thrombosis of the anterior tibial artery
+thromboembolic	Read2_5digit	G7427	Embolism and thrombosis of the dorsalis pedis artery
+thromboembolic	Read2_5digit	G7429	Embolism and thrombosis of a leg artery NOS
+thromboembolic	Read2_5digit	G742z	Peripheral arterial embolism and thrombosis NOS
+thromboembolic	Read2_5digit	G74y0	Embolism and/or thrombosis of the common iliac artery
+thromboembolic	Read2_5digit	G74y1	Embolism and/or thrombosis of the internal iliac artery
+thromboembolic	Read2_5digit	G74y2	Embolism and/or thrombosis of the external iliac artery
+thromboembolic	Read2_5digit	G74y3	Embolism and thrombosis of the iliac artery unspecified
+thromboembolic	Read2_5digit	G801.	Deep vein phlebitis and thrombophlebitis of the leg
+thromboembolic	Read2_5digit	G8016	Thrombophlebitis of the femoral vein
+thromboembolic	Read2_5digit	G8017	Thrombophlebitis of the popliteal vein
+thromboembolic	Read2_5digit	G8018	Thrombophlebitis of the anterior tibial vein
+thromboembolic	Read2_5digit	G8019	Thrombophlebitis of the dorsalis pedis vein
+thromboembolic	Read2_5digit	G801A	Thrombophlebitis of the posterior tibial vein
+thromboembolic	Read2_5digit	G801B	Deep vein thrombophlebitis of the leg unspecified
+thromboembolic	Read2_5digit	G801C	Deep vein thrombosis of leg related to air travel
+thromboembolic	Read2_5digit	G801D	Deep vein thrombosis of lower limb
+thromboembolic	Read2_5digit	G801E	Deep vein thrombosis of leg related to intravenous drug use
+thromboembolic	Read2_5digit	G801F	Deep vein thrombosis of peroneal vein
+thromboembolic	Read2_5digit	G801G	Recurrent deep vein thrombosis
+thromboembolic	Read2_5digit	G801z	Deep vein phlebitis and thrombophlebitis of the leg NOS
+thromboembolic	Read2_5digit	G80y4	Thrombophlebitis of the common iliac vein
+thromboembolic	Read2_5digit	G80y5	Thrombophlebitis of the internal iliac vein
+thromboembolic	Read2_5digit	G80y6	Thrombophlebitis of the external iliac vein
+thromboembolic	Read2_5digit	G80y7	Thrombophlebitis of the iliac vein unspecified
+thromboembolic	Read2_5digit	G80y8	Phlebitis and thrombophlebitis of the iliac vein NOS
+thromboembolic	Read2_5digit	G81..	Portal vein thrombosis
+thromboembolic	Read2_5digit	G820.	Budd - Chiari syndrome (hepatic vein thrombosis)
+thromboembolic	Read2_5digit	G822.	Embolism and thrombosis of the vena cava
+thromboembolic	Read2_5digit	G8220	Thrombosis of inferior vena cava
+thromboembolic	Read2_5digit	G823.	Embolism and thrombosis of the renal vein
+thromboembolic	Read2_5digit	G824.	Axillary vein thrombosis
+thromboembolic	Read2_5digit	G825.	Thrombosis of subclavian vein
+thromboembolic	Read2_5digit	G826.	Thrombosis of internal jugular vein
+thromboembolic	Read2_5digit	G827.	Thrombosis of external jugular vein
+thromboembolic	Read2_5digit	Gyu80	[X]Phlebitis and thrombophlebitis of other deep vessels of lower extremities
+thromboembolic	Read2_5digit	J4202	Thrombus of the superior mesenteric veins
+thromboembolic	Read2_5digit	SP122	Post operative deep vein thrombosis
+thromboembolic	Read2_5digit	ZV128	[V] Personal history deep vein thrombosis
+thromboembolic	Read2_5digit	ZV129	[V] Personal history of pulmonary embolism
+thromboembolic	CTV3_5digit	14A81	H/O: Deep Vein Thrombosis
+thromboembolic	CTV3_5digit	14AC.	H/O: pulmonary embolus
+thromboembolic	CTV3_5digit	7A093	Open pulmonary embolectomy
+thromboembolic	CTV3_5digit	7A0A1	Transluminal pulmonary embolectomy
+thromboembolic	CTV3_5digit	XaLgy	Pulmonary thromboendarterectomy
+thromboembolic	CTV3_5digit	7A192	Open embolectomy of bifurcation of aorta
+thromboembolic	CTV3_5digit	XE0FS	Open embolectomy of iliac artery
+thromboembolic	CTV3_5digit	XM1M5	Open embolectomy of common iliac artery
+thromboembolic	CTV3_5digit	7A441	Percutaneous transluminal embolectomy of iliac artery
+thromboembolic	CTV3_5digit	7A4A2	Open embolectomy of femoral artery
+thromboembolic	CTV3_5digit	7A4A3	Open embolectomy popliteal artery
+thromboembolic	CTV3_5digit	7A4B2	Percutaneous transluminal embolectomy of femoral artery
+thromboembolic	CTV3_5digit	7A4B3	Percutaneous transluminal embolectomy of popliteal artery
+thromboembolic	CTV3_5digit	XaaBG	On deep vein thrombosis care pathway
+thromboembolic	CTV3_5digit	XaQ8U	NA
+thromboembolic	CTV3_5digit	XaQHw	NA
+thromboembolic	CTV3_5digit	XaQHx	NA
+thromboembolic	CTV3_5digit	XaQHy	NA
+thromboembolic	CTV3_5digit	F05..	Phlebitis and thrombophlebitis of intracranial sinuses
+thromboembolic	CTV3_5digit	F050.	Embolism of central nervous system venous sinus
+thromboembolic	CTV3_5digit	F0500	Embolism cavernous sinus
+thromboembolic	CTV3_5digit	F0501	Embolism superior longitudinal sinus
+thromboembolic	CTV3_5digit	F0503	Embolism transverse sinus
+thromboembolic	CTV3_5digit	F051.	Cerebral venous sinus thrombosis
+thromboembolic	CTV3_5digit	F0510	Cerebral venous thrombosis of cavernous sinus
+thromboembolic	CTV3_5digit	F0511	Thrombosis of superior longitudinal sinus
+thromboembolic	CTV3_5digit	F0512	Cerebral venous thrombosis of lateral sinus
+thromboembolic	CTV3_5digit	F0513	Thrombosis transverse sinus
+thromboembolic	CTV3_5digit	F051z	Thrombosis of central nervous system venous sinus NOS
+thromboembolic	CTV3_5digit	F053.	Thrombophlebitis of central nervous system venous sinuses
+thromboembolic	CTV3_5digit	F0530	Thrombophlebitis of cavernous sinus
+thromboembolic	CTV3_5digit	F0531	Thrombophlebitis of superior longitudinal venous sinus
+thromboembolic	CTV3_5digit	F05z.	Phlebitis or thrombophlebitis of central nervous system venous sinus NOS
+thromboembolic	CTV3_5digit	XE0Um	Pulmonary embolism
+thromboembolic	CTV3_5digit	G4010	Postoperative pulmonary embolus
+thromboembolic	CTV3_5digit	XaOYV	Recurrent pulmonary embolism
+thromboembolic	CTV3_5digit	G676.	Non-pyogenic venous sinus thrombosis
+thromboembolic	CTV3_5digit	G6760	Cerebral infarction due to cerebral venous thrombosis, non-pyogenic
+thromboembolic	CTV3_5digit	Xa6Yt	Cerebral vein thrombosis
+thromboembolic	CTV3_5digit	G7424	Embolism and thrombosis of the femoral artery
+thromboembolic	CTV3_5digit	G7425	Embolism and thrombosis of the popliteal artery
+thromboembolic	CTV3_5digit	G7426	Embolism and thrombosis of the anterior tibial artery
+thromboembolic	CTV3_5digit	G7427	Embolism and thrombosis of the dorsalis pedis artery
+thromboembolic	CTV3_5digit	G7429	Embolism and thrombosis of a leg artery NOS
+thromboembolic	CTV3_5digit	G742z	Peripheral arterial embolism and thrombosis NOS
+thromboembolic	CTV3_5digit	G74y0	Embolism and/or thrombosis of the common iliac artery
+thromboembolic	CTV3_5digit	G74y1	Embolism and/or thrombosis of the internal iliac artery
+thromboembolic	CTV3_5digit	G74y2	Embolism and/or thrombosis of the external iliac artery
+thromboembolic	CTV3_5digit	G74y3	Embolism and thrombosis of the iliac artery unspecified
+thromboembolic	CTV3_5digit	XE0VY	Deep vein phlebitis and thrombophlebitis of the leg
+thromboembolic	CTV3_5digit	Xa9Bs	Deep vein thrombosis
+thromboembolic	CTV3_5digit	G8016	Thrombophlebitis of the femoral vein
+thromboembolic	CTV3_5digit	G8017	Thrombophlebitis of the popliteal vein
+thromboembolic	CTV3_5digit	G8018	Thrombophlebitis of the anterior tibial vein
+thromboembolic	CTV3_5digit	G8019	Thrombophlebitis of the dorsalis pedis vein
+thromboembolic	CTV3_5digit	G801A	Thrombophlebitis of the posterior tibial vein
+thromboembolic	CTV3_5digit	G801B	Deep vein thrombophlebitis of the leg unspecified
+thromboembolic	CTV3_5digit	XaIIo	Deep vein thrombosis of leg related to air travel
+thromboembolic	CTV3_5digit	XaJxo	Deep vein thrombosis of leg related to intravenous drug use
+thromboembolic	CTV3_5digit	XaQIV	Deep vein thrombosis of peroneal vein
+thromboembolic	CTV3_5digit	XaZ43	Recurrent deep vein thrombosis
+thromboembolic	CTV3_5digit	G801z	Deep vein phlebitis and thrombophlebitis of the leg NOS
+thromboembolic	CTV3_5digit	Xa07G	Phlebitis and/or thrombophlebitis of iliac vein
+thromboembolic	CTV3_5digit	G80y4	Thrombophlebitis of the common iliac vein
+thromboembolic	CTV3_5digit	G80y5	Thrombophlebitis of the internal iliac vein
+thromboembolic	CTV3_5digit	G80y6	Thrombophlebitis of the external iliac vein
+thromboembolic	CTV3_5digit	G80y7	Thrombophlebitis of the iliac vein unspecified
+thromboembolic	CTV3_5digit	G80y8	Phlebitis and thrombophlebitis of the iliac vein NOS
+thromboembolic	CTV3_5digit	G81..	Portal vein thrombosis
+thromboembolic	CTV3_5digit	XE0Va	Budd-Chiari syndrome
+thromboembolic	CTV3_5digit	G820.	Hepatic vein thrombosis
+thromboembolic	CTV3_5digit	G822.	Embolism and thrombosis of the vena cava
+thromboembolic	CTV3_5digit	Xa1oU	Thrombosis of inferior vena cava
+thromboembolic	CTV3_5digit	G823.	Embolism and thrombosis of the renal vein
+thromboembolic	CTV3_5digit	Xa6Yr	Axillary vein thrombosis
+thromboembolic	CTV3_5digit	XaZht	Thrombosis of subclavian vein
+thromboembolic	CTV3_5digit	Xaa2K	Thrombosis of internal jugular vein
+thromboembolic	CTV3_5digit	Xaa2L	Thrombosis of external jugular vein
+thromboembolic	CTV3_5digit	Gyu80	[X]Phlebitis and thrombophlebitis of other deep vessels of lower extremities
+thromboembolic	CTV3_5digit	J4202	Superior mesenteric vein thrombosis
+thromboembolic	CTV3_5digit	SP122	Postoperative deep vein thrombosis
+thromboembolic	CTV3_5digit	XaBMc	[V] Personal history deep vein thrombosis
+thromboembolic	CTV3_5digit	XaBMd	[V] Personal history of pulmonary embolism

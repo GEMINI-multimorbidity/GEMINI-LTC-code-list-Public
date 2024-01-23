@@ -1,0 +1,504 @@
+condition	vocab_id	code	description
+pri_melanoma	ICD10	C43	Malignant melanoma of skin
+pri_melanoma	Read2	1425000	H/O Malignant melanoma
+pri_melanoma	Read2	4M3..00	Breslow depth staging for melanoma
+pri_melanoma	Read2	4M70.00	Clark melanoma level 1
+pri_melanoma	Read2	4M71.00	Clark melanoma level 2
+pri_melanoma	Read2	4M72.00	Clark melanoma level 3
+pri_melanoma	Read2	4M73.00	Clark melanoma level 4
+pri_melanoma	Read2	4M74.00	Clark melanoma level 5
+pri_melanoma	Read2	7G03J00	Excision of melanoma
+pri_melanoma	Read2	B32..00	Malignant melanoma of skin
+pri_melanoma	Read2	B320.00	Malignant melanoma of lip
+pri_melanoma	Read2	B321.00	Malignant melanoma of eyelid including canthus
+pri_melanoma	Read2	B322.00	Malignant melanoma of ear and external auricular canal
+pri_melanoma	Read2	B322000	Malignant melanoma of auricle (ear)
+pri_melanoma	Read2	B322100	Malignant melanoma of external auditory meatus
+pri_melanoma	Read2	B322z00	Malignant melanoma of ear and external auricular canal NOS
+pri_melanoma	Read2	B323.00	Malignant melanoma of other and unspecified parts of face
+pri_melanoma	Read2	B323000	Malignant melanoma of external surface of cheek
+pri_melanoma	Read2	B323100	Malignant melanoma of chin
+pri_melanoma	Read2	B323200	Malignant melanoma of eyebrow
+pri_melanoma	Read2	B323300	Malignant melanoma of forehead
+pri_melanoma	Read2	B323400	Malignant melanoma of external surface of nose
+pri_melanoma	Read2	B323500	Malignant melanoma of temple
+pri_melanoma	Read2	B323z00	Malignant melanoma of face NOS
+pri_melanoma	Read2	B324.00	Malignant melanoma of scalp and neck
+pri_melanoma	Read2	B324000	Malignant melanoma of scalp
+pri_melanoma	Read2	B324100	Malignant melanoma of neck
+pri_melanoma	Read2	B324z00	Malignant melanoma of scalp and neck NOS
+pri_melanoma	Read2	B325.00	Malignant melanoma of trunk (excluding scrotum)
+pri_melanoma	Read2	B325000	Malignant melanoma of axilla
+pri_melanoma	Read2	B325100	Malignant melanoma of breast
+pri_melanoma	Read2	B325200	Malignant melanoma of buttock
+pri_melanoma	Read2	B325300	Malignant melanoma of groin
+pri_melanoma	Read2	B325400	Malignant melanoma of perianal skin
+pri_melanoma	Read2	B325500	Malignant melanoma of perineum
+pri_melanoma	Read2	B325600	Malignant melanoma of umbilicus
+pri_melanoma	Read2	B325700	Malignant melanoma of back
+pri_melanoma	Read2	B325800	Malignant melanoma of chest wall
+pri_melanoma	Read2	B325z00	Malignant melanoma of trunk, excluding scrotum, NOS
+pri_melanoma	Read2	B326.00	Malignant melanoma of upper limb and shoulder
+pri_melanoma	Read2	B326000	Malignant melanoma of shoulder
+pri_melanoma	Read2	B326100	Malignant melanoma of upper arm
+pri_melanoma	Read2	B326200	Malignant melanoma of fore-arm
+pri_melanoma	Read2	B326300	Malignant melanoma of hand
+pri_melanoma	Read2	B326400	Malignant melanoma of finger
+pri_melanoma	Read2	B326500	Malignant melanoma of thumb
+pri_melanoma	Read2	B326z00	Malignant melanoma of upper limb or shoulder NOS
+pri_melanoma	Read2	B327.00	Malignant melanoma of lower limb and hip
+pri_melanoma	Read2	B327000	Malignant melanoma of hip
+pri_melanoma	Read2	B327100	Malignant melanoma of thigh
+pri_melanoma	Read2	B327200	Malignant melanoma of knee
+pri_melanoma	Read2	B327300	Malignant melanoma of popliteal fossa area
+pri_melanoma	Read2	B327400	Malignant melanoma of lower leg
+pri_melanoma	Read2	B327500	Malignant melanoma of ankle
+pri_melanoma	Read2	B327600	Malignant melanoma of heel
+pri_melanoma	Read2	B327700	Malignant melanoma of foot
+pri_melanoma	Read2	B327800	Malignant melanoma of toe
+pri_melanoma	Read2	B327900	Malignant melanoma of great toe
+pri_melanoma	Read2	B327z00	Malignant melanoma of lower limb or hip NOS
+pri_melanoma	Read2	B32y.00	Malignant melanoma of other specified skin site
+pri_melanoma	Read2	B32y000	Overlapping malignant melanoma of skin
+pri_melanoma	Read2	B32z.00	Malignant melanoma of skin NOS
+pri_melanoma	Read2	BBE1.00	[M]Malignant melanoma NOS
+pri_melanoma	Read2	BBE1.11	[M]Melanocarcinoma
+pri_melanoma	Read2	BBE1.12	[M]Melanoma NOS
+pri_melanoma	Read2	BBE1.13	[M]Melanosarcoma NOS
+pri_melanoma	Read2	BBE1000	[M]Malignant melanoma, regressing
+pri_melanoma	Read2	BBE1100	[M]Desmoplastic melanoma, malignant
+pri_melanoma	Read2	BBE2.00	[M]Nodular melanoma
+pri_melanoma	Read2	BBE4.00	[M]Balloon cell melanoma
+pri_melanoma	Read2	BBEA.00	[M]Amelanotic melanoma
+pri_melanoma	Read2	BBEC.00	[M]Malignant melanoma in junctional naevus
+pri_melanoma	Read2	BBEF.00	[M]Hutchinson's melanotic freckle
+pri_melanoma	Read2	BBEF.11	[M]Lentigo maligna
+pri_melanoma	Read2	BBEG.00	[M]Malignant melanoma in Hutchinson's melanotic freckle
+pri_melanoma	Read2	BBEG.11	[M]Lentigo maligna melanoma
+pri_melanoma	Read2	BBEG000	[M]Acral lentiginous melanoma, malignant
+pri_melanoma	Read2	BBEH.00	[M]Superficial spreading melanoma
+pri_melanoma	Read2	BBEM.00	[M]Malignant melanoma in giant pigmented naevus
+pri_melanoma	Read2	BBEN.11	[M]Juvenila melanoma
+pri_melanoma	Read2	BBEP.00	[M]Epithelioid cell melanoma
+pri_melanoma	Read2	BBEQ.00	[M]Spindle cell melanoma NOS
+pri_melanoma	Read2	BBES.00	[M]Spindle cell melanoma, type B
+pri_melanoma	Read2	BBET.00	[M]Mixed epithelioid and spindle melanoma
+pri_melanoma	Read2	Byu4000	[X]Malignant melanoma of other and unspecified parts of face
+pri_melanoma	Read2	Byu4100	[X]Malignant melanoma of skin, unspecified
+pri_melanoma	CTV3	14250Ya2H7	H/O Malignant melanoma
+pri_melanoma	CTV3	XSNL7YSbjb	Breslow depth staging for melanoma
+pri_melanoma	CTV3	XSHw4YSSvk	Clark melanoma level 1
+pri_melanoma	CTV3	XSHw5YSSvl	Clark melanoma level 2
+pri_melanoma	CTV3	XSHw6YSSvm	Clark melanoma level 3
+pri_melanoma	CTV3	XSHw7YSSvn	Clark melanoma level 4
+pri_melanoma	CTV3	XSHw8YSSvo	Clark melanoma level 5
+pri_melanoma	CTV3	7G03JYa5Sg	Excision of melanoma
+pri_melanoma	CTV3	B32..Y7Jdy	Malignant melanoma of skin
+pri_melanoma	CTV3	B320.Y7Jdz	Malignant melanoma of lip
+pri_melanoma	CTV3	B321.Y7Je0	Malignant melanoma of eyelid including canthus
+pri_melanoma	CTV3	B322.Y7Je1	Malignant melanoma of ear and external auricular canal
+pri_melanoma	CTV3	B3220Y7Je2	Malignant melanoma of auricle (ear)
+pri_melanoma	CTV3	B3221Y7Je3	Malignant melanoma of external auditory meatus
+pri_melanoma	CTV3	B322zY7Je4	Malignant melanoma of ear and external auricular canal NOS
+pri_melanoma	CTV3	B323.Y7Je5	Malignant melanoma of other and unspecified parts of face
+pri_melanoma	CTV3	B3230Y7Je6	Malignant melanoma of external surface of cheek
+pri_melanoma	CTV3	B3231Y7Je7	Malignant melanoma of chin
+pri_melanoma	CTV3	B3232Y7Je8	Malignant melanoma of eyebrow
+pri_melanoma	CTV3	B3233Y7Je9	Malignant melanoma of forehead
+pri_melanoma	CTV3	B3234Y7JeA	Malignant melanoma of external surface of nose
+pri_melanoma	CTV3	B3235Y7JeB	Malignant melanoma of temple
+pri_melanoma	CTV3	B323zY7JeC	Malignant melanoma of face NOS
+pri_melanoma	CTV3	B324.Y7JeD	Malignant melanoma of scalp and neck
+pri_melanoma	CTV3	B3240Y7JeE	Malignant melanoma of scalp
+pri_melanoma	CTV3	B3241Y7JeF	Malignant melanoma of neck
+pri_melanoma	CTV3	B324zY7JeG	Malignant melanoma of scalp and neck NOS
+pri_melanoma	CTV3	B325.Y7JeH	Malignant melanoma of trunk (excluding scrotum)
+pri_melanoma	CTV3	B3250Y7JeI	Malignant melanoma of axilla
+pri_melanoma	CTV3	B3251Y7JeJ	Malignant melanoma of breast
+pri_melanoma	CTV3	B3252Y7JeK	Malignant melanoma of buttock
+pri_melanoma	CTV3	B3253Y7JeL	Malignant melanoma of groin
+pri_melanoma	CTV3	B3254Y7JeM	Malignant melanoma of perianal skin
+pri_melanoma	CTV3	B3255Y7JeN	Malignant melanoma of perineum
+pri_melanoma	CTV3	B3256Y7JeO	Malignant melanoma of umbilicus
+pri_melanoma	CTV3	XaCIvYabys	Malignant melanoma of back
+pri_melanoma	CTV3	XaEGUYaeYB	Malignant melanoma of chest wall
+pri_melanoma	CTV3	B325zY7JeP	Malignant melanoma of trunk, excluding scrotum, NOS
+pri_melanoma	CTV3	B326.Y7JeQ	Malignant melanoma of upper limb and shoulder
+pri_melanoma	CTV3	B3260Y7JeR	Malignant melanoma of shoulder
+pri_melanoma	CTV3	B3261Y7JeS	Malignant melanoma of upper arm
+pri_melanoma	CTV3	B3262Y7JeT	Malignant melanoma of fore-arm
+pri_melanoma	CTV3	B3263Y7JeU	Malignant melanoma of hand
+pri_melanoma	CTV3	B3264Y7JeV	Malignant melanoma of finger
+pri_melanoma	CTV3	B3265Y7JeW	Malignant melanoma of thumb
+pri_melanoma	CTV3	B326zY7JeX	Malignant melanoma of upper limb or shoulder NOS
+pri_melanoma	CTV3	B327.Y7JeY	Malignant melanoma of lower limb and hip
+pri_melanoma	CTV3	B3270Y7JeZ	Malignant melanoma of hip
+pri_melanoma	CTV3	B3271Y7Jea	Malignant melanoma of thigh
+pri_melanoma	CTV3	B3272Y7Jeb	Malignant melanoma of knee
+pri_melanoma	CTV3	B3273Y7Jec	Malignant melanoma of popliteal fossa area
+pri_melanoma	CTV3	B3274Y7Jed	Malignant melanoma of lower leg
+pri_melanoma	CTV3	B3275Y7Jee	Malignant melanoma of ankle
+pri_melanoma	CTV3	B3276Y7Jef	Malignant melanoma of heel
+pri_melanoma	CTV3	B3277Y7Jeg	Malignant melanoma of foot
+pri_melanoma	CTV3	B3278Y7Jeh	Malignant melanoma of toe
+pri_melanoma	CTV3	B3279Y7Jei	Malignant melanoma of great toe
+pri_melanoma	CTV3	B327zY7Jej	Malignant melanoma of lower limb or hip NOS
+pri_melanoma	CTV3	B32y.Y7Jek	Malignant melanoma of other specified skin site
+pri_melanoma	CTV3	B32y0YMB8S	Overlapping malignant melanoma of skin
+pri_melanoma	CTV3	B32z.Y7Jel	Malignant melanoma of skin NOS
+pri_melanoma	CTV3	XE1wXY7H7S	[M]Malignant melanoma NOS
+pri_melanoma	CTV3	Xa99SY7H7N	Malignant melanoma
+pri_melanoma	CTV3	Xa99SYaR1A	MM - Malignant melanoma
+pri_melanoma	CTV3	X77oHY7H7J	Melanocytic lesion morphology
+pri_melanoma	CTV3	X77oJY7H7V	Regressing malignant melanoma
+pri_melanoma	CTV3	X77oJYMB0D	[M] Malignant melanoma, regressing
+pri_melanoma	CTV3	X77oLY7H7e	Malignant desmoplastic melanoma
+pri_melanoma	CTV3	X77oLYMB0F	[M] Desmoplastic melanoma, malignant
+pri_melanoma	CTV3	BBE2.Y7H7T	Nodular melanoma
+pri_melanoma	CTV3	BBE4.Y7H7U	Balloon cell melanoma
+pri_melanoma	CTV3	BBEA.Y7H7W	Amelanotic melanoma
+pri_melanoma	CTV3	BBEC.Y7H7X	Malignant melanoma in junctional naevus
+pri_melanoma	CTV3	BBEF.Yaa1G	[M]Hutchinson's melanotic freckle
+pri_melanoma	CTV3	Xa99XY7H7u	Lentigo maligna
+pri_melanoma	CTV3	BBEG.Yaa1I	[M] Malignant melanoma in Hutchinson's melanotic freckle
+pri_melanoma	CTV3	X77oKY7H7d	Malignant acral lentiginous melanoma
+pri_melanoma	CTV3	X77oKYMB0E	[M] Acral lentiginous melanoma, malignant
+pri_melanoma	CTV3	BBEH.Y7H7c	Superficial spreading melanoma
+pri_melanoma	CTV3	BBEM.Y7H7g	Malignant melanoma in giant pigmented naevus
+pri_melanoma	CTV3	BBEN.YMILh	[M]Juvenila melanoma
+pri_melanoma	CTV3	BBEP.Y7H7j	Epithelioid cell melanoma
+pri_melanoma	CTV3	BBEQ.Y7H7l	[M]Spindle cell melanoma NOS
+pri_melanoma	CTV3	BBES.Y7H7n	Spindle cell melanoma - type B
+pri_melanoma	CTV3	BBET.Y7H7h	Mixed epithelioid and spindle cell melanoma
+pri_melanoma	CTV3	Byu41YMA8V	[X]Malignant melanoma of skin, unspecified
+pri_melanoma	medcodeid	3704012	Clark melanoma level 4
+pri_melanoma	medcodeid	27148012	Clark melanoma level 5
+pri_melanoma	medcodeid	84190018	Clark melanoma level 2
+pri_melanoma	medcodeid	155060012	Malignant melanoma of skin
+pri_melanoma	medcodeid	170673014	Breslow depth staging for melanoma
+pri_melanoma	medcodeid	173816012	Overlapping malignant melanoma of skin
+pri_melanoma	medcodeid	251569011	H/O Malignant melanoma
+pri_melanoma	medcodeid	274480013	Excision of melanoma
+pri_melanoma	medcodeid	289011019	Malignant melanoma of ear and external auricular canal
+pri_melanoma	medcodeid	289019017	Malignant melanoma of forehead
+pri_melanoma	medcodeid	289023013	Malignant melanoma of scalp and neck
+pri_melanoma	medcodeid	289028016	Malignant melanoma of axilla
+pri_melanoma	medcodeid	289033017	Malignant melanoma of perineum
+pri_melanoma	medcodeid	289039018	Malignant melanoma of shoulder
+pri_melanoma	medcodeid	289040016	Malignant melanoma of upper arm
+pri_melanoma	medcodeid	289042012	Malignant melanoma of hand
+pri_melanoma	medcodeid	289043019	Malignant melanoma of finger
+pri_melanoma	medcodeid	289044013	Malignant melanoma of thumb
+pri_melanoma	medcodeid	289046010	Malignant melanoma of lower limb and hip
+pri_melanoma	medcodeid	289048011	Malignant melanoma of thigh
+pri_melanoma	medcodeid	289049015	Malignant melanoma of knee
+pri_melanoma	medcodeid	289051016	Malignant melanoma of lower leg
+pri_melanoma	medcodeid	289053018	Malignant melanoma of heel
+pri_melanoma	medcodeid	289056014	Malignant melanoma of great toe
+pri_melanoma	medcodeid	457109011	Malignant melanoma of chest wall
+pri_melanoma	medcodeid	1232189017	[M]Hutchinson's melanotic freckle
+pri_melanoma	medcodeid	1235301017	[M]Juvenila melanoma
+pri_melanoma	medcodeid	1235798017	Malignant melanoma of external surface of nose
+pri_melanoma	medcodeid	289022015	Malignant melanoma of face NOS
+pri_melanoma	medcodeid	289037016	Malignant melanoma of trunk, excluding scrotum, NOS
+pri_melanoma	medcodeid	289045014	Malignant melanoma of upper limb or shoulder NOS
+pri_melanoma	medcodeid	289057017	Malignant melanoma of lower limb or hip NOS
+pri_melanoma	medcodeid	292118014	[X]Malignant melanoma of skin, unspecified
+pri_melanoma	medcodeid	1221446018	[M]Acral lentiginous melanoma, malignant
+pri_melanoma	medcodeid	1230100013	[M]Malignant melanoma in Hutchinson's melanotic freckle
+pri_melanoma	medcodeid	308181000006118	[M]Epithelioid cell melanoma
+pri_melanoma	medcodeid	311951000006115	[M]Malignant melanoma in giant pigmented naevus
+pri_melanoma	medcodeid	311971000006113	[M]Malignant melanoma in junctional naevus
+pri_melanoma	medcodeid	312281000006114	[M]Melanoma NOS
+pri_melanoma	medcodeid	312291000006112	[M]Melanosarcoma NOS
+pri_melanoma	medcodeid	312851000006119	[M]Mixed epithelioid and spindle melanoma
+pri_melanoma	medcodeid	316801000006119	[M]Spindle cell melanoma, type B
+pri_melanoma	medcodeid	317201000006115	[M]Superficial spreading melanoma
+pri_melanoma	medcodeid	728201000006110	Malignant melanoma of eyelid including canthus
+pri_melanoma	medcodeid	403754010	[M]Malignant melanoma NOS
+pri_melanoma	medcodeid	289014010	Malignant melanoma of ear and external auricular canal NOS
+pri_melanoma	medcodeid	1231028010	[M]Desmoplastic melanoma, malignant
+pri_melanoma	medcodeid	289060012	Malignant melanoma of other specified skin site
+pri_melanoma	medcodeid	289013016	Malignant melanoma of external auditory meatus
+pri_melanoma	medcodeid	289017015	Malignant melanoma of chin
+pri_melanoma	medcodeid	289030019	Malignant melanoma of buttock
+pri_melanoma	medcodeid	289054012	Malignant melanoma of foot
+pri_melanoma	medcodeid	35572018	Clark melanoma level 3
+pri_melanoma	medcodeid	305231000006118	[M]Amelanotic melanoma
+pri_melanoma	medcodeid	305741000006115	[M]Balloon cell melanoma
+pri_melanoma	medcodeid	310961000006112	[M]Lentigo maligna melanoma
+pri_melanoma	medcodeid	727731000006113	Malignant melanoma of upper limb and shoulder
+pri_melanoma	medcodeid	312251000006118	[M]Melanocarcinoma
+pri_melanoma	medcodeid	289027014	Malignant melanoma of trunk (excluding scrotum)
+pri_melanoma	medcodeid	1235785014	Malignant melanoma of external surface of cheek
+pri_melanoma	medcodeid	1235786010	Malignant melanoma of eyebrow
+pri_melanoma	medcodeid	289029012	Malignant melanoma of breast
+pri_melanoma	medcodeid	289041017	Malignant melanoma of fore-arm
+pri_melanoma	medcodeid	154231019	Malignant melanoma of perianal skin
+pri_melanoma	medcodeid	289026017	Malignant melanoma of scalp and neck NOS
+pri_melanoma	medcodeid	289063014	Malignant melanoma of skin NOS
+pri_melanoma	medcodeid	291607010	[M]Spindle cell melanoma NOS
+pri_melanoma	medcodeid	454085011	Malignant melanoma of back
+pri_melanoma	medcodeid	289009011	Malignant melanoma of lip
+pri_melanoma	medcodeid	289012014	Malignant melanoma of auricle (ear)
+pri_melanoma	medcodeid	289024019	Malignant melanoma of scalp
+pri_melanoma	medcodeid	289025018	Malignant melanoma of neck
+pri_melanoma	medcodeid	289031015	Malignant melanoma of groin
+pri_melanoma	medcodeid	289052011	Malignant melanoma of ankle
+pri_melanoma	medcodeid	289015011	Malignant melanoma of other and unspecified parts of face
+pri_melanoma	medcodeid	310951000006110	[M]Lentigo maligna
+pri_melanoma	medcodeid	314051000006119	[M]Nodular melanoma
+pri_melanoma	medcodeid	289021010	Malignant melanoma of temple
+pri_melanoma	medcodeid	289034011	Malignant melanoma of umbilicus
+pri_melanoma	medcodeid	289047018	Malignant melanoma of hip
+pri_melanoma	medcodeid	289050015	Malignant melanoma of popliteal fossa area
+pri_melanoma	medcodeid	289055013	Malignant melanoma of toe
+pri_melanoma	medcodeid	138122012	Clark melanoma level 1
+pri_melanoma	medcodeid	1229572014	[M]Malignant melanoma, regressing
+pri_melanoma	medcodeid	396171000006118	[X]Malignant melanoma of other+unspecified parts of face
+pri_melanoma	SNOMEDCT	1556006	Clark melanoma level 4
+pri_melanoma	SNOMEDCT	16034002	Clark melanoma level 5
+pri_melanoma	SNOMEDCT	50542000	Clark melanoma level 2
+pri_melanoma	SNOMEDCT	93655004	Malignant melanoma of skin
+pri_melanoma	SNOMEDCT	106243009	Breslow depth staging for melanoma
+pri_melanoma	SNOMEDCT	109267002	Overlapping malignant melanoma of skin
+pri_melanoma	SNOMEDCT	161432005	H/O Malignant melanoma
+pri_melanoma	SNOMEDCT	177281002	Excision of melanoma
+pri_melanoma	SNOMEDCT	188032002	Malignant melanoma of ear and external auricular canal
+pri_melanoma	SNOMEDCT	188040008	Malignant melanoma of forehead
+pri_melanoma	SNOMEDCT	188044004	Malignant melanoma of scalp and neck
+pri_melanoma	SNOMEDCT	188049009	Malignant melanoma of axilla
+pri_melanoma	SNOMEDCT	188054000	Malignant melanoma of perineum
+pri_melanoma	SNOMEDCT	188060000	Malignant melanoma of shoulder
+pri_melanoma	SNOMEDCT	188061001	Malignant melanoma of upper arm
+pri_melanoma	SNOMEDCT	188063003	Malignant melanoma of hand
+pri_melanoma	SNOMEDCT	188064009	Malignant melanoma of finger
+pri_melanoma	SNOMEDCT	188065005	Malignant melanoma of thumb
+pri_melanoma	SNOMEDCT	188067002	Malignant melanoma of lower limb and hip
+pri_melanoma	SNOMEDCT	188069004	Malignant melanoma of thigh
+pri_melanoma	SNOMEDCT	188070003	Malignant melanoma of knee
+pri_melanoma	SNOMEDCT	188072006	Malignant melanoma of lower leg
+pri_melanoma	SNOMEDCT	188074007	Malignant melanoma of heel
+pri_melanoma	SNOMEDCT	188077000	Malignant melanoma of great toe
+pri_melanoma	SNOMEDCT	313248004	Malignant melanoma of chest wall
+pri_melanoma	SNOMEDCT	61217001	[M]Hutchinson's melanotic freckle
+pri_melanoma	SNOMEDCT	88082008	[M]Juvenila melanoma
+pri_melanoma	SNOMEDCT	93643005	Malignant melanoma of external surface of nose
+pri_melanoma	SNOMEDCT	93225001	Malignant melanoma of face NOS
+pri_melanoma	SNOMEDCT	269579005	Malignant melanoma of trunk, excluding scrotum, NOS
+pri_melanoma	SNOMEDCT	269580008	Malignant melanoma of upper limb or shoulder NOS
+pri_melanoma	SNOMEDCT	188067002	Malignant melanoma of lower limb or hip NOS
+pri_melanoma	SNOMEDCT	93655004	[X]Malignant melanoma of skin, unspecified
+pri_melanoma	SNOMEDCT	16974005	[M]Acral lentiginous melanoma, malignant
+pri_melanoma	SNOMEDCT	44474009	[M]Malignant melanoma in Hutchinson's melanotic freckle
+pri_melanoma	SNOMEDCT	37138001	[M]Epithelioid cell melanoma
+pri_melanoma	SNOMEDCT	75931002	[M]Malignant melanoma in giant pigmented naevus
+pri_melanoma	SNOMEDCT	915007	[M]Malignant melanoma in junctional naevus
+pri_melanoma	SNOMEDCT	115223002	[M]Melanoma NOS
+pri_melanoma	SNOMEDCT	2092003	[M]Melanosarcoma NOS
+pri_melanoma	SNOMEDCT	50813003	[M]Mixed epithelioid and spindle melanoma
+pri_melanoma	SNOMEDCT	40244008	[M]Spindle cell melanoma, type B
+pri_melanoma	SNOMEDCT	55320002	[M]Superficial spreading melanoma
+pri_melanoma	SNOMEDCT	231834005	Malignant melanoma of eyelid including canthus
+pri_melanoma	SNOMEDCT	2092003	[M]Malignant melanoma NOS
+pri_melanoma	SNOMEDCT	188032002	Malignant melanoma of ear and external auricular canal NOS
+pri_melanoma	SNOMEDCT	51757004	[M]Desmoplastic melanoma, malignant
+pri_melanoma	SNOMEDCT	93655004	Malignant melanoma of other specified skin site
+pri_melanoma	SNOMEDCT	188034001	Malignant melanoma of external auditory meatus
+pri_melanoma	SNOMEDCT	188038003	Malignant melanoma of chin
+pri_melanoma	SNOMEDCT	188051008	Malignant melanoma of buttock
+pri_melanoma	SNOMEDCT	188075008	Malignant melanoma of foot
+pri_melanoma	SNOMEDCT	21165006	Clark melanoma level 3
+pri_melanoma	SNOMEDCT	70594002	[M]Amelanotic melanoma
+pri_melanoma	SNOMEDCT	39274007	[M]Balloon cell melanoma
+pri_melanoma	SNOMEDCT	302836005	[M]Lentigo maligna melanoma
+pri_melanoma	SNOMEDCT	269580008	Malignant melanoma of upper limb and shoulder
+pri_melanoma	SNOMEDCT	2092003	[M]Melanocarcinoma
+pri_melanoma	SNOMEDCT	93651008	Malignant melanoma of trunk (excluding scrotum)
+pri_melanoma	SNOMEDCT	93217003	Malignant melanoma of external surface of cheek
+pri_melanoma	SNOMEDCT	93223008	Malignant melanoma of eyebrow
+pri_melanoma	SNOMEDCT	188050009	Malignant melanoma of breast
+pri_melanoma	SNOMEDCT	188062008	Malignant melanoma of fore-arm
+pri_melanoma	SNOMEDCT	93209006	Malignant melanoma of perianal skin
+pri_melanoma	SNOMEDCT	188044004	Malignant melanoma of scalp and neck NOS
+pri_melanoma	SNOMEDCT	93655004	Malignant melanoma of skin NOS
+pri_melanoma	SNOMEDCT	68827007	[M]Spindle cell melanoma NOS
+pri_melanoma	SNOMEDCT	310498001	Malignant melanoma of back
+pri_melanoma	SNOMEDCT	188030005	Malignant melanoma of lip
+pri_melanoma	SNOMEDCT	188033007	Malignant melanoma of auricle (ear)
+pri_melanoma	SNOMEDCT	188045003	Malignant melanoma of scalp
+pri_melanoma	SNOMEDCT	188046002	Malignant melanoma of neck
+pri_melanoma	SNOMEDCT	188052001	Malignant melanoma of groin
+pri_melanoma	SNOMEDCT	188073001	Malignant melanoma of ankle
+pri_melanoma	SNOMEDCT	93225001	Malignant melanoma of other and unspecified parts of face
+pri_melanoma	SNOMEDCT	302836005	[M]Lentigo maligna
+pri_melanoma	SNOMEDCT	2142002	[M]Nodular melanoma
+pri_melanoma	SNOMEDCT	188042000	Malignant melanoma of temple
+pri_melanoma	SNOMEDCT	188055004	Malignant melanoma of umbilicus
+pri_melanoma	SNOMEDCT	188068007	Malignant melanoma of hip
+pri_melanoma	SNOMEDCT	188071004	Malignant melanoma of popliteal fossa area
+pri_melanoma	SNOMEDCT	188076009	Malignant melanoma of toe
+pri_melanoma	SNOMEDCT	83284001	Clark melanoma level 1
+pri_melanoma	SNOMEDCT	39896009	[M]Malignant melanoma, regressing
+pri_melanoma	SNOMEDCT	93225001	[X]Malignant melanoma of other+unspecified parts of face
+pri_melanoma	Read2_5digit	14250	H/O Malignant melanoma
+pri_melanoma	Read2_5digit	4M3..	Breslow depth staging for melanoma
+pri_melanoma	Read2_5digit	4M70.	Clark melanoma level 1
+pri_melanoma	Read2_5digit	4M71.	Clark melanoma level 2
+pri_melanoma	Read2_5digit	4M72.	Clark melanoma level 3
+pri_melanoma	Read2_5digit	4M73.	Clark melanoma level 4
+pri_melanoma	Read2_5digit	4M74.	Clark melanoma level 5
+pri_melanoma	Read2_5digit	7G03J	Excision of melanoma
+pri_melanoma	Read2_5digit	B32..	Malignant melanoma of skin
+pri_melanoma	Read2_5digit	B320.	Malignant melanoma of lip
+pri_melanoma	Read2_5digit	B321.	Malignant melanoma of eyelid including canthus
+pri_melanoma	Read2_5digit	B322.	Malignant melanoma of ear and external auricular canal
+pri_melanoma	Read2_5digit	B3220	Malignant melanoma of auricle (ear)
+pri_melanoma	Read2_5digit	B3221	Malignant melanoma of external auditory meatus
+pri_melanoma	Read2_5digit	B322z	Malignant melanoma of ear and external auricular canal NOS
+pri_melanoma	Read2_5digit	B323.	Malignant melanoma of other and unspecified parts of face
+pri_melanoma	Read2_5digit	B3230	Malignant melanoma of external surface of cheek
+pri_melanoma	Read2_5digit	B3231	Malignant melanoma of chin
+pri_melanoma	Read2_5digit	B3232	Malignant melanoma of eyebrow
+pri_melanoma	Read2_5digit	B3233	Malignant melanoma of forehead
+pri_melanoma	Read2_5digit	B3234	Malignant melanoma of external surface of nose
+pri_melanoma	Read2_5digit	B3235	Malignant melanoma of temple
+pri_melanoma	Read2_5digit	B323z	Malignant melanoma of face NOS
+pri_melanoma	Read2_5digit	B324.	Malignant melanoma of scalp and neck
+pri_melanoma	Read2_5digit	B3240	Malignant melanoma of scalp
+pri_melanoma	Read2_5digit	B3241	Malignant melanoma of neck
+pri_melanoma	Read2_5digit	B324z	Malignant melanoma of scalp and neck NOS
+pri_melanoma	Read2_5digit	B325.	Malignant melanoma of trunk (excluding scrotum)
+pri_melanoma	Read2_5digit	B3250	Malignant melanoma of axilla
+pri_melanoma	Read2_5digit	B3251	Malignant melanoma of breast
+pri_melanoma	Read2_5digit	B3252	Malignant melanoma of buttock
+pri_melanoma	Read2_5digit	B3253	Malignant melanoma of groin
+pri_melanoma	Read2_5digit	B3254	Malignant melanoma of perianal skin
+pri_melanoma	Read2_5digit	B3255	Malignant melanoma of perineum
+pri_melanoma	Read2_5digit	B3256	Malignant melanoma of umbilicus
+pri_melanoma	Read2_5digit	B3257	Malignant melanoma of back
+pri_melanoma	Read2_5digit	B3258	Malignant melanoma of chest wall
+pri_melanoma	Read2_5digit	B325z	Malignant melanoma of trunk, excluding scrotum, NOS
+pri_melanoma	Read2_5digit	B326.	Malignant melanoma of upper limb and shoulder
+pri_melanoma	Read2_5digit	B3260	Malignant melanoma of shoulder
+pri_melanoma	Read2_5digit	B3261	Malignant melanoma of upper arm
+pri_melanoma	Read2_5digit	B3262	Malignant melanoma of fore-arm
+pri_melanoma	Read2_5digit	B3263	Malignant melanoma of hand
+pri_melanoma	Read2_5digit	B3264	Malignant melanoma of finger
+pri_melanoma	Read2_5digit	B3265	Malignant melanoma of thumb
+pri_melanoma	Read2_5digit	B326z	Malignant melanoma of upper limb or shoulder NOS
+pri_melanoma	Read2_5digit	B327.	Malignant melanoma of lower limb and hip
+pri_melanoma	Read2_5digit	B3270	Malignant melanoma of hip
+pri_melanoma	Read2_5digit	B3271	Malignant melanoma of thigh
+pri_melanoma	Read2_5digit	B3272	Malignant melanoma of knee
+pri_melanoma	Read2_5digit	B3273	Malignant melanoma of popliteal fossa area
+pri_melanoma	Read2_5digit	B3274	Malignant melanoma of lower leg
+pri_melanoma	Read2_5digit	B3275	Malignant melanoma of ankle
+pri_melanoma	Read2_5digit	B3276	Malignant melanoma of heel
+pri_melanoma	Read2_5digit	B3277	Malignant melanoma of foot
+pri_melanoma	Read2_5digit	B3278	Malignant melanoma of toe
+pri_melanoma	Read2_5digit	B3279	Malignant melanoma of great toe
+pri_melanoma	Read2_5digit	B327z	Malignant melanoma of lower limb or hip NOS
+pri_melanoma	Read2_5digit	B32y.	Malignant melanoma of other specified skin site
+pri_melanoma	Read2_5digit	B32y0	Overlapping malignant melanoma of skin
+pri_melanoma	Read2_5digit	B32z.	Malignant melanoma of skin NOS
+pri_melanoma	Read2_5digit	BBE1.	[M]Malignant melanoma NOS
+pri_melanoma	Read2_5digit	BBE10	[M]Malignant melanoma, regressing
+pri_melanoma	Read2_5digit	BBE11	[M]Desmoplastic melanoma, malignant
+pri_melanoma	Read2_5digit	BBE2.	[M]Nodular melanoma
+pri_melanoma	Read2_5digit	BBE4.	[M]Balloon cell melanoma
+pri_melanoma	Read2_5digit	BBEA.	[M]Amelanotic melanoma
+pri_melanoma	Read2_5digit	BBEC.	[M]Malignant melanoma in junctional naevus
+pri_melanoma	Read2_5digit	BBEF.	[M]Hutchinson's melanotic freckle
+pri_melanoma	Read2_5digit	BBEG.	[M]Malignant melanoma in Hutchinson's melanotic freckle
+pri_melanoma	Read2_5digit	BBEG0	[M]Acral lentiginous melanoma, malignant
+pri_melanoma	Read2_5digit	BBEH.	[M]Superficial spreading melanoma
+pri_melanoma	Read2_5digit	BBEM.	[M]Malignant melanoma in giant pigmented naevus
+pri_melanoma	Read2_5digit	BBEP.	[M]Epithelioid cell melanoma
+pri_melanoma	Read2_5digit	BBEQ.	[M]Spindle cell melanoma NOS
+pri_melanoma	Read2_5digit	BBES.	[M]Spindle cell melanoma, type B
+pri_melanoma	Read2_5digit	BBET.	[M]Mixed epithelioid and spindle melanoma
+pri_melanoma	Read2_5digit	Byu40	[X]Malignant melanoma of other and unspecified parts of face
+pri_melanoma	Read2_5digit	Byu41	[X]Malignant melanoma of skin, unspecified
+pri_melanoma	CTV3_5digit	14250	H/O Malignant melanoma
+pri_melanoma	CTV3_5digit	XSNL7	Breslow depth staging for melanoma
+pri_melanoma	CTV3_5digit	XSHw4	Clark melanoma level 1
+pri_melanoma	CTV3_5digit	XSHw5	Clark melanoma level 2
+pri_melanoma	CTV3_5digit	XSHw6	Clark melanoma level 3
+pri_melanoma	CTV3_5digit	XSHw7	Clark melanoma level 4
+pri_melanoma	CTV3_5digit	XSHw8	Clark melanoma level 5
+pri_melanoma	CTV3_5digit	7G03J	Excision of melanoma
+pri_melanoma	CTV3_5digit	B32..	Malignant melanoma of skin
+pri_melanoma	CTV3_5digit	B320.	Malignant melanoma of lip
+pri_melanoma	CTV3_5digit	B321.	Malignant melanoma of eyelid including canthus
+pri_melanoma	CTV3_5digit	B322.	Malignant melanoma of ear and external auricular canal
+pri_melanoma	CTV3_5digit	B3220	Malignant melanoma of auricle (ear)
+pri_melanoma	CTV3_5digit	B3221	Malignant melanoma of external auditory meatus
+pri_melanoma	CTV3_5digit	B322z	Malignant melanoma of ear and external auricular canal NOS
+pri_melanoma	CTV3_5digit	B323.	Malignant melanoma of other and unspecified parts of face
+pri_melanoma	CTV3_5digit	B3230	Malignant melanoma of external surface of cheek
+pri_melanoma	CTV3_5digit	B3231	Malignant melanoma of chin
+pri_melanoma	CTV3_5digit	B3232	Malignant melanoma of eyebrow
+pri_melanoma	CTV3_5digit	B3233	Malignant melanoma of forehead
+pri_melanoma	CTV3_5digit	B3234	Malignant melanoma of external surface of nose
+pri_melanoma	CTV3_5digit	B3235	Malignant melanoma of temple
+pri_melanoma	CTV3_5digit	B323z	Malignant melanoma of face NOS
+pri_melanoma	CTV3_5digit	B324.	Malignant melanoma of scalp and neck
+pri_melanoma	CTV3_5digit	B3240	Malignant melanoma of scalp
+pri_melanoma	CTV3_5digit	B3241	Malignant melanoma of neck
+pri_melanoma	CTV3_5digit	B324z	Malignant melanoma of scalp and neck NOS
+pri_melanoma	CTV3_5digit	B325.	Malignant melanoma of trunk (excluding scrotum)
+pri_melanoma	CTV3_5digit	B3250	Malignant melanoma of axilla
+pri_melanoma	CTV3_5digit	B3251	Malignant melanoma of breast
+pri_melanoma	CTV3_5digit	B3252	Malignant melanoma of buttock
+pri_melanoma	CTV3_5digit	B3253	Malignant melanoma of groin
+pri_melanoma	CTV3_5digit	B3254	Malignant melanoma of perianal skin
+pri_melanoma	CTV3_5digit	B3255	Malignant melanoma of perineum
+pri_melanoma	CTV3_5digit	B3256	Malignant melanoma of umbilicus
+pri_melanoma	CTV3_5digit	XaCIv	Malignant melanoma of back
+pri_melanoma	CTV3_5digit	XaEGU	Malignant melanoma of chest wall
+pri_melanoma	CTV3_5digit	B325z	Malignant melanoma of trunk, excluding scrotum, NOS
+pri_melanoma	CTV3_5digit	B326.	Malignant melanoma of upper limb and shoulder
+pri_melanoma	CTV3_5digit	B3260	Malignant melanoma of shoulder
+pri_melanoma	CTV3_5digit	B3261	Malignant melanoma of upper arm
+pri_melanoma	CTV3_5digit	B3262	Malignant melanoma of fore-arm
+pri_melanoma	CTV3_5digit	B3263	Malignant melanoma of hand
+pri_melanoma	CTV3_5digit	B3264	Malignant melanoma of finger
+pri_melanoma	CTV3_5digit	B3265	Malignant melanoma of thumb
+pri_melanoma	CTV3_5digit	B326z	Malignant melanoma of upper limb or shoulder NOS
+pri_melanoma	CTV3_5digit	B327.	Malignant melanoma of lower limb and hip
+pri_melanoma	CTV3_5digit	B3270	Malignant melanoma of hip
+pri_melanoma	CTV3_5digit	B3271	Malignant melanoma of thigh
+pri_melanoma	CTV3_5digit	B3272	Malignant melanoma of knee
+pri_melanoma	CTV3_5digit	B3273	Malignant melanoma of popliteal fossa area
+pri_melanoma	CTV3_5digit	B3274	Malignant melanoma of lower leg
+pri_melanoma	CTV3_5digit	B3275	Malignant melanoma of ankle
+pri_melanoma	CTV3_5digit	B3276	Malignant melanoma of heel
+pri_melanoma	CTV3_5digit	B3277	Malignant melanoma of foot
+pri_melanoma	CTV3_5digit	B3278	Malignant melanoma of toe
+pri_melanoma	CTV3_5digit	B3279	Malignant melanoma of great toe
+pri_melanoma	CTV3_5digit	B327z	Malignant melanoma of lower limb or hip NOS
+pri_melanoma	CTV3_5digit	B32y.	Malignant melanoma of other specified skin site
+pri_melanoma	CTV3_5digit	B32y0	Overlapping malignant melanoma of skin
+pri_melanoma	CTV3_5digit	B32z.	Malignant melanoma of skin NOS
+pri_melanoma	CTV3_5digit	XE1wX	[M]Malignant melanoma NOS
+pri_melanoma	CTV3_5digit	Xa99S	Malignant melanoma
+pri_melanoma	CTV3_5digit	X77oH	Melanocytic lesion morphology
+pri_melanoma	CTV3_5digit	X77oJ	Regressing malignant melanoma
+pri_melanoma	CTV3_5digit	X77oL	Malignant desmoplastic melanoma
+pri_melanoma	CTV3_5digit	BBE2.	Nodular melanoma
+pri_melanoma	CTV3_5digit	BBE4.	Balloon cell melanoma
+pri_melanoma	CTV3_5digit	BBEA.	Amelanotic melanoma
+pri_melanoma	CTV3_5digit	BBEC.	Malignant melanoma in junctional naevus
+pri_melanoma	CTV3_5digit	BBEF.	[M]Hutchinson's melanotic freckle
+pri_melanoma	CTV3_5digit	Xa99X	Lentigo maligna
+pri_melanoma	CTV3_5digit	BBEG.	[M] Malignant melanoma in Hutchinson's melanotic freckle
+pri_melanoma	CTV3_5digit	X77oK	Malignant acral lentiginous melanoma
+pri_melanoma	CTV3_5digit	BBEH.	Superficial spreading melanoma
+pri_melanoma	CTV3_5digit	BBEM.	Malignant melanoma in giant pigmented naevus
+pri_melanoma	CTV3_5digit	BBEN.	[M]Juvenila melanoma
+pri_melanoma	CTV3_5digit	BBEP.	Epithelioid cell melanoma
+pri_melanoma	CTV3_5digit	BBEQ.	[M]Spindle cell melanoma NOS
+pri_melanoma	CTV3_5digit	BBES.	Spindle cell melanoma - type B
+pri_melanoma	CTV3_5digit	BBET.	Mixed epithelioid and spindle cell melanoma
+pri_melanoma	CTV3_5digit	Byu41	[X]Malignant melanoma of skin, unspecified

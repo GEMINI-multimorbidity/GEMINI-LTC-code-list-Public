@@ -1,0 +1,187 @@
+condition	vocab_id	code	description
+b12_def	ICD10	D51	Vitamin B12deficiency anaemia
+b12_def	Read2	1452.00	H/O: Anaemia vit.B12 deficient
+b12_def	Read2	66E..00	B12 deficiency monitoring
+b12_def	Read2	66E1.00	B12 defic. initial assessment
+b12_def	Read2	66E2.00	B12 defic.follow-up assessment
+b12_def	Read2	66E3.00	B12 injections started
+b12_def	Read2	66E4.00	B12 injections - at home
+b12_def	Read2	66E5.00	B12 injections - at surgery
+b12_def	Read2	66E6.00	Reticulcytosis after B12
+b12_def	Read2	66E7.00	B12 def.-dubious diag.criteria
+b12_def	Read2	66E8.00	B12 injections stopped
+b12_def	Read2	66EZ.00	B12 defic. monitoring NOS
+b12_def	Read2	C262100	Vitamin B12 deficiency
+b12_def	Read2	D010.00	Pernicious anaemia
+b12_def	Read2	D010.11	Addison's anaemia
+b12_def	Read2	D010.12	Biermer's congenital pernicious anaemia
+b12_def	Read2	D010.13	Congenital deficiency of intrinsic factor
+b12_def	Read2	D011.00	Other vitamin B12 deficiency anaemias
+b12_def	Read2	D011.11	Vitamin B12 deficiency anaemia
+b12_def	Read2	D011000	Vitamin B12 deficiency anaemia due to dietary causes
+b12_def	Read2	D011011	Imerslund - Grasbeck syndrome
+b12_def	Read2	D011013	Vegan's anaemia
+b12_def	Read2	D011100	Vitamin B12 deficiency anaemia due to malabsorption with proteinuria
+b12_def	Read2	D011200	Transcobalamin II deficiency
+b12_def	Read2	D011X00	Vitamin B12 deficiency anaemia, unspecified
+b12_def	Read2	D011z00	Other vitamin B12 deficiency anaemia NOS
+b12_def	Read2	D013000	Combined B12 and folate deficiency anaemia
+b12_def	Read2	Dyu0100	[X]Other dietary vitamin B12 deficiency anaemia
+b12_def	Read2	Dyu0200	[X]Other vitamin B12 deficiency anaemias
+b12_def	Read2	Dyu0600	[X]Vitamin B12 deficiency anaemia, unspecified
+b12_def	Read2	F11x600	Cerebral degeneration due to vitamin B12 deficiency
+b12_def	Read2	F162.00	Subacute combined degeneration of spinal cord
+b12_def	Read2	F381500	Myasthenic syndrome due to pernicious anaemia
+b12_def	CTV3	1452.Ya044	H/O: Anaemia vit.B12 deficient
+b12_def	CTV3	66E..Y79Ye	B12 deficiency monitoring
+b12_def	CTV3	66E1.YacA9	B12 deficiency initial assessment
+b12_def	CTV3	66E2.YacAA	B12 deficiency follow-up assessment
+b12_def	CTV3	66E3.Y79Yh	B12 injections started
+b12_def	CTV3	66E4.Y7A1T	B12 injections - at home
+b12_def	CTV3	66E5.Y7A1U	B12 injections - at surgery
+b12_def	CTV3	66E6.Y7A1V	Reticulcytosis after B12
+b12_def	CTV3	66E7.YacSq	B12 deficiency - dubious diagnostic criteria
+b12_def	CTV3	66E8.Y79Yi	B12 injections stopped
+b12_def	CTV3	66EZ.YacAB	B12 deficiency monitoring NOS
+b12_def	CTV3	C2621Y41zo	Vitamin B12 deficiency
+b12_def	CTV3	XE2roY20aB	Pernicious anaemia
+b12_def	CTV3	XE2roY20aD	PA - Pernicious anaemia
+b12_def	CTV3	X20CDY20aF	Biermer's congenital pernicious anaemia
+b12_def	CTV3	X20CCY20aE	Congenital deficiency of intrinsic factor
+b12_def	CTV3	XE13gY20a6	Other vitamin B12 deficiency anaemias
+b12_def	CTV3	Xa9AwY20a4	Vitamin B12-deficient megaloblastic anaemia
+b12_def	CTV3	XE13hY20a9	Vitamin B12 deficiency anaemia due to dietary causes
+b12_def	CTV3	X20CEY20aG	Selective malabsorption of cyanocobalamin
+b12_def	CTV3	X20CEY20aI	Imerslund-Grasbeck syndrome
+b12_def	CTV3	X20CBY20aA	Vegan's anaemia
+b12_def	CTV3	D0111Y20a8	Vitamin B12 deficiency anaemia due to malabsorption with proteinuria
+b12_def	CTV3	X40SUY41jn	Transcobalamin II deficiency
+b12_def	CTV3	Dyu06YMAAc	[X]Vitamin B12 deficiency anaemia, unspecified
+b12_def	CTV3	D011zY20a7	Other vitamin B12 deficiency anaemia NOS
+b12_def	CTV3	D0130Y20a2	Combined B12 and folate deficiency anaemia
+b12_def	CTV3	Dyu01YMAAX	[X]Other dietary vitamin B12 deficiency anaemia
+b12_def	CTV3	Dyu02YMAAY	[X]Other vitamin B12 deficiency anaemias
+b12_def	CTV3	F11x6Y00Kl	Cerebral degeneration due to vitamin B12 deficiency
+b12_def	CTV3	F162.Y00XQ	Subacute combined degeneration
+b12_def	CTV3	F162.Y00XR	SACD - Subacute combined degeneration
+b12_def	CTV3	F3815Y00bY	Myasthenic syndrome due to pernicious anaemia
+b12_def	medcodeid	264784016	B12 injections - at home
+b12_def	medcodeid	264785015	B12 injections - at surgery
+b12_def	medcodeid	264788018	B12 injections stopped
+b12_def	medcodeid	297018015	Cerebral degeneration due to vitamin B12 deficiency
+b12_def	medcodeid	297589013	Myasthenic syndrome due to pernicious anaemia
+b12_def	medcodeid	351106013	Congenital deficiency of intrinsic factor
+b12_def	medcodeid	351107016	Biermer's congenital pernicious anaemia
+b12_def	medcodeid	294571016	[X]Other vitamin B12 deficiency anaemias
+b12_def	medcodeid	399198011	Other vitamin B12 deficiency anaemias
+b12_def	medcodeid	62031000006117	Vit B12 defic anaemia due to malabsorption with proteinuria
+b12_def	medcodeid	62281000006111	Vitamin B12 deficiency anaemia, unspecified
+b12_def	medcodeid	223491000000112	Addison's anaemia
+b12_def	medcodeid	223501000000118	Imerslund - Grasbeck syndrome
+b12_def	medcodeid	501111000006119	B12 defic. initial assessment
+b12_def	medcodeid	501121000006110	B12 defic. monitoring NOS
+b12_def	medcodeid	294568012	[X]Other dietary vitamin B12 deficiency anaemia
+b12_def	medcodeid	251614016	H/O: Anaemia vit.B12 deficient
+b12_def	medcodeid	293008012	Vitamin B12 deficiency
+b12_def	medcodeid	501101000006117	B12 def.-dubious diag.criteria
+b12_def	medcodeid	501131000006113	B12 defic.follow-up assessment
+b12_def	medcodeid	62261000006118	Vitamin B12 deficiency anaemia
+b12_def	medcodeid	356607016	Transcobalamin II deficiency
+b12_def	medcodeid	264786019	Reticulcytosis after B12
+b12_def	medcodeid	399201018	Vitamin B12 deficiency anaemia due to dietary causes
+b12_def	medcodeid	351104011	Vegan's anaemia
+b12_def	medcodeid	293948018	Combined B12 and folate deficiency anaemia
+b12_def	medcodeid	264780013	B12 deficiency monitoring
+b12_def	medcodeid	264783010	B12 injections started
+b12_def	medcodeid	505888017	Pernicious anaemia
+b12_def	medcodeid	100638016	Subacute combined degeneration of spinal cord
+b12_def	medcodeid	293924010	Other vitamin B12 deficiency anaemia NOS
+b12_def	medcodeid	294579019	[X]Vitamin B12 deficiency anaemia, unspecified
+b12_def	SNOMEDCT	170822000	B12 injections - at home
+b12_def	SNOMEDCT	170823005	B12 injections - at surgery
+b12_def	SNOMEDCT	170826002	B12 injections stopped
+b12_def	SNOMEDCT	192817003	Cerebral degeneration due to vitamin B12 deficiency
+b12_def	SNOMEDCT	193213003	Myasthenic syndrome due to pernicious anaemia
+b12_def	SNOMEDCT	234361004	Congenital deficiency of intrinsic factor
+b12_def	SNOMEDCT	234362006	Biermer's congenital pernicious anaemia
+b12_def	SNOMEDCT	49472006	[X]Other vitamin B12 deficiency anaemias
+b12_def	SNOMEDCT	49472006	Other vitamin B12 deficiency anaemias
+b12_def	SNOMEDCT	191142007	Vit B12 defic anaemia due to malabsorption with proteinuria
+b12_def	SNOMEDCT	49472006	Vitamin B12 deficiency anaemia, unspecified
+b12_def	SNOMEDCT	84027009	Addison's anaemia
+b12_def	SNOMEDCT	234363001	Imerslund - Grasbeck syndrome
+b12_def	SNOMEDCT	170819002	B12 defic. initial assessment
+b12_def	SNOMEDCT	170818005	B12 defic. monitoring NOS
+b12_def	SNOMEDCT	267517008	[X]Other dietary vitamin B12 deficiency anaemia
+b12_def	SNOMEDCT	161457000	H/O: Anaemia vit.B12 deficient
+b12_def	SNOMEDCT	190634004	Vitamin B12 deficiency
+b12_def	SNOMEDCT	170825003	B12 def.-dubious diag.criteria
+b12_def	SNOMEDCT	170820008	B12 defic.follow-up assessment
+b12_def	SNOMEDCT	49472006	Vitamin B12 deficiency anaemia
+b12_def	SNOMEDCT	237934001	Transcobalamin II deficiency
+b12_def	SNOMEDCT	170824004	Reticulcytosis after B12
+b12_def	SNOMEDCT	267517008	Vitamin B12 deficiency anaemia due to dietary causes
+b12_def	SNOMEDCT	234360003	Vegan's anaemia
+b12_def	SNOMEDCT	191154007	Combined B12 and folate deficiency anaemia
+b12_def	SNOMEDCT	170818005	B12 deficiency monitoring
+b12_def	SNOMEDCT	170821007	B12 injections started
+b12_def	SNOMEDCT	84027009	Pernicious anaemia
+b12_def	SNOMEDCT	60576007	Subacute combined degeneration of spinal cord
+b12_def	SNOMEDCT	49472006	Other vitamin B12 deficiency anaemia NOS
+b12_def	SNOMEDCT	49472006	[X]Vitamin B12 deficiency anaemia, unspecified
+b12_def	Read2_5digit	1452.	H/O: Anaemia vit.B12 deficient
+b12_def	Read2_5digit	66E..	B12 deficiency monitoring
+b12_def	Read2_5digit	66E1.	B12 defic. initial assessment
+b12_def	Read2_5digit	66E2.	B12 defic.follow-up assessment
+b12_def	Read2_5digit	66E3.	B12 injections started
+b12_def	Read2_5digit	66E4.	B12 injections - at home
+b12_def	Read2_5digit	66E5.	B12 injections - at surgery
+b12_def	Read2_5digit	66E6.	Reticulcytosis after B12
+b12_def	Read2_5digit	66E7.	B12 def.-dubious diag.criteria
+b12_def	Read2_5digit	66E8.	B12 injections stopped
+b12_def	Read2_5digit	66EZ.	B12 defic. monitoring NOS
+b12_def	Read2_5digit	C2621	Vitamin B12 deficiency
+b12_def	Read2_5digit	D010.	Pernicious anaemia
+b12_def	Read2_5digit	D011.	Other vitamin B12 deficiency anaemias
+b12_def	Read2_5digit	D0110	Vitamin B12 deficiency anaemia due to dietary causes
+b12_def	Read2_5digit	D0111	Vitamin B12 deficiency anaemia due to malabsorption with proteinuria
+b12_def	Read2_5digit	D0112	Transcobalamin II deficiency
+b12_def	Read2_5digit	D011X	Vitamin B12 deficiency anaemia, unspecified
+b12_def	Read2_5digit	D011z	Other vitamin B12 deficiency anaemia NOS
+b12_def	Read2_5digit	D0130	Combined B12 and folate deficiency anaemia
+b12_def	Read2_5digit	Dyu01	[X]Other dietary vitamin B12 deficiency anaemia
+b12_def	Read2_5digit	Dyu02	[X]Other vitamin B12 deficiency anaemias
+b12_def	Read2_5digit	Dyu06	[X]Vitamin B12 deficiency anaemia, unspecified
+b12_def	Read2_5digit	F11x6	Cerebral degeneration due to vitamin B12 deficiency
+b12_def	Read2_5digit	F162.	Subacute combined degeneration of spinal cord
+b12_def	Read2_5digit	F3815	Myasthenic syndrome due to pernicious anaemia
+b12_def	CTV3_5digit	1452.	H/O: Anaemia vit.B12 deficient
+b12_def	CTV3_5digit	66E..	B12 deficiency monitoring
+b12_def	CTV3_5digit	66E1.	B12 deficiency initial assessment
+b12_def	CTV3_5digit	66E2.	B12 deficiency follow-up assessment
+b12_def	CTV3_5digit	66E3.	B12 injections started
+b12_def	CTV3_5digit	66E4.	B12 injections - at home
+b12_def	CTV3_5digit	66E5.	B12 injections - at surgery
+b12_def	CTV3_5digit	66E6.	Reticulcytosis after B12
+b12_def	CTV3_5digit	66E7.	B12 deficiency - dubious diagnostic criteria
+b12_def	CTV3_5digit	66E8.	B12 injections stopped
+b12_def	CTV3_5digit	66EZ.	B12 deficiency monitoring NOS
+b12_def	CTV3_5digit	C2621	Vitamin B12 deficiency
+b12_def	CTV3_5digit	XE2ro	Pernicious anaemia
+b12_def	CTV3_5digit	X20CD	Biermer's congenital pernicious anaemia
+b12_def	CTV3_5digit	X20CC	Congenital deficiency of intrinsic factor
+b12_def	CTV3_5digit	XE13g	Other vitamin B12 deficiency anaemias
+b12_def	CTV3_5digit	Xa9Aw	Vitamin B12-deficient megaloblastic anaemia
+b12_def	CTV3_5digit	XE13h	Vitamin B12 deficiency anaemia due to dietary causes
+b12_def	CTV3_5digit	X20CE	Selective malabsorption of cyanocobalamin
+b12_def	CTV3_5digit	X20CB	Vegan's anaemia
+b12_def	CTV3_5digit	D0111	Vitamin B12 deficiency anaemia due to malabsorption with proteinuria
+b12_def	CTV3_5digit	X40SU	Transcobalamin II deficiency
+b12_def	CTV3_5digit	Dyu06	[X]Vitamin B12 deficiency anaemia, unspecified
+b12_def	CTV3_5digit	D011z	Other vitamin B12 deficiency anaemia NOS
+b12_def	CTV3_5digit	D0130	Combined B12 and folate deficiency anaemia
+b12_def	CTV3_5digit	Dyu01	[X]Other dietary vitamin B12 deficiency anaemia
+b12_def	CTV3_5digit	Dyu02	[X]Other vitamin B12 deficiency anaemias
+b12_def	CTV3_5digit	F11x6	Cerebral degeneration due to vitamin B12 deficiency
+b12_def	CTV3_5digit	F162.	Subacute combined degeneration
+b12_def	CTV3_5digit	F3815	Myasthenic syndrome due to pernicious anaemia

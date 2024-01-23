@@ -1,0 +1,747 @@
+condition	vocab_id	code	description
+epilepsy	ICD10	G40	Epilepsy
+epilepsy	ICD10	G41	Status epilepticus
+epilepsy	Read2	1473.00	H/O: epilepsy
+epilepsy	Read2	1B1W.00	Transient epileptic amnesia
+epilepsy	Read2	1O30.00	Epilepsy confirmed
+epilepsy	Read2	2126000	Epilepsy resolved
+epilepsy	Read2	212J.00	Epilepsy resolved
+epilepsy	Read2	6110.00	Contraceptive advice for patients with epilepsy
+epilepsy	Read2	667..00	Epilepsy monitoring
+epilepsy	Read2	6674.00	Epilepsy associated problems
+epilepsy	Read2	6677.00	Epilepsy drug side effects
+epilepsy	Read2	6678.00	Epilepsy treatment changed
+epilepsy	Read2	6679.00	Epilepsy treatment started
+epilepsy	Read2	667A.00	Epilepsy treatment stopped
+epilepsy	Read2	667B.00	Nocturnal epilepsy
+epilepsy	Read2	667C.00	Epilepsy control good
+epilepsy	Read2	667D.00	Epilepsy control poor
+epilepsy	Read2	667E.00	Epilepsy care arrangement
+epilepsy	Read2	667F.00	Seizure free >12 months
+epilepsy	Read2	667G.00	Epilepsy restricts employment
+epilepsy	Read2	667H.00	Epilepsy prevents employment
+epilepsy	Read2	667J.00	Epilepsy impairs education
+epilepsy	Read2	667K.00	Epilepsy limits activities
+epilepsy	Read2	667L.00	Epilepsy does not limit activities
+epilepsy	Read2	667M.00	Epilepsy management plan given
+epilepsy	Read2	667N.00	Epilepsy severity
+epilepsy	Read2	667P.00	No seizures on treatment
+epilepsy	Read2	667Q.00	1 to 12 seizures a year
+epilepsy	Read2	667R.00	2 to 4 seizures a month
+epilepsy	Read2	667S.00	1 to 7 seizures a week
+epilepsy	Read2	667T.00	Daily seizures
+epilepsy	Read2	667V.00	Many seizures a day
+epilepsy	Read2	667W.00	Emergency epilepsy treatment since last appointment
+epilepsy	Read2	667X.00	No epilepsy drug side effects
+epilepsy	Read2	667Z.00	Epilepsy monitoring NOS
+epilepsy	Read2	67AF.00	Pregnancy advice for patients with epilepsy
+epilepsy	Read2	67IJ000	Pre-conception advice for patients with epilepsy
+epilepsy	Read2	8BIF.00	Epilepsy medication review
+epilepsy	Read2	9Of3.00	Epilepsy monitoring verbal invite
+epilepsy	Read2	9Of4.00	Epilepsy monitoring telephone invite
+epilepsy	Read2	9Of5.00	Epilepsy monitoring call first letter
+epilepsy	Read2	9Of6.00	Epilepsy monitoring call second letter
+epilepsy	Read2	9Of7.00	Epilepsy monitoring call third letter
+epilepsy	Read2	Eu05212	[X]Schizophrenia-like psychosis in epilepsy
+epilepsy	Read2	Eu05y11	[X]Epileptic psychosis NOS
+epilepsy	Read2	Eu06013	[X]Limbic epilepsy personality
+epilepsy	Read2	Eu80300	[X]Acquired aphasia with epilepsy [Landau - Kleffner]
+epilepsy	Read2	F132100	Progressive myoclonic epilepsy
+epilepsy	Read2	F132111	Unverricht - Lundborg disease
+epilepsy	Read2	F132200	Myoclonic encephalopathy
+epilepsy	Read2	F142200	Dyssynergia cerebellaris myoclonica
+epilepsy	Read2	F25..00	Epilepsy
+epilepsy	Read2	F250.00	Generalised nonconvulsive epilepsy
+epilepsy	Read2	F250000	Petit mal (minor) epilepsy
+epilepsy	Read2	F250011	Epileptic absences
+epilepsy	Read2	F250100	Pykno-epilepsy
+epilepsy	Read2	F250200	Epileptic seizures - atonic
+epilepsy	Read2	F250300	Epileptic seizures - akinetic
+epilepsy	Read2	F250400	Juvenile absence epilepsy
+epilepsy	Read2	F250500	Lennox-Gastaut syndrome
+epilepsy	Read2	F250y00	Other specified generalised nonconvulsive epilepsy
+epilepsy	Read2	F250z00	Generalised nonconvulsive epilepsy NOS
+epilepsy	Read2	F251.00	Generalised convulsive epilepsy
+epilepsy	Read2	F251000	Grand mal (major) epilepsy
+epilepsy	Read2	F251011	Tonic-clonic epilepsy
+epilepsy	Read2	F251100	Neonatal myoclonic epilepsy
+epilepsy	Read2	F251111	Otohara syndrome
+epilepsy	Read2	F251200	Epileptic seizures - clonic
+epilepsy	Read2	F251300	Epileptic seizures - myoclonic
+epilepsy	Read2	F251400	Epileptic seizures - tonic
+epilepsy	Read2	F251500	Tonic-clonic epilepsy
+epilepsy	Read2	F251y00	Other specified generalised convulsive epilepsy
+epilepsy	Read2	F251z00	Generalised convulsive epilepsy NOS
+epilepsy	Read2	F252.00	Petit mal status
+epilepsy	Read2	F253.00	Grand mal status
+epilepsy	Read2	F253.11	Status epilepticus
+epilepsy	Read2	F254.00	Partial epilepsy with impairment of consciousness
+epilepsy	Read2	F254000	Temporal lobe epilepsy
+epilepsy	Read2	F254100	Psychomotor epilepsy
+epilepsy	Read2	F254200	Psychosensory epilepsy
+epilepsy	Read2	F254300	Limbic system epilepsy
+epilepsy	Read2	F254400	Epileptic automatism
+epilepsy	Read2	F254500	Complex partial epileptic seizure
+epilepsy	Read2	F254z00	Partial epilepsy with impairment of consciousness NOS
+epilepsy	Read2	F255.00	Partial epilepsy without mention of impairment of consciousness
+epilepsy	Read2	F255000	Jacksonian, focal or motor epilepsy
+epilepsy	Read2	F255011	Focal epilepsy
+epilepsy	Read2	F255012	Motor epilepsy
+epilepsy	Read2	F255100	Sensory induced epilepsy
+epilepsy	Read2	F255200	Somatosensory epilepsy
+epilepsy	Read2	F255300	Visceral reflex epilepsy
+epilepsy	Read2	F255311	Partial epilepsy with autonomic symptoms
+epilepsy	Read2	F255400	Visual reflex epilepsy
+epilepsy	Read2	F255500	Unilateral epilepsy
+epilepsy	Read2	F255600	Simple partial epileptic seizure
+epilepsy	Read2	F255y00	Other specified partial epilepsy without mention of impairment of consciousness
+epilepsy	Read2	F255z00	Partial epilepsy without mention of impairment of consciousness NOS
+epilepsy	Read2	F256.00	Infantile spasms
+epilepsy	Read2	F256.11	Lightning spasms
+epilepsy	Read2	F256.12	West syndrome
+epilepsy	Read2	F256000	Hypsarrhythmia
+epilepsy	Read2	F256100	Salaam attacks
+epilepsy	Read2	F256z00	Infantile spasms NOS
+epilepsy	Read2	F257.00	Kojevnikov's epilepsy
+epilepsy	Read2	F258.00	Post-ictal state
+epilepsy	Read2	F259.00	Early infantile epileptic encephalopathy with suppression bursts
+epilepsy	Read2	F259.11	Ohtahara syndrome
+epilepsy	Read2	F25A.00	Juvenile myoclonic epilepsy
+epilepsy	Read2	F25B.00	Alcohol-induced epilepsy
+epilepsy	Read2	F25C.00	Drug-induced epilepsy
+epilepsy	Read2	F25D.00	Menstrual epilepsy
+epilepsy	Read2	F25E.00	Stress-induced epilepsy
+epilepsy	Read2	F25F.00	Photosensitive epilepsy
+epilepsy	Read2	F25G.00	Severe myoclonic epilepsy in infancy
+epilepsy	Read2	F25G.11	Dravet syndrome
+epilepsy	Read2	F25X.00	Status epilepticus, unspecified
+epilepsy	Read2	F25y.00	Other forms of epilepsy
+epilepsy	Read2	F25y000	Cursive (running) epilepsy
+epilepsy	Read2	F25y100	Gelastic epilepsy
+epilepsy	Read2	F25y200	Localization-related(focal)(partial)idiopathic epilepsy and epileptic syndromes with seizures of localised onset
+epilepsy	Read2	F25y300	Complex partial status epilepticus
+epilepsy	Read2	F25y400	Benign Rolandic epilepsy
+epilepsy	Read2	F25y500	Panayiotopoulos syndrome
+epilepsy	Read2	F25yz00	Other forms of epilepsy NOS
+epilepsy	Read2	F25z.00	Epilepsy NOS
+epilepsy	Read2	F25z.11	Fit (in known epileptic) NOS
+epilepsy	Read2	Fyu5000	[X]Other generalized epilepsy and epileptic syndromes
+epilepsy	Read2	Fyu5100	[X]Other epilepsy
+epilepsy	Read2	Fyu5200	[X]Other status epilepticus
+epilepsy	Read2	Fyu5900	[X]Status epilepticus, unspecified
+epilepsy	CTV3	1473.Ya04Q	H/O: epilepsy
+epilepsy	CTV3	XaIt0YalcW	Transient epileptic amnesia
+epilepsy	CTV3	XaJBnYam9c	Epilepsy confirmed
+epilepsy	CTV3	21260YaXyY	Epilepsy resolved
+epilepsy	CTV3	XaRFVYatjl	Contraceptive advice for patients with epilepsy
+epilepsy	CTV3	667..Y79Xi	Epilepsy monitoring
+epilepsy	CTV3	6674.Y7A0W	Epilepsy associated problems
+epilepsy	CTV3	6677.Y7A0Z	Epilepsy drug side effects
+epilepsy	CTV3	6678.Y79Xl	Epilepsy treatment changed
+epilepsy	CTV3	6679.Y79Xm	Epilepsy treatment started
+epilepsy	CTV3	667A.Y79Xn	Epilepsy treatment stopped
+epilepsy	CTV3	X006xY00PQ	Nocturnal epilepsy
+epilepsy	CTV3	XaFjhYagpF	Epilepsy control good
+epilepsy	CTV3	XaFjiYagpG	Epilepsy control poor
+epilepsy	CTV3	XaIu1YaleD	Epilepsy care arrangement
+epilepsy	CTV3	XaJ7sYam5B	Seizure free >12 months
+epilepsy	CTV3	XaJB4Yam8j	Epilepsy restricts employment
+epilepsy	CTV3	XaJB5Yam8k	Epilepsy prevents employment
+epilepsy	CTV3	XaJB6Yam8m	Epilepsy impairs education
+epilepsy	CTV3	XaJBYYam9K	Epilepsy limits activities
+epilepsy	CTV3	XaJBZYam9L	Epilepsy does not limit activities
+epilepsy	CTV3	XaJBaYam9N	Epilepsy management plan given
+epilepsy	CTV3	XaJBbYam9O	Epilepsy severity
+epilepsy	CTV3	XaJBcYam9P	No seizures on treatment
+epilepsy	CTV3	XaJBdYam9Q	1 to 12 seizures a year
+epilepsy	CTV3	XaJBeYam9R	2 to 4 seizures a month
+epilepsy	CTV3	XaJBfYam9S	1 to 7 seizures a week
+epilepsy	CTV3	XaJBgYam9T	Daily seizures
+epilepsy	CTV3	XaJBhYam9U	Many seizures a day
+epilepsy	CTV3	XaJBiYam9V	Emergency epilepsy treatment since last appointment
+epilepsy	CTV3	XaJtHYan2E	No epilepsy drug side effects
+epilepsy	CTV3	667Z.Y79Xo	Epilepsy monitoring NOS
+epilepsy	CTV3	XaRFXYatjn	Pregnancy advice for patients with epilepsy
+epilepsy	CTV3	XaRFWYatjm	Pre-conception advice for patients with epilepsy
+epilepsy	CTV3	XaIyVYalsw	Epilepsy medication review
+epilepsy	CTV3	XaKbyYanwI	Epilepsy monitoring verbal invite
+epilepsy	CTV3	XaMFqYapQ0	Epilepsy monitoring telephone invite
+epilepsy	CTV3	XaLMoYaoRw	Epilepsy monitoring call first letter
+epilepsy	CTV3	XaLMpYaoRx	Epilepsy monitoring call second letter
+epilepsy	CTV3	XaLMqYaoRy	Epilepsy monitoring call third letter
+epilepsy	CTV3	E03y0Y017j	Organic delusional disorder
+epilepsy	CTV3	E03y0Y017l	Paranoid organic state
+epilepsy	CTV3	XE1Z9YMB1H	[X]Other specified mental disorder due to brain damage and dysfunction and to physical disease
+epilepsy	CTV3	E2A1.Y0187	Organic personality disorder
+epilepsy	CTV3	X006oY00P8	Acquired epileptic aphasia
+epilepsy	CTV3	X006oY00P9	Landau-Kleffner syndrome
+epilepsy	CTV3	XE15IY00Od	Progressive myoclonic epilepsy
+epilepsy	CTV3	X006VY00Oe	Unverricht-Lundborg syndrome
+epilepsy	CTV3	X006VY00Of	Baltic myoclonus epilepsy
+epilepsy	CTV3	F1322YM0kU	Myoclonic encephalopathy
+epilepsy	CTV3	F1422Y00FS	Dyssynergia cerebellaris myoclonica
+epilepsy	CTV3	F25..Y00Mo	Epilepsy
+epilepsy	CTV3	F250.YadVA	Generalised non-convulsive epilepsy
+epilepsy	CTV3	F2500Y00O7	Childhood absence epilepsy
+epilepsy	CTV3	XaQbJYMIHc	Petit mal (minor) epilepsy
+epilepsy	CTV3	F2500Y00O8	Epileptic absences
+epilepsy	CTV3	XaQbJY00OB	Petit-mal epilepsy
+epilepsy	CTV3	F2500Y00OA	Pykno-epilepsy
+epilepsy	CTV3	XaRGSY00OA	Pykno-epilepsy
+epilepsy	CTV3	F2502YM0kl	Epileptic seizures - atonic
+epilepsy	CTV3	F2503YM0km	Epileptic seizures - akinetic
+epilepsy	CTV3	X006KY00OD	Juvenile absence epilepsy
+epilepsy	CTV3	X006QY00OV	Lennox-Gastaut syndrome
+epilepsy	CTV3	F250yYadV9	Other specified generalised non-convulsive epilepsy
+epilepsy	CTV3	F250zYadV8	Generalised non-convulsive epilepsy NOS
+epilepsy	CTV3	F251.Y00Nu	Generalised convulsive epilepsy
+epilepsy	CTV3	F2510Y00Np	Generalised epilepsy
+epilepsy	CTV3	F2510YMKqI	Grand mal epilepsy
+epilepsy	CTV3	F2510YM1lI	Tonic-clonic epilepsy
+epilepsy	CTV3	F2511Y00O4	Neonatal myoclonic epilepsy
+epilepsy	CTV3	F2511Y00O3	Benign myoclonic epilepsy in infancy
+epilepsy	CTV3	F2512YM0kn	Epileptic seizures - clonic
+epilepsy	CTV3	F2513YM0ko	Epileptic seizures - myoclonic
+epilepsy	CTV3	F2514YM0kp	Epileptic seizures - tonic
+epilepsy	CTV3	F251yY00Nv	Other specified generalised convulsive epilepsy
+epilepsy	CTV3	F251zY00Nw	Generalised convulsive epilepsy NOS
+epilepsy	CTV3	F252.Y00Po	Non-convulsive status epilepticus with impaired consciousness
+epilepsy	CTV3	F252.Y00Pp	Petit-mal status
+epilepsy	CTV3	XE15YY00Pn	Grand mal status
+epilepsy	CTV3	X007BY00Pl	Status epilepticus
+epilepsy	CTV3	F254.Y00Mw	Partial epilepsy with impairment of consciousness
+epilepsy	CTV3	F2540Y00NN	Temporal lobe epilepsy
+epilepsy	CTV3	XaB4TY00NO	Psychomotor epilepsy
+epilepsy	CTV3	F2542YM0kq	Psychosensory epilepsy
+epilepsy	CTV3	F2543Y00NR	Mesiobasal limbic epilepsy
+epilepsy	CTV3	F2544YM0kr	Epileptic automatism
+epilepsy	CTV3	XaJFIYamDc	Complex partial epileptic seizure
+epilepsy	CTV3	F254zY00Mx	Partial epilepsy with impairment of consciousness NOS
+epilepsy	CTV3	F255.Y00My	Partial epilepsy without mention of impairment of consciousness
+epilepsy	CTV3	XaB4SY00Ne	Jacksonian, focal or motor epilepsy
+epilepsy	CTV3	X005mY00N3	Focal epilepsy
+epilepsy	CTV3	XaB4RY00Nd	Motor epilepsy
+epilepsy	CTV3	F2551Y00PG	Epilepsy associated with specific stimuli
+epilepsy	CTV3	F2551YadSA	Sensory-induced epilepsy
+epilepsy	CTV3	F2552YM0ks	Somatosensory epilepsy
+epilepsy	CTV3	F2553YM1k8	Visceral reflex epilepsy
+epilepsy	CTV3	F2553Y00Mz	Partial epilepsy with autonomic symptoms
+epilepsy	CTV3	F2554YM0kt	Visual reflex epilepsy
+epilepsy	CTV3	F2555YM0ku	Unilateral epilepsy
+epilepsy	CTV3	XaL2BYao7x	Simple partial epileptic seizure
+epilepsy	CTV3	F255yY00N0	Other specified partial epilepsy without mention of impairment of consciousness
+epilepsy	CTV3	F255zY00N1	Partial epilepsy without mention of impairment of consciousness NOS
+epilepsy	CTV3	F256.Y00OP	Infantile spasms
+epilepsy	CTV3	F256.YM1kr	Lightning spasms
+epilepsy	CTV3	F256.Y00OM	West syndrome
+epilepsy	CTV3	F256.Y00OO	Hypsarrhythmia
+epilepsy	CTV3	F256.Y7CCk	Salaam attack
+epilepsy	CTV3	F256zY00OS	Infantile spasms NOS
+epilepsy	CTV3	F257.Ya25j	Kojevnikov's epilepsy
+epilepsy	CTV3	Xa3DvYMK3F	Post-ictal state
+epilepsy	CTV3	X006eY00Oq	Early infantile epileptic encephalopathy with suppression bursts
+epilepsy	CTV3	X006eY00Or	Ohtahara syndrome
+epilepsy	CTV3	X006LY00OE	Juvenile myoclonic epilepsy
+epilepsy	CTV3	X006uY00PK	Alcohol-induced epilepsy
+epilepsy	CTV3	X006tY00PJ	Drug-induced epilepsy
+epilepsy	CTV3	X006wY00PN	Menstrual epilepsy
+epilepsy	CTV3	XaJgPYamlB	Stress-induced epilepsy
+epilepsy	CTV3	X006yY00PR	Photosensitive epilepsy
+epilepsy	CTV3	X006nY00P7	Severe myoclonic epilepsy in infancy
+epilepsy	CTV3	X006nYaveS	Dravet syndrome
+epilepsy	CTV3	Fyu59YMADZ	[X]Status epilepticus, unspecified
+epilepsy	CTV3	F25y.Y00Mt	Other forms of epilepsy
+epilepsy	CTV3	F25y0YM0kv	Cursive (running) epilepsy
+epilepsy	CTV3	F25y1YM0j3	Gelastic epilepsy
+epilepsy	CTV3	F25y2YMAhV	Localization-related(focal)(partial)idiopathic epilepsy and epileptic syndromes with seizures of localised onset
+epilepsy	CTV3	X007GY00Q0	Complex partial status epilepticus
+epilepsy	CTV3	X005oY00N8	Benign Rolandic epilepsy
+epilepsy	CTV3	XaOZGYar4S	Panayiotopoulos syndrome
+epilepsy	CTV3	F25yzY00Mu	Other forms of epilepsy NOS
+epilepsy	CTV3	XE15aY00Ms	Epilepsy NOS
+epilepsy	CTV3	XaC34Y00Mr	Fit (in known epileptic) NOS
+epilepsy	CTV3	Fyu50Yadae	[X]Other generalised epilepsy and epileptic syndromes
+epilepsy	CTV3	Fyu51YMADR	[X]Other epilepsy
+epilepsy	CTV3	Fyu52YMADS	[X]Other status epilepticus
+epilepsy	medcodeid	11300012	Juvenile myoclonic epilepsy
+epilepsy	medcodeid	23819016	Grand mal status
+epilepsy	medcodeid	46970012	Hypsarrhythmia
+epilepsy	medcodeid	46972016	Lightning spasms
+epilepsy	medcodeid	148427014	Gelastic epilepsy
+epilepsy	medcodeid	251644018	H/O: epilepsy
+epilepsy	medcodeid	253531010	Epilepsy resolved
+epilepsy	medcodeid	264629018	Epilepsy monitoring
+epilepsy	medcodeid	264634019	Epilepsy associated problems
+epilepsy	medcodeid	297267013	Epileptic seizures - akinetic
+epilepsy	medcodeid	297281010	Neonatal myoclonic epilepsy
+epilepsy	medcodeid	297282015	Epileptic seizures - clonic
+epilepsy	medcodeid	297284019	Epileptic seizures - tonic
+epilepsy	medcodeid	297295013	Partial epilepsy with impairment of consciousness
+epilepsy	medcodeid	297321010	Kojevnikov's epilepsy
+epilepsy	medcodeid	297325018	Cursive (running) epilepsy
+epilepsy	medcodeid	345275015	Juvenile absence epilepsy
+epilepsy	medcodeid	345318014	Drug-induced epilepsy
+epilepsy	medcodeid	345321011	Menstrual epilepsy
+epilepsy	medcodeid	345345010	Complex partial status epilepticus
+epilepsy	medcodeid	450602015	Motor epilepsy
+epilepsy	medcodeid	459233015	Epilepsy control good
+epilepsy	medcodeid	459234014	Epilepsy control poor
+epilepsy	medcodeid	478024019	Alcohol-induced epilepsy
+epilepsy	medcodeid	512000013	Photosensitive epilepsy
+epilepsy	medcodeid	1489345013	Transient epileptic amnesia
+epilepsy	medcodeid	1780267013	Epilepsy medication review
+epilepsy	medcodeid	1780375016	Epilepsy care arrangement
+epilepsy	medcodeid	2159216019	Epilepsy severity
+epilepsy	medcodeid	2159217011	No seizures on treatment
+epilepsy	medcodeid	2159220015	1 to 7 seizures a week
+epilepsy	medcodeid	2159221016	Daily seizures
+epilepsy	medcodeid	2159227017	Epilepsy confirmed
+epilepsy	medcodeid	2159274014	Complex partial epileptic seizure
+epilepsy	medcodeid	2474650018	Stress-induced epilepsy
+epilepsy	medcodeid	2533403014	No epilepsy drug side effects
+epilepsy	medcodeid	2548491016	Epilepsy monitoring verbal invite
+epilepsy	medcodeid	141991000000116	Epilepsy prevents employment
+epilepsy	medcodeid	142041000000115	Epilepsy does not limit activities
+epilepsy	medcodeid	142051000000117	Epilepsy management plan given
+epilepsy	medcodeid	301541000000116	Simple partial epileptic seizure
+epilepsy	medcodeid	307881000000116	Epilepsy monitoring call second letter
+epilepsy	medcodeid	406781000000119	Epilepsy monitoring telephone invite
+epilepsy	medcodeid	632721000000111	Panayiotopoulos syndrome
+epilepsy	medcodeid	1176071000000111	Pregnancy advice for patients with epilepsy
+epilepsy	medcodeid	2193821000000118	Dravet syndrome
+epilepsy	medcodeid	23820010	Status epilepticus
+epilepsy	medcodeid	46971011	Salaam attacks
+epilepsy	medcodeid	297290015	Generalised convulsive epilepsy NOS
+epilepsy	medcodeid	297303012	Partial epilepsy with impairment of consciousness NOS
+epilepsy	medcodeid	297324019	Other forms of epilepsy
+epilepsy	medcodeid	299334015	[X]Other generalized epilepsy and epileptic syndromes
+epilepsy	medcodeid	299345017	[X]Status epilepticus, unspecified
+epilepsy	medcodeid	453344019	Fit (in known epileptic) NOS
+epilepsy	medcodeid	472410017	Tonic-clonic epilepsy
+epilepsy	medcodeid	72751000006116	Unverricht - Lundborg disease
+epilepsy	medcodeid	125721000006111	Status epilepticus, unspecified
+epilepsy	medcodeid	148591000006114	Sensory induced epilepsy
+epilepsy	medcodeid	223811000000118	Grand mal (major) epilepsy
+epilepsy	medcodeid	245341000006117	Partial epilepsy without impairment of consciousness
+epilepsy	medcodeid	245361000006118	Partial epilepsy without impairment of consciousness OS
+epilepsy	medcodeid	253231000006116	Otohara syndrome
+epilepsy	medcodeid	362161000006110	[X]Acquired aphasia with epilepsy [Landau - Kleffner]
+epilepsy	medcodeid	379901000006113	[X]Epileptic psychosis NOS
+epilepsy	medcodeid	395221000006119	[X]Limbic epilepsy personality
+epilepsy	medcodeid	425631000006118	[X]Schizophrenia-like psychosis in epilepsy
+epilepsy	medcodeid	743461000006119	Limbic system epilepsy
+epilepsy	medcodeid	299337010	[X]Other status epilepticus
+epilepsy	medcodeid	297320011	Infantile spasms NOS
+epilepsy	medcodeid	2550890017	Generalised nonconvulsive epilepsy
+epilepsy	medcodeid	299336018	[X]Other epilepsy
+epilepsy	medcodeid	12602012	Petit mal status
+epilepsy	medcodeid	307861000000113	Epilepsy monitoring call first letter
+epilepsy	medcodeid	307901000000118	Epilepsy monitoring call third letter
+epilepsy	medcodeid	500033015	Generalised convulsive epilepsy
+epilepsy	medcodeid	345323014	Nocturnal epilepsy
+epilepsy	medcodeid	297283013	Epileptic seizures - myoclonic
+epilepsy	medcodeid	297296014	Temporal lobe epilepsy
+epilepsy	medcodeid	297300010	Psychosensory epilepsy
+epilepsy	medcodeid	297311019	Somatosensory epilepsy
+epilepsy	medcodeid	73622018	Benign Rolandic epilepsy
+epilepsy	medcodeid	800721000006115	Generalised nonconvulsive epilepsy NOS
+epilepsy	medcodeid	647261000006115	Epilepsy resolved
+epilepsy	medcodeid	399408014	Epilepsy NOS
+epilepsy	medcodeid	137801000000112	Epilepsy limits activities
+epilepsy	medcodeid	2159218018	1 to 12 seizures a year
+epilepsy	medcodeid	2159219014	2 to 4 seizures a month
+epilepsy	medcodeid	2159222011	Many seizures a day
+epilepsy	medcodeid	477355017	Psychomotor epilepsy
+epilepsy	medcodeid	450603013	Jacksonian, focal or motor epilepsy
+epilepsy	medcodeid	345281011	Lennox-Gastaut syndrome
+epilepsy	medcodeid	345311015	Severe myoclonic epilepsy in infancy
+epilepsy	medcodeid	297107018	Dyssynergia cerebellaris myoclonica
+epilepsy	medcodeid	297266016	Epileptic seizures - atonic
+epilepsy	medcodeid	264638016	Epilepsy treatment changed
+epilepsy	medcodeid	264639012	Epilepsy treatment started
+epilepsy	medcodeid	264640014	Epilepsy treatment stopped
+epilepsy	medcodeid	736371000006112	Locl-rlt(foc)(part)idiop epilep&epilptic syn seiz locl onset
+epilepsy	medcodeid	264637014	Epilepsy drug side effects
+epilepsy	medcodeid	1175991000000119	Contraceptive advice for patients with epilepsy
+epilepsy	medcodeid	141981000000118	Epilepsy restricts employment
+epilepsy	medcodeid	154851000000115	Epilepsy impairs education
+epilepsy	medcodeid	2159223018	Emergency epilepsy treatment since last appointment
+epilepsy	medcodeid	399395015	Progressive myoclonic epilepsy
+epilepsy	medcodeid	345302015	Ohtahara syndrome
+epilepsy	medcodeid	297060016	Myoclonic encephalopathy
+epilepsy	medcodeid	297302019	Epileptic automatism
+epilepsy	medcodeid	297314010	Visual reflex epilepsy
+epilepsy	medcodeid	178739011	Epilepsy
+epilepsy	medcodeid	647301000006112	Epileptic absences
+epilepsy	medcodeid	930341000006113	Seizure free >12 months
+epilepsy	medcodeid	297289012	Other specified generalised convulsive epilepsy
+epilepsy	medcodeid	1176031000000114	Pre-conception advice for patients with epilepsy
+epilepsy	medcodeid	230321000006117	Petit mal (minor) epilepsy
+epilepsy	medcodeid	485041012	Post-ictal state
+epilepsy	medcodeid	495804010	Pykno-epilepsy
+epilepsy	medcodeid	345225017	Focal epilepsy
+epilepsy	medcodeid	297312014	Partial epilepsy with autonomic symptoms
+epilepsy	medcodeid	297313016	Visceral reflex epilepsy
+epilepsy	medcodeid	297315011	Unilateral epilepsy
+epilepsy	medcodeid	46968015	West syndrome
+epilepsy	medcodeid	931711000006118	Early infant epileptic encephalopathy wth suppression bursts
+epilepsy	medcodeid	46969011	Infantile spasms
+epilepsy	medcodeid	264645016	Epilepsy monitoring NOS
+epilepsy	medcodeid	297330019	Other forms of epilepsy NOS
+epilepsy	medcodeid	103531000006110	Tonic-clonic epilepsy
+epilepsy	medcodeid	245351000006115	Partial epilepsy without impairment of consciousness NOS
+epilepsy	medcodeid	10791000006116	Other specified generalised nonconvulsive epilepsy
+epilepsy	SNOMEDCT	6204001	Juvenile myoclonic epilepsy
+epilepsy	SNOMEDCT	13973009	Grand mal status
+epilepsy	SNOMEDCT	28055006	Hypsarrhythmia
+epilepsy	SNOMEDCT	28055006	Lightning spasms
+epilepsy	SNOMEDCT	89525009	Gelastic epilepsy
+epilepsy	SNOMEDCT	161480008	H/O: epilepsy
+epilepsy	SNOMEDCT	162658001	Epilepsy resolved
+epilepsy	SNOMEDCT	170702005	Epilepsy monitoring
+epilepsy	SNOMEDCT	170706008	Epilepsy associated problems
+epilepsy	SNOMEDCT	192982004	Epileptic seizures - akinetic
+epilepsy	SNOMEDCT	192990004	Neonatal myoclonic epilepsy
+epilepsy	SNOMEDCT	192991000	Epileptic seizures - clonic
+epilepsy	SNOMEDCT	192993002	Epileptic seizures - tonic
+epilepsy	SNOMEDCT	192999003	Partial epilepsy with impairment of consciousness
+epilepsy	SNOMEDCT	241006	Kojevnikov's epilepsy
+epilepsy	SNOMEDCT	193021002	Cursive (running) epilepsy
+epilepsy	SNOMEDCT	230413002	Juvenile absence epilepsy
+epilepsy	SNOMEDCT	230441003	Drug-induced epilepsy
+epilepsy	SNOMEDCT	230444006	Menstrual epilepsy
+epilepsy	SNOMEDCT	230460005	Complex partial status epilepticus
+epilepsy	SNOMEDCT	307356008	Motor epilepsy
+epilepsy	SNOMEDCT	314827004	Epilepsy control good
+epilepsy	SNOMEDCT	314828009	Epilepsy control poor
+epilepsy	SNOMEDCT	361268000	Alcohol-induced epilepsy
+epilepsy	SNOMEDCT	95208000	Photosensitive epilepsy
+epilepsy	SNOMEDCT	395689002	Transient epileptic amnesia
+epilepsy	SNOMEDCT	401062003	Epilepsy medication review
+epilepsy	SNOMEDCT	401178003	Epilepsy care arrangement
+epilepsy	SNOMEDCT	407616001	Epilepsy severity
+epilepsy	SNOMEDCT	407617005	No seizures on treatment
+epilepsy	SNOMEDCT	407620002	1 to 7 seizures a week
+epilepsy	SNOMEDCT	407621003	Daily seizures
+epilepsy	SNOMEDCT	407627004	Epilepsy confirmed
+epilepsy	SNOMEDCT	407675009	Complex partial epileptic seizure
+epilepsy	SNOMEDCT	413101007	Stress-induced epilepsy
+epilepsy	SNOMEDCT	414860000	No epilepsy drug side effects
+epilepsy	SNOMEDCT	416090009	Epilepsy monitoring verbal invite
+epilepsy	SNOMEDCT	93151000000108	Epilepsy prevents employment
+epilepsy	SNOMEDCT	93211000000101	Epilepsy does not limit activities
+epilepsy	SNOMEDCT	840261000000103	Epilepsy management plan given
+epilepsy	SNOMEDCT	199451000000106	Simple partial epileptic seizure
+epilepsy	SNOMEDCT	202071000000100	Epilepsy monitoring call second letter
+epilepsy	SNOMEDCT	248371000000106	Epilepsy monitoring telephone invite
+epilepsy	SNOMEDCT	230387008	Panayiotopoulos syndrome
+epilepsy	SNOMEDCT	526961000000105	Pregnancy advice for patients with epilepsy
+epilepsy	SNOMEDCT	230437002	Dravet syndrome
+epilepsy	SNOMEDCT	230456007	Status epilepticus
+epilepsy	SNOMEDCT	28055006	Salaam attacks
+epilepsy	SNOMEDCT	65120008	Generalised convulsive epilepsy NOS
+epilepsy	SNOMEDCT	192999003	Partial epilepsy with impairment of consciousness NOS
+epilepsy	SNOMEDCT	84757009	Other forms of epilepsy
+epilepsy	SNOMEDCT	84757009	[X]Other generalized epilepsy and epileptic syndromes
+epilepsy	SNOMEDCT	230456007	[X]Status epilepticus, unspecified
+epilepsy	SNOMEDCT	313307000	Fit (in known epileptic) NOS
+epilepsy	SNOMEDCT	352818000	Tonic-clonic epilepsy
+epilepsy	SNOMEDCT	230423006	Unverricht - Lundborg disease
+epilepsy	SNOMEDCT	230456007	Status epilepticus, unspecified
+epilepsy	SNOMEDCT	79745005	Sensory induced epilepsy
+epilepsy	SNOMEDCT	19598007	Grand mal (major) epilepsy
+epilepsy	SNOMEDCT	230381009	Partial epilepsy without impairment of consciousness
+epilepsy	SNOMEDCT	230381009	Partial epilepsy without impairment of consciousness OS
+epilepsy	SNOMEDCT	192990004	Otohara syndrome
+epilepsy	SNOMEDCT	230438007	[X]Acquired aphasia with epilepsy [Landau - Kleffner]
+epilepsy	SNOMEDCT	111479008	[X]Epileptic psychosis NOS
+epilepsy	SNOMEDCT	36217008	[X]Limbic epilepsy personality
+epilepsy	SNOMEDCT	5510009	[X]Schizophrenia-like psychosis in epilepsy
+epilepsy	SNOMEDCT	193003000	Limbic system epilepsy
+epilepsy	SNOMEDCT	230456007	[X]Other status epilepticus
+epilepsy	SNOMEDCT	28055006	Infantile spasms NOS
+epilepsy	SNOMEDCT	192979009	Generalised nonconvulsive epilepsy
+epilepsy	SNOMEDCT	84757009	[X]Other epilepsy
+epilepsy	SNOMEDCT	7033004	Petit mal status
+epilepsy	SNOMEDCT	202061000000107	Epilepsy monitoring call first letter
+epilepsy	SNOMEDCT	202081000000103	Epilepsy monitoring call third letter
+epilepsy	SNOMEDCT	65120008	Generalised convulsive epilepsy
+epilepsy	SNOMEDCT	230445007	Nocturnal epilepsy
+epilepsy	SNOMEDCT	192992007	Epileptic seizures - myoclonic
+epilepsy	SNOMEDCT	193000002	Temporal lobe epilepsy
+epilepsy	SNOMEDCT	193002005	Psychosensory epilepsy
+epilepsy	SNOMEDCT	193008009	Somatosensory epilepsy
+epilepsy	SNOMEDCT	44145005	Benign Rolandic epilepsy
+epilepsy	SNOMEDCT	192979009	Generalised nonconvulsive epilepsy NOS
+epilepsy	SNOMEDCT	84757009	Epilepsy NOS
+epilepsy	SNOMEDCT	88491000000102	Epilepsy limits activities
+epilepsy	SNOMEDCT	407618000	1 to 12 seizures a year
+epilepsy	SNOMEDCT	407619008	2 to 4 seizures a month
+epilepsy	SNOMEDCT	407622005	Many seizures a day
+epilepsy	SNOMEDCT	361123003	Psychomotor epilepsy
+epilepsy	SNOMEDCT	307357004	Jacksonian, focal or motor epilepsy
+epilepsy	SNOMEDCT	230418006	Lennox-Gastaut syndrome
+epilepsy	SNOMEDCT	230437002	Severe myoclonic epilepsy in infancy
+epilepsy	SNOMEDCT	73495003	Dyssynergia cerebellaris myoclonica
+epilepsy	SNOMEDCT	192981006	Epileptic seizures - atonic
+epilepsy	SNOMEDCT	170710006	Epilepsy treatment changed
+epilepsy	SNOMEDCT	170711005	Epilepsy treatment started
+epilepsy	SNOMEDCT	170712003	Epilepsy treatment stopped
+epilepsy	SNOMEDCT	193022009	Locl-rlt(foc)(part)idiop epilep&epilptic syn seiz locl onset
+epilepsy	SNOMEDCT	170709001	Epilepsy drug side effects
+epilepsy	SNOMEDCT	526921000000102	Contraceptive advice for patients with epilepsy
+epilepsy	SNOMEDCT	93141000000105	Epilepsy restricts employment
+epilepsy	SNOMEDCT	108211000000104	Epilepsy impairs education
+epilepsy	SNOMEDCT	407623000	Emergency epilepsy treatment since last appointment
+epilepsy	SNOMEDCT	267581004	Progressive myoclonic epilepsy
+epilepsy	SNOMEDCT	230429005	Ohtahara syndrome
+epilepsy	SNOMEDCT	192845009	Myoclonic encephalopathy
+epilepsy	SNOMEDCT	193004006	Epileptic automatism
+epilepsy	SNOMEDCT	193010006	Visual reflex epilepsy
+epilepsy	SNOMEDCT	84757009	Epilepsy
+epilepsy	SNOMEDCT	509341000000107	Epileptic absences
+epilepsy	SNOMEDCT	407585000	Seizure free >12 months
+epilepsy	SNOMEDCT	65120008	Other specified generalised convulsive epilepsy
+epilepsy	SNOMEDCT	526941000000109	Pre-conception advice for patients with epilepsy
+epilepsy	SNOMEDCT	509341000000107	Petit mal (minor) epilepsy
+epilepsy	SNOMEDCT	31758001	Post-ictal state
+epilepsy	SNOMEDCT	50866000	Pykno-epilepsy
+epilepsy	SNOMEDCT	230381009	Focal epilepsy
+epilepsy	SNOMEDCT	193009001	Partial epilepsy with autonomic symptoms
+epilepsy	SNOMEDCT	193009001	Visceral reflex epilepsy
+epilepsy	SNOMEDCT	193011005	Unilateral epilepsy
+epilepsy	SNOMEDCT	28055006	West syndrome
+epilepsy	SNOMEDCT	230429005	Early infant epileptic encephalopathy wth suppression bursts
+epilepsy	SNOMEDCT	28055006	Infantile spasms
+epilepsy	SNOMEDCT	170702005	Epilepsy monitoring NOS
+epilepsy	SNOMEDCT	84757009	Other forms of epilepsy NOS
+epilepsy	SNOMEDCT	230381009	Partial epilepsy without impairment of consciousness NOS
+epilepsy	SNOMEDCT	192979009	Other specified generalised nonconvulsive epilepsy
+epilepsy	Read2_5digit	1473.	H/O: epilepsy
+epilepsy	Read2_5digit	1B1W.	Transient epileptic amnesia
+epilepsy	Read2_5digit	1O30.	Epilepsy confirmed
+epilepsy	Read2_5digit	21260	Epilepsy resolved
+epilepsy	Read2_5digit	212J.	Epilepsy resolved
+epilepsy	Read2_5digit	6110.	Contraceptive advice for patients with epilepsy
+epilepsy	Read2_5digit	667..	Epilepsy monitoring
+epilepsy	Read2_5digit	6674.	Epilepsy associated problems
+epilepsy	Read2_5digit	6677.	Epilepsy drug side effects
+epilepsy	Read2_5digit	6678.	Epilepsy treatment changed
+epilepsy	Read2_5digit	6679.	Epilepsy treatment started
+epilepsy	Read2_5digit	667A.	Epilepsy treatment stopped
+epilepsy	Read2_5digit	667B.	Nocturnal epilepsy
+epilepsy	Read2_5digit	667C.	Epilepsy control good
+epilepsy	Read2_5digit	667D.	Epilepsy control poor
+epilepsy	Read2_5digit	667E.	Epilepsy care arrangement
+epilepsy	Read2_5digit	667F.	Seizure free >12 months
+epilepsy	Read2_5digit	667G.	Epilepsy restricts employment
+epilepsy	Read2_5digit	667H.	Epilepsy prevents employment
+epilepsy	Read2_5digit	667J.	Epilepsy impairs education
+epilepsy	Read2_5digit	667K.	Epilepsy limits activities
+epilepsy	Read2_5digit	667L.	Epilepsy does not limit activities
+epilepsy	Read2_5digit	667M.	Epilepsy management plan given
+epilepsy	Read2_5digit	667N.	Epilepsy severity
+epilepsy	Read2_5digit	667P.	No seizures on treatment
+epilepsy	Read2_5digit	667Q.	1 to 12 seizures a year
+epilepsy	Read2_5digit	667R.	2 to 4 seizures a month
+epilepsy	Read2_5digit	667S.	1 to 7 seizures a week
+epilepsy	Read2_5digit	667T.	Daily seizures
+epilepsy	Read2_5digit	667V.	Many seizures a day
+epilepsy	Read2_5digit	667W.	Emergency epilepsy treatment since last appointment
+epilepsy	Read2_5digit	667X.	No epilepsy drug side effects
+epilepsy	Read2_5digit	667Z.	Epilepsy monitoring NOS
+epilepsy	Read2_5digit	67AF.	Pregnancy advice for patients with epilepsy
+epilepsy	Read2_5digit	67IJ0	Pre-conception advice for patients with epilepsy
+epilepsy	Read2_5digit	8BIF.	Epilepsy medication review
+epilepsy	Read2_5digit	9Of3.	Epilepsy monitoring verbal invite
+epilepsy	Read2_5digit	9Of4.	Epilepsy monitoring telephone invite
+epilepsy	Read2_5digit	9Of5.	Epilepsy monitoring call first letter
+epilepsy	Read2_5digit	9Of6.	Epilepsy monitoring call second letter
+epilepsy	Read2_5digit	9Of7.	Epilepsy monitoring call third letter
+epilepsy	Read2_5digit	Eu803	[X]Acquired aphasia with epilepsy [Landau - Kleffner]
+epilepsy	Read2_5digit	F1321	Progressive myoclonic epilepsy
+epilepsy	Read2_5digit	F1322	Myoclonic encephalopathy
+epilepsy	Read2_5digit	F1422	Dyssynergia cerebellaris myoclonica
+epilepsy	Read2_5digit	F25..	Epilepsy
+epilepsy	Read2_5digit	F250.	Generalised nonconvulsive epilepsy
+epilepsy	Read2_5digit	F2500	Petit mal (minor) epilepsy
+epilepsy	Read2_5digit	F2501	Pykno-epilepsy
+epilepsy	Read2_5digit	F2502	Epileptic seizures - atonic
+epilepsy	Read2_5digit	F2503	Epileptic seizures - akinetic
+epilepsy	Read2_5digit	F2504	Juvenile absence epilepsy
+epilepsy	Read2_5digit	F2505	Lennox-Gastaut syndrome
+epilepsy	Read2_5digit	F250y	Other specified generalised nonconvulsive epilepsy
+epilepsy	Read2_5digit	F250z	Generalised nonconvulsive epilepsy NOS
+epilepsy	Read2_5digit	F251.	Generalised convulsive epilepsy
+epilepsy	Read2_5digit	F2510	Grand mal (major) epilepsy
+epilepsy	Read2_5digit	F2511	Neonatal myoclonic epilepsy
+epilepsy	Read2_5digit	F2512	Epileptic seizures - clonic
+epilepsy	Read2_5digit	F2513	Epileptic seizures - myoclonic
+epilepsy	Read2_5digit	F2514	Epileptic seizures - tonic
+epilepsy	Read2_5digit	F2515	Tonic-clonic epilepsy
+epilepsy	Read2_5digit	F251y	Other specified generalised convulsive epilepsy
+epilepsy	Read2_5digit	F251z	Generalised convulsive epilepsy NOS
+epilepsy	Read2_5digit	F252.	Petit mal status
+epilepsy	Read2_5digit	F253.	Grand mal status
+epilepsy	Read2_5digit	F254.	Partial epilepsy with impairment of consciousness
+epilepsy	Read2_5digit	F2540	Temporal lobe epilepsy
+epilepsy	Read2_5digit	F2541	Psychomotor epilepsy
+epilepsy	Read2_5digit	F2542	Psychosensory epilepsy
+epilepsy	Read2_5digit	F2543	Limbic system epilepsy
+epilepsy	Read2_5digit	F2544	Epileptic automatism
+epilepsy	Read2_5digit	F2545	Complex partial epileptic seizure
+epilepsy	Read2_5digit	F254z	Partial epilepsy with impairment of consciousness NOS
+epilepsy	Read2_5digit	F255.	Partial epilepsy without mention of impairment of consciousness
+epilepsy	Read2_5digit	F2550	Jacksonian, focal or motor epilepsy
+epilepsy	Read2_5digit	F2551	Sensory induced epilepsy
+epilepsy	Read2_5digit	F2552	Somatosensory epilepsy
+epilepsy	Read2_5digit	F2553	Visceral reflex epilepsy
+epilepsy	Read2_5digit	F2554	Visual reflex epilepsy
+epilepsy	Read2_5digit	F2555	Unilateral epilepsy
+epilepsy	Read2_5digit	F2556	Simple partial epileptic seizure
+epilepsy	Read2_5digit	F255y	Other specified partial epilepsy without mention of impairment of consciousness
+epilepsy	Read2_5digit	F255z	Partial epilepsy without mention of impairment of consciousness NOS
+epilepsy	Read2_5digit	F256.	Infantile spasms
+epilepsy	Read2_5digit	F2560	Hypsarrhythmia
+epilepsy	Read2_5digit	F2561	Salaam attacks
+epilepsy	Read2_5digit	F256z	Infantile spasms NOS
+epilepsy	Read2_5digit	F257.	Kojevnikov's epilepsy
+epilepsy	Read2_5digit	F258.	Post-ictal state
+epilepsy	Read2_5digit	F259.	Early infantile epileptic encephalopathy with suppression bursts
+epilepsy	Read2_5digit	F25A.	Juvenile myoclonic epilepsy
+epilepsy	Read2_5digit	F25B.	Alcohol-induced epilepsy
+epilepsy	Read2_5digit	F25C.	Drug-induced epilepsy
+epilepsy	Read2_5digit	F25D.	Menstrual epilepsy
+epilepsy	Read2_5digit	F25E.	Stress-induced epilepsy
+epilepsy	Read2_5digit	F25F.	Photosensitive epilepsy
+epilepsy	Read2_5digit	F25G.	Severe myoclonic epilepsy in infancy
+epilepsy	Read2_5digit	F25X.	Status epilepticus, unspecified
+epilepsy	Read2_5digit	F25y.	Other forms of epilepsy
+epilepsy	Read2_5digit	F25y0	Cursive (running) epilepsy
+epilepsy	Read2_5digit	F25y1	Gelastic epilepsy
+epilepsy	Read2_5digit	F25y2	Localization-related(focal)(partial)idiopathic epilepsy and epileptic syndromes with seizures of localised onset
+epilepsy	Read2_5digit	F25y3	Complex partial status epilepticus
+epilepsy	Read2_5digit	F25y4	Benign Rolandic epilepsy
+epilepsy	Read2_5digit	F25y5	Panayiotopoulos syndrome
+epilepsy	Read2_5digit	F25yz	Other forms of epilepsy NOS
+epilepsy	Read2_5digit	F25z.	Epilepsy NOS
+epilepsy	Read2_5digit	Fyu50	[X]Other generalized epilepsy and epileptic syndromes
+epilepsy	Read2_5digit	Fyu51	[X]Other epilepsy
+epilepsy	Read2_5digit	Fyu52	[X]Other status epilepticus
+epilepsy	Read2_5digit	Fyu59	[X]Status epilepticus, unspecified
+epilepsy	CTV3_5digit	1473.	H/O: epilepsy
+epilepsy	CTV3_5digit	XaIt0	Transient epileptic amnesia
+epilepsy	CTV3_5digit	XaJBn	Epilepsy confirmed
+epilepsy	CTV3_5digit	21260	Epilepsy resolved
+epilepsy	CTV3_5digit	XaRFV	Contraceptive advice for patients with epilepsy
+epilepsy	CTV3_5digit	667..	Epilepsy monitoring
+epilepsy	CTV3_5digit	6674.	Epilepsy associated problems
+epilepsy	CTV3_5digit	6677.	Epilepsy drug side effects
+epilepsy	CTV3_5digit	6678.	Epilepsy treatment changed
+epilepsy	CTV3_5digit	6679.	Epilepsy treatment started
+epilepsy	CTV3_5digit	667A.	Epilepsy treatment stopped
+epilepsy	CTV3_5digit	X006x	Nocturnal epilepsy
+epilepsy	CTV3_5digit	XaFjh	Epilepsy control good
+epilepsy	CTV3_5digit	XaFji	Epilepsy control poor
+epilepsy	CTV3_5digit	XaIu1	Epilepsy care arrangement
+epilepsy	CTV3_5digit	XaJ7s	Seizure free >12 months
+epilepsy	CTV3_5digit	XaJB4	Epilepsy restricts employment
+epilepsy	CTV3_5digit	XaJB5	Epilepsy prevents employment
+epilepsy	CTV3_5digit	XaJB6	Epilepsy impairs education
+epilepsy	CTV3_5digit	XaJBY	Epilepsy limits activities
+epilepsy	CTV3_5digit	XaJBZ	Epilepsy does not limit activities
+epilepsy	CTV3_5digit	XaJBa	Epilepsy management plan given
+epilepsy	CTV3_5digit	XaJBb	Epilepsy severity
+epilepsy	CTV3_5digit	XaJBc	No seizures on treatment
+epilepsy	CTV3_5digit	XaJBd	1 to 12 seizures a year
+epilepsy	CTV3_5digit	XaJBe	2 to 4 seizures a month
+epilepsy	CTV3_5digit	XaJBf	1 to 7 seizures a week
+epilepsy	CTV3_5digit	XaJBg	Daily seizures
+epilepsy	CTV3_5digit	XaJBh	Many seizures a day
+epilepsy	CTV3_5digit	XaJBi	Emergency epilepsy treatment since last appointment
+epilepsy	CTV3_5digit	XaJtH	No epilepsy drug side effects
+epilepsy	CTV3_5digit	667Z.	Epilepsy monitoring NOS
+epilepsy	CTV3_5digit	XaRFX	Pregnancy advice for patients with epilepsy
+epilepsy	CTV3_5digit	XaRFW	Pre-conception advice for patients with epilepsy
+epilepsy	CTV3_5digit	XaIyV	Epilepsy medication review
+epilepsy	CTV3_5digit	XaKby	Epilepsy monitoring verbal invite
+epilepsy	CTV3_5digit	XaMFq	Epilepsy monitoring telephone invite
+epilepsy	CTV3_5digit	XaLMo	Epilepsy monitoring call first letter
+epilepsy	CTV3_5digit	XaLMp	Epilepsy monitoring call second letter
+epilepsy	CTV3_5digit	XaLMq	Epilepsy monitoring call third letter
+epilepsy	CTV3_5digit	E03y0	Organic delusional disorder
+epilepsy	CTV3_5digit	XE1Z9	[X]Other specified mental disorder due to brain damage and dysfunction and to physical disease
+epilepsy	CTV3_5digit	E2A1.	Organic personality disorder
+epilepsy	CTV3_5digit	X006o	Acquired epileptic aphasia
+epilepsy	CTV3_5digit	XE15I	Progressive myoclonic epilepsy
+epilepsy	CTV3_5digit	X006V	Unverricht-Lundborg syndrome
+epilepsy	CTV3_5digit	F1322	Myoclonic encephalopathy
+epilepsy	CTV3_5digit	F1422	Dyssynergia cerebellaris myoclonica
+epilepsy	CTV3_5digit	F25..	Epilepsy
+epilepsy	CTV3_5digit	F250.	Generalised non-convulsive epilepsy
+epilepsy	CTV3_5digit	F2500	Childhood absence epilepsy
+epilepsy	CTV3_5digit	XaQbJ	Petit mal (minor) epilepsy
+epilepsy	CTV3_5digit	XaRGS	Pykno-epilepsy
+epilepsy	CTV3_5digit	F2502	Epileptic seizures - atonic
+epilepsy	CTV3_5digit	F2503	Epileptic seizures - akinetic
+epilepsy	CTV3_5digit	X006K	Juvenile absence epilepsy
+epilepsy	CTV3_5digit	X006Q	Lennox-Gastaut syndrome
+epilepsy	CTV3_5digit	F250y	Other specified generalised non-convulsive epilepsy
+epilepsy	CTV3_5digit	F250z	Generalised non-convulsive epilepsy NOS
+epilepsy	CTV3_5digit	F251.	Generalised convulsive epilepsy
+epilepsy	CTV3_5digit	F2510	Generalised epilepsy
+epilepsy	CTV3_5digit	F2511	Neonatal myoclonic epilepsy
+epilepsy	CTV3_5digit	F2512	Epileptic seizures - clonic
+epilepsy	CTV3_5digit	F2513	Epileptic seizures - myoclonic
+epilepsy	CTV3_5digit	F2514	Epileptic seizures - tonic
+epilepsy	CTV3_5digit	F251y	Other specified generalised convulsive epilepsy
+epilepsy	CTV3_5digit	F251z	Generalised convulsive epilepsy NOS
+epilepsy	CTV3_5digit	F252.	Non-convulsive status epilepticus with impaired consciousness
+epilepsy	CTV3_5digit	XE15Y	Grand mal status
+epilepsy	CTV3_5digit	X007B	Status epilepticus
+epilepsy	CTV3_5digit	F254.	Partial epilepsy with impairment of consciousness
+epilepsy	CTV3_5digit	F2540	Temporal lobe epilepsy
+epilepsy	CTV3_5digit	XaB4T	Psychomotor epilepsy
+epilepsy	CTV3_5digit	F2542	Psychosensory epilepsy
+epilepsy	CTV3_5digit	F2543	Mesiobasal limbic epilepsy
+epilepsy	CTV3_5digit	F2544	Epileptic automatism
+epilepsy	CTV3_5digit	XaJFI	Complex partial epileptic seizure
+epilepsy	CTV3_5digit	F254z	Partial epilepsy with impairment of consciousness NOS
+epilepsy	CTV3_5digit	F255.	Partial epilepsy without mention of impairment of consciousness
+epilepsy	CTV3_5digit	XaB4S	Jacksonian, focal or motor epilepsy
+epilepsy	CTV3_5digit	X005m	Focal epilepsy
+epilepsy	CTV3_5digit	XaB4R	Motor epilepsy
+epilepsy	CTV3_5digit	F2551	Epilepsy associated with specific stimuli
+epilepsy	CTV3_5digit	F2552	Somatosensory epilepsy
+epilepsy	CTV3_5digit	F2553	Visceral reflex epilepsy
+epilepsy	CTV3_5digit	F2554	Visual reflex epilepsy
+epilepsy	CTV3_5digit	F2555	Unilateral epilepsy
+epilepsy	CTV3_5digit	XaL2B	Simple partial epileptic seizure
+epilepsy	CTV3_5digit	F255y	Other specified partial epilepsy without mention of impairment of consciousness
+epilepsy	CTV3_5digit	F255z	Partial epilepsy without mention of impairment of consciousness NOS
+epilepsy	CTV3_5digit	F256.	Infantile spasms
+epilepsy	CTV3_5digit	F256z	Infantile spasms NOS
+epilepsy	CTV3_5digit	F257.	Kojevnikov's epilepsy
+epilepsy	CTV3_5digit	Xa3Dv	Post-ictal state
+epilepsy	CTV3_5digit	X006e	Early infantile epileptic encephalopathy with suppression bursts
+epilepsy	CTV3_5digit	X006L	Juvenile myoclonic epilepsy
+epilepsy	CTV3_5digit	X006u	Alcohol-induced epilepsy
+epilepsy	CTV3_5digit	X006t	Drug-induced epilepsy
+epilepsy	CTV3_5digit	X006w	Menstrual epilepsy
+epilepsy	CTV3_5digit	XaJgP	Stress-induced epilepsy
+epilepsy	CTV3_5digit	X006y	Photosensitive epilepsy
+epilepsy	CTV3_5digit	X006n	Severe myoclonic epilepsy in infancy
+epilepsy	CTV3_5digit	Fyu59	[X]Status epilepticus, unspecified
+epilepsy	CTV3_5digit	F25y.	Other forms of epilepsy
+epilepsy	CTV3_5digit	F25y0	Cursive (running) epilepsy
+epilepsy	CTV3_5digit	F25y1	Gelastic epilepsy
+epilepsy	CTV3_5digit	F25y2	Localization-related(focal)(partial)idiopathic epilepsy and epileptic syndromes with seizures of localised onset
+epilepsy	CTV3_5digit	X007G	Complex partial status epilepticus
+epilepsy	CTV3_5digit	X005o	Benign Rolandic epilepsy
+epilepsy	CTV3_5digit	XaOZG	Panayiotopoulos syndrome
+epilepsy	CTV3_5digit	F25yz	Other forms of epilepsy NOS
+epilepsy	CTV3_5digit	XE15a	Epilepsy NOS
+epilepsy	CTV3_5digit	XaC34	Fit (in known epileptic) NOS
+epilepsy	CTV3_5digit	Fyu50	[X]Other generalised epilepsy and epileptic syndromes
+epilepsy	CTV3_5digit	Fyu51	[X]Other epilepsy
+epilepsy	CTV3_5digit	Fyu52	[X]Other status epilepticus

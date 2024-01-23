@@ -1,0 +1,104 @@
+condition	vocab_id	code	description
+sinusitis	ICD10	J32	Chronic sinusitis
+sinusitis	Read2	H01..11	Sinusitis
+sinusitis	Read2	H13..00	Chronic sinusitis
+sinusitis	Read2	H13..11	Chronic rhinosinusitis
+sinusitis	Read2	H130.00	Chronic maxillary sinusitis
+sinusitis	Read2	H130.11	Antritis - chronic
+sinusitis	Read2	H130.12	Maxillary sinusitis
+sinusitis	Read2	H131.00	Chronic frontal sinusitis
+sinusitis	Read2	H131.11	Frontal sinusitis
+sinusitis	Read2	H132.00	Chronic ethmoidal sinusitis
+sinusitis	Read2	H133.00	Chronic sphenoidal sinusitis
+sinusitis	Read2	H135.00	Recurrent sinusitis
+sinusitis	Read2	H13y.00	Other chronic sinusitis
+sinusitis	Read2	H13y000	Chronic pansinusitis
+sinusitis	Read2	H13y100	Pansinusitis
+sinusitis	Read2	H13yz00	Other chronic sinusitis NOS
+sinusitis	Read2	H13z.00	Chronic sinusitis NOS
+sinusitis	Read2	H17..12	Allergic rhinosinusitis
+sinusitis	Read2	Hyu2200	[X]Other chronic sinusitis
+sinusitis	CTV3	XM1QHYM9i5	Sinusitis
+sinusitis	CTV3	H13..Y02UM	Chronic sinusitis
+sinusitis	CTV3	H13..Y02UN	Chronic rhinosinusitis
+sinusitis	CTV3	XE0Y0Y02UV	Chronic maxillary sinusitis
+sinusitis	CTV3	XE0Y0Y02UW	Chronic antritis
+sinusitis	CTV3	XM1QIYM9i9	Maxillary sinusitis
+sinusitis	CTV3	XE0Y1Y02Ue	Chronic frontal sinusitis
+sinusitis	CTV3	XM1QJYM9iA	Frontal sinusitis
+sinusitis	CTV3	H132.Y02UX	Chronic ethmoidal sinusitis
+sinusitis	CTV3	H133.Y02Ug	Chronic sphenoidal sinusitis
+sinusitis	CTV3	H135.YaY9g	Recurrent sinusitis
+sinusitis	CTV3	H13y.Y02US	Other chronic sinusitis
+sinusitis	CTV3	H13y0Y02Uh	Chronic pansinusitis
+sinusitis	CTV3	H13y1YMH4F	Pansinusitis
+sinusitis	CTV3	H13yzY02UT	Other chronic sinusitis NOS
+sinusitis	CTV3	H13z.Y02UU	Chronic sinusitis NOS
+sinusitis	CTV3	H17..Y02S0	Allergic rhinosinusitis
+sinusitis	CTV3	XE0Y5Y02S0	Allergic rhinosinusitis
+sinusitis	CTV3	Hyu22YMAJ9	[X]Other chronic sinusitis
+sinusitis	medcodeid	65349012	Chronic sphenoidal sinusitis
+sinusitis	medcodeid	66718013	Chronic sinusitis
+sinusitis	medcodeid	99894013	Chronic frontal sinusitis
+sinusitis	medcodeid	146480018	Maxillary sinusitis
+sinusitis	medcodeid	301213013	Other chronic sinusitis NOS
+sinusitis	medcodeid	301825016	[X]Other chronic sinusitis
+sinusitis	medcodeid	477701000006111	Allergic rhinosinusitis
+sinusitis	medcodeid	488111000006118	Antritis - chronic
+sinusitis	medcodeid	301211010	Other chronic sinusitis
+sinusitis	medcodeid	301210011	Recurrent sinusitis
+sinusitis	medcodeid	301212015	Pansinusitis
+sinusitis	medcodeid	59944016	Chronic maxillary sinusitis
+sinusitis	medcodeid	301214019	Chronic sinusitis NOS
+sinusitis	medcodeid	1229598015	Chronic rhinosinusitis
+sinusitis	medcodeid	61668014	Sinusitis
+sinusitis	medcodeid	130650014	Frontal sinusitis
+sinusitis	medcodeid	121629017	Chronic ethmoidal sinusitis
+sinusitis	medcodeid	147320013	Chronic pansinusitis
+sinusitis	SNOMEDCT	38961000	Chronic sphenoidal sinusitis
+sinusitis	SNOMEDCT	40055000	Chronic sinusitis
+sinusitis	SNOMEDCT	60130002	Chronic frontal sinusitis
+sinusitis	SNOMEDCT	88348008	Maxillary sinusitis
+sinusitis	SNOMEDCT	40055000	Other chronic sinusitis NOS
+sinusitis	SNOMEDCT	40055000	[X]Other chronic sinusitis
+sinusitis	SNOMEDCT	61582004	Allergic rhinosinusitis
+sinusitis	SNOMEDCT	35923002	Antritis - chronic
+sinusitis	SNOMEDCT	40055000	Other chronic sinusitis
+sinusitis	SNOMEDCT	195788001	Recurrent sinusitis
+sinusitis	SNOMEDCT	195790000	Pansinusitis
+sinusitis	SNOMEDCT	35923002	Chronic maxillary sinusitis
+sinusitis	SNOMEDCT	40055000	Chronic sinusitis NOS
+sinusitis	SNOMEDCT	40055000	Chronic rhinosinusitis
+sinusitis	SNOMEDCT	36971009	Sinusitis
+sinusitis	SNOMEDCT	78737005	Frontal sinusitis
+sinusitis	SNOMEDCT	73237007	Chronic ethmoidal sinusitis
+sinusitis	SNOMEDCT	88850006	Chronic pansinusitis
+sinusitis	Read2_5digit	H13..	Chronic sinusitis
+sinusitis	Read2_5digit	H130.	Chronic maxillary sinusitis
+sinusitis	Read2_5digit	H131.	Chronic frontal sinusitis
+sinusitis	Read2_5digit	H132.	Chronic ethmoidal sinusitis
+sinusitis	Read2_5digit	H133.	Chronic sphenoidal sinusitis
+sinusitis	Read2_5digit	H135.	Recurrent sinusitis
+sinusitis	Read2_5digit	H13y.	Other chronic sinusitis
+sinusitis	Read2_5digit	H13y0	Chronic pansinusitis
+sinusitis	Read2_5digit	H13y1	Pansinusitis
+sinusitis	Read2_5digit	H13yz	Other chronic sinusitis NOS
+sinusitis	Read2_5digit	H13z.	Chronic sinusitis NOS
+sinusitis	Read2_5digit	Hyu22	[X]Other chronic sinusitis
+sinusitis	CTV3_5digit	XM1QH	Sinusitis
+sinusitis	CTV3_5digit	H13..	Chronic sinusitis
+sinusitis	CTV3_5digit	XE0Y0	Chronic maxillary sinusitis
+sinusitis	CTV3_5digit	XM1QI	Maxillary sinusitis
+sinusitis	CTV3_5digit	XE0Y1	Chronic frontal sinusitis
+sinusitis	CTV3_5digit	XM1QJ	Frontal sinusitis
+sinusitis	CTV3_5digit	H132.	Chronic ethmoidal sinusitis
+sinusitis	CTV3_5digit	H133.	Chronic sphenoidal sinusitis
+sinusitis	CTV3_5digit	H135.	Recurrent sinusitis
+sinusitis	CTV3_5digit	H13y.	Other chronic sinusitis
+sinusitis	CTV3_5digit	H13y0	Chronic pansinusitis
+sinusitis	CTV3_5digit	H13y1	Pansinusitis
+sinusitis	CTV3_5digit	H13yz	Other chronic sinusitis NOS
+sinusitis	CTV3_5digit	H13z.	Chronic sinusitis NOS
+sinusitis	CTV3_5digit	H17..	Allergic rhinosinusitis
+sinusitis	CTV3_5digit	XE0Y5	Allergic rhinosinusitis
+sinusitis	CTV3_5digit	Hyu22	[X]Other chronic sinusitis

@@ -1,0 +1,140 @@
+condition	vocab_id	code	description
+AF	ICD10	I48	Atrial fibrillation and flutter
+AF	Read2	14AN.00	H/O: atrial fibrillation
+AF	Read2	14AR.00	History of atrial flutter
+AF	Read2	212R.00	Atrial fibrillation resolved
+AF	Read2	3272.00	ECG: atrial fibrillation
+AF	Read2	3273.00	ECG: atrial flutter
+AF	Read2	662S.00	Atrial fibrillation monitoring
+AF	Read2	6A9..00	Atrial fibrillation annual review
+AF	Read2	9hF..00	Exception reporting: atrial fibrillation quality indicators
+AF	Read2	9hF1.00	Excepted from atrial fibrillation quality indicators: Informed dissent
+AF	Read2	9Os..00	Atrial fibrillation monitoring administration
+AF	Read2	9Os0.00	Atrial fibrillation monitoring first letter
+AF	Read2	9Os1.00	Atrial fibrillation monitoring second letter
+AF	Read2	9Os2.00	Atrial fibrillation monitoring third letter
+AF	Read2	9Os3.00	Atrial fibrillation monitoring verbal invite
+AF	Read2	9Os4.00	Atrial fibrillation monitoring telephone invite
+AF	Read2	G573.00	Atrial fibrillation and flutter
+AF	Read2	G573000	Atrial fibrillation
+AF	Read2	G573100	Atrial flutter
+AF	Read2	G573200	Paroxysmal atrial fibrillation
+AF	Read2	G573300	Non-rheumatic atrial fibrillation
+AF	Read2	G573400	Permanent atrial fibrillation
+AF	Read2	G573500	Persistent atrial fibrillation
+AF	Read2	G573z00	Atrial fibrillation and flutter NOS
+AF	CTV3	XaDv6Yae1S	H/O: atrial fibrillation
+AF	CTV3	XaNRAYaqSA	History of atrial flutter
+AF	CTV3	XaLFzYaoJn	Atrial fibrillation resolved
+AF	CTV3	3272.Y7Fux	ECG: atrial fibrillation
+AF	CTV3	3273.Y7FuP	ECG: atrial flutter
+AF	CTV3	XaIITYakgl	Atrial fibrillation monitoring
+AF	CTV3	XaMGDYapQV	Atrial fibrillation annual review
+AF	CTV3	XaLFhYaoJH	Exception reporting: atrial fibrillation quality indicators
+AF	CTV3	XaLFjYaoJL	Excepted from atrial fibrillation quality indicators: Informed dissent
+AF	CTV3	XaMDFYapMi	Atrial fibrillation monitoring administration
+AF	CTV3	XaMDGYapMk	Atrial fibrillation monitoring first letter
+AF	CTV3	XaMDHYapMm	Atrial fibrillation monitoring second letter
+AF	CTV3	XaMDIYapMo	Atrial fibrillation monitoring third letter
+AF	CTV3	XaMDKYapMr	Atrial fibrillation monitoring verbal invite
+AF	CTV3	XaMFnYapPu	Atrial fibrillation monitoring telephone invite
+AF	CTV3	G573.Y20AM	Atrial fibrillation and flutter
+AF	CTV3	G5730Y20AP	Atrial fibrillation
+AF	CTV3	G5731Y20AO	Atrial flutter
+AF	CTV3	Xa2E8Ya49r	Paroxysmal atrial fibrillation
+AF	CTV3	X202SY20AS	Non-rheumatic atrial fibrillation
+AF	CTV3	XaOftYarAt	Permanent atrial fibrillation
+AF	CTV3	XaOfaYarAa	Persistent atrial fibrillation
+AF	CTV3	G573zY20AN	Atrial fibrillation and flutter NOS
+AF	medcodeid	82343012	Atrial fibrillation
+AF	medcodeid	256478018	ECG: atrial fibrillation
+AF	medcodeid	256479014	ECG: atrial flutter
+AF	medcodeid	300130013	Atrial fibrillation and flutter
+AF	medcodeid	350465014	Non-rheumatic atrial fibrillation
+AF	medcodeid	2692063011	History of atrial flutter
+AF	medcodeid	294601000000110	Atrial fibrillation resolved
+AF	medcodeid	406861000000119	Atrial fibrillation annual review
+AF	medcodeid	408081000000116	Atrial fibrillation monitoring first letter
+AF	medcodeid	408121000000118	Atrial fibrillation monitoring third letter
+AF	medcodeid	408141000000113	Atrial fibrillation monitoring verbal invite
+AF	medcodeid	636701000000115	Persistent atrial fibrillation
+AF	medcodeid	636721000000112	Permanent atrial fibrillation
+AF	medcodeid	294171000000112	Exception reporting: atrial fibrillation quality indicators
+AF	medcodeid	1000031000006118	Excepted from atrial fibrillation qual indic: Inform dissent
+AF	medcodeid	9988012	Atrial flutter
+AF	medcodeid	408101000000110	Atrial fibrillation monitoring second letter
+AF	medcodeid	408241000000115	Atrial fibrillation monitoring telephone invite
+AF	medcodeid	406251000000118	Atrial fibrillation monitoring administration
+AF	medcodeid	421235014	Paroxysmal atrial fibrillation
+AF	medcodeid	456154015	H/O: atrial fibrillation
+AF	medcodeid	300132017	Atrial fibrillation and flutter NOS
+AF	medcodeid	216183015	Atrial fibrillation monitoring
+AF	SNOMEDCT	49436004	Atrial fibrillation
+AF	SNOMEDCT	164889003	ECG: atrial fibrillation
+AF	SNOMEDCT	164890007	ECG: atrial flutter
+AF	SNOMEDCT	195080001	Atrial fibrillation and flutter
+AF	SNOMEDCT	233911009	Non-rheumatic atrial fibrillation
+AF	SNOMEDCT	428076002	History of atrial flutter
+AF	SNOMEDCT	196371000000102	Atrial fibrillation resolved
+AF	SNOMEDCT	248411000000105	Atrial fibrillation annual review
+AF	SNOMEDCT	717221000000101	Atrial fibrillation monitoring first letter
+AF	SNOMEDCT	716181000000109	Atrial fibrillation monitoring third letter
+AF	SNOMEDCT	717011000000100	Atrial fibrillation monitoring verbal invite
+AF	SNOMEDCT	440059007	Persistent atrial fibrillation
+AF	SNOMEDCT	440028005	Permanent atrial fibrillation
+AF	SNOMEDCT	716871000000101	Exception reporting: atrial fibrillation quality indicators
+AF	SNOMEDCT	717381000000109	Excepted from atrial fibrillation qual indic: Inform dissent
+AF	SNOMEDCT	5370000	Atrial flutter
+AF	SNOMEDCT	716981000000106	Atrial fibrillation monitoring second letter
+AF	SNOMEDCT	716721000000107	Atrial fibrillation monitoring telephone invite
+AF	SNOMEDCT	713801000000102	Atrial fibrillation monitoring administration
+AF	SNOMEDCT	282825002	Paroxysmal atrial fibrillation
+AF	SNOMEDCT	312442005	H/O: atrial fibrillation
+AF	SNOMEDCT	195080001	Atrial fibrillation and flutter NOS
+AF	SNOMEDCT	134377004	Atrial fibrillation monitoring
+AF	Read2_5digit	14AN.	H/O: atrial fibrillation
+AF	Read2_5digit	14AR.	History of atrial flutter
+AF	Read2_5digit	212R.	Atrial fibrillation resolved
+AF	Read2_5digit	3272.	ECG: atrial fibrillation
+AF	Read2_5digit	3273.	ECG: atrial flutter
+AF	Read2_5digit	662S.	Atrial fibrillation monitoring
+AF	Read2_5digit	6A9..	Atrial fibrillation annual review
+AF	Read2_5digit	9hF..	Exception reporting: atrial fibrillation quality indicators
+AF	Read2_5digit	9hF1.	Excepted from atrial fibrillation quality indicators: Informed dissent
+AF	Read2_5digit	9Os..	Atrial fibrillation monitoring administration
+AF	Read2_5digit	9Os0.	Atrial fibrillation monitoring first letter
+AF	Read2_5digit	9Os1.	Atrial fibrillation monitoring second letter
+AF	Read2_5digit	9Os2.	Atrial fibrillation monitoring third letter
+AF	Read2_5digit	9Os3.	Atrial fibrillation monitoring verbal invite
+AF	Read2_5digit	9Os4.	Atrial fibrillation monitoring telephone invite
+AF	Read2_5digit	G573.	Atrial fibrillation and flutter
+AF	Read2_5digit	G5730	Atrial fibrillation
+AF	Read2_5digit	G5731	Atrial flutter
+AF	Read2_5digit	G5732	Paroxysmal atrial fibrillation
+AF	Read2_5digit	G5733	Non-rheumatic atrial fibrillation
+AF	Read2_5digit	G5734	Permanent atrial fibrillation
+AF	Read2_5digit	G5735	Persistent atrial fibrillation
+AF	Read2_5digit	G573z	Atrial fibrillation and flutter NOS
+AF	CTV3_5digit	XaDv6	H/O: atrial fibrillation
+AF	CTV3_5digit	XaNRA	History of atrial flutter
+AF	CTV3_5digit	XaLFz	Atrial fibrillation resolved
+AF	CTV3_5digit	3272.	ECG: atrial fibrillation
+AF	CTV3_5digit	3273.	ECG: atrial flutter
+AF	CTV3_5digit	XaIIT	Atrial fibrillation monitoring
+AF	CTV3_5digit	XaMGD	Atrial fibrillation annual review
+AF	CTV3_5digit	XaLFh	Exception reporting: atrial fibrillation quality indicators
+AF	CTV3_5digit	XaLFj	Excepted from atrial fibrillation quality indicators: Informed dissent
+AF	CTV3_5digit	XaMDF	Atrial fibrillation monitoring administration
+AF	CTV3_5digit	XaMDG	Atrial fibrillation monitoring first letter
+AF	CTV3_5digit	XaMDH	Atrial fibrillation monitoring second letter
+AF	CTV3_5digit	XaMDI	Atrial fibrillation monitoring third letter
+AF	CTV3_5digit	XaMDK	Atrial fibrillation monitoring verbal invite
+AF	CTV3_5digit	XaMFn	Atrial fibrillation monitoring telephone invite
+AF	CTV3_5digit	G573.	Atrial fibrillation and flutter
+AF	CTV3_5digit	G5730	Atrial fibrillation
+AF	CTV3_5digit	G5731	Atrial flutter
+AF	CTV3_5digit	Xa2E8	Paroxysmal atrial fibrillation
+AF	CTV3_5digit	X202S	Non-rheumatic atrial fibrillation
+AF	CTV3_5digit	XaOft	Permanent atrial fibrillation
+AF	CTV3_5digit	XaOfa	Persistent atrial fibrillation
+AF	CTV3_5digit	G573z	Atrial fibrillation and flutter NOS

@@ -1,0 +1,42 @@
+condition	vocab_id	code	description
+sleep_apnoea	ICD10	G47.3	Sleep apnoea
+sleep_apnoea	Read2	Fy03.00	Sleep apnoea
+sleep_apnoea	Read2	Fy03.11	Obstructive sleep apnoea
+sleep_apnoea	Read2	H5B..00	Sleep apnoea
+sleep_apnoea	Read2	H5B0.00	Obstructive sleep apnoea
+sleep_apnoea	Read2	R005100	[D]Insomnia with sleep apnoea
+sleep_apnoea	Read2	R005300	[D]Hypersomnia with sleep apnoea
+sleep_apnoea	Read2	R005311	[D]Sleep apnoea syndrome
+sleep_apnoea	Read2	R005312	[D]Syndrome sleep apnoea
+sleep_apnoea	CTV3	X0083Y00Ra	Sleep apnoea
+sleep_apnoea	CTV3	X0084Y00Rf	Obstructive sleep apnoea
+sleep_apnoea	CTV3	R0051YM0vp	[D]Insomnia with sleep apnoea
+sleep_apnoea	CTV3	XE2nUYM0vr	[D]Hypersomnia with sleep apnoea
+sleep_apnoea	CTV3	R0053YabXb	[D]Sleep apnoea syndrome
+sleep_apnoea	CTV3	XaEGPYabXb	[D]Sleep apnoea syndrome
+sleep_apnoea	CTV3	R0053YabXP	[D]Syndrome sleep apnoea
+sleep_apnoea	medcodeid	200354014	Sleep apnoea
+sleep_apnoea	medcodeid	405691012	[D]Hypersomnia with sleep apnoea
+sleep_apnoea	medcodeid	136581000006114	Sleep apnoea
+sleep_apnoea	medcodeid	219501000000111	Obstructive sleep apnoea
+sleep_apnoea	medcodeid	457106016	[D]Sleep apnoea syndrome
+sleep_apnoea	medcodeid	303181000006112	[D]Syndrome sleep apnoea
+sleep_apnoea	medcodeid	267911000006119	Obstructive sleep apnoea
+sleep_apnoea	medcodeid	317034011	[D]Insomnia with sleep apnoea
+sleep_apnoea	SNOMEDCT	73430006	Sleep apnoea
+sleep_apnoea	SNOMEDCT	79280005	[D]Hypersomnia with sleep apnoea
+sleep_apnoea	SNOMEDCT	78275009	Obstructive sleep apnoea
+sleep_apnoea	SNOMEDCT	502901000000102	[D]Sleep apnoea syndrome
+sleep_apnoea	SNOMEDCT	502901000000102	[D]Syndrome sleep apnoea
+sleep_apnoea	SNOMEDCT	41975002	[D]Insomnia with sleep apnoea
+sleep_apnoea	Read2_5digit	Fy03.	Sleep apnoea
+sleep_apnoea	Read2_5digit	H5B..	Sleep apnoea
+sleep_apnoea	Read2_5digit	H5B0.	Obstructive sleep apnoea
+sleep_apnoea	Read2_5digit	R0051	[D]Insomnia with sleep apnoea
+sleep_apnoea	Read2_5digit	R0053	[D]Hypersomnia with sleep apnoea
+sleep_apnoea	CTV3_5digit	X0083	Sleep apnoea
+sleep_apnoea	CTV3_5digit	X0084	Obstructive sleep apnoea
+sleep_apnoea	CTV3_5digit	R0051	[D]Insomnia with sleep apnoea
+sleep_apnoea	CTV3_5digit	XE2nU	[D]Hypersomnia with sleep apnoea
+sleep_apnoea	CTV3_5digit	R0053	[D]Sleep apnoea syndrome
+sleep_apnoea	CTV3_5digit	XaEGP	[D]Sleep apnoea syndrome

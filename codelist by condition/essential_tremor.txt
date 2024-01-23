@@ -1,0 +1,14 @@
+condition	vocab_id	code	description
+essential_tremor	ICD10	G25.0	Essential tremor
+essential_tremor	Read2	F131000	Benign essential tremor
+essential_tremor	Read2	F131100	Familial tremor
+essential_tremor	CTV3	F1310Y00KF	Benign essential tremor
+essential_tremor	CTV3	F1311Y00KK	Familial tremor
+essential_tremor	medcodeid	297050013	Benign essential tremor
+essential_tremor	medcodeid	297051012	Familial tremor
+essential_tremor	SNOMEDCT	609558009	Benign essential tremor
+essential_tremor	SNOMEDCT	609559001	Familial tremor
+essential_tremor	Read2_5digit	F1310	Benign essential tremor
+essential_tremor	Read2_5digit	F1311	Familial tremor
+essential_tremor	CTV3_5digit	F1310	Benign essential tremor
+essential_tremor	CTV3_5digit	F1311	Familial tremor

@@ -1,0 +1,29 @@
+condition	vocab_id	code	description
+fibromyalgia	ICD10	M79.7	Fibromyalgia
+fibromyalgia	Read2	N239.00	Fibromyalgia
+fibromyalgia	Read2	N240100	Fibrositis unspecified
+fibromyalgia	Read2	N240500	Fibrositis of neck
+fibromyalgia	Read2	N240600	Fibrositis arm
+fibromyalgia	Read2	N248.00	Fibromyalgia
+fibromyalgia	CTV3	X75rxY7Coo	Fibromyalgia
+fibromyalgia	CTV3	N2401Y7Cor	Fibrositis unspecified
+fibromyalgia	CTV3	N2405YaY8a	Fibrositis of neck
+fibromyalgia	CTV3	N2406YaY8b	Fibrositis arm
+fibromyalgia	medcodeid	311692018	Fibrositis of neck
+fibromyalgia	medcodeid	311693011	Fibrositis arm
+fibromyalgia	medcodeid	41386013	Fibromyalgia
+fibromyalgia	medcodeid	311689017	Fibrositis unspecified
+fibromyalgia	medcodeid	709441000006113	Fibromyalgia
+fibromyalgia	SNOMEDCT	203104007	Fibrositis of neck
+fibromyalgia	SNOMEDCT	203105008	Fibrositis arm
+fibromyalgia	SNOMEDCT	203082005	Fibromyalgia
+fibromyalgia	SNOMEDCT	56557000	Fibrositis unspecified
+fibromyalgia	Read2_5digit	N239.	Fibromyalgia
+fibromyalgia	Read2_5digit	N2401	Fibrositis unspecified
+fibromyalgia	Read2_5digit	N2405	Fibrositis of neck
+fibromyalgia	Read2_5digit	N2406	Fibrositis arm
+fibromyalgia	Read2_5digit	N248.	Fibromyalgia
+fibromyalgia	CTV3_5digit	X75rx	Fibromyalgia
+fibromyalgia	CTV3_5digit	N2401	Fibrositis unspecified
+fibromyalgia	CTV3_5digit	N2405	Fibrositis of neck
+fibromyalgia	CTV3_5digit	N2406	Fibrositis arm

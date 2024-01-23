@@ -1,0 +1,31 @@
+condition	vocab_id	code	description
+raynauds	ICD10	I73.0	Raynaud syndrome
+raynauds	Read2	G730.00	Raynaud's syndrome
+raynauds	Read2	G730000	Raynaud's disease
+raynauds	Read2	G730100	Raynaud's phenomenon
+raynauds	Read2	G730111	Vibratory white finger
+raynauds	Read2	G730z00	Raynaud's syndrome NOS
+raynauds	CTV3	G730.Y20Ji	Raynaud's syndrome
+raynauds	CTV3	G7300Y20Jj	Raynaud's disease
+raynauds	CTV3	XE0VQY20Jk	Raynaud's phenomenon
+raynauds	CTV3	X205UY20Jz	Vibratory white finger
+raynauds	CTV3	G730zY20Jl	Raynaud's syndrome NOS
+raynauds	medcodeid	395792010	Raynaud's phenomenon
+raynauds	medcodeid	300500010	Raynaud's syndrome NOS
+raynauds	medcodeid	192131000006114	Raynaud's syndrome
+raynauds	medcodeid	350655010	Vibratory white finger
+raynauds	medcodeid	300496013	Raynaud's disease
+raynauds	SNOMEDCT	266261006	Raynaud's phenomenon
+raynauds	SNOMEDCT	195295006	Raynaud's syndrome NOS
+raynauds	SNOMEDCT	195295006	Raynaud's syndrome
+raynauds	SNOMEDCT	234034005	Vibratory white finger
+raynauds	SNOMEDCT	195295006	Raynaud's disease
+raynauds	Read2_5digit	G730.	Raynaud's syndrome
+raynauds	Read2_5digit	G7300	Raynaud's disease
+raynauds	Read2_5digit	G7301	Raynaud's phenomenon
+raynauds	Read2_5digit	G730z	Raynaud's syndrome NOS
+raynauds	CTV3_5digit	G730.	Raynaud's syndrome
+raynauds	CTV3_5digit	G7300	Raynaud's disease
+raynauds	CTV3_5digit	XE0VQ	Raynaud's phenomenon
+raynauds	CTV3_5digit	X205U	Vibratory white finger
+raynauds	CTV3_5digit	G730z	Raynaud's syndrome NOS

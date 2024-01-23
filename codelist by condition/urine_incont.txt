@@ -1,0 +1,143 @@
+condition	vocab_id	code	description
+urine_incont	ICD10	N39.3	Stress incontinence
+urine_incont	ICD10	N39.4	Other specified urinary incontinence
+urine_incont	ICD10	R32	Unspecified urinary incontinence
+urine_incont	Read2	1593.00	H/O: stress incontinence
+urine_incont	Read2	16F..00	Double incontinence
+urine_incont	Read2	1A23.00	Incontinence of urine
+urine_incont	Read2	1A24.00	Stress incontinence
+urine_incont	Read2	1A24.11	Stress incontinence - symptom
+urine_incont	Read2	1A26.00	Urge incontinence of urine
+urine_incont	Read2	3940.00	Bladder: incontinent
+urine_incont	Read2	7B33800	Insertion of retropubic device for stress urinary incontinence NEC
+urine_incont	Read2	7B33C00	Insertion of retropubic device for female stress urinary incontinence NEC
+urine_incont	Read2	7B42111	Insertion of Kaufman prosthesis for male incontinence
+urine_incont	Read2	7B42113	Insertion of Rosen prosthesis for male incontinence
+urine_incont	Read2	8C14.00	Incontinence care
+urine_incont	Read2	8D7..12	Incontinence control
+urine_incont	Read2	8D71.00	Incontinence control
+urine_incont	Read2	8HTX.00	Referral to incontinence clinic
+urine_incont	Read2	K198.00	Stress incontinence
+urine_incont	Read2	K586.00	Stress incontinence - female
+urine_incont	Read2	Kyu5A00	[X]Other specified urinary incontinence
+urine_incont	Read2	R083.00	[D]Incontinence of urine
+urine_incont	Read2	R083100	[D]Urethral sphincter incontinence
+urine_incont	Read2	R083200	[D] Urge incontinence
+urine_incont	Read2	R083z00	[D]Incontinence of urine NOS
+urine_incont	Read2	Z9EA.00	Provision of incontinence appliance
+urine_incont	Read2	1A23000	Functional urinary incontinence
+urine_incont	Read2	7B35y99	Urinary incontinence/sling open
+urine_incont	Read2	7B31.99	Urinary incontinence/sling open
+urine_incont	CTV3	1593.YM0YW	H/O: stress incontinence
+urine_incont	CTV3	X30C5Y30cj	Double incontinence
+urine_incont	CTV3	1A23.Y31ph	Incontinence of urine
+urine_incont	CTV3	XabdFYaxQ5	Functional urinary incontinence
+urine_incont	CTV3	XE0rRY31pn	Stress incontinence
+urine_incont	CTV3	XE0rRY31pm	Genuine stress incontinence
+urine_incont	CTV3	1A26.Y31ps	Urge incontinence of urine
+urine_incont	CTV3	3940.Y7GLr	Bladder: incontinent
+urine_incont	CTV3	XaMAmYapJU	Insertion of retropubic device for stress urinary incontinence NEC
+urine_incont	CTV3	XaMtfYapvw	Insertion of retropubic device for female stress urinary incontinence NEC
+urine_incont	CTV3	7B421Y30uB	Insertion of Kaufman prosthesis for male incontinence
+urine_incont	CTV3	XE0GhY30u7	Implantation of bulbar urethral prosthesis for incontinence
+urine_incont	CTV3	XE0GhY30u9	Insertion of prosthesis for compression of bulb of male urethra
+urine_incont	CTV3	7B421Y30uD	Insertion of Rosen prosthesis for male incontinence
+urine_incont	CTV3	8C14.Y75YN	Incontinence care
+urine_incont	CTV3	XE0knYM1jz	Incontinence control
+urine_incont	CTV3	XaJtxYan2I	Referral to incontinence clinic
+urine_incont	CTV3	K586.Y31po	Stress incontinence - female
+urine_incont	CTV3	Kyu5AYMAQO	[X]Other specified urinary incontinence
+urine_incont	CTV3	R083.YM128	[D]Incontinence of urine
+urine_incont	CTV3	R0831YM12A	[D]Urethral sphincter incontinence
+urine_incont	CTV3	R0832YaXIO	[D] Urge incontinence
+urine_incont	CTV3	R083zYM12B	[D]Incontinence of urine NOS
+urine_incont	medcodeid	252112018	H/O: stress incontinence
+urine_incont	medcodeid	507635014	Urge incontinence of urine
+urine_incont	medcodeid	2533410015	Referral to incontinence clinic
+urine_incont	medcodeid	317523016	[D]Incontinence of urine
+urine_incont	medcodeid	317525011	[D]Urethral sphincter incontinence
+urine_incont	medcodeid	121721000006114	Stress incontinence
+urine_incont	medcodeid	121741000006119	Stress incontinence - female
+urine_incont	medcodeid	121751000006117	Stress incontinence - symptom
+urine_incont	medcodeid	772951000006119	Insertion of Rosen prosthesis for male incontinence
+urine_incont	medcodeid	781731000006114	Incontinence control
+urine_incont	medcodeid	1550421000006119	Insertion retropubic device stress urinary incontinence NEC
+urine_incont	medcodeid	1588121000006119	Insertion retropubic dev fem stress urinary incontinence NEC
+urine_incont	medcodeid	317527015	[D]Incontinence of urine NOS
+urine_incont	medcodeid	932491000006110	Urinary incontinence/sling opn
+urine_incont	medcodeid	868001000006114	Urinary incontinence/sling opn
+urine_incont	medcodeid	397460012	Incontinence control
+urine_incont	medcodeid	317526012	[D] Urge incontinence
+urine_incont	medcodeid	772621000006118	Insertion of Kaufman prosthesis for male incontinence
+urine_incont	medcodeid	503840017	Double incontinence
+urine_incont	medcodeid	1494848017	Incontinence of urine
+urine_incont	medcodeid	256950013	Bladder: incontinent
+urine_incont	medcodeid	37299019	Stress incontinence
+urine_incont	medcodeid	305212011	[X]Other specified urinary incontinence
+urine_incont	medcodeid	282903011	Incontinence care
+urine_incont	medcodeid	208692015	Functional urinary incontinence
+urine_incont	SNOMEDCT	161794005	H/O: stress incontinence
+urine_incont	SNOMEDCT	87557004	Urge incontinence of urine
+urine_incont	SNOMEDCT	415274007	Referral to incontinence clinic
+urine_incont	SNOMEDCT	165232002	[D]Incontinence of urine
+urine_incont	SNOMEDCT	165232002	[D]Urethral sphincter incontinence
+urine_incont	SNOMEDCT	22220005	Stress incontinence
+urine_incont	SNOMEDCT	60241006	Stress incontinence - female
+urine_incont	SNOMEDCT	22220005	Stress incontinence - symptom
+urine_incont	SNOMEDCT	265597008	Insertion of Rosen prosthesis for male incontinence
+urine_incont	SNOMEDCT	266826009	Incontinence control
+urine_incont	SNOMEDCT	59661004	Insertion retropubic device stress urinary incontinence NEC
+urine_incont	SNOMEDCT	236241009	Insertion retropubic dev fem stress urinary incontinence NEC
+urine_incont	SNOMEDCT	165232002	[D]Incontinence of urine NOS
+urine_incont	SNOMEDCT	14861000	Urinary incontinence/sling opn
+urine_incont	SNOMEDCT	176220008	Urinary incontinence/sling opn
+urine_incont	SNOMEDCT	87557004	[D] Urge incontinence
+urine_incont	SNOMEDCT	265597008	Insertion of Kaufman prosthesis for male incontinence
+urine_incont	SNOMEDCT	78459008	Double incontinence
+urine_incont	SNOMEDCT	165232002	Incontinence of urine
+urine_incont	SNOMEDCT	165232002	Bladder: incontinent
+urine_incont	SNOMEDCT	165232002	[X]Other specified urinary incontinence
+urine_incont	SNOMEDCT	183001000	Incontinence care
+urine_incont	SNOMEDCT	129847007	Functional urinary incontinence
+urine_incont	Read2_5digit	1593.	H/O: stress incontinence
+urine_incont	Read2_5digit	16F..	Double incontinence
+urine_incont	Read2_5digit	1A23.	Incontinence of urine
+urine_incont	Read2_5digit	1A24.	Stress incontinence
+urine_incont	Read2_5digit	1A26.	Urge incontinence of urine
+urine_incont	Read2_5digit	3940.	Bladder: incontinent
+urine_incont	Read2_5digit	7B338	Insertion of retropubic device for stress urinary incontinence NEC
+urine_incont	Read2_5digit	7B33C	Insertion of retropubic device for female stress urinary incontinence NEC
+urine_incont	Read2_5digit	8D7..	Incontinence control
+urine_incont	Read2_5digit	8D71.	Incontinence control
+urine_incont	Read2_5digit	8HTX.	Referral to incontinence clinic
+urine_incont	Read2_5digit	K198.	Stress incontinence
+urine_incont	Read2_5digit	K586.	Stress incontinence - female
+urine_incont	Read2_5digit	Kyu5A	[X]Other specified urinary incontinence
+urine_incont	Read2_5digit	R083.	[D]Incontinence of urine
+urine_incont	Read2_5digit	R0831	[D]Urethral sphincter incontinence
+urine_incont	Read2_5digit	R0832	[D] Urge incontinence
+urine_incont	Read2_5digit	R083z	[D]Incontinence of urine NOS
+urine_incont	Read2_5digit	Z9EA.	Provision of incontinence appliance
+urine_incont	Read2_5digit	1A230	Functional urinary incontinence
+urine_incont	Read2_5digit	7B35y	Urinary incontinence/sling open
+urine_incont	Read2_5digit	7B31.	Urinary incontinence/sling open
+urine_incont	CTV3_5digit	1593.	H/O: stress incontinence
+urine_incont	CTV3_5digit	X30C5	Double incontinence
+urine_incont	CTV3_5digit	1A23.	Incontinence of urine
+urine_incont	CTV3_5digit	XabdF	Functional urinary incontinence
+urine_incont	CTV3_5digit	XE0rR	Stress incontinence
+urine_incont	CTV3_5digit	1A26.	Urge incontinence of urine
+urine_incont	CTV3_5digit	3940.	Bladder: incontinent
+urine_incont	CTV3_5digit	XaMAm	Insertion of retropubic device for stress urinary incontinence NEC
+urine_incont	CTV3_5digit	XaMtf	Insertion of retropubic device for female stress urinary incontinence NEC
+urine_incont	CTV3_5digit	7B421	Insertion of Kaufman prosthesis for male incontinence
+urine_incont	CTV3_5digit	XE0Gh	Implantation of bulbar urethral prosthesis for incontinence
+urine_incont	CTV3_5digit	8C14.	Incontinence care
+urine_incont	CTV3_5digit	XE0kn	Incontinence control
+urine_incont	CTV3_5digit	XaJtx	Referral to incontinence clinic
+urine_incont	CTV3_5digit	K586.	Stress incontinence - female
+urine_incont	CTV3_5digit	Kyu5A	[X]Other specified urinary incontinence
+urine_incont	CTV3_5digit	R083.	[D]Incontinence of urine
+urine_incont	CTV3_5digit	R0831	[D]Urethral sphincter incontinence
+urine_incont	CTV3_5digit	R0832	[D] Urge incontinence
+urine_incont	CTV3_5digit	R083z	[D]Incontinence of urine NOS

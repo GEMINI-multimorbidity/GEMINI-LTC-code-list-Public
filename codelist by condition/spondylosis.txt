@@ -1,0 +1,336 @@
+condition	vocab_id	code	description
+spondylosis	ICD10	M47.1	Other spondylosis with myelopathy
+spondylosis	ICD10	M47.2	Other spondylosis with radiculopathy
+spondylosis	ICD10	M47.8	Other spondylosis
+spondylosis	ICD10	M47.9	Spondylosis, unspecified
+spondylosis	Read2	F163200	Myelopathy due to spondylosis
+spondylosis	Read2	F337200	Nerve root and plexus compressions in spondylosis
+spondylosis	Read2	N11..00	Spondylosis and allied disorders
+spondylosis	Read2	N11..11	Arthritis of spine
+spondylosis	Read2	N11..12	Osteoarthritis of spine
+spondylosis	Read2	N110.00	Cervical spondylosis without myelopathy
+spondylosis	Read2	N110.11	Cervical spondylosis
+spondylosis	Read2	N110.12	Osteoarthritis cervical spine
+spondylosis	Read2	N110000	Single-level cervical spondylosis without myelopathy
+spondylosis	Read2	N110100	Two-level cervical spondylosis without myelopathy
+spondylosis	Read2	N110200	Multiple-level cervical spondylosis without myelopathy
+spondylosis	Read2	N111.00	Cervical spondylosis with myelopathy
+spondylosis	Read2	N111000	Single-level cervical spondylosis with myelopathy
+spondylosis	Read2	N111100	Two-level cervical spondylosis with myelopathy
+spondylosis	Read2	N111200	Multiple-level cervical spondylosis with myelopathy
+spondylosis	Read2	N112.00	Thoracic spondylosis without myelopathy
+spondylosis	Read2	N112.11	Thoracic spondylosis
+spondylosis	Read2	N112000	Single-level thoracic spondylosis without myelopathy
+spondylosis	Read2	N112100	Two-level thoracic spondylosis without myelopathy
+spondylosis	Read2	N112200	Multiple-level thoracic spondylosis without myelopathy
+spondylosis	Read2	N112300	Dorsal spondylosis without myelopathy
+spondylosis	Read2	N113.00	Thoracic spondylosis with myelopathy
+spondylosis	Read2	N113000	Single-level thoracic spondylosis with myelopathy
+spondylosis	Read2	N113200	Multiple-level thoracic spondylosis with myelopathy
+spondylosis	Read2	N114.00	Lumbosacral spondylosis without myelopathy
+spondylosis	Read2	N114.11	Degeneration of lumbar spine
+spondylosis	Read2	N114.12	Lumbar spondylosis
+spondylosis	Read2	N114000	Single-level lumbosacral spondylosis without myelopathy
+spondylosis	Read2	N114100	Two-level lumbosacral spondylosis without myelopathy
+spondylosis	Read2	N114200	Multiple-level lumbosacral spondylosis without myelopathy
+spondylosis	Read2	N115.00	Lumbosacral spondylosis with myelopathy
+spondylosis	Read2	N115000	Single-level lumbosacral spondylosis with myelopathy
+spondylosis	Read2	N115100	Two-level lumbosacral spondylosis with myelopathy
+spondylosis	Read2	N115200	Multiple-level lumbosacral spondylosis with myelopathy
+spondylosis	Read2	N119.00	Cervical spondylosis with radiculopathy
+spondylosis	Read2	N119000	Single-level cervical spondylosis with radiculopathy
+spondylosis	Read2	N119100	Two-level cervical spondylosis with radiculopathy
+spondylosis	Read2	N119200	Multiple-level cervical spondylosis with radiculopathy
+spondylosis	Read2	N11A.00	Cervical spondylosis with vascular compression
+spondylosis	Read2	N11B.00	Thoracic spondylosis with radiculopathy
+spondylosis	Read2	N11B000	Single-level thoracic spondylosis with radiculopathy
+spondylosis	Read2	N11B100	Two-level thoracic spondylosis with radiculopathy
+spondylosis	Read2	N11B200	Multiple-level thoracic spondylosis with radiculopathy
+spondylosis	Read2	N11C.00	Lumbosacral spondylosis with radiculopathy
+spondylosis	Read2	N11C000	Single-level lumbosacral spondylosis with radiculopathy
+spondylosis	Read2	N11C100	Two-level lumbosacral spondylosis with radiculopathy
+spondylosis	Read2	N11C200	Multiple-level lumbosacral spondylosis with radiculopathy
+spondylosis	Read2	N11D.00	Osteoarthritis of spine
+spondylosis	Read2	N11D000	Osteoarthritis of cervical spine
+spondylosis	Read2	N11D100	Osteoarthritis of thoracic spine
+spondylosis	Read2	N11D200	Osteoarthritis of lumbar spine
+spondylosis	Read2	N11D300	Osteoarthritis of spine NOS
+spondylosis	Read2	N11E.00	Cervical spondylosis
+spondylosis	Read2	N11z.00	Spondylosis NOS
+spondylosis	Read2	N11z.11	Osteoarthritis spine
+spondylosis	Read2	N11z000	Spondylosis without myelopathy, NOS
+spondylosis	Read2	N11z100	Spondylosis with myelopathy, NOS
+spondylosis	Read2	N11zz00	Spondylosis NOS
+spondylosis	Read2	Nyu6300	[X]Other spondylosis with radiculopathy
+spondylosis	Read2	Nyu6400	[X]Other spondylosis
+spondylosis	CTV3	F1632Y008K	Myelopathy due to spondylosis
+spondylosis	CTV3	F3372YMAi3	Nerve root and plexus compressions in spondylosis
+spondylosis	CTV3	XE1EtY70nv	Spondylosis and allied disorders
+spondylosis	CTV3	X7039Y70LL	Spondylosis
+spondylosis	CTV3	X7039Y70pr	Osteoarthritis of spine
+spondylosis	CTV3	XE1EuY70q7	Cervical spondylosis without myelopathy
+spondylosis	CTV3	X703jY70MN	Cervical spondylosis
+spondylosis	CTV3	X703jYaVDj	Osteoarthritis of cervical spine
+spondylosis	CTV3	N1100Y70qA	Single-level cervical spondylosis without myelopathy
+spondylosis	CTV3	N1101Y70q9	Two-level cervical spondylosis without myelopathy
+spondylosis	CTV3	N1102Y70q8	Multiple-level cervical spondylosis without myelopathy
+spondylosis	CTV3	XE1EvY70q3	Cervical spondylosis with myelopathy
+spondylosis	CTV3	N1110Y70q6	Single-level cervical spondylosis with myelopathy
+spondylosis	CTV3	N1111Y70q5	Two-level cervical spondylosis with myelopathy
+spondylosis	CTV3	N1112Y70q4	Multiple-level cervical spondylosis with myelopathy
+spondylosis	CTV3	XE1EwY70qK	Thoracic spondylosis without myelopathy
+spondylosis	CTV3	X70CwY70qB	Thoracic spondylosis
+spondylosis	CTV3	N1120Y70qN	Single-level thoracic spondylosis without myelopathy
+spondylosis	CTV3	N1121Y70qM	Two-level thoracic spondylosis without myelopathy
+spondylosis	CTV3	N1122Y70qL	Multiple-level thoracic spondylosis without myelopathy
+spondylosis	CTV3	XE1EwYaeEK	Dorsal spondylosis without myelopathy
+spondylosis	CTV3	N113.Y70qG	Thoracic spondylosis with myelopathy
+spondylosis	CTV3	N1130Y70qJ	Single-level thoracic spondylosis with myelopathy
+spondylosis	CTV3	N1132Y70qH	Multiple-level thoracic spondylosis with myelopathy
+spondylosis	CTV3	XE1ExY70qY	Lumbosacral spondylosis without myelopathy
+spondylosis	CTV3	X703kY70MO	Lumbar spondylosis
+spondylosis	CTV3	X703kYaVDi	Osteoarthritis of lumbar spine
+spondylosis	CTV3	N1140Y70qb	Single-level lumbosacral spondylosis without myelopathy
+spondylosis	CTV3	N1141Y70qa	Two-level lumbosacral spondylosis without myelopathy
+spondylosis	CTV3	N1142Y70qZ	Multiple-level lumbosacral spondylosis without myelopathy
+spondylosis	CTV3	N115.Y70qU	Lumbosacral spondylosis with myelopathy
+spondylosis	CTV3	N1150Y70qX	Single-level lumbosacral spondylosis with myelopathy
+spondylosis	CTV3	N1151Y70qW	Two-level lumbosacral spondylosis with myelopathy
+spondylosis	CTV3	N1152Y70qV	Multiple-level lumbosacral spondylosis with myelopathy
+spondylosis	CTV3	N119.Y70pz	Cervical spondylosis with radiculopathy
+spondylosis	CTV3	N1190Y70q2	Single-level cervical spondylosis with radiculopathy
+spondylosis	CTV3	N1191Y70q1	Two-level cervical spondylosis with radiculopathy
+spondylosis	CTV3	N1192Y70q0	Multiple-level cervical spondylosis with radiculopathy
+spondylosis	CTV3	N11A.Y70py	Cervical spondylosis with vascular compression
+spondylosis	CTV3	N11B.Y70qC	Thoracic spondylosis with radiculopathy
+spondylosis	CTV3	N11B0Y70qF	Single-level thoracic spondylosis with radiculopathy
+spondylosis	CTV3	N11B1Y70qE	Two-level thoracic spondylosis with radiculopathy
+spondylosis	CTV3	N11B2Y70qD	Multiple-level thoracic spondylosis with radiculopathy
+spondylosis	CTV3	N11C.Y70qQ	Lumbosacral spondylosis with radiculopathy
+spondylosis	CTV3	N11C0Y70qT	Single-level lumbosacral spondylosis with radiculopathy
+spondylosis	CTV3	N11C1Y70qS	Two-level lumbosacral spondylosis with radiculopathy
+spondylosis	CTV3	N11C2Y70qR	Multiple-level lumbosacral spondylosis with radiculopathy
+spondylosis	CTV3	X70CwYaVDg	Osteoarthritis of thoracic spine
+spondylosis	CTV3	XE1EyYamzN	Osteoarthritis of spine NOS
+spondylosis	CTV3	XE1EyY70ps	Spondylosis NOS
+spondylosis	CTV3	N11z0Y70pv	Spondylosis without myelopathy, NOS
+spondylosis	CTV3	N11z1Y70pu	Spondylosis with myelopathy, NOS
+spondylosis	CTV3	Nyu63YMANo	[X]Other spondylosis with radiculopathy
+spondylosis	CTV3	Nyu64YMANp	[X]Other spondylosis
+spondylosis	medcodeid	19006012	Thoracic spondylosis with myelopathy
+spondylosis	medcodeid	297150011	Myelopathy due to spondylosis
+spondylosis	medcodeid	311055019	Single-level cervical spondylosis without myelopathy
+spondylosis	medcodeid	311056018	Two-level cervical spondylosis without myelopathy
+spondylosis	medcodeid	311061016	Single-level cervical spondylosis with myelopathy
+spondylosis	medcodeid	311069019	Two-level thoracic spondylosis without myelopathy
+spondylosis	medcodeid	311070018	Multiple-level thoracic spondylosis without myelopathy
+spondylosis	medcodeid	311082010	Lumbosacral spondylosis with myelopathy
+spondylosis	medcodeid	311083017	Single-level lumbosacral spondylosis with myelopathy
+spondylosis	medcodeid	311084011	Two-level lumbosacral spondylosis with myelopathy
+spondylosis	medcodeid	311085012	Multiple-level lumbosacral spondylosis with myelopathy
+spondylosis	medcodeid	311091014	Cervical spondylosis with radiculopathy
+spondylosis	medcodeid	311093012	Single-level cervical spondylosis with radiculopathy
+spondylosis	medcodeid	311094018	Two-level cervical spondylosis with radiculopathy
+spondylosis	medcodeid	311095017	Multiple-level cervical spondylosis with radiculopathy
+spondylosis	medcodeid	311096016	Cervical spondylosis with vascular compression
+spondylosis	medcodeid	311100015	Two-level thoracic spondylosis with radiculopathy
+spondylosis	medcodeid	311106014	Lumbosacral spondylosis with radiculopathy
+spondylosis	medcodeid	311109019	Two-level lumbosacral spondylosis with radiculopathy
+spondylosis	medcodeid	311110012	Multiple-level lumbosacral spondylosis with radiculopathy
+spondylosis	medcodeid	359432012	Lumbar spondylosis
+spondylosis	medcodeid	359433019	Osteoarthritis of lumbar spine
+spondylosis	medcodeid	400266016	Spondylosis and allied disorders
+spondylosis	medcodeid	1481872012	Thoracic spondylosis
+spondylosis	medcodeid	80324016	Lumbosacral spondylosis without myelopathy
+spondylosis	medcodeid	311118017	Spondylosis without myelopathy, NOS
+spondylosis	medcodeid	312613012	[X]Other spondylosis with radiculopathy
+spondylosis	medcodeid	400271011	Spondylosis NOS
+spondylosis	medcodeid	1209790019	Arthritis of spine
+spondylosis	medcodeid	2476044012	Osteoarthritis of spine NOS
+spondylosis	medcodeid	18191000006115	Osteoarthritis spine
+spondylosis	medcodeid	219611000000112	Osteoarthritis cervical spine
+spondylosis	medcodeid	311119013	Spondylosis with myelopathy, NOS
+spondylosis	medcodeid	508047017	Osteoarthritis of spine
+spondylosis	medcodeid	1481870016	Cervical spondylosis
+spondylosis	medcodeid	311057010	Multiple-level cervical spondylosis without myelopathy
+spondylosis	medcodeid	311097013	Thoracic spondylosis with radiculopathy
+spondylosis	medcodeid	311099011	Single-level thoracic spondylosis with radiculopathy
+spondylosis	medcodeid	312614018	[X]Other spondylosis
+spondylosis	medcodeid	18181000006118	Osteoarthritis of spine
+spondylosis	medcodeid	1492276018	Osteoarthritis of cervical spine
+spondylosis	medcodeid	1492281010	Osteoarthritis of thoracic spine
+spondylosis	medcodeid	400267013	Cervical spondylosis without myelopathy
+spondylosis	medcodeid	400268015	Thoracic spondylosis without myelopathy
+spondylosis	medcodeid	400269011	Dorsal spondylosis without myelopathy
+spondylosis	medcodeid	311062011	Two-level cervical spondylosis with myelopathy
+spondylosis	medcodeid	311079017	Single-level lumbosacral spondylosis without myelopathy
+spondylosis	medcodeid	311080019	Two-level lumbosacral spondylosis without myelopathy
+spondylosis	medcodeid	311081015	Multiple-level lumbosacral spondylosis without myelopathy
+spondylosis	medcodeid	108431018	Cervical spondylosis with myelopathy
+spondylosis	medcodeid	1705871000006118	Cervical spondylosis
+spondylosis	medcodeid	311063018	Multiple-level cervical spondylosis with myelopathy
+spondylosis	medcodeid	311068010	Single-level thoracic spondylosis without myelopathy
+spondylosis	medcodeid	311074010	Multiple-level thoracic spondylosis with myelopathy
+spondylosis	medcodeid	311103018	Multiple-level thoracic spondylosis with radiculopathy
+spondylosis	medcodeid	311108010	Single-level lumbosacral spondylosis with radiculopathy
+spondylosis	medcodeid	311072014	Single-level thoracic spondylosis with myelopathy
+spondylosis	medcodeid	297465015	Nerve root and plexus compressions in spondylosis
+spondylosis	medcodeid	130001000006111	Spondylosis NOS
+spondylosis	medcodeid	611421000006111	Degeneration of lumbar spine
+spondylosis	SNOMEDCT	10948005	Thoracic spondylosis with myelopathy
+spondylosis	SNOMEDCT	192907007	Myelopathy due to spondylosis
+spondylosis	SNOMEDCT	202657000	Single-level cervical spondylosis without myelopathy
+spondylosis	SNOMEDCT	202658005	Two-level cervical spondylosis without myelopathy
+spondylosis	SNOMEDCT	202661006	Single-level cervical spondylosis with myelopathy
+spondylosis	SNOMEDCT	202667005	Two-level thoracic spondylosis without myelopathy
+spondylosis	SNOMEDCT	202668000	Multiple-level thoracic spondylosis without myelopathy
+spondylosis	SNOMEDCT	202677007	Lumbosacral spondylosis with myelopathy
+spondylosis	SNOMEDCT	202678002	Single-level lumbosacral spondylosis with myelopathy
+spondylosis	SNOMEDCT	202679005	Two-level lumbosacral spondylosis with myelopathy
+spondylosis	SNOMEDCT	202680008	Multiple-level lumbosacral spondylosis with myelopathy
+spondylosis	SNOMEDCT	202683005	Cervical spondylosis with radiculopathy
+spondylosis	SNOMEDCT	202684004	Single-level cervical spondylosis with radiculopathy
+spondylosis	SNOMEDCT	202685003	Two-level cervical spondylosis with radiculopathy
+spondylosis	SNOMEDCT	202686002	Multiple-level cervical spondylosis with radiculopathy
+spondylosis	SNOMEDCT	202687006	Cervical spondylosis with vascular compression
+spondylosis	SNOMEDCT	202690000	Two-level thoracic spondylosis with radiculopathy
+spondylosis	SNOMEDCT	202693003	Lumbosacral spondylosis with radiculopathy
+spondylosis	SNOMEDCT	202695005	Two-level lumbosacral spondylosis with radiculopathy
+spondylosis	SNOMEDCT	202696006	Multiple-level lumbosacral spondylosis with radiculopathy
+spondylosis	SNOMEDCT	239880009	Lumbar spondylosis
+spondylosis	SNOMEDCT	239880009	Osteoarthritis of lumbar spine
+spondylosis	SNOMEDCT	267969005	Spondylosis and allied disorders
+spondylosis	SNOMEDCT	387802007	Thoracic spondylosis
+spondylosis	SNOMEDCT	48210000	Lumbosacral spondylosis without myelopathy
+spondylosis	SNOMEDCT	68859000	Spondylosis without myelopathy, NOS
+spondylosis	SNOMEDCT	8847002	[X]Other spondylosis with radiculopathy
+spondylosis	SNOMEDCT	8847002	Spondylosis NOS
+spondylosis	SNOMEDCT	8847002	Arthritis of spine
+spondylosis	SNOMEDCT	8847002	Osteoarthritis of spine NOS
+spondylosis	SNOMEDCT	8847002	Osteoarthritis spine
+spondylosis	SNOMEDCT	387800004	Osteoarthritis cervical spine
+spondylosis	SNOMEDCT	192907007	Spondylosis with myelopathy, NOS
+spondylosis	SNOMEDCT	8847002	Osteoarthritis of spine
+spondylosis	SNOMEDCT	387800004	Cervical spondylosis
+spondylosis	SNOMEDCT	202659002	Multiple-level cervical spondylosis without myelopathy
+spondylosis	SNOMEDCT	202688001	Thoracic spondylosis with radiculopathy
+spondylosis	SNOMEDCT	202689009	Single-level thoracic spondylosis with radiculopathy
+spondylosis	SNOMEDCT	8847002	[X]Other spondylosis
+spondylosis	SNOMEDCT	387800004	Osteoarthritis of cervical spine
+spondylosis	SNOMEDCT	387802007	Osteoarthritis of thoracic spine
+spondylosis	SNOMEDCT	267970006	Cervical spondylosis without myelopathy
+spondylosis	SNOMEDCT	267971005	Thoracic spondylosis without myelopathy
+spondylosis	SNOMEDCT	267971005	Dorsal spondylosis without myelopathy
+spondylosis	SNOMEDCT	202662004	Two-level cervical spondylosis with myelopathy
+spondylosis	SNOMEDCT	202674000	Single-level lumbosacral spondylosis without myelopathy
+spondylosis	SNOMEDCT	202675004	Two-level lumbosacral spondylosis without myelopathy
+spondylosis	SNOMEDCT	202676003	Multiple-level lumbosacral spondylosis without myelopathy
+spondylosis	SNOMEDCT	65260001	Cervical spondylosis with myelopathy
+spondylosis	SNOMEDCT	202663009	Multiple-level cervical spondylosis with myelopathy
+spondylosis	SNOMEDCT	202666001	Single-level thoracic spondylosis without myelopathy
+spondylosis	SNOMEDCT	202672001	Multiple-level thoracic spondylosis with myelopathy
+spondylosis	SNOMEDCT	202692008	Multiple-level thoracic spondylosis with radiculopathy
+spondylosis	SNOMEDCT	202694009	Single-level lumbosacral spondylosis with radiculopathy
+spondylosis	SNOMEDCT	202670009	Single-level thoracic spondylosis with myelopathy
+spondylosis	SNOMEDCT	193120004	Nerve root and plexus compressions in spondylosis
+spondylosis	SNOMEDCT	239880009	Degeneration of lumbar spine
+spondylosis	Read2_5digit	F1632	Myelopathy due to spondylosis
+spondylosis	Read2_5digit	F3372	Nerve root and plexus compressions in spondylosis
+spondylosis	Read2_5digit	N11..	Spondylosis and allied disorders
+spondylosis	Read2_5digit	N110.	Cervical spondylosis without myelopathy
+spondylosis	Read2_5digit	N1100	Single-level cervical spondylosis without myelopathy
+spondylosis	Read2_5digit	N1101	Two-level cervical spondylosis without myelopathy
+spondylosis	Read2_5digit	N1102	Multiple-level cervical spondylosis without myelopathy
+spondylosis	Read2_5digit	N111.	Cervical spondylosis with myelopathy
+spondylosis	Read2_5digit	N1110	Single-level cervical spondylosis with myelopathy
+spondylosis	Read2_5digit	N1111	Two-level cervical spondylosis with myelopathy
+spondylosis	Read2_5digit	N1112	Multiple-level cervical spondylosis with myelopathy
+spondylosis	Read2_5digit	N112.	Thoracic spondylosis without myelopathy
+spondylosis	Read2_5digit	N1120	Single-level thoracic spondylosis without myelopathy
+spondylosis	Read2_5digit	N1121	Two-level thoracic spondylosis without myelopathy
+spondylosis	Read2_5digit	N1122	Multiple-level thoracic spondylosis without myelopathy
+spondylosis	Read2_5digit	N1123	Dorsal spondylosis without myelopathy
+spondylosis	Read2_5digit	N113.	Thoracic spondylosis with myelopathy
+spondylosis	Read2_5digit	N1130	Single-level thoracic spondylosis with myelopathy
+spondylosis	Read2_5digit	N1132	Multiple-level thoracic spondylosis with myelopathy
+spondylosis	Read2_5digit	N114.	Lumbosacral spondylosis without myelopathy
+spondylosis	Read2_5digit	N1140	Single-level lumbosacral spondylosis without myelopathy
+spondylosis	Read2_5digit	N1141	Two-level lumbosacral spondylosis without myelopathy
+spondylosis	Read2_5digit	N1142	Multiple-level lumbosacral spondylosis without myelopathy
+spondylosis	Read2_5digit	N115.	Lumbosacral spondylosis with myelopathy
+spondylosis	Read2_5digit	N1150	Single-level lumbosacral spondylosis with myelopathy
+spondylosis	Read2_5digit	N1151	Two-level lumbosacral spondylosis with myelopathy
+spondylosis	Read2_5digit	N1152	Multiple-level lumbosacral spondylosis with myelopathy
+spondylosis	Read2_5digit	N119.	Cervical spondylosis with radiculopathy
+spondylosis	Read2_5digit	N1190	Single-level cervical spondylosis with radiculopathy
+spondylosis	Read2_5digit	N1191	Two-level cervical spondylosis with radiculopathy
+spondylosis	Read2_5digit	N1192	Multiple-level cervical spondylosis with radiculopathy
+spondylosis	Read2_5digit	N11A.	Cervical spondylosis with vascular compression
+spondylosis	Read2_5digit	N11B.	Thoracic spondylosis with radiculopathy
+spondylosis	Read2_5digit	N11B0	Single-level thoracic spondylosis with radiculopathy
+spondylosis	Read2_5digit	N11B1	Two-level thoracic spondylosis with radiculopathy
+spondylosis	Read2_5digit	N11B2	Multiple-level thoracic spondylosis with radiculopathy
+spondylosis	Read2_5digit	N11C.	Lumbosacral spondylosis with radiculopathy
+spondylosis	Read2_5digit	N11C0	Single-level lumbosacral spondylosis with radiculopathy
+spondylosis	Read2_5digit	N11C1	Two-level lumbosacral spondylosis with radiculopathy
+spondylosis	Read2_5digit	N11C2	Multiple-level lumbosacral spondylosis with radiculopathy
+spondylosis	Read2_5digit	N11D.	Osteoarthritis of spine
+spondylosis	Read2_5digit	N11D0	Osteoarthritis of cervical spine
+spondylosis	Read2_5digit	N11D1	Osteoarthritis of thoracic spine
+spondylosis	Read2_5digit	N11D2	Osteoarthritis of lumbar spine
+spondylosis	Read2_5digit	N11D3	Osteoarthritis of spine NOS
+spondylosis	Read2_5digit	N11E.	Cervical spondylosis
+spondylosis	Read2_5digit	N11z.	Spondylosis NOS
+spondylosis	Read2_5digit	N11z0	Spondylosis without myelopathy, NOS
+spondylosis	Read2_5digit	N11z1	Spondylosis with myelopathy, NOS
+spondylosis	Read2_5digit	N11zz	Spondylosis NOS
+spondylosis	Read2_5digit	Nyu63	[X]Other spondylosis with radiculopathy
+spondylosis	Read2_5digit	Nyu64	[X]Other spondylosis
+spondylosis	CTV3_5digit	F1632	Myelopathy due to spondylosis
+spondylosis	CTV3_5digit	F3372	Nerve root and plexus compressions in spondylosis
+spondylosis	CTV3_5digit	XE1Et	Spondylosis and allied disorders
+spondylosis	CTV3_5digit	X7039	Spondylosis
+spondylosis	CTV3_5digit	XE1Eu	Cervical spondylosis without myelopathy
+spondylosis	CTV3_5digit	X703j	Cervical spondylosis
+spondylosis	CTV3_5digit	N1100	Single-level cervical spondylosis without myelopathy
+spondylosis	CTV3_5digit	N1101	Two-level cervical spondylosis without myelopathy
+spondylosis	CTV3_5digit	N1102	Multiple-level cervical spondylosis without myelopathy
+spondylosis	CTV3_5digit	XE1Ev	Cervical spondylosis with myelopathy
+spondylosis	CTV3_5digit	N1110	Single-level cervical spondylosis with myelopathy
+spondylosis	CTV3_5digit	N1111	Two-level cervical spondylosis with myelopathy
+spondylosis	CTV3_5digit	N1112	Multiple-level cervical spondylosis with myelopathy
+spondylosis	CTV3_5digit	XE1Ew	Thoracic spondylosis without myelopathy
+spondylosis	CTV3_5digit	X70Cw	Thoracic spondylosis
+spondylosis	CTV3_5digit	N1120	Single-level thoracic spondylosis without myelopathy
+spondylosis	CTV3_5digit	N1121	Two-level thoracic spondylosis without myelopathy
+spondylosis	CTV3_5digit	N1122	Multiple-level thoracic spondylosis without myelopathy
+spondylosis	CTV3_5digit	N113.	Thoracic spondylosis with myelopathy
+spondylosis	CTV3_5digit	N1130	Single-level thoracic spondylosis with myelopathy
+spondylosis	CTV3_5digit	N1132	Multiple-level thoracic spondylosis with myelopathy
+spondylosis	CTV3_5digit	XE1Ex	Lumbosacral spondylosis without myelopathy
+spondylosis	CTV3_5digit	X703k	Lumbar spondylosis
+spondylosis	CTV3_5digit	N1140	Single-level lumbosacral spondylosis without myelopathy
+spondylosis	CTV3_5digit	N1141	Two-level lumbosacral spondylosis without myelopathy
+spondylosis	CTV3_5digit	N1142	Multiple-level lumbosacral spondylosis without myelopathy
+spondylosis	CTV3_5digit	N115.	Lumbosacral spondylosis with myelopathy
+spondylosis	CTV3_5digit	N1150	Single-level lumbosacral spondylosis with myelopathy
+spondylosis	CTV3_5digit	N1151	Two-level lumbosacral spondylosis with myelopathy
+spondylosis	CTV3_5digit	N1152	Multiple-level lumbosacral spondylosis with myelopathy
+spondylosis	CTV3_5digit	N119.	Cervical spondylosis with radiculopathy
+spondylosis	CTV3_5digit	N1190	Single-level cervical spondylosis with radiculopathy
+spondylosis	CTV3_5digit	N1191	Two-level cervical spondylosis with radiculopathy
+spondylosis	CTV3_5digit	N1192	Multiple-level cervical spondylosis with radiculopathy
+spondylosis	CTV3_5digit	N11A.	Cervical spondylosis with vascular compression
+spondylosis	CTV3_5digit	N11B.	Thoracic spondylosis with radiculopathy
+spondylosis	CTV3_5digit	N11B0	Single-level thoracic spondylosis with radiculopathy
+spondylosis	CTV3_5digit	N11B1	Two-level thoracic spondylosis with radiculopathy
+spondylosis	CTV3_5digit	N11B2	Multiple-level thoracic spondylosis with radiculopathy
+spondylosis	CTV3_5digit	N11C.	Lumbosacral spondylosis with radiculopathy
+spondylosis	CTV3_5digit	N11C0	Single-level lumbosacral spondylosis with radiculopathy
+spondylosis	CTV3_5digit	N11C1	Two-level lumbosacral spondylosis with radiculopathy
+spondylosis	CTV3_5digit	N11C2	Multiple-level lumbosacral spondylosis with radiculopathy
+spondylosis	CTV3_5digit	XE1Ey	Osteoarthritis of spine NOS
+spondylosis	CTV3_5digit	N11z0	Spondylosis without myelopathy, NOS
+spondylosis	CTV3_5digit	N11z1	Spondylosis with myelopathy, NOS
+spondylosis	CTV3_5digit	Nyu63	[X]Other spondylosis with radiculopathy
+spondylosis	CTV3_5digit	Nyu64	[X]Other spondylosis

@@ -1,0 +1,97 @@
+condition	vocab_id	code	description
+IDA	ICD10	D50	Iron deficiency anaemia
+IDA	Read2	D0...11	Asiderotic anaemia
+IDA	Read2	D0...12	Sideropenic anaemia
+IDA	Read2	D00..00	Iron deficiency anaemias
+IDA	Read2	D000.00	Iron deficiency anaemia due to chronic blood loss
+IDA	Read2	D000.11	Normocytic anaemia due to chronic blood loss
+IDA	Read2	D000.12	Iron deficiency anaemia due to blood loss
+IDA	Read2	D001.00	Iron deficiency anaemia due to dietary causes
+IDA	Read2	D00y.00	Other specified iron deficiency anaemia
+IDA	Read2	D00y.11	Kelly - Paterson syndrome
+IDA	Read2	D00y.12	Plummer - Vinson syndrome
+IDA	Read2	D00y000	Sideropenic dysphagia
+IDA	Read2	D00y011	Kelly-Paterson syndrome
+IDA	Read2	D00y012	Plummer-Vinson syndrome
+IDA	Read2	D00yz00	Other specified iron deficiency anaemia NOS
+IDA	Read2	D00z.00	Unspecified iron deficiency anaemia
+IDA	Read2	D00z000	Achlorhydric anaemia
+IDA	Read2	D00z100	Chlorotic anaemia
+IDA	Read2	D00zz00	Iron deficiency anaemia NOS
+IDA	Read2	Dyu0000	[X]Other iron deficiency anaemias
+IDA	CTV3	XE13cY20ZK	Iron deficiency anaemia
+IDA	CTV3	XE13cYaQvU	IDA - Iron deficiency anaemia
+IDA	CTV3	XE13dY20ZX	Iron deficiency anaemia due to chronic blood loss
+IDA	CTV3	X20BzY20Zb	Normocytic anaemia due to chronic blood loss
+IDA	CTV3	D001.Y20ZW	Iron deficiency anaemia due to dietary causes
+IDA	CTV3	XE13eY20ZV	Other specified iron deficiency anaemia
+IDA	CTV3	D00y0Y20Ze	Sideropenic dysphagia
+IDA	CTV3	D00y0YMH0H	Kelly-Paterson syndrome
+IDA	CTV3	D00y0Y20Zi	Plummer-Vinson syndrome
+IDA	CTV3	D00yzY20ZU	Other specified iron deficiency anaemia NOS
+IDA	CTV3	D00z.Y20ZQ	Unspecified iron deficiency anaemia
+IDA	CTV3	D00z0Y20ZT	Achlorhydric anaemia
+IDA	CTV3	D00z1Y20ZS	Chlorotic anaemia
+IDA	CTV3	D00zzY20ZP	Iron deficiency anaemia NOS
+IDA	CTV3	Dyu00YMAAW	[X]Other iron deficiency anaemias
+IDA	medcodeid	132937017	Plummer-Vinson syndrome
+IDA	medcodeid	293884012	Chlorotic anaemia
+IDA	medcodeid	294567019	[X]Other iron deficiency anaemias
+IDA	medcodeid	507619019	Asiderotic anaemia
+IDA	medcodeid	507621012	Sideropenic anaemia
+IDA	medcodeid	281961000006111	Kelly - Paterson syndrome
+IDA	medcodeid	293877016	Other specified iron deficiency anaemia NOS
+IDA	medcodeid	745801000006116	Iron deficiency anaemia due to blood loss
+IDA	medcodeid	399195014	Other specified iron deficiency anaemia
+IDA	medcodeid	293880015	Unspecified iron deficiency anaemia
+IDA	medcodeid	293888010	Iron deficiency anaemia NOS
+IDA	medcodeid	219431000006113	Plummer - Vinson syndrome
+IDA	medcodeid	504528016	Achlorhydric anaemia
+IDA	medcodeid	351092018	Normocytic anaemia due to chronic blood loss
+IDA	medcodeid	755101000006110	Kelly-Paterson syndrome
+IDA	medcodeid	132939019	Sideropenic dysphagia
+IDA	medcodeid	745851000006117	Iron deficiency anaemias
+IDA	medcodeid	745811000006118	Iron deficiency anaemia due to chronic blood loss
+IDA	medcodeid	293864013	Iron deficiency anaemia due to dietary causes
+IDA	SNOMEDCT	80126007	Plummer-Vinson syndrome
+IDA	SNOMEDCT	87522002	Chlorotic anaemia
+IDA	SNOMEDCT	87522002	[X]Other iron deficiency anaemias
+IDA	SNOMEDCT	87522002	Asiderotic anaemia
+IDA	SNOMEDCT	87522002	Sideropenic anaemia
+IDA	SNOMEDCT	80126007	Kelly - Paterson syndrome
+IDA	SNOMEDCT	87522002	Other specified iron deficiency anaemia NOS
+IDA	SNOMEDCT	413533008	Iron deficiency anaemia due to blood loss
+IDA	SNOMEDCT	87522002	Other specified iron deficiency anaemia
+IDA	SNOMEDCT	87522002	Unspecified iron deficiency anaemia
+IDA	SNOMEDCT	87522002	Iron deficiency anaemia NOS
+IDA	SNOMEDCT	80126007	Plummer - Vinson syndrome
+IDA	SNOMEDCT	80875006	Achlorhydric anaemia
+IDA	SNOMEDCT	234352004	Normocytic anaemia due to chronic blood loss
+IDA	SNOMEDCT	80126007	Kelly-Paterson syndrome
+IDA	SNOMEDCT	80126007	Sideropenic dysphagia
+IDA	SNOMEDCT	87522002	Iron deficiency anaemias
+IDA	SNOMEDCT	413533008	Iron deficiency anaemia due to chronic blood loss
+IDA	SNOMEDCT	191128004	Iron deficiency anaemia due to dietary causes
+IDA	Read2_5digit	D00..	Iron deficiency anaemias
+IDA	Read2_5digit	D000.	Iron deficiency anaemia due to chronic blood loss
+IDA	Read2_5digit	D001.	Iron deficiency anaemia due to dietary causes
+IDA	Read2_5digit	D00y.	Other specified iron deficiency anaemia
+IDA	Read2_5digit	D00y0	Sideropenic dysphagia
+IDA	Read2_5digit	D00yz	Other specified iron deficiency anaemia NOS
+IDA	Read2_5digit	D00z.	Unspecified iron deficiency anaemia
+IDA	Read2_5digit	D00z0	Achlorhydric anaemia
+IDA	Read2_5digit	D00z1	Chlorotic anaemia
+IDA	Read2_5digit	D00zz	Iron deficiency anaemia NOS
+IDA	Read2_5digit	Dyu00	[X]Other iron deficiency anaemias
+IDA	CTV3_5digit	XE13c	Iron deficiency anaemia
+IDA	CTV3_5digit	XE13d	Iron deficiency anaemia due to chronic blood loss
+IDA	CTV3_5digit	X20Bz	Normocytic anaemia due to chronic blood loss
+IDA	CTV3_5digit	D001.	Iron deficiency anaemia due to dietary causes
+IDA	CTV3_5digit	XE13e	Other specified iron deficiency anaemia
+IDA	CTV3_5digit	D00y0	Sideropenic dysphagia
+IDA	CTV3_5digit	D00yz	Other specified iron deficiency anaemia NOS
+IDA	CTV3_5digit	D00z.	Unspecified iron deficiency anaemia
+IDA	CTV3_5digit	D00z0	Achlorhydric anaemia
+IDA	CTV3_5digit	D00z1	Chlorotic anaemia
+IDA	CTV3_5digit	D00zz	Iron deficiency anaemia NOS
+IDA	CTV3_5digit	Dyu00	[X]Other iron deficiency anaemias

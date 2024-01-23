@@ -1,0 +1,253 @@
+condition	vocab_id	code	description
+diverticuli	ICD10	K38.2	Diverticulum of appendix
+diverticuli	ICD10	K57	Diverticular disease of intestine
+diverticuli	Read2	7718000	Excision of diverticulum of colon
+diverticuli	Read2	J23z300	Appendicular diverticulum
+diverticuli	Read2	J51..00	Diverticula of intestine
+diverticuli	Read2	J51..11	Diverticular disease
+diverticuli	Read2	J510.00	Diverticulosis
+diverticuli	Read2	J510000	Diverticulosis of the duodenum
+diverticuli	Read2	J510100	Diverticulosis of the jejunum
+diverticuli	Read2	J510200	Diverticulosis of the ileum
+diverticuli	Read2	J510300	Diverticulosis of the small intestine unspecified
+diverticuli	Read2	J510400	Diverticulosis of the small intestine NOS
+diverticuli	Read2	J510500	Diverticulosis of the colon
+diverticuli	Read2	J510600	Diverticulosis of the large intestine unspecified
+diverticuli	Read2	J510700	Diverticulosis of the large intestine NOS
+diverticuli	Read2	J510800	Diverticular disease of both small and large intestine without perforation or abscess
+diverticuli	Read2	J510900	Bleeding diverticulosis
+diverticuli	Read2	J510y00	Diverticulosis unspecified
+diverticuli	Read2	J510z00	Diverticulosis NOS
+diverticuli	Read2	J511.00	Diverticulitis
+diverticuli	Read2	J511000	Diverticulitis of the duodenum
+diverticuli	Read2	J511100	Diverticulitis of the jejunum
+diverticuli	Read2	J511200	Diverticulitis of the ileum
+diverticuli	Read2	J511300	Diverticulitis of the small intestine unspecified
+diverticuli	Read2	J511400	Diverticulitis of the small intestine NOS
+diverticuli	Read2	J511500	Diverticulitis of the colon
+diverticuli	Read2	J511600	Diverticulitis of the large intestine unspecified
+diverticuli	Read2	J511700	Diverticulitis of the large intestine NOS
+diverticuli	Read2	J511y00	Diverticulitis unspecified
+diverticuli	Read2	J511z00	Diverticulitis NOS
+diverticuli	Read2	J512.00	Perforated diverticulum
+diverticuli	Read2	J512000	Perforated diverticulum of duodenum
+diverticuli	Read2	J512100	Perforated diverticulum of jejunum
+diverticuli	Read2	J512200	Perforated diverticulum of ileum
+diverticuli	Read2	J512300	Perforated diverticulum of small intestine unspecified
+diverticuli	Read2	J512400	Perforated diverticulum of small intestine NOS
+diverticuli	Read2	J512500	Perforated diverticulum of colon
+diverticuli	Read2	J512600	Perforated diverticulum of large intestine unspecified
+diverticuli	Read2	J512700	Perforated diverticulum of large intestine NOS
+diverticuli	Read2	J512800	Diverticular disease of both small and large intestine with perforation and abscess
+diverticuli	Read2	J512y00	Perforated diverticulum unspecified
+diverticuli	Read2	J512z00	Perforated diverticulum of intestine NOS
+diverticuli	Read2	J513.00	Diverticular abscess
+diverticuli	Read2	J51z.00	Diverticula of the intestine NOS
+diverticuli	CTV3	77180Y21iO	Excision of diverticulum of colon
+diverticuli	CTV3	J23z3Y30E7	Appendicular diverticulum
+diverticuli	CTV3	XE2sfY3099	Diverticular disorder of intestine
+diverticuli	CTV3	X304PY30E8	Diverticular disease
+diverticuli	CTV3	X304PY309A	Diverticulosis
+diverticuli	CTV3	J5100Y309b	Diverticulosis of the duodenum
+diverticuli	CTV3	J5101Y309a	Diverticulosis of the jejunum
+diverticuli	CTV3	J5102Y309Z	Diverticulosis of the ileum
+diverticuli	CTV3	J5103Y309Y	Diverticulosis of the small intestine unspecified
+diverticuli	CTV3	J5104Y309X	Diverticulosis of the small intestine NOS
+diverticuli	CTV3	J5105YM0tk	Diverticulosis of the colon
+diverticuli	CTV3	J5106Y30EB	Diverticulosis of the large intestine unspecified
+diverticuli	CTV3	J5107Y30EA	Diverticulosis of the large intestine NOS
+diverticuli	CTV3	J5108YMAlM	Diverticular disease of both small and large intestine without perforation or abscess
+diverticuli	CTV3	J5109YaY9u	Bleeding diverticulosis
+diverticuli	CTV3	J510yY309W	Diverticulosis unspecified
+diverticuli	CTV3	J510zY309V	Diverticulosis NOS
+diverticuli	CTV3	XaB8ZY309N	Diverticulitis
+diverticuli	CTV3	J5110Y309U	Diverticulitis of the duodenum
+diverticuli	CTV3	J5111Y309T	Diverticulitis of the jejunum
+diverticuli	CTV3	J5112Y309S	Diverticulitis of the ileum
+diverticuli	CTV3	J5113Y309R	Diverticulitis of the small intestine unspecified
+diverticuli	CTV3	J5114Y309Q	Diverticulitis of the small intestine NOS
+diverticuli	CTV3	J5115YM0tl	Diverticulitis of colon
+diverticuli	CTV3	J5116Y30EM	Diverticulitis of the large intestine unspecified
+diverticuli	CTV3	J5117Y30EL	Diverticulitis of the large intestine NOS
+diverticuli	CTV3	J511yY309P	Diverticulitis unspecified
+diverticuli	CTV3	J511zY309O	Diverticulitis NOS
+diverticuli	CTV3	J512.Y309C	Perforated diverticulum
+diverticuli	CTV3	J5120Y309M	Perforated diverticulum of duodenum
+diverticuli	CTV3	J5121Y309L	Perforated diverticulum of jejunum
+diverticuli	CTV3	J5122Y309K	Perforated diverticulum of ileum
+diverticuli	CTV3	J5123Y309J	Perforated diverticulum of small intestine unspecified
+diverticuli	CTV3	J5124Y309I	Perforated diverticulum of small intestine NOS
+diverticuli	CTV3	J5125Y309H	Perforated diverticulum of colon
+diverticuli	CTV3	J5126Y309G	Perforated diverticulum of large intestine unspecified
+diverticuli	CTV3	J5127Y309F	Perforated diverticulum of large intestine NOS
+diverticuli	CTV3	J5128YMAlN	Diverticular disease of both small and large intestine with perforation and abscess
+diverticuli	CTV3	J512yY309E	Perforated diverticulum unspecified
+diverticuli	CTV3	J512zY309D	Perforated diverticulum of intestine NOS
+diverticuli	CTV3	X304RY30EN	Diverticular abscess
+diverticuli	CTV3	J51z.Y309B	Diverticula of the intestine NOS
+diverticuli	medcodeid	303123015	Diverticulosis of the duodenum
+diverticuli	medcodeid	303124014	Diverticulosis of the jejunum
+diverticuli	medcodeid	303150013	Perforated diverticulum of ileum
+diverticuli	medcodeid	353440011	Diverticular abscess
+diverticuli	medcodeid	450775010	Diverticulitis
+diverticuli	medcodeid	485644015	Diverticulitis of the duodenum
+diverticuli	medcodeid	503419012	Perforated diverticulum of colon
+diverticuli	medcodeid	1222658010	Appendicular diverticulum
+diverticuli	medcodeid	1777478012	Diverticular disease
+diverticuli	medcodeid	303127019	Diverticulosis of the small intestine unspecified
+diverticuli	medcodeid	303131013	Diverticulosis of the large intestine unspecified
+diverticuli	medcodeid	303141011	Diverticulitis of the small intestine unspecified
+diverticuli	medcodeid	303142016	Diverticulitis of the small intestine NOS
+diverticuli	medcodeid	303144015	Diverticulitis of the large intestine NOS
+diverticuli	medcodeid	303145019	Diverticulitis unspecified
+diverticuli	medcodeid	303146018	Diverticulitis NOS
+diverticuli	medcodeid	303151012	Perforated diverticulum of small intestine unspecified
+diverticuli	medcodeid	303152017	Perforated diverticulum of small intestine NOS
+diverticuli	medcodeid	303153010	Perforated diverticulum of large intestine unspecified
+diverticuli	medcodeid	303159014	Diverticula of the intestine NOS
+diverticuli	medcodeid	1786077011	Diverticulosis of the colon
+diverticuli	medcodeid	651641000006113	Excision of diverticulum of colon
+diverticuli	medcodeid	1786007012	Diverticulosis
+diverticuli	medcodeid	303156019	Perforated diverticulum unspecified
+diverticuli	medcodeid	303135016	Diverticulosis unspecified
+diverticuli	medcodeid	303136015	Diverticulosis NOS
+diverticuli	medcodeid	303134017	Bleeding diverticulosis
+diverticuli	medcodeid	303157011	Perforated diverticulum of intestine NOS
+diverticuli	medcodeid	303128012	Diverticulosis of the small intestine NOS
+diverticuli	medcodeid	303143014	Diverticulitis of the large intestine unspecified
+diverticuli	medcodeid	303126011	Diverticulosis of the ileum
+diverticuli	medcodeid	105596011	Diverticula of intestine
+diverticuli	medcodeid	626571000006113	Divertic disease/both sml+lge intestin with perforat+abscess
+diverticuli	medcodeid	303147010	Perforated diverticulum
+diverticuli	medcodeid	303148017	Perforated diverticulum of duodenum
+diverticuli	medcodeid	303149013	Perforated diverticulum of jejunum
+diverticuli	medcodeid	500628015	Diverticulitis of the ileum
+diverticuli	medcodeid	303132018	Diverticulosis of the large intestine NOS
+diverticuli	medcodeid	303154016	Perforated diverticulum of large intestine NOS
+diverticuli	medcodeid	626561000006118	Divertic dis/both sml+lge intestin without perfor or abscess
+diverticuli	medcodeid	626651000006119	Diverticulitis of the colon
+diverticuli	medcodeid	626681000006110	Diverticulitis of the jejunum
+diverticuli	SNOMEDCT	197083003	Diverticulosis of the duodenum
+diverticuli	SNOMEDCT	197084009	Diverticulosis of the jejunum
+diverticuli	SNOMEDCT	197107003	Perforated diverticulum of ileum
+diverticuli	SNOMEDCT	235774002	Diverticular abscess
+diverticuli	SNOMEDCT	307496006	Diverticulitis
+diverticuli	SNOMEDCT	33838003	Diverticulitis of the duodenum
+diverticuli	SNOMEDCT	76953007	Perforated diverticulum of colon
+diverticuli	SNOMEDCT	21692001	Appendicular diverticulum
+diverticuli	SNOMEDCT	397881000	Diverticular disease
+diverticuli	SNOMEDCT	8114009	Diverticulosis of the small intestine unspecified
+diverticuli	SNOMEDCT	398157006	Diverticulosis of the large intestine unspecified
+diverticuli	SNOMEDCT	56165008	Diverticulitis of the small intestine unspecified
+diverticuli	SNOMEDCT	56165008	Diverticulitis of the small intestine NOS
+diverticuli	SNOMEDCT	4494009	Diverticulitis of the large intestine NOS
+diverticuli	SNOMEDCT	307496006	Diverticulitis unspecified
+diverticuli	SNOMEDCT	307496006	Diverticulitis NOS
+diverticuli	SNOMEDCT	280993006	Perforated diverticulum of small intestine unspecified
+diverticuli	SNOMEDCT	280993006	Perforated diverticulum of small intestine NOS
+diverticuli	SNOMEDCT	280992001	Perforated diverticulum of large intestine unspecified
+diverticuli	SNOMEDCT	63532004	Diverticula of the intestine NOS
+diverticuli	SNOMEDCT	398050005	Diverticulosis of the colon
+diverticuli	SNOMEDCT	386197003	Excision of diverticulum of colon
+diverticuli	SNOMEDCT	397881000	Diverticulosis
+diverticuli	SNOMEDCT	197104005	Perforated diverticulum unspecified
+diverticuli	SNOMEDCT	397881000	Diverticulosis unspecified
+diverticuli	SNOMEDCT	397881000	Diverticulosis NOS
+diverticuli	SNOMEDCT	197092000	Bleeding diverticulosis
+diverticuli	SNOMEDCT	197104005	Perforated diverticulum of intestine NOS
+diverticuli	SNOMEDCT	8114009	Diverticulosis of the small intestine NOS
+diverticuli	SNOMEDCT	4494009	Diverticulitis of the large intestine unspecified
+diverticuli	SNOMEDCT	197085005	Diverticulosis of the ileum
+diverticuli	SNOMEDCT	63532004	Diverticula of intestine
+diverticuli	SNOMEDCT	197112002	Divertic disease/both sml+lge intestin with perforat+abscess
+diverticuli	SNOMEDCT	197104005	Perforated diverticulum
+diverticuli	SNOMEDCT	197105006	Perforated diverticulum of duodenum
+diverticuli	SNOMEDCT	197106007	Perforated diverticulum of jejunum
+diverticuli	SNOMEDCT	67153004	Diverticulitis of the ileum
+diverticuli	SNOMEDCT	398157006	Diverticulosis of the large intestine NOS
+diverticuli	SNOMEDCT	280992001	Perforated diverticulum of large intestine NOS
+diverticuli	SNOMEDCT	197091007	Divertic dis/both sml+lge intestin without perfor or abscess
+diverticuli	SNOMEDCT	111359004	Diverticulitis of the colon
+diverticuli	SNOMEDCT	111358007	Diverticulitis of the jejunum
+diverticuli	Read2_5digit	77180	Excision of diverticulum of colon
+diverticuli	Read2_5digit	J23z3	Appendicular diverticulum
+diverticuli	Read2_5digit	J51..	Diverticula of intestine
+diverticuli	Read2_5digit	J510.	Diverticulosis
+diverticuli	Read2_5digit	J5100	Diverticulosis of the duodenum
+diverticuli	Read2_5digit	J5101	Diverticulosis of the jejunum
+diverticuli	Read2_5digit	J5102	Diverticulosis of the ileum
+diverticuli	Read2_5digit	J5103	Diverticulosis of the small intestine unspecified
+diverticuli	Read2_5digit	J5104	Diverticulosis of the small intestine NOS
+diverticuli	Read2_5digit	J5105	Diverticulosis of the colon
+diverticuli	Read2_5digit	J5106	Diverticulosis of the large intestine unspecified
+diverticuli	Read2_5digit	J5107	Diverticulosis of the large intestine NOS
+diverticuli	Read2_5digit	J5108	Diverticular disease of both small and large intestine without perforation or abscess
+diverticuli	Read2_5digit	J5109	Bleeding diverticulosis
+diverticuli	Read2_5digit	J510y	Diverticulosis unspecified
+diverticuli	Read2_5digit	J510z	Diverticulosis NOS
+diverticuli	Read2_5digit	J511.	Diverticulitis
+diverticuli	Read2_5digit	J5110	Diverticulitis of the duodenum
+diverticuli	Read2_5digit	J5111	Diverticulitis of the jejunum
+diverticuli	Read2_5digit	J5112	Diverticulitis of the ileum
+diverticuli	Read2_5digit	J5113	Diverticulitis of the small intestine unspecified
+diverticuli	Read2_5digit	J5114	Diverticulitis of the small intestine NOS
+diverticuli	Read2_5digit	J5115	Diverticulitis of the colon
+diverticuli	Read2_5digit	J5116	Diverticulitis of the large intestine unspecified
+diverticuli	Read2_5digit	J5117	Diverticulitis of the large intestine NOS
+diverticuli	Read2_5digit	J511y	Diverticulitis unspecified
+diverticuli	Read2_5digit	J511z	Diverticulitis NOS
+diverticuli	Read2_5digit	J512.	Perforated diverticulum
+diverticuli	Read2_5digit	J5120	Perforated diverticulum of duodenum
+diverticuli	Read2_5digit	J5121	Perforated diverticulum of jejunum
+diverticuli	Read2_5digit	J5122	Perforated diverticulum of ileum
+diverticuli	Read2_5digit	J5123	Perforated diverticulum of small intestine unspecified
+diverticuli	Read2_5digit	J5124	Perforated diverticulum of small intestine NOS
+diverticuli	Read2_5digit	J5125	Perforated diverticulum of colon
+diverticuli	Read2_5digit	J5126	Perforated diverticulum of large intestine unspecified
+diverticuli	Read2_5digit	J5127	Perforated diverticulum of large intestine NOS
+diverticuli	Read2_5digit	J5128	Diverticular disease of both small and large intestine with perforation and abscess
+diverticuli	Read2_5digit	J512y	Perforated diverticulum unspecified
+diverticuli	Read2_5digit	J512z	Perforated diverticulum of intestine NOS
+diverticuli	Read2_5digit	J513.	Diverticular abscess
+diverticuli	Read2_5digit	J51z.	Diverticula of the intestine NOS
+diverticuli	CTV3_5digit	77180	Excision of diverticulum of colon
+diverticuli	CTV3_5digit	J23z3	Appendicular diverticulum
+diverticuli	CTV3_5digit	XE2sf	Diverticular disorder of intestine
+diverticuli	CTV3_5digit	X304P	Diverticular disease
+diverticuli	CTV3_5digit	J5100	Diverticulosis of the duodenum
+diverticuli	CTV3_5digit	J5101	Diverticulosis of the jejunum
+diverticuli	CTV3_5digit	J5102	Diverticulosis of the ileum
+diverticuli	CTV3_5digit	J5103	Diverticulosis of the small intestine unspecified
+diverticuli	CTV3_5digit	J5104	Diverticulosis of the small intestine NOS
+diverticuli	CTV3_5digit	J5105	Diverticulosis of the colon
+diverticuli	CTV3_5digit	J5106	Diverticulosis of the large intestine unspecified
+diverticuli	CTV3_5digit	J5107	Diverticulosis of the large intestine NOS
+diverticuli	CTV3_5digit	J5108	Diverticular disease of both small and large intestine without perforation or abscess
+diverticuli	CTV3_5digit	J5109	Bleeding diverticulosis
+diverticuli	CTV3_5digit	J510y	Diverticulosis unspecified
+diverticuli	CTV3_5digit	J510z	Diverticulosis NOS
+diverticuli	CTV3_5digit	XaB8Z	Diverticulitis
+diverticuli	CTV3_5digit	J5110	Diverticulitis of the duodenum
+diverticuli	CTV3_5digit	J5111	Diverticulitis of the jejunum
+diverticuli	CTV3_5digit	J5112	Diverticulitis of the ileum
+diverticuli	CTV3_5digit	J5113	Diverticulitis of the small intestine unspecified
+diverticuli	CTV3_5digit	J5114	Diverticulitis of the small intestine NOS
+diverticuli	CTV3_5digit	J5115	Diverticulitis of colon
+diverticuli	CTV3_5digit	J5116	Diverticulitis of the large intestine unspecified
+diverticuli	CTV3_5digit	J5117	Diverticulitis of the large intestine NOS
+diverticuli	CTV3_5digit	J511y	Diverticulitis unspecified
+diverticuli	CTV3_5digit	J511z	Diverticulitis NOS
+diverticuli	CTV3_5digit	J512.	Perforated diverticulum
+diverticuli	CTV3_5digit	J5120	Perforated diverticulum of duodenum
+diverticuli	CTV3_5digit	J5121	Perforated diverticulum of jejunum
+diverticuli	CTV3_5digit	J5122	Perforated diverticulum of ileum
+diverticuli	CTV3_5digit	J5123	Perforated diverticulum of small intestine unspecified
+diverticuli	CTV3_5digit	J5124	Perforated diverticulum of small intestine NOS
+diverticuli	CTV3_5digit	J5125	Perforated diverticulum of colon
+diverticuli	CTV3_5digit	J5126	Perforated diverticulum of large intestine unspecified
+diverticuli	CTV3_5digit	J5127	Perforated diverticulum of large intestine NOS
+diverticuli	CTV3_5digit	J5128	Diverticular disease of both small and large intestine with perforation and abscess
+diverticuli	CTV3_5digit	J512y	Perforated diverticulum unspecified
+diverticuli	CTV3_5digit	J512z	Perforated diverticulum of intestine NOS
+diverticuli	CTV3_5digit	X304R	Diverticular abscess
+diverticuli	CTV3_5digit	J51z.	Diverticula of the intestine NOS

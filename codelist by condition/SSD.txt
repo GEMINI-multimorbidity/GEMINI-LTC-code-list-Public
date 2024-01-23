@@ -1,0 +1,696 @@
+condition	vocab_id	code	description
+SSD	ICD10	F20	Schizophrenia
+SSD	ICD10	F21	Schizotypal disorder
+SSD	ICD10	F22	Persistent delusional disorders
+SSD	ICD10	F25	Schizoaffective disorders
+SSD	ICD10	F28	Other nonorganic psychotic disorders
+SSD	ICD10	F29	Unspecified nonorganic psychosis
+SSD	Read2	1464.00	H/O: schizophrenia
+SSD	Read2	146H.00	H/O: psychosis
+SSD	Read2	212W.00	Schizophrenia resolved
+SSD	Read2	212X.00	Psychosis resolved
+SSD	Read2	285..11	Psychotic condition, insight present
+SSD	Read2	286..11	Poor insight into psychotic condition
+SSD	Read2	E1...00	Non-organic psychoses
+SSD	Read2	E10..00	Schizophrenic disorders
+SSD	Read2	E100.00	Simple schizophrenia
+SSD	Read2	E100.11	Schizophrenia simplex
+SSD	Read2	E100000	Unspecified schizophrenia
+SSD	Read2	E100100	Subchronic schizophrenia
+SSD	Read2	E100200	Chronic schizophrenic
+SSD	Read2	E100300	Acute exacerbation of subchronic schizophrenia
+SSD	Read2	E100400	Acute exacerbation of chronic schizophrenia
+SSD	Read2	E100500	Schizophrenia in remission
+SSD	Read2	E100z00	Simple schizophrenia NOS
+SSD	Read2	E101.00	Hebephrenic schizophrenia
+SSD	Read2	E101000	Unspecified hebephrenic schizophrenia
+SSD	Read2	E101400	Acute exacerbation of chronic hebephrenic schizophrenia
+SSD	Read2	E101500	Hebephrenic schizophrenia in remission
+SSD	Read2	E101z00	Hebephrenic schizophrenia NOS
+SSD	Read2	E102.00	Catatonic schizophrenia
+SSD	Read2	E102000	Unspecified catatonic schizophrenia
+SSD	Read2	E102100	Subchronic catatonic schizophrenia
+SSD	Read2	E102400	Acute exacerbation of chronic catatonic schizophrenia
+SSD	Read2	E102500	Catatonic schizophrenia in remission
+SSD	Read2	E102z00	Catatonic schizophrenia NOS
+SSD	Read2	E103.00	Paranoid schizophrenia
+SSD	Read2	E103000	Unspecified paranoid schizophrenia
+SSD	Read2	E103100	Subchronic paranoid schizophrenia
+SSD	Read2	E103200	Chronic paranoid schizophrenia
+SSD	Read2	E103300	Acute exacerbation of subchronic paranoid schizophrenia
+SSD	Read2	E103400	Acute exacerbation of chronic paranoid schizophrenia
+SSD	Read2	E103500	Paranoid schizophrenia in remission
+SSD	Read2	E103z00	Paranoid schizophrenia NOS
+SSD	Read2	E105.00	Latent schizophrenia
+SSD	Read2	E105000	Unspecified latent schizophrenia
+SSD	Read2	E105200	Chronic latent schizophrenia
+SSD	Read2	E105500	Latent schizophrenia in remission
+SSD	Read2	E105z00	Latent schizophrenia NOS
+SSD	Read2	E106.00	Residual schizophrenia
+SSD	Read2	E107.00	Schizo-affective schizophrenia
+SSD	Read2	E107.11	Cyclic schizophrenia
+SSD	Read2	E107000	Unspecified schizo-affective schizophrenia
+SSD	Read2	E107100	Subchronic schizo-affective schizophrenia
+SSD	Read2	E107200	Chronic schizo-affective schizophrenia
+SSD	Read2	E107300	Acute exacerbation of subchronic schizo-affective schizophrenia
+SSD	Read2	E107400	Acute exacerbation of chronic schizo-affective schizophrenia
+SSD	Read2	E107500	Schizo-affective schizophrenia in remission
+SSD	Read2	E107z00	Schizo-affective schizophrenia NOS
+SSD	Read2	E10y.00	Other schizophrenia
+SSD	Read2	E10y.11	Cenesthopathic schizophrenia
+SSD	Read2	E10y000	Atypical schizophrenia
+SSD	Read2	E10y100	Coenesthopathic schizophrenia
+SSD	Read2	E10yz00	Other schizophrenia NOS
+SSD	Read2	E10z.00	Schizophrenia NOS
+SSD	Read2	E12..00	Paranoid states
+SSD	Read2	E120.00	Simple paranoid state
+SSD	Read2	E121.00	Chronic paranoid psychosis
+SSD	Read2	E121.11	Sander's disease
+SSD	Read2	E122.00	Paraphrenia
+SSD	Read2	E12y.00	Other paranoid states
+SSD	Read2	E12y000	Paranoia querulans
+SSD	Read2	E12yz00	Other paranoid states NOS
+SSD	Read2	E12z.00	Paranoid psychosis NOS
+SSD	Read2	E1y..00	Other specified non-organic psychoses
+SSD	Read2	E1z..00	Non-organic psychosis NOS
+SSD	Read2	Eu2..00	[X]Schizophrenia, schizotypal and delusional disorders
+SSD	Read2	Eu20.00	[X]Schizophrenia
+SSD	Read2	Eu20000	[X]Paranoid schizophrenia
+SSD	Read2	Eu20011	[X]Paraphrenic schizophrenia
+SSD	Read2	Eu20100	[X]Hebephrenic schizophrenia
+SSD	Read2	Eu20111	[X]Disorganised schizophrenia
+SSD	Read2	Eu20200	[X]Catatonic schizophrenia
+SSD	Read2	Eu20211	[X]Catatonic stupor
+SSD	Read2	Eu20212	[X]Schizophrenic catalepsy
+SSD	Read2	Eu20213	[X]Schizophrenic catatonia
+SSD	Read2	Eu20214	[X]Schizophrenic flexibilatis cerea
+SSD	Read2	Eu20300	[X]Undifferentiated schizophrenia
+SSD	Read2	Eu20311	[X]Atypical schizophrenia
+SSD	Read2	Eu20400	[X]Post-schizophrenic depression
+SSD	Read2	Eu20500	[X]Residual schizophrenia
+SSD	Read2	Eu20511	[X]Chronic undifferentiated schizophrenia
+SSD	Read2	Eu20600	[X]Simple schizophrenia
+SSD	Read2	Eu20y00	[X]Other schizophrenia
+SSD	Read2	Eu20y12	[X]Schizophreniform disord NOS
+SSD	Read2	Eu20y13	[X]Schizophrenifrm psychos NOS
+SSD	Read2	Eu20z00	[X]Schizophrenia, unspecified
+SSD	Read2	Eu21.00	[X]Schizotypal disorder
+SSD	Read2	Eu21.11	[X]Latent schizophrenic reaction
+SSD	Read2	Eu21.12	[X]Borderline schizophrenia
+SSD	Read2	Eu21.13	[X]Latent schizophrenia
+SSD	Read2	Eu21.14	[X]Prepsychotic schizophrenia
+SSD	Read2	Eu21.15	[X]Prodromal schizophrenia
+SSD	Read2	Eu21.16	[X]Pseudoneurotic schizophrenia
+SSD	Read2	Eu21.17	[X]Pseudopsychopathic schizophrenia
+SSD	Read2	Eu22.00	[X]Persistent delusional disorders
+SSD	Read2	Eu22000	[X]Delusional disorder
+SSD	Read2	Eu22011	[X]Paranoid psychosis
+SSD	Read2	Eu22012	[X]Paranoid state
+SSD	Read2	Eu22013	[X]Paraphrenia - late
+SSD	Read2	Eu22014	[X]Sensitiver Beziehungswahn
+SSD	Read2	Eu22015	[X]Paranoia
+SSD	Read2	Eu22100	[X]Delusional misidentification syndrome
+SSD	Read2	Eu22111	[X]Capgras syndrome
+SSD	Read2	Eu22200	[X]Cotard syndrome
+SSD	Read2	Eu22300	[X]Paranoid state in remission
+SSD	Read2	Eu22y00	[X]Other persistent delusional disorders
+SSD	Read2	Eu22y11	[X]Delusional dysmorphophobia
+SSD	Read2	Eu22y12	[X]Involutional paranoid state
+SSD	Read2	Eu22y13	[X]Paranoia querulans
+SSD	Read2	Eu22z00	[X]Persistent delusional disorder, unspecified
+SSD	Read2	Eu25.00	[X]Schizoaffective disorders
+SSD	Read2	Eu25000	[X]Schizoaffective disorder, manic type
+SSD	Read2	Eu25011	[X]Schizoaffective psychosis, manic type
+SSD	Read2	Eu25012	[X]Schizophreniform psychosis, manic type
+SSD	Read2	Eu25100	[X]Schizoaffective disorder, depressive type
+SSD	Read2	Eu25111	[X]Schizoaffective psychosis, depressive type
+SSD	Read2	Eu25112	[X]Schizophreniform psychosis, depressive type
+SSD	Read2	Eu25200	[X]Schizoaffective disorder, mixed type
+SSD	Read2	Eu25211	[X]Cyclic schizophrenia
+SSD	Read2	Eu25212	[X]Mixed schizophrenic and affective psychosis
+SSD	Read2	Eu25y00	[X]Other schizoaffective disorders
+SSD	Read2	Eu25z00	[X]Schizoaffective disorder, unspecified
+SSD	Read2	Eu25z11	[X]Schizoaffective psychosis NOS
+SSD	Read2	Eu26.00	[X]Nonorganic psychosis in remission
+SSD	Read2	Eu2y.00	[X]Other nonorganic psychotic disorders
+SSD	Read2	Eu2y.11	[X]Chronic hallucinatory psychosis
+SSD	Read2	Eu2z.00	[X]Unspecified nonorganic psychosis
+SSD	Read2	Eu2z.11	[X]Psychosis NOS
+SSD	Read2	ZV11000	[V]Personal history of schizophrenia
+SSD	CTV3	1464.Ya04F	H/O: schizophrenia
+SSD	CTV3	XaL07Yao5t	H/O: psychosis
+SSD	CTV3	XaMwdYapyq	Schizophrenia resolved
+SSD	CTV3	XaMweYapyr	Psychosis resolved
+SSD	CTV3	XE1hkYM0rU	Psychotic condition, insight present
+SSD	CTV3	XabBSYawzY	Impaired insight
+SSD	CTV3	XE1hlY01Fz	Poor insight into neurotic condition
+SSD	CTV3	E1...Y015x	Non-organic psychoses
+SSD	CTV3	E10..YMHhu	Schizophrenic disorders
+SSD	CTV3	E100.Y01Cg	Simple schizophrenia
+SSD	CTV3	E100.Y01Ch	Schizophrenia simplex
+SSD	CTV3	E1000Y01Ci	Unspecified schizophrenia
+SSD	CTV3	E1001Y01Cj	Subchronic schizophrenia
+SSD	CTV3	E1002Y01Ck	Chronic schizophrenic
+SSD	CTV3	E1003Y01Cl	Acute exacerbation of subchronic schizophrenia
+SSD	CTV3	E1004Y01Cm	Acute exacerbation of chronic schizophrenia
+SSD	CTV3	E1005Y01Cn	Schizophrenia in remission
+SSD	CTV3	E100zY01Co	Simple schizophrenia NOS
+SSD	CTV3	E101.Y01CK	Hebephrenic schizophrenia
+SSD	CTV3	E1010Y01CM	Unspecified hebephrenic schizophrenia
+SSD	CTV3	E1014Y01CQ	Acute exacerbation of chronic hebephrenic schizophrenia
+SSD	CTV3	E1015Y01CR	Hebephrenic schizophrenia in remission
+SSD	CTV3	E101zY01CS	Hebephrenic schizophrenia NOS
+SSD	CTV3	E102.Y01CT	Catatonic schizophrenia
+SSD	CTV3	E1020Y01CU	Unspecified catatonic schizophrenia
+SSD	CTV3	E1021Y01CV	Subchronic catatonic schizophrenia
+SSD	CTV3	E1024Y01CY	Acute exacerbation of chronic catatonic schizophrenia
+SSD	CTV3	E1025Y01CZ	Catatonic schizophrenia in remission
+SSD	CTV3	E102zY01Ca	Catatonic schizophrenia NOS
+SSD	CTV3	E103.Y01CB	Paranoid schizophrenia
+SSD	CTV3	E1030Y01CD	Unspecified paranoid schizophrenia
+SSD	CTV3	E1031Y01CE	Subchronic paranoid schizophrenia
+SSD	CTV3	E1032Y01CF	Chronic paranoid schizophrenia
+SSD	CTV3	E1033Y01CG	Acute exacerbation of subchronic paranoid schizophrenia
+SSD	CTV3	E1034Y01CH	Acute exacerbation of chronic paranoid schizophrenia
+SSD	CTV3	E1035Y01CI	Paranoid schizophrenia in remission
+SSD	CTV3	E103zY01CJ	Paranoid schizophrenia NOS
+SSD	CTV3	E105.Y01Cx	Latent schizophrenia
+SSD	CTV3	E1050Y01D4	Unspecified latent schizophrenia
+SSD	CTV3	E1052Y01Cz	Chronic latent schizophrenia
+SSD	CTV3	E1055Y01D2	Latent schizophrenia in remission
+SSD	CTV3	E105zY01D3	Latent schizophrenia NOS
+SSD	CTV3	E106.Y01Ce	Residual schizophrenia
+SSD	CTV3	E107.Yadql	Schizoaffective schizophrenia
+SSD	CTV3	E107.Y01Df	Cyclic schizophrenia
+SSD	CTV3	E1070Yadqm	Unspecified schizoaffective schizophrenia
+SSD	CTV3	E1071Yadqn	Subchronic schizoaffective schizophrenia
+SSD	CTV3	E1072Yadqo	Chronic schizoaffective schizophrenia
+SSD	CTV3	E1073Yadqp	Acute exacerbation of subchronic schizoaffective schizophrenia
+SSD	CTV3	E1074Yadqq	Acute exacerbation of chronic schizoaffective schizophrenia
+SSD	CTV3	E1075Yadqr	Schizoaffective schizophrenia in remission
+SSD	CTV3	E107zYadqs	Schizoaffective schizophrenia NOS
+SSD	CTV3	XE1XxY01C9	Other schizophrenia
+SSD	CTV3	E10y1Y01Cp	Cenesthopathic schizophrenia
+SSD	CTV3	E10y0Y01Cc	Atypical schizophrenia
+SSD	CTV3	E10y1Y01Cq	Coenesthopathic schizophrenia
+SSD	CTV3	E10yzY01CA	Other schizophrenia NOS
+SSD	CTV3	E10z.Y01C8	Schizophrenia NOS
+SSD	CTV3	E12..Y01D6	Paranoid disorder
+SSD	CTV3	E120.Y01DE	Simple paranoid state
+SSD	CTV3	XE1Y2Y01DC	Chronic paranoid psychosis
+SSD	CTV3	E121.Y01DD	Sander's disease
+SSD	CTV3	E122.YM1hx	Paraphrenia
+SSD	CTV3	E12y.Y01DA	Other paranoid states
+SSD	CTV3	E12y0Y01DJ	Paranoia querulans
+SSD	CTV3	E12yzY01DB	Other paranoid states NOS
+SSD	CTV3	E12z.Y01D9	Paranoid psychosis NOS
+SSD	CTV3	E1y..Y015z	Other specified non-organic psychoses
+SSD	CTV3	XE1Y5YMK14	Non-organic psychosis NOS
+SSD	CTV3	Eu2..YMB3D	[X]Schizophrenia, schizotypal and delusional disorders
+SSD	CTV3	Eu20.Y01C7	Schizophrenia
+SSD	CTV3	E103.Ya2I9	Paraphrenic schizophrenia
+SSD	CTV3	E101.Y01CL	Disorganised schizophrenia
+SSD	CTV3	E102.YMBx5	[X]Schizophrenic flexibilatis cerea
+SSD	CTV3	Eu203YMB3I	[X]Undifferentiated schizophrenia
+SSD	CTV3	X00S8Y01Cd	Post-schizophrenic depression
+SSD	CTV3	E106.Y01Cf	Restzustand
+SSD	CTV3	XE1ZMYMB3M	[X]Other schizophrenia
+SSD	CTV3	Eu20zYMB3N	[X]Schizophrenia, unspecified
+SSD	CTV3	XE1ZNYMB3O	[X]Schizotypal disorder
+SSD	CTV3	X00SAY01DF	Persistent delusional disorder
+SSD	CTV3	Xa0tCYa2IC	Late paraphrenia
+SSD	CTV3	XE1ZOY01D5	Delusional disorder
+SSD	CTV3	XaKUlYanmU	Paranoid ideation
+SSD	CTV3	XE1ZOY01D7	Paranoid psychosis
+SSD	CTV3	XE1ZOY01D8	Sensitiver Beziehungswahm
+SSD	CTV3	X75z7Y7D4Z	Delusional misidentification syndrome
+SSD	CTV3	X75z7Y7D4a	Capgras syndrome
+SSD	CTV3	XSKr7YamzO	Cotard syndrome
+SSD	CTV3	XaX51Yatxg	[X]Paranoid state in remission
+SSD	CTV3	XE1ZPYMB3R	[X]Other persistent delusional disorders
+SSD	CTV3	Eu22zYMB3S	[X]Persistent delusional disorder, unspecified
+SSD	CTV3	Eu25.YMB3b	Schizoaffective disorder
+SSD	CTV3	XE2uTYMB3c	Schizoaffective disorder, manic type
+SSD	CTV3	XE2uTYMBxJ	Schizophreniform psychosis, manic type
+SSD	CTV3	XE2unYMB3d	Schizoaffective disorder, depressive type
+SSD	CTV3	XE2unYMBxK	Schizophreniform psychosis, depressive type
+SSD	CTV3	XE2b8YMB3e	Schizoaffective disorder, mixed type
+SSD	CTV3	XE2b8YMBxL	Mixed schizophrenic and affective pschosis
+SSD	CTV3	Eu25yYMB3f	[X]Other schizoaffective disorders
+SSD	CTV3	Eu25zYMB3g	[X]Schizoaffective disorder, unspecified
+SSD	CTV3	XaX52Yatxi	[X]Nonorganic psychosis in remission
+SSD	CTV3	XE1ZTYacya	[X]Other non-organic psychotic disorders
+SSD	CTV3	Eu2y.YMK1T	[X]Chronic hallucinatory psychosis
+SSD	CTV3	XE1ZUYMB3i	[X]Unspecified nonorganic psychosis
+SSD	CTV3	X00S6Ya5Ib	Psychotic
+SSD	CTV3	XE1ZUYMBxN	[X] Psychosis NOS
+SSD	CTV3	ZV110Ya0dx	[V]Personal history of schizophrenia
+SSD	medcodeid	44335019	Paraphrenia
+SSD	medcodeid	105029017	Paranoid schizophrenia in remission
+SSD	medcodeid	107878010	Paranoid schizophrenia
+SSD	medcodeid	132503015	Subchronic paranoid schizophrenia
+SSD	medcodeid	294725013	Schizophrenic disorders
+SSD	medcodeid	294726014	Schizophrenia simplex
+SSD	medcodeid	294727017	Simple schizophrenia
+SSD	medcodeid	294742019	Catatonic schizophrenia
+SSD	medcodeid	294751010	Acute exacerbation of chronic catatonic schizophrenia
+SSD	medcodeid	294757014	Acute exacerbation of subchronic paranoid schizophrenia
+SSD	medcodeid	294758016	Acute exacerbation of chronic paranoid schizophrenia
+SSD	medcodeid	294764011	Latent schizophrenia
+SSD	medcodeid	294767016	Chronic latent schizophrenia
+SSD	medcodeid	294773015	Cyclic schizophrenia
+SSD	medcodeid	294788013	Cenesthopathic schizophrenia
+SSD	medcodeid	294904016	Simple paranoid state
+SSD	medcodeid	294911017	Paranoia querulans
+SSD	medcodeid	401768012	Chronic paranoid psychosis
+SSD	medcodeid	402504012	Psychotic condition, insight present
+SSD	medcodeid	1219653018	Atypical schizophrenia
+SSD	medcodeid	492881000000114	Psychosis resolved
+SSD	medcodeid	294728010	Unspecified schizophrenia
+SSD	medcodeid	294735019	Unspecified hebephrenic schizophrenia
+SSD	medcodeid	294753013	Catatonic schizophrenia NOS
+SSD	medcodeid	294789017	Other schizophrenia NOS
+SSD	medcodeid	294913019	Paranoid psychosis NOS
+SSD	medcodeid	296031017	[X]Undifferentiated schizophrenia
+SSD	medcodeid	296040018	[X]Schizophrenia, unspecified
+SSD	medcodeid	401771016	Non-organic psychosis NOS
+SSD	medcodeid	401862018	[X]Unspecified nonorganic psychosis
+SSD	medcodeid	78531000006116	Unspecified schizo-affective schizophrenia
+SSD	medcodeid	155141000006116	Schizo-affective schizophrenia
+SSD	medcodeid	155151000006119	Schizo-affective schizophrenia in remission
+SSD	medcodeid	155161000006117	Schizo-affective schizophrenia NOS
+SSD	medcodeid	161371000006118	Sander's disease
+SSD	medcodeid	215851000000112	[X]Paranoid psychosis
+SSD	medcodeid	243361000006117	Paranoid states
+SSD	medcodeid	366571000006114	[X]Atypical schizophrenia
+SSD	medcodeid	370461000006112	[X]Catatonic stupor
+SSD	medcodeid	376501000006110	[X]Delusional dysmorphophobia
+SSD	medcodeid	378051000006119	[X]Disorganised schizophrenia
+SSD	medcodeid	388741000006110	[X]Hebephrenic schizophrenia
+SSD	medcodeid	398631000006113	[X]Mixed schizophrenic and affective psychosis
+SSD	medcodeid	418221000006118	[X]Paranoid schizophrenia
+SSD	medcodeid	423041000006119	[X]Post-schizophrenic depression
+SSD	medcodeid	423741000006116	[X]Pseudopsychopathic schizophrenia
+SSD	medcodeid	424231000006116	[X]Psychosis NOS
+SSD	medcodeid	424841000006113	[X]Residual schizophrenia
+SSD	medcodeid	425501000006113	[X]Schizoaffective disorder, depressive type
+SSD	medcodeid	425561000006114	[X]Schizoaffective psychosis, depressive type
+SSD	medcodeid	425651000006113	[X]Schizophrenic catatonia
+SSD	medcodeid	425701000006119	[X]Schizophreniform psychosis, manic type
+SSD	medcodeid	425711000006116	[X]Schizophrenifrm psychos NOS
+SSD	medcodeid	426881000006111	[X]Simple schizophrenia
+SSD	medcodeid	456731000006115	Acute exacerbation of chronic schizo-affective schizophrenia
+SSD	medcodeid	556631000006116	Chronic schizo-affective schizophrenia
+SSD	medcodeid	819351000006115	Hebephrenic schizophrenia
+SSD	medcodeid	914461000006118	[X]Capgras syndrome
+SSD	medcodeid	967791000006111	[X]Cotard syndrome
+SSD	medcodeid	294765012	Unspecified latent schizophrenia
+SSD	medcodeid	367951000006113	[X]Borderline schizophrenia
+SSD	medcodeid	371031000006115	[X]Chronic undifferentiated schizophrenia
+SSD	medcodeid	418231000006115	[X]Paranoid state
+SSD	medcodeid	423271000006116	[X]Prepsychotic schizophrenia
+SSD	medcodeid	460273017	[V]Personal history of schizophrenia
+SSD	medcodeid	370981000006112	[X]Chronic hallucinatory psychosis
+SSD	medcodeid	401857019	[X]Other persistent delusional disorders
+SSD	medcodeid	294754019	Unspecified paranoid schizophrenia
+SSD	medcodeid	296095012	[X]Other schizoaffective disorders
+SSD	medcodeid	300411000000110	H/O: psychosis
+SSD	medcodeid	1234861017	Chronic schizophrenic
+SSD	medcodeid	294724012	Non-organic psychoses
+SSD	medcodeid	43595011	Residual schizophrenia
+SSD	medcodeid	178723016	Catatonic schizophrenia in remission
+SSD	medcodeid	294912012	Other paranoid states NOS
+SSD	medcodeid	376251000006112	[X]Cyclic schizophrenia
+SSD	medcodeid	394461000006110	[X]Involutional paranoid state
+SSD	medcodeid	418181000006110	[X]Paranoia querulans
+SSD	medcodeid	425521000006115	[X]Schizoaffective disorder, mixed type
+SSD	medcodeid	425541000006110	[X]Schizoaffective disorders
+SSD	medcodeid	456801000006115	Acute exacerbation subchronic schizo-affective schizophrenia
+SSD	medcodeid	294949018	Other specified non-organic psychoses
+SSD	medcodeid	123611000006110	Subchronic schizo-affective schizophrenia
+SSD	medcodeid	215841000000114	[X]Delusional disorder
+SSD	medcodeid	401855010	[X]Other schizophrenia
+SSD	medcodeid	294744018	Unspecified catatonic schizophrenia
+SSD	medcodeid	294760019	Paranoid schizophrenia NOS
+SSD	medcodeid	294731011	Acute exacerbation of chronic schizophrenia
+SSD	medcodeid	294787015	Coenesthopathic schizophrenia
+SSD	medcodeid	296022017	[X]Schizophrenia, schizotypal and delusional disorders
+SSD	medcodeid	251628010	H/O: schizophrenia
+SSD	medcodeid	412201000006113	[X]Other nonorganic psychotic disorders
+SSD	medcodeid	418261000006112	[X]Paraphrenic schizophrenia
+SSD	medcodeid	425681000006117	[X]Schizophreniform disord NOS
+SSD	medcodeid	395031000006114	[X]Latent schizophrenic reaction
+SSD	medcodeid	423471000006117	[X]Prodromal schizophrenia
+SSD	medcodeid	294730012	Acute exacerbation of subchronic schizophrenia
+SSD	medcodeid	401856011	[X]Schizotypal disorder
+SSD	medcodeid	294790014	Schizophrenia NOS
+SSD	medcodeid	296066015	[X]Persistent delusional disorder, unspecified
+SSD	medcodeid	294740010	Hebephrenic schizophrenia in remission
+SSD	medcodeid	1667581000000114	[X]Paranoid state in remission
+SSD	medcodeid	492821000000113	Schizophrenia resolved
+SSD	medcodeid	294770017	Latent schizophrenia in remission
+SSD	medcodeid	52897013	Chronic paranoid schizophrenia
+SSD	medcodeid	71539017	Subchronic catatonic schizophrenia
+SSD	medcodeid	215691000006112	Poor insight into psychotic condition
+SSD	medcodeid	215871000000115	[X]Paranoia
+SSD	medcodeid	419861000006117	[X]Persistent delusional disorders
+SSD	medcodeid	425551000006112	[X]Schizoaffective psychosis NOS
+SSD	medcodeid	425571000006119	[X]Schizoaffective psychosis, manic type
+SSD	medcodeid	425601000006114	[X]Schizophrenia
+SSD	medcodeid	425641000006111	[X]Schizophrenic catalepsy
+SSD	medcodeid	914471000006113	[X]Delusional misidentification syndrome
+SSD	medcodeid	395021000006111	[X]Latent schizophrenia
+SSD	medcodeid	370451000006110	[X]Catatonic schizophrenia
+SSD	medcodeid	418251000006110	[X]Paraphrenia - late
+SSD	medcodeid	423731000006114	[X]Pseudoneurotic schizophrenia
+SSD	medcodeid	425511000006111	[X]Schizoaffective disorder, manic type
+SSD	medcodeid	425691000006119	[X]Schizophreniform psychosis, depressive type
+SSD	medcodeid	1667591000000111	[X]Nonorganic psychosis in remission
+SSD	medcodeid	294739013	Acute exacerbation of chronic hebephrenic schizophrenia
+SSD	medcodeid	294743012	[X]Schizophrenic flexibilatis cerea
+SSD	medcodeid	9225016	Schizophrenia in remission
+SSD	medcodeid	28758018	Subchronic schizophrenia
+SSD	medcodeid	294771018	Latent schizophrenia NOS
+SSD	medcodeid	294910016	Other paranoid states
+SSD	medcodeid	294734015	Simple schizophrenia NOS
+SSD	medcodeid	294741014	Hebephrenic schizophrenia NOS
+SSD	medcodeid	296096013	[X]Schizoaffective disorder, unspecified
+SSD	medcodeid	401764014	Other schizophrenia
+SSD	medcodeid	425921000006114	[X]Sensitiver Beziehungswahn
+SSD	SNOMEDCT	26472000	Paraphrenia
+SSD	SNOMEDCT	63181006	Paranoid schizophrenia in remission
+SSD	SNOMEDCT	64905009	Paranoid schizophrenia
+SSD	SNOMEDCT	79866005	Subchronic paranoid schizophrenia
+SSD	SNOMEDCT	191526005	Schizophrenic disorders
+SSD	SNOMEDCT	191527001	Schizophrenia simplex
+SSD	SNOMEDCT	191527001	Simple schizophrenia
+SSD	SNOMEDCT	191542003	Catatonic schizophrenia
+SSD	SNOMEDCT	191548004	Acute exacerbation of chronic catatonic schizophrenia
+SSD	SNOMEDCT	191554003	Acute exacerbation of subchronic paranoid schizophrenia
+SSD	SNOMEDCT	191555002	Acute exacerbation of chronic paranoid schizophrenia
+SSD	SNOMEDCT	191559008	Latent schizophrenia
+SSD	SNOMEDCT	191562006	Chronic latent schizophrenia
+SSD	SNOMEDCT	191567000	Cyclic schizophrenia
+SSD	SNOMEDCT	191577003	Cenesthopathic schizophrenia
+SSD	SNOMEDCT	191668004	Simple paranoid state
+SSD	SNOMEDCT	191672000	Paranoia querulans
+SSD	SNOMEDCT	268622001	Chronic paranoid psychosis
+SSD	SNOMEDCT	268957000	Psychotic condition, insight present
+SSD	SNOMEDCT	111484002	Atypical schizophrenia
+SSD	SNOMEDCT	285551000000108	Psychosis resolved
+SSD	SNOMEDCT	58214004	Unspecified schizophrenia
+SSD	SNOMEDCT	35252006	Unspecified hebephrenic schizophrenia
+SSD	SNOMEDCT	191542003	Catatonic schizophrenia NOS
+SSD	SNOMEDCT	58214004	Other schizophrenia NOS
+SSD	SNOMEDCT	191667009	Paranoid psychosis NOS
+SSD	SNOMEDCT	111484002	[X]Undifferentiated schizophrenia
+SSD	SNOMEDCT	58214004	[X]Schizophrenia, unspecified
+SSD	SNOMEDCT	191525009	Non-organic psychosis NOS
+SSD	SNOMEDCT	191525009	[X]Unspecified nonorganic psychosis
+SSD	SNOMEDCT	191567000	Unspecified schizo-affective schizophrenia
+SSD	SNOMEDCT	191567000	Schizo-affective schizophrenia
+SSD	SNOMEDCT	191574005	Schizo-affective schizophrenia in remission
+SSD	SNOMEDCT	191567000	Schizo-affective schizophrenia NOS
+SSD	SNOMEDCT	268622001	Sander's disease
+SSD	SNOMEDCT	191667009	[X]Paranoid psychosis
+SSD	SNOMEDCT	191667009	Paranoid states
+SSD	SNOMEDCT	111484002	[X]Atypical schizophrenia
+SSD	SNOMEDCT	191542003	[X]Catatonic stupor
+SSD	SNOMEDCT	231487004	[X]Delusional dysmorphophobia
+SSD	SNOMEDCT	35252006	[X]Disorganised schizophrenia
+SSD	SNOMEDCT	35252006	[X]Hebephrenic schizophrenia
+SSD	SNOMEDCT	270901009	[X]Mixed schizophrenic and affective psychosis
+SSD	SNOMEDCT	64905009	[X]Paranoid schizophrenia
+SSD	SNOMEDCT	231485007	[X]Post-schizophrenic depression
+SSD	SNOMEDCT	31027006	[X]Pseudopsychopathic schizophrenia
+SSD	SNOMEDCT	69322001	[X]Psychosis NOS
+SSD	SNOMEDCT	26025008	[X]Residual schizophrenia
+SSD	SNOMEDCT	84760002	[X]Schizoaffective disorder, depressive type
+SSD	SNOMEDCT	84760002	[X]Schizoaffective psychosis, depressive type
+SSD	SNOMEDCT	191542003	[X]Schizophrenic catatonia
+SSD	SNOMEDCT	271428004	[X]Schizophreniform psychosis, manic type
+SSD	SNOMEDCT	58214004	[X]Schizophrenifrm psychos NOS
+SSD	SNOMEDCT	191527001	[X]Simple schizophrenia
+SSD	SNOMEDCT	191572009	Acute exacerbation of chronic schizo-affective schizophrenia
+SSD	SNOMEDCT	191570001	Chronic schizo-affective schizophrenia
+SSD	SNOMEDCT	35252006	Hebephrenic schizophrenia
+SSD	SNOMEDCT	44906001	[X]Capgras syndrome
+SSD	SNOMEDCT	357705009	[X]Cotard syndrome
+SSD	SNOMEDCT	191559008	Unspecified latent schizophrenia
+SSD	SNOMEDCT	274952002	[X]Borderline schizophrenia
+SSD	SNOMEDCT	111484002	[X]Chronic undifferentiated schizophrenia
+SSD	SNOMEDCT	191667009	[X]Paranoid state
+SSD	SNOMEDCT	247804008	[X]Prepsychotic schizophrenia
+SSD	SNOMEDCT	161464003	[V]Personal history of schizophrenia
+SSD	SNOMEDCT	480111000000107	[X]Chronic hallucinatory psychosis
+SSD	SNOMEDCT	231487004	[X]Other persistent delusional disorders
+SSD	SNOMEDCT	64905009	Unspecified paranoid schizophrenia
+SSD	SNOMEDCT	68890003	[X]Other schizoaffective disorders
+SSD	SNOMEDCT	198991000000103	H/O: psychosis
+SSD	SNOMEDCT	83746006	Chronic schizophrenic
+SSD	SNOMEDCT	191525009	Non-organic psychoses
+SSD	SNOMEDCT	26025008	Residual schizophrenia
+SSD	SNOMEDCT	111483008	Catatonic schizophrenia in remission
+SSD	SNOMEDCT	191667009	Other paranoid states NOS
+SSD	SNOMEDCT	270901009	[X]Cyclic schizophrenia
+SSD	SNOMEDCT	231487004	[X]Involutional paranoid state
+SSD	SNOMEDCT	231487004	[X]Paranoia querulans
+SSD	SNOMEDCT	270901009	[X]Schizoaffective disorder, mixed type
+SSD	SNOMEDCT	68890003	[X]Schizoaffective disorders
+SSD	SNOMEDCT	191571002	Acute exacerbation subchronic schizo-affective schizophrenia
+SSD	SNOMEDCT	191525009	Other specified non-organic psychoses
+SSD	SNOMEDCT	191569002	Subchronic schizo-affective schizophrenia
+SSD	SNOMEDCT	48500005	[X]Delusional disorder
+SSD	SNOMEDCT	58214004	[X]Other schizophrenia
+SSD	SNOMEDCT	191542003	Unspecified catatonic schizophrenia
+SSD	SNOMEDCT	64905009	Paranoid schizophrenia NOS
+SSD	SNOMEDCT	191531007	Acute exacerbation of chronic schizophrenia
+SSD	SNOMEDCT	191577003	Coenesthopathic schizophrenia
+SSD	SNOMEDCT	417601000000102	[X]Schizophrenia, schizotypal and delusional disorders
+SSD	SNOMEDCT	161468000	H/O: schizophrenia
+SSD	SNOMEDCT	191525009	[X]Other nonorganic psychotic disorders
+SSD	SNOMEDCT	64905009	[X]Paraphrenic schizophrenia
+SSD	SNOMEDCT	58214004	[X]Schizophreniform disord NOS
+SSD	SNOMEDCT	191559008	[X]Latent schizophrenic reaction
+SSD	SNOMEDCT	247804008	[X]Prodromal schizophrenia
+SSD	SNOMEDCT	111482003	Acute exacerbation of subchronic schizophrenia
+SSD	SNOMEDCT	31027006	[X]Schizotypal disorder
+SSD	SNOMEDCT	58214004	Schizophrenia NOS
+SSD	SNOMEDCT	231487004	[X]Persistent delusional disorder, unspecified
+SSD	SNOMEDCT	31373002	Hebephrenic schizophrenia in remission
+SSD	SNOMEDCT	755301000000102	[X]Paranoid state in remission
+SSD	SNOMEDCT	285521000000103	Schizophrenia resolved
+SSD	SNOMEDCT	191565008	Latent schizophrenia in remission
+SSD	SNOMEDCT	31658008	Chronic paranoid schizophrenia
+SSD	SNOMEDCT	42868002	Subchronic catatonic schizophrenia
+SSD	SNOMEDCT	12200008	Poor insight into psychotic condition
+SSD	SNOMEDCT	417233008	[X]Paranoia
+SSD	SNOMEDCT	231487004	[X]Persistent delusional disorders
+SSD	SNOMEDCT	68890003	[X]Schizoaffective psychosis NOS
+SSD	SNOMEDCT	271428004	[X]Schizoaffective psychosis, manic type
+SSD	SNOMEDCT	58214004	[X]Schizophrenia
+SSD	SNOMEDCT	191542003	[X]Schizophrenic catalepsy
+SSD	SNOMEDCT	44906001	[X]Delusional misidentification syndrome
+SSD	SNOMEDCT	191559008	[X]Latent schizophrenia
+SSD	SNOMEDCT	191542003	[X]Catatonic schizophrenia
+SSD	SNOMEDCT	38295006	[X]Paraphrenia - late
+SSD	SNOMEDCT	31027006	[X]Pseudoneurotic schizophrenia
+SSD	SNOMEDCT	271428004	[X]Schizoaffective disorder, manic type
+SSD	SNOMEDCT	84760002	[X]Schizophreniform psychosis, depressive type
+SSD	SNOMEDCT	755311000000100	[X]Nonorganic psychosis in remission
+SSD	SNOMEDCT	191539009	Acute exacerbation of chronic hebephrenic schizophrenia
+SSD	SNOMEDCT	191542003	[X]Schizophrenic flexibilatis cerea
+SSD	SNOMEDCT	4926007	Schizophrenia in remission
+SSD	SNOMEDCT	16990005	Subchronic schizophrenia
+SSD	SNOMEDCT	191559008	Latent schizophrenia NOS
+SSD	SNOMEDCT	191667009	Other paranoid states
+SSD	SNOMEDCT	191527001	Simple schizophrenia NOS
+SSD	SNOMEDCT	35252006	Hebephrenic schizophrenia NOS
+SSD	SNOMEDCT	68890003	[X]Schizoaffective disorder, unspecified
+SSD	SNOMEDCT	58214004	Other schizophrenia
+SSD	SNOMEDCT	41189006	[X]Sensitiver Beziehungswahn
+SSD	Read2_5digit	1464.	H/O: schizophrenia
+SSD	Read2_5digit	146H.	H/O: psychosis
+SSD	Read2_5digit	212W.	Schizophrenia resolved
+SSD	Read2_5digit	212X.	Psychosis resolved
+SSD	Read2_5digit	E1...	Non-organic psychoses
+SSD	Read2_5digit	E10..	Schizophrenic disorders
+SSD	Read2_5digit	E100.	Simple schizophrenia
+SSD	Read2_5digit	E1000	Unspecified schizophrenia
+SSD	Read2_5digit	E1001	Subchronic schizophrenia
+SSD	Read2_5digit	E1002	Chronic schizophrenic
+SSD	Read2_5digit	E1003	Acute exacerbation of subchronic schizophrenia
+SSD	Read2_5digit	E1004	Acute exacerbation of chronic schizophrenia
+SSD	Read2_5digit	E1005	Schizophrenia in remission
+SSD	Read2_5digit	E100z	Simple schizophrenia NOS
+SSD	Read2_5digit	E101.	Hebephrenic schizophrenia
+SSD	Read2_5digit	E1010	Unspecified hebephrenic schizophrenia
+SSD	Read2_5digit	E1014	Acute exacerbation of chronic hebephrenic schizophrenia
+SSD	Read2_5digit	E1015	Hebephrenic schizophrenia in remission
+SSD	Read2_5digit	E101z	Hebephrenic schizophrenia NOS
+SSD	Read2_5digit	E102.	Catatonic schizophrenia
+SSD	Read2_5digit	E1020	Unspecified catatonic schizophrenia
+SSD	Read2_5digit	E1021	Subchronic catatonic schizophrenia
+SSD	Read2_5digit	E1024	Acute exacerbation of chronic catatonic schizophrenia
+SSD	Read2_5digit	E1025	Catatonic schizophrenia in remission
+SSD	Read2_5digit	E102z	Catatonic schizophrenia NOS
+SSD	Read2_5digit	E103.	Paranoid schizophrenia
+SSD	Read2_5digit	E1030	Unspecified paranoid schizophrenia
+SSD	Read2_5digit	E1031	Subchronic paranoid schizophrenia
+SSD	Read2_5digit	E1032	Chronic paranoid schizophrenia
+SSD	Read2_5digit	E1033	Acute exacerbation of subchronic paranoid schizophrenia
+SSD	Read2_5digit	E1034	Acute exacerbation of chronic paranoid schizophrenia
+SSD	Read2_5digit	E1035	Paranoid schizophrenia in remission
+SSD	Read2_5digit	E103z	Paranoid schizophrenia NOS
+SSD	Read2_5digit	E105.	Latent schizophrenia
+SSD	Read2_5digit	E1050	Unspecified latent schizophrenia
+SSD	Read2_5digit	E1052	Chronic latent schizophrenia
+SSD	Read2_5digit	E1055	Latent schizophrenia in remission
+SSD	Read2_5digit	E105z	Latent schizophrenia NOS
+SSD	Read2_5digit	E106.	Residual schizophrenia
+SSD	Read2_5digit	E107.	Schizo-affective schizophrenia
+SSD	Read2_5digit	E1070	Unspecified schizo-affective schizophrenia
+SSD	Read2_5digit	E1071	Subchronic schizo-affective schizophrenia
+SSD	Read2_5digit	E1072	Chronic schizo-affective schizophrenia
+SSD	Read2_5digit	E1073	Acute exacerbation of subchronic schizo-affective schizophrenia
+SSD	Read2_5digit	E1074	Acute exacerbation of chronic schizo-affective schizophrenia
+SSD	Read2_5digit	E1075	Schizo-affective schizophrenia in remission
+SSD	Read2_5digit	E107z	Schizo-affective schizophrenia NOS
+SSD	Read2_5digit	E10y.	Other schizophrenia
+SSD	Read2_5digit	E10y0	Atypical schizophrenia
+SSD	Read2_5digit	E10y1	Coenesthopathic schizophrenia
+SSD	Read2_5digit	E10yz	Other schizophrenia NOS
+SSD	Read2_5digit	E10z.	Schizophrenia NOS
+SSD	Read2_5digit	E12..	Paranoid states
+SSD	Read2_5digit	E120.	Simple paranoid state
+SSD	Read2_5digit	E121.	Chronic paranoid psychosis
+SSD	Read2_5digit	E122.	Paraphrenia
+SSD	Read2_5digit	E12y.	Other paranoid states
+SSD	Read2_5digit	E12y0	Paranoia querulans
+SSD	Read2_5digit	E12yz	Other paranoid states NOS
+SSD	Read2_5digit	E12z.	Paranoid psychosis NOS
+SSD	Read2_5digit	E1y..	Other specified non-organic psychoses
+SSD	Read2_5digit	E1z..	Non-organic psychosis NOS
+SSD	Read2_5digit	Eu2..	[X]Schizophrenia, schizotypal and delusional disorders
+SSD	Read2_5digit	Eu20.	[X]Schizophrenia
+SSD	Read2_5digit	Eu200	[X]Paranoid schizophrenia
+SSD	Read2_5digit	Eu201	[X]Hebephrenic schizophrenia
+SSD	Read2_5digit	Eu202	[X]Catatonic schizophrenia
+SSD	Read2_5digit	Eu203	[X]Undifferentiated schizophrenia
+SSD	Read2_5digit	Eu204	[X]Post-schizophrenic depression
+SSD	Read2_5digit	Eu205	[X]Residual schizophrenia
+SSD	Read2_5digit	Eu206	[X]Simple schizophrenia
+SSD	Read2_5digit	Eu20y	[X]Other schizophrenia
+SSD	Read2_5digit	Eu20z	[X]Schizophrenia, unspecified
+SSD	Read2_5digit	Eu21.	[X]Schizotypal disorder
+SSD	Read2_5digit	Eu22.	[X]Persistent delusional disorders
+SSD	Read2_5digit	Eu220	[X]Delusional disorder
+SSD	Read2_5digit	Eu221	[X]Delusional misidentification syndrome
+SSD	Read2_5digit	Eu222	[X]Cotard syndrome
+SSD	Read2_5digit	Eu223	[X]Paranoid state in remission
+SSD	Read2_5digit	Eu22y	[X]Other persistent delusional disorders
+SSD	Read2_5digit	Eu22z	[X]Persistent delusional disorder, unspecified
+SSD	Read2_5digit	Eu25.	[X]Schizoaffective disorders
+SSD	Read2_5digit	Eu250	[X]Schizoaffective disorder, manic type
+SSD	Read2_5digit	Eu251	[X]Schizoaffective disorder, depressive type
+SSD	Read2_5digit	Eu252	[X]Schizoaffective disorder, mixed type
+SSD	Read2_5digit	Eu25y	[X]Other schizoaffective disorders
+SSD	Read2_5digit	Eu25z	[X]Schizoaffective disorder, unspecified
+SSD	Read2_5digit	Eu26.	[X]Nonorganic psychosis in remission
+SSD	Read2_5digit	Eu2y.	[X]Other nonorganic psychotic disorders
+SSD	Read2_5digit	Eu2z.	[X]Unspecified nonorganic psychosis
+SSD	Read2_5digit	ZV110	[V]Personal history of schizophrenia
+SSD	CTV3_5digit	1464.	H/O: schizophrenia
+SSD	CTV3_5digit	XaL07	H/O: psychosis
+SSD	CTV3_5digit	XaMwd	Schizophrenia resolved
+SSD	CTV3_5digit	XaMwe	Psychosis resolved
+SSD	CTV3_5digit	XE1hk	Psychotic condition, insight present
+SSD	CTV3_5digit	XabBS	Impaired insight
+SSD	CTV3_5digit	XE1hl	Poor insight into neurotic condition
+SSD	CTV3_5digit	E1...	Non-organic psychoses
+SSD	CTV3_5digit	E10..	Schizophrenic disorders
+SSD	CTV3_5digit	E100.	Simple schizophrenia
+SSD	CTV3_5digit	E1000	Unspecified schizophrenia
+SSD	CTV3_5digit	E1001	Subchronic schizophrenia
+SSD	CTV3_5digit	E1002	Chronic schizophrenic
+SSD	CTV3_5digit	E1003	Acute exacerbation of subchronic schizophrenia
+SSD	CTV3_5digit	E1004	Acute exacerbation of chronic schizophrenia
+SSD	CTV3_5digit	E1005	Schizophrenia in remission
+SSD	CTV3_5digit	E100z	Simple schizophrenia NOS
+SSD	CTV3_5digit	E101.	Hebephrenic schizophrenia
+SSD	CTV3_5digit	E1010	Unspecified hebephrenic schizophrenia
+SSD	CTV3_5digit	E1014	Acute exacerbation of chronic hebephrenic schizophrenia
+SSD	CTV3_5digit	E1015	Hebephrenic schizophrenia in remission
+SSD	CTV3_5digit	E101z	Hebephrenic schizophrenia NOS
+SSD	CTV3_5digit	E102.	Catatonic schizophrenia
+SSD	CTV3_5digit	E1020	Unspecified catatonic schizophrenia
+SSD	CTV3_5digit	E1021	Subchronic catatonic schizophrenia
+SSD	CTV3_5digit	E1024	Acute exacerbation of chronic catatonic schizophrenia
+SSD	CTV3_5digit	E1025	Catatonic schizophrenia in remission
+SSD	CTV3_5digit	E102z	Catatonic schizophrenia NOS
+SSD	CTV3_5digit	E103.	Paranoid schizophrenia
+SSD	CTV3_5digit	E1030	Unspecified paranoid schizophrenia
+SSD	CTV3_5digit	E1031	Subchronic paranoid schizophrenia
+SSD	CTV3_5digit	E1032	Chronic paranoid schizophrenia
+SSD	CTV3_5digit	E1033	Acute exacerbation of subchronic paranoid schizophrenia
+SSD	CTV3_5digit	E1034	Acute exacerbation of chronic paranoid schizophrenia
+SSD	CTV3_5digit	E1035	Paranoid schizophrenia in remission
+SSD	CTV3_5digit	E103z	Paranoid schizophrenia NOS
+SSD	CTV3_5digit	E105.	Latent schizophrenia
+SSD	CTV3_5digit	E1050	Unspecified latent schizophrenia
+SSD	CTV3_5digit	E1052	Chronic latent schizophrenia
+SSD	CTV3_5digit	E1055	Latent schizophrenia in remission
+SSD	CTV3_5digit	E105z	Latent schizophrenia NOS
+SSD	CTV3_5digit	E106.	Residual schizophrenia
+SSD	CTV3_5digit	E107.	Schizoaffective schizophrenia
+SSD	CTV3_5digit	E1070	Unspecified schizoaffective schizophrenia
+SSD	CTV3_5digit	E1071	Subchronic schizoaffective schizophrenia
+SSD	CTV3_5digit	E1072	Chronic schizoaffective schizophrenia
+SSD	CTV3_5digit	E1073	Acute exacerbation of subchronic schizoaffective schizophrenia
+SSD	CTV3_5digit	E1074	Acute exacerbation of chronic schizoaffective schizophrenia
+SSD	CTV3_5digit	E1075	Schizoaffective schizophrenia in remission
+SSD	CTV3_5digit	E107z	Schizoaffective schizophrenia NOS
+SSD	CTV3_5digit	XE1Xx	Other schizophrenia
+SSD	CTV3_5digit	E10y1	Cenesthopathic schizophrenia
+SSD	CTV3_5digit	E10y0	Atypical schizophrenia
+SSD	CTV3_5digit	E10yz	Other schizophrenia NOS
+SSD	CTV3_5digit	E10z.	Schizophrenia NOS
+SSD	CTV3_5digit	E12..	Paranoid disorder
+SSD	CTV3_5digit	E120.	Simple paranoid state
+SSD	CTV3_5digit	XE1Y2	Chronic paranoid psychosis
+SSD	CTV3_5digit	E121.	Sander's disease
+SSD	CTV3_5digit	E122.	Paraphrenia
+SSD	CTV3_5digit	E12y.	Other paranoid states
+SSD	CTV3_5digit	E12y0	Paranoia querulans
+SSD	CTV3_5digit	E12yz	Other paranoid states NOS
+SSD	CTV3_5digit	E12z.	Paranoid psychosis NOS
+SSD	CTV3_5digit	E1y..	Other specified non-organic psychoses
+SSD	CTV3_5digit	XE1Y5	Non-organic psychosis NOS
+SSD	CTV3_5digit	Eu2..	[X]Schizophrenia, schizotypal and delusional disorders
+SSD	CTV3_5digit	Eu20.	Schizophrenia
+SSD	CTV3_5digit	Eu203	[X]Undifferentiated schizophrenia
+SSD	CTV3_5digit	X00S8	Post-schizophrenic depression
+SSD	CTV3_5digit	XE1ZM	[X]Other schizophrenia
+SSD	CTV3_5digit	Eu20z	[X]Schizophrenia, unspecified
+SSD	CTV3_5digit	XE1ZN	[X]Schizotypal disorder
+SSD	CTV3_5digit	X00SA	Persistent delusional disorder
+SSD	CTV3_5digit	Xa0tC	Late paraphrenia
+SSD	CTV3_5digit	XE1ZO	Delusional disorder
+SSD	CTV3_5digit	XaKUl	Paranoid ideation
+SSD	CTV3_5digit	X75z7	Delusional misidentification syndrome
+SSD	CTV3_5digit	XSKr7	Cotard syndrome
+SSD	CTV3_5digit	XaX51	[X]Paranoid state in remission
+SSD	CTV3_5digit	XE1ZP	[X]Other persistent delusional disorders
+SSD	CTV3_5digit	Eu22z	[X]Persistent delusional disorder, unspecified
+SSD	CTV3_5digit	Eu25.	Schizoaffective disorder
+SSD	CTV3_5digit	XE2uT	Schizoaffective disorder, manic type
+SSD	CTV3_5digit	XE2un	Schizoaffective disorder, depressive type
+SSD	CTV3_5digit	XE2b8	Schizoaffective disorder, mixed type
+SSD	CTV3_5digit	Eu25y	[X]Other schizoaffective disorders
+SSD	CTV3_5digit	Eu25z	[X]Schizoaffective disorder, unspecified
+SSD	CTV3_5digit	XaX52	[X]Nonorganic psychosis in remission
+SSD	CTV3_5digit	XE1ZT	[X]Other non-organic psychotic disorders
+SSD	CTV3_5digit	Eu2y.	[X]Chronic hallucinatory psychosis
+SSD	CTV3_5digit	XE1ZU	[X]Unspecified nonorganic psychosis
+SSD	CTV3_5digit	X00S6	Psychotic
+SSD	CTV3_5digit	ZV110	[V]Personal history of schizophrenia

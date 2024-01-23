@@ -1,0 +1,227 @@
+condition	vocab_id	code	description
+psoriasis	ICD10	L40	Psoriasis
+psoriasis	ICD10	M07.0	Distal interphalangeal psoriatic arthropathy
+psoriasis	ICD10	M07.1	Arthritis mutilans
+psoriasis	ICD10	M07.2	Psoriatic spondylitis
+psoriasis	ICD10	M07.3	Other psoriatic arthropathies
+psoriasis	ICD10	M09.0	Juvenile arthritis in psoriasis
+psoriasis	Read2	14F2.00	H/O: psoriasis
+psoriasis	Read2	M16..00	Psoriasis and similar disorders
+psoriasis	Read2	M160.00	Psoriatic arthropathy
+psoriasis	Read2	M160.11	Psoriatic arthritis
+psoriasis	Read2	M160000	Psoriasis spondylitica
+psoriasis	Read2	M160100	Distal interphalangeal psoriatic arthropathy
+psoriasis	Read2	M160200	Arthritis mutilans
+psoriasis	Read2	M160z00	Psoriatic arthropathy NOS
+psoriasis	Read2	M161.00	Other psoriasis
+psoriasis	Read2	M161000	Psoriasis unspecified
+psoriasis	Read2	M161100	Psoriasis annularis
+psoriasis	Read2	M161200	Psoriasis circinata
+psoriasis	Read2	M161300	Psoriasis diffusa
+psoriasis	Read2	M161400	Psoriasis discoidea
+psoriasis	Read2	M161500	Psoriasis geographica
+psoriasis	Read2	M161600	Guttate psoriasis
+psoriasis	Read2	M161700	Psoriasis gyrata
+psoriasis	Read2	M161800	Psoriasis inveterata
+psoriasis	Read2	M161900	Psoriasis ostracea
+psoriasis	Read2	M161A00	Psoriasis palmaris
+psoriasis	Read2	M161B00	Psoriasis plantaris
+psoriasis	Read2	M161C00	Psoriasis punctata
+psoriasis	Read2	M161D00	Pustular psoriasis
+psoriasis	Read2	M161E00	Psoriasis universalis
+psoriasis	Read2	M161F00	Psoriasis vulgaris
+psoriasis	Read2	M161F11	Chronic large plaque psoriasis
+psoriasis	Read2	M161H00	Erythrodermic psoriasis
+psoriasis	Read2	M161J00	Flexural psoriasis
+psoriasis	Read2	M161z00	Psoriasis NOS
+psoriasis	Read2	M166.00	Palmoplantar pustular psoriasis
+psoriasis	Read2	M16y.00	Other psoriasis and similar disorders
+psoriasis	Read2	M16y000	Scalp psoriasis
+psoriasis	Read2	M16z.00	Psoriasis and similar disorders NOS
+psoriasis	Read2	Myu3000	[X]Other psoriasis
+psoriasis	Read2	N045200	Juvenile arthritis in psoriasis
+psoriasis	Read2	Nyu1300	[X]Other psoriatic arthropathies
+psoriasis	CTV3	14F2.Ya05V	H/O: psoriasis
+psoriasis	CTV3	M16..Y50HH	Psoriasis and similar disorders
+psoriasis	CTV3	M160.Y70Eo	Psoriatic arthropathy
+psoriasis	CTV3	M160.Y70En	Psoriatic arthritis
+psoriasis	CTV3	M1600Y70Es	Psoriatic arthritis with spine involvement
+psoriasis	CTV3	M1600Y70Et	Psoriatic spondylitis
+psoriasis	CTV3	X7026YMAqA	Distal interphalangeal psoriatic arthropathy
+psoriasis	CTV3	X7027Y70Ex	Arthritis mutilans
+psoriasis	CTV3	M160zY70Er	Psoriatic arthropathy NOS
+psoriasis	CTV3	M161.Y50HP	Other psoriasis
+psoriasis	CTV3	M1610Y50HQ	Psoriasis unspecified
+psoriasis	CTV3	M1611Y50IN	Psoriasis annularis
+psoriasis	CTV3	M1612Y50IO	Psoriasis circinata
+psoriasis	CTV3	M1613Y50HR	Psoriasis diffusa
+psoriasis	CTV3	M1614Y50Ha	Discoid psoriasis
+psoriasis	CTV3	M1614Y50HZ	Plaque psoriasis
+psoriasis	CTV3	M1615Y50HS	Psoriasis geographica
+psoriasis	CTV3	M1616Y50Hd	Guttate psoriasis
+psoriasis	CTV3	M1617Y50HT	Psoriasis gyrata
+psoriasis	CTV3	M1618Y50HU	Psoriasis inveterata
+psoriasis	CTV3	M1619Y50Hl	Rupioid psoriasis
+psoriasis	CTV3	M1619Y50Hm	Ostraceous psoriasis
+psoriasis	CTV3	M161AY50I6	Psoriasis palmaris
+psoriasis	CTV3	M161BY50I7	Psoriasis plantaris
+psoriasis	CTV3	M161CY50HV	Psoriasis punctata
+psoriasis	CTV3	M161DY50Hw	Pustular psoriasis
+psoriasis	CTV3	XaYOxY50Hw	Pustular psoriasis
+psoriasis	CTV3	M161EY50HW	Psoriasis universalis
+psoriasis	CTV3	XaNXtY50HX	Psoriasis vulgaris
+psoriasis	CTV3	M161FYaqZp	Chronic large plaque psoriasis
+psoriasis	CTV3	XaNXaYaqZp	Chronic large plaque psoriasis
+psoriasis	CTV3	X506bY50Hg	Erythrodermic psoriasis
+psoriasis	CTV3	X506ZY50He	Flexural psoriasis
+psoriasis	CTV3	M161zY50HY	Psoriasis NOS
+psoriasis	CTV3	X506mY50Hy	Palmoplantar pustular psoriasis
+psoriasis	CTV3	M16y.Y50HI	Other psoriasis and similar disorders
+psoriasis	CTV3	X506iY50Ht	Scalp psoriasis
+psoriasis	CTV3	M16z.Y50HJ	Psoriasis and similar disorders NOS
+psoriasis	CTV3	Myu30YMALP	[X]Other psoriasis
+psoriasis	CTV3	X701vYMAq6	Juvenile arthritis in psoriasis
+psoriasis	CTV3	Nyu13YMAMW	[X]Other psoriatic arthropathies
+psoriasis	medcodeid	32869011	Arthritis mutilans
+psoriasis	medcodeid	61797015	Guttate psoriasis
+psoriasis	medcodeid	251784017	H/O: psoriasis
+psoriasis	medcodeid	308735014	Psoriasis diffusa
+psoriasis	medcodeid	308739015	Psoriasis geographica
+psoriasis	medcodeid	308744010	Psoriasis palmaris
+psoriasis	medcodeid	308745011	Psoriasis plantaris
+psoriasis	medcodeid	308747015	Pustular psoriasis
+psoriasis	medcodeid	308749017	Psoriasis universalis
+psoriasis	medcodeid	308752013	Erythrodermic psoriasis
+psoriasis	medcodeid	357623013	Scalp psoriasis
+psoriasis	medcodeid	359310019	Juvenile arthritis in psoriasis
+psoriasis	medcodeid	359321011	Distal interphalangeal psoriatic arthropathy
+psoriasis	medcodeid	483572016	Palmoplantar pustular psoriasis
+psoriasis	medcodeid	1629311000006117	Chronic large plaque psoriasis
+psoriasis	medcodeid	308730016	Psoriatic arthropathy NOS
+psoriasis	medcodeid	308731017	Other psoriasis
+psoriasis	medcodeid	308753015	Psoriasis NOS
+psoriasis	medcodeid	308775018	Other psoriasis and similar disorders
+psoriasis	medcodeid	308776017	Psoriasis and similar disorders NOS
+psoriasis	medcodeid	312521010	[X]Other psoriatic arthropathies
+psoriasis	medcodeid	198791000006112	Psoriasis discoidea
+psoriasis	medcodeid	198881000006116	Psoriasis spondylitica
+psoriasis	medcodeid	1887571000006111	Flexural psoriasis
+psoriasis	medcodeid	308740018	Psoriasis gyrata
+psoriasis	medcodeid	308746012	Psoriasis punctata
+psoriasis	medcodeid	308732012	Psoriasis unspecified
+psoriasis	medcodeid	308734013	Psoriasis circinata
+psoriasis	medcodeid	308750017	Psoriasis vulgaris
+psoriasis	medcodeid	309331014	[X]Other psoriasis
+psoriasis	medcodeid	55627011	Psoriatic arthropathy
+psoriasis	medcodeid	308733019	Psoriasis annularis
+psoriasis	medcodeid	198841000006110	Psoriasis ostracea
+psoriasis	medcodeid	308741019	Psoriasis inveterata
+psoriasis	medcodeid	55628018	Psoriatic arthritis
+psoriasis	medcodeid	308725015	Psoriasis and similar disorders
+psoriasis	SNOMEDCT	19514005	Arthritis mutilans
+psoriasis	SNOMEDCT	37042000	Guttate psoriasis
+psoriasis	SNOMEDCT	161562002	H/O: psoriasis
+psoriasis	SNOMEDCT	200964008	Psoriasis diffusa
+psoriasis	SNOMEDCT	200966005	Psoriasis geographica
+psoriasis	SNOMEDCT	200970002	Psoriasis palmaris
+psoriasis	SNOMEDCT	200971003	Psoriasis plantaris
+psoriasis	SNOMEDCT	200973000	Pustular psoriasis
+psoriasis	SNOMEDCT	200974006	Psoriasis universalis
+psoriasis	SNOMEDCT	200977004	Erythrodermic psoriasis
+psoriasis	SNOMEDCT	238608008	Scalp psoriasis
+psoriasis	SNOMEDCT	239803008	Juvenile arthritis in psoriasis
+psoriasis	SNOMEDCT	239812005	Distal interphalangeal psoriatic arthropathy
+psoriasis	SNOMEDCT	27520001	Palmoplantar pustular psoriasis
+psoriasis	SNOMEDCT	402307000	Chronic large plaque psoriasis
+psoriasis	SNOMEDCT	33339001	Psoriatic arthropathy NOS
+psoriasis	SNOMEDCT	9014002	Other psoriasis
+psoriasis	SNOMEDCT	9014002	Psoriasis NOS
+psoriasis	SNOMEDCT	399937000	Other psoriasis and similar disorders
+psoriasis	SNOMEDCT	9014002	Psoriasis and similar disorders NOS
+psoriasis	SNOMEDCT	33339001	[X]Other psoriatic arthropathies
+psoriasis	SNOMEDCT	200965009	Psoriasis discoidea
+psoriasis	SNOMEDCT	200956002	Psoriasis spondylitica
+psoriasis	SNOMEDCT	238600001	Flexural psoriasis
+psoriasis	SNOMEDCT	200967001	Psoriasis gyrata
+psoriasis	SNOMEDCT	200972005	Psoriasis punctata
+psoriasis	SNOMEDCT	9014002	Psoriasis unspecified
+psoriasis	SNOMEDCT	200963002	Psoriasis circinata
+psoriasis	SNOMEDCT	200975007	Psoriasis vulgaris
+psoriasis	SNOMEDCT	9014002	[X]Other psoriasis
+psoriasis	SNOMEDCT	33339001	Psoriatic arthropathy
+psoriasis	SNOMEDCT	200962007	Psoriasis annularis
+psoriasis	SNOMEDCT	200969003	Psoriasis ostracea
+psoriasis	SNOMEDCT	200968006	Psoriasis inveterata
+psoriasis	SNOMEDCT	33339001	Psoriatic arthritis
+psoriasis	SNOMEDCT	9014002	Psoriasis and similar disorders
+psoriasis	Read2_5digit	14F2.	H/O: psoriasis
+psoriasis	Read2_5digit	M16..	Psoriasis and similar disorders
+psoriasis	Read2_5digit	M160.	Psoriatic arthropathy
+psoriasis	Read2_5digit	M1600	Psoriasis spondylitica
+psoriasis	Read2_5digit	M1601	Distal interphalangeal psoriatic arthropathy
+psoriasis	Read2_5digit	M1602	Arthritis mutilans
+psoriasis	Read2_5digit	M160z	Psoriatic arthropathy NOS
+psoriasis	Read2_5digit	M161.	Other psoriasis
+psoriasis	Read2_5digit	M1610	Psoriasis unspecified
+psoriasis	Read2_5digit	M1611	Psoriasis annularis
+psoriasis	Read2_5digit	M1612	Psoriasis circinata
+psoriasis	Read2_5digit	M1613	Psoriasis diffusa
+psoriasis	Read2_5digit	M1614	Psoriasis discoidea
+psoriasis	Read2_5digit	M1615	Psoriasis geographica
+psoriasis	Read2_5digit	M1616	Guttate psoriasis
+psoriasis	Read2_5digit	M1617	Psoriasis gyrata
+psoriasis	Read2_5digit	M1618	Psoriasis inveterata
+psoriasis	Read2_5digit	M1619	Psoriasis ostracea
+psoriasis	Read2_5digit	M161A	Psoriasis palmaris
+psoriasis	Read2_5digit	M161B	Psoriasis plantaris
+psoriasis	Read2_5digit	M161C	Psoriasis punctata
+psoriasis	Read2_5digit	M161D	Pustular psoriasis
+psoriasis	Read2_5digit	M161E	Psoriasis universalis
+psoriasis	Read2_5digit	M161F	Psoriasis vulgaris
+psoriasis	Read2_5digit	M161H	Erythrodermic psoriasis
+psoriasis	Read2_5digit	M161J	Flexural psoriasis
+psoriasis	Read2_5digit	M161z	Psoriasis NOS
+psoriasis	Read2_5digit	M166.	Palmoplantar pustular psoriasis
+psoriasis	Read2_5digit	M16y.	Other psoriasis and similar disorders
+psoriasis	Read2_5digit	M16y0	Scalp psoriasis
+psoriasis	Read2_5digit	M16z.	Psoriasis and similar disorders NOS
+psoriasis	Read2_5digit	Myu30	[X]Other psoriasis
+psoriasis	Read2_5digit	N0452	Juvenile arthritis in psoriasis
+psoriasis	Read2_5digit	Nyu13	[X]Other psoriatic arthropathies
+psoriasis	CTV3_5digit	14F2.	H/O: psoriasis
+psoriasis	CTV3_5digit	M16..	Psoriasis and similar disorders
+psoriasis	CTV3_5digit	M160.	Psoriatic arthropathy
+psoriasis	CTV3_5digit	M1600	Psoriatic arthritis with spine involvement
+psoriasis	CTV3_5digit	X7026	Distal interphalangeal psoriatic arthropathy
+psoriasis	CTV3_5digit	X7027	Arthritis mutilans
+psoriasis	CTV3_5digit	M160z	Psoriatic arthropathy NOS
+psoriasis	CTV3_5digit	M161.	Other psoriasis
+psoriasis	CTV3_5digit	M1610	Psoriasis unspecified
+psoriasis	CTV3_5digit	M1611	Psoriasis annularis
+psoriasis	CTV3_5digit	M1612	Psoriasis circinata
+psoriasis	CTV3_5digit	M1613	Psoriasis diffusa
+psoriasis	CTV3_5digit	M1614	Discoid psoriasis
+psoriasis	CTV3_5digit	M1615	Psoriasis geographica
+psoriasis	CTV3_5digit	M1616	Guttate psoriasis
+psoriasis	CTV3_5digit	M1617	Psoriasis gyrata
+psoriasis	CTV3_5digit	M1618	Psoriasis inveterata
+psoriasis	CTV3_5digit	M1619	Rupioid psoriasis
+psoriasis	CTV3_5digit	M161A	Psoriasis palmaris
+psoriasis	CTV3_5digit	M161B	Psoriasis plantaris
+psoriasis	CTV3_5digit	M161C	Psoriasis punctata
+psoriasis	CTV3_5digit	M161D	Pustular psoriasis
+psoriasis	CTV3_5digit	XaYOx	Pustular psoriasis
+psoriasis	CTV3_5digit	M161E	Psoriasis universalis
+psoriasis	CTV3_5digit	XaNXt	Psoriasis vulgaris
+psoriasis	CTV3_5digit	M161F	Chronic large plaque psoriasis
+psoriasis	CTV3_5digit	XaNXa	Chronic large plaque psoriasis
+psoriasis	CTV3_5digit	X506b	Erythrodermic psoriasis
+psoriasis	CTV3_5digit	X506Z	Flexural psoriasis
+psoriasis	CTV3_5digit	M161z	Psoriasis NOS
+psoriasis	CTV3_5digit	X506m	Palmoplantar pustular psoriasis
+psoriasis	CTV3_5digit	M16y.	Other psoriasis and similar disorders
+psoriasis	CTV3_5digit	X506i	Scalp psoriasis
+psoriasis	CTV3_5digit	M16z.	Psoriasis and similar disorders NOS
+psoriasis	CTV3_5digit	Myu30	[X]Other psoriasis
+psoriasis	CTV3_5digit	X701v	Juvenile arthritis in psoriasis
+psoriasis	CTV3_5digit	Nyu13	[X]Other psoriatic arthropathies

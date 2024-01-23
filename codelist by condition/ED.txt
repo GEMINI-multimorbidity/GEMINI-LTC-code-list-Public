@@ -1,0 +1,107 @@
+condition	vocab_id	code	description
+ED	ICD10	F52.2	Failure of genital response
+ED	ICD10	F52.21	Male erectile disorder
+ED	ICD10	N48.4	Impotence of organic origin
+ED	ICD10	N52	Male erectile dysfunction
+ED	Read2	1ABB.00	Cannot get an erection
+ED	Read2	1ABC.00	Cannot sustain an erection
+ED	Read2	1D1B.00	C/O erectile dysfunction
+ED	Read2	7A6G000	Revascularisation for impotence
+ED	Read2	7A6G500	Ligation of penile veins for impotence
+ED	Read2	7C25B00	Penile injection to produce erection
+ED	Read2	7C25E00	Treatment of erectile dysfunction NEC
+ED	Read2	7C25F00	Operations on penis for erectile dysfunction NEC
+ED	Read2	8BB4.00	Erectile dysfunction unresponsive to phosphodiesterase-5 inhibitor
+ED	Read2	8HTj.00	Referral to erectile dysfunction clinic
+ED	Read2	E227300	Impotence
+ED	Read2	E227311	Erectile dysfunction
+ED	Read2	Eu52200	[X]Failure of genital response
+ED	Read2	Eu52212	[X]Male erectile disorder
+ED	Read2	Eu52213	[X]Psychogenic impotence
+ED	Read2	K27y100	Impotence of organic origin
+ED	Read2	K27y700	Erectile dysfunction due to diabetes mellitus
+ED	Read2	Z9E9.00	Provision of device for impotence
+ED	Read2	ZG43600	Advice on technique for impotence
+ED	CTV3	X76MEY7E62	Cannot get an erection
+ED	CTV3	X76MOY7E6F	Cannot sustain an erection
+ED	CTV3	XaXgwYauRF	C/O erectile dysfunction
+ED	CTV3	7A6G0Y02sO	Revascularisation for impotence
+ED	CTV3	7A6G5Y03Ye	Ligation of penile veins for impotence
+ED	CTV3	7C25BY31b1	Penile injection to produce erection
+ED	CTV3	XaMBPYapKX	Treatment of erectile dysfunction NEC
+ED	CTV3	XaMsdYapur	Operations on penis for erectile dysfunction NEC
+ED	CTV3	XaXgyYauRH	Erectile dysfunction unresponsive to phosphodiesterase-5 inhibitor
+ED	CTV3	XaL47Yao9x	Referral to erectile dysfunction clinic
+ED	CTV3	E2273Y401J	Impotence
+ED	CTV3	E2273YM1lH	Erectile dysfunction
+ED	CTV3	XE1ZsYMB5a	Failure of genital response
+ED	CTV3	Eu522YMK26	[X]Male erectile disorder
+ED	CTV3	X400IY401O	Psychogenic impotence
+ED	CTV3	K27y1Y401K	Impotence of organic origin
+ED	CTV3	Xaa8rYaw29	Erectile dysfunction due to diabetes mellitus
+ED	medcodeid	272294012	Revascularisation for impotence
+ED	medcodeid	272299019	Ligation of penile veins for impotence
+ED	medcodeid	371290017	Cannot get an erection
+ED	medcodeid	371298012	Cannot sustain an erection
+ED	medcodeid	302271000000119	Referral to erectile dysfunction clinic
+ED	medcodeid	2243331000000115	Erectile dysfunction due to diabetes mellitus
+ED	medcodeid	369101000000114	Treatment of erectile dysfunction NEC
+ED	medcodeid	384551000006110	[X]Failure of genital response
+ED	medcodeid	396141000006114	[X]Male erectile disorder
+ED	medcodeid	1768751000006113	Erect dysf unresponsiv to phosphodiesterase-5 inhibitor
+ED	medcodeid	424011000006115	[X]Psychogenic impotence
+ED	medcodeid	1734321000000113	C/O erectile dysfunction
+ED	medcodeid	304501018	Impotence of organic origin
+ED	medcodeid	273365014	Penile injection to produce erection
+ED	medcodeid	489201000000110	Operations on penis for erectile dysfunction NEC
+ED	medcodeid	1777409015	Impotence
+ED	medcodeid	1786154013	Erectile dysfunction
+ED	SNOMEDCT	175881006	Revascularisation for impotence
+ED	SNOMEDCT	175886001	Ligation of penile veins for impotence
+ED	SNOMEDCT	248773007	Cannot get an erection
+ED	SNOMEDCT	248779006	Cannot sustain an erection
+ED	SNOMEDCT	704048004	Referral to erectile dysfunction clinic
+ED	SNOMEDCT	867891000000101	Erectile dysfunction due to diabetes mellitus
+ED	SNOMEDCT	851081000000105	Treatment of erectile dysfunction NEC
+ED	SNOMEDCT	268723003	[X]Failure of genital response
+ED	SNOMEDCT	397803000	[X]Male erectile disorder
+ED	SNOMEDCT	707300000	Erect dysf unresponsiv to phosphodiesterase-5 inhibitor
+ED	SNOMEDCT	73491007	[X]Psychogenic impotence
+ED	SNOMEDCT	473327001	C/O erectile dysfunction
+ED	SNOMEDCT	198036002	Impotence of organic origin
+ED	SNOMEDCT	176566004	Penile injection to produce erection
+ED	SNOMEDCT	71588001	Operations on penis for erectile dysfunction NEC
+ED	SNOMEDCT	397803000	Impotence
+ED	SNOMEDCT	397803000	Erectile dysfunction
+ED	Read2_5digit	1ABB.	Cannot get an erection
+ED	Read2_5digit	1ABC.	Cannot sustain an erection
+ED	Read2_5digit	1D1B.	C/O erectile dysfunction
+ED	Read2_5digit	7A6G0	Revascularisation for impotence
+ED	Read2_5digit	7A6G5	Ligation of penile veins for impotence
+ED	Read2_5digit	7C25B	Penile injection to produce erection
+ED	Read2_5digit	7C25E	Treatment of erectile dysfunction NEC
+ED	Read2_5digit	7C25F	Operations on penis for erectile dysfunction NEC
+ED	Read2_5digit	8BB4.	Erectile dysfunction unresponsive to phosphodiesterase-5 inhibitor
+ED	Read2_5digit	8HTj.	Referral to erectile dysfunction clinic
+ED	Read2_5digit	E2273	Impotence
+ED	Read2_5digit	Eu522	[X]Failure of genital response
+ED	Read2_5digit	K27y1	Impotence of organic origin
+ED	Read2_5digit	K27y7	Erectile dysfunction due to diabetes mellitus
+ED	Read2_5digit	Z9E9.	Provision of device for impotence
+ED	Read2_5digit	ZG436	Advice on technique for impotence
+ED	CTV3_5digit	X76ME	Cannot get an erection
+ED	CTV3_5digit	X76MO	Cannot sustain an erection
+ED	CTV3_5digit	XaXgw	C/O erectile dysfunction
+ED	CTV3_5digit	7A6G0	Revascularisation for impotence
+ED	CTV3_5digit	7A6G5	Ligation of penile veins for impotence
+ED	CTV3_5digit	7C25B	Penile injection to produce erection
+ED	CTV3_5digit	XaMBP	Treatment of erectile dysfunction NEC
+ED	CTV3_5digit	XaMsd	Operations on penis for erectile dysfunction NEC
+ED	CTV3_5digit	XaXgy	Erectile dysfunction unresponsive to phosphodiesterase-5 inhibitor
+ED	CTV3_5digit	XaL47	Referral to erectile dysfunction clinic
+ED	CTV3_5digit	E2273	Impotence
+ED	CTV3_5digit	XE1Zs	Failure of genital response
+ED	CTV3_5digit	Eu522	[X]Male erectile disorder
+ED	CTV3_5digit	X400I	Psychogenic impotence
+ED	CTV3_5digit	K27y1	Impotence of organic origin
+ED	CTV3_5digit	Xaa8r	Erectile dysfunction due to diabetes mellitus

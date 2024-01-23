@@ -1,0 +1,264 @@
+condition	vocab_id	code	description
+isch_stroke_tia	ICD10	G45	Transient cerebral ischaemic attacks and related syndromes
+isch_stroke_tia	ICD10	G46.0	Middle cerebral artery syndrome
+isch_stroke_tia	ICD10	G46.1	Anterior cerebral artery syndrome
+isch_stroke_tia	ICD10	G46.2	Posterior cerebral artery syndrome
+isch_stroke_tia	ICD10	I63.0	Cerebral infarction due to thrombosis of precerebral arteries
+isch_stroke_tia	ICD10	I63.1	Cerebral infarction due to embolism of precerebral arteries
+isch_stroke_tia	ICD10	I63.2	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+isch_stroke_tia	ICD10	I63.3	Cerebral infarction due to thrombosis of cerebral arteries
+isch_stroke_tia	ICD10	I63.4	Cerebral infarction due to embolism of cerebral arteries
+isch_stroke_tia	ICD10	I63.5	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+isch_stroke_tia	ICD10	I63.8	Other cerebral infarction
+isch_stroke_tia	ICD10	I63.9	Cerebral infarction, unspecified
+isch_stroke_tia	ICD10	I65	Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction
+isch_stroke_tia	ICD10	I66	Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction
+isch_stroke_tia	ICD10	I69.3	Sequelae of cerebral infarction
+isch_stroke_tia	Read2	14AB.00	H/O: TIA
+isch_stroke_tia	Read2	14AB000	H/O amaurosis fugax
+isch_stroke_tia	Read2	1B1S.00	Transient global amnesia
+isch_stroke_tia	Read2	8CRB.00	Transient ischaemic attack clinical management plan
+isch_stroke_tia	Read2	F423600	Amaurosis fugax
+isch_stroke_tia	Read2	Fyu5500	[X]Other transient cerebral ischaemic attacks and related syndromes
+isch_stroke_tia	Read2	G63..11	Infarction - precerebral
+isch_stroke_tia	Read2	G63y000	Cerebral infarct due to thrombosis of precerebral arteries
+isch_stroke_tia	Read2	G63y100	Cerebral infarction due to embolism of precerebral arteries
+isch_stroke_tia	Read2	G64..00	Cerebral arterial occlusion
+isch_stroke_tia	Read2	G64..11	CVA - cerebrovascular accident due to cerebral artery occlusion
+isch_stroke_tia	Read2	G64..12	Infarction - cerebral
+isch_stroke_tia	Read2	G64..13	Stroke due to cerebral arterial occlusion
+isch_stroke_tia	Read2	G640.00	Cerebral thrombosis
+isch_stroke_tia	Read2	G640000	Cerebral infarction due to thrombosis of cerebral arteries
+isch_stroke_tia	Read2	G641.00	Cerebral embolism
+isch_stroke_tia	Read2	G641.11	Cerebral embolus
+isch_stroke_tia	Read2	G641000	Cerebral infarction due to embolism of cerebral arteries
+isch_stroke_tia	Read2	G64z.00	Cerebral infarction NOS
+isch_stroke_tia	Read2	G64z.11	Brainstem infarction NOS
+isch_stroke_tia	Read2	G64z.12	Cerebellar infarction
+isch_stroke_tia	Read2	G64z000	Brainstem infarction
+isch_stroke_tia	Read2	G64z100	Wallenberg syndrome
+isch_stroke_tia	Read2	G64z111	Lateral medullary syndrome
+isch_stroke_tia	Read2	G64z200	Left sided cerebral infarction
+isch_stroke_tia	Read2	G64z300	Right sided cerebral infarction
+isch_stroke_tia	Read2	G64z400	Infarction of basal ganglia
+isch_stroke_tia	Read2	G65..00	Transient cerebral ischaemia
+isch_stroke_tia	Read2	G65..12	Transient ischaemic attack
+isch_stroke_tia	Read2	G65..13	Vertebro-basilar insufficiency
+isch_stroke_tia	Read2	G650.11	Insufficiency - basilar artery
+isch_stroke_tia	Read2	G655.00	Transient global amnesia
+isch_stroke_tia	Read2	G656.00	Vertebrobasilar insufficiency
+isch_stroke_tia	Read2	G657.00	Carotid territory transient ischaemic attack
+isch_stroke_tia	Read2	G65y.00	Other transient cerebral ischaemia
+isch_stroke_tia	Read2	G65z.00	Transient cerebral ischaemia NOS
+isch_stroke_tia	Read2	G65z100	Intermittent cerebral ischaemia
+isch_stroke_tia	Read2	G65zz00	Transient cerebral ischaemia NOS
+isch_stroke_tia	Read2	G683.00	Sequelae of cerebral infarction
+isch_stroke_tia	Read2	G6W..00	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+isch_stroke_tia	Read2	G6X..00	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+isch_stroke_tia	Read2	Gyu6300	[X]Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+isch_stroke_tia	Read2	Gyu6400	[X]Other cerebral infarction
+isch_stroke_tia	Read2	Gyu6G00	[X]Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+isch_stroke_tia	Read2	Z7CE700	Transient global amnesia
+isch_stroke_tia	Read2	Z7CE711	TGA - Transient global amnesia
+isch_stroke_tia	Read2	ZV12D00	[V]Personal history of transient ischaemic attack
+isch_stroke_tia	CTV3	14AB.Ya04s	H/O: TIA
+isch_stroke_tia	CTV3	XaZIYYavQV	H/O amaurosis fugax
+isch_stroke_tia	CTV3	X00E2Y00ev	Transient global amnesia
+isch_stroke_tia	CTV3	XaQveYatQl	Transient ischaemic attack clinical management plan
+isch_stroke_tia	CTV3	F4236Y00dy	Amaurosis fugax
+isch_stroke_tia	CTV3	Fyu55YMADV	[X]Other transient cerebral ischaemic attacks and related syndromes
+isch_stroke_tia	CTV3	X00D4Y00cp	Infarction - precerebral
+isch_stroke_tia	CTV3	G63y0YMAiD	Cerebral infarct due to thrombosis of precerebral arteries
+isch_stroke_tia	CTV3	G63y1YMAiE	Cerebral infarction due to embolism of precerebral arteries
+isch_stroke_tia	CTV3	XE0VIY20FP	Cerebral arterial occlusion
+isch_stroke_tia	CTV3	X00D3Y00co	CVA - cerebrovascular accident due to cerebral artery occlusion
+isch_stroke_tia	CTV3	Xa0kZY00ci	Cerebral infarction
+isch_stroke_tia	CTV3	G640.Y00cj	Cerebral thrombosis
+isch_stroke_tia	CTV3	G640.Yah3i	Occlusive stroke
+isch_stroke_tia	CTV3	G6400YMAiF	Cerebral infarction due to thrombosis of cerebral arteries
+isch_stroke_tia	CTV3	G641.Y20G2	Cerebral embolism
+isch_stroke_tia	CTV3	G641.Y20G1	Cerebral embolus
+isch_stroke_tia	CTV3	G6410YMAiG	Cerebral infarction due to embolism of cerebral arteries
+isch_stroke_tia	CTV3	XE0VJY00cn	Cerebral infarction NOS
+isch_stroke_tia	CTV3	X00D9Y00d0	Brainstem infarction NOS
+isch_stroke_tia	CTV3	Xa00JYa0rd	Cerebellar infarction
+isch_stroke_tia	CTV3	Xa00KYa0re	Brainstem infarction
+isch_stroke_tia	CTV3	Xa00MYa0rg	Wallenberg syndrome
+isch_stroke_tia	CTV3	Xa00MYa3VD	Lateral medullary syndrome
+isch_stroke_tia	CTV3	XaBECYaaWG	Left sided cerebral infarction
+isch_stroke_tia	CTV3	XaBEDYaaWH	Right sided cerebral infarction
+isch_stroke_tia	CTV3	XaJgQYamlC	Infarction of basal ganglia
+isch_stroke_tia	CTV3	XE0VKY00ds	Transient cerebral ischaemia
+isch_stroke_tia	CTV3	XE0VKY00dq	Transient ischaemic attack
+isch_stroke_tia	CTV3	X00DWY00e5	Vertebrobasilar insufficiency
+isch_stroke_tia	CTV3	G650.Y00e4	Insufficiency - basilar artery
+isch_stroke_tia	CTV3	X00DUY00dw	Carotid territory transient ischaemic attack
+isch_stroke_tia	CTV3	G65y.Y00dv	Other transient cerebral ischaemia
+isch_stroke_tia	CTV3	G65z.Y00du	Transient cerebral ischaemia NOS
+isch_stroke_tia	CTV3	G65z1Y00cZ	Intermittent cerebral ischaemia
+isch_stroke_tia	CTV3	G683.YMAiM	Sequelae of cerebral infarction
+isch_stroke_tia	CTV3	Gyu6GYMAIB	[X]Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+isch_stroke_tia	CTV3	Gyu63YMAHy	[X]Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+isch_stroke_tia	CTV3	Gyu64YMAHz	[X]Other cerebral infarction
+isch_stroke_tia	CTV3	XaX16YatuJ	[V]Personal history of transient ischaemic attack
+isch_stroke_tia	medcodeid	106394016	Vertebrobasilar insufficiency
+isch_stroke_tia	medcodeid	125470015	Cerebral embolism
+isch_stroke_tia	medcodeid	145925010	Amaurosis fugax
+isch_stroke_tia	medcodeid	251692018	H/O: TIA
+isch_stroke_tia	medcodeid	300313017	Cerebral infarction due to embolism of precerebral arteries
+isch_stroke_tia	medcodeid	300322016	Cerebral infarction due to embolism of cerebral arteries
+isch_stroke_tia	medcodeid	300411016	Sequelae of cerebral infarction
+isch_stroke_tia	medcodeid	345639010	Infarction - precerebral
+isch_stroke_tia	medcodeid	345718011	Transient global amnesia
+isch_stroke_tia	medcodeid	395783012	Transient ischaemic attack
+isch_stroke_tia	medcodeid	395788015	Transient cerebral ischaemia
+isch_stroke_tia	medcodeid	451133011	Left sided cerebral infarction
+isch_stroke_tia	medcodeid	451134017	Right sided cerebral infarction
+isch_stroke_tia	medcodeid	499739014	Insufficiency - basilar artery
+isch_stroke_tia	medcodeid	1222398015	Cerebral arterial occlusion
+isch_stroke_tia	medcodeid	1667741000000110	[V]Personal history of transient ischaemic attack
+isch_stroke_tia	medcodeid	345650013	Brainstem infarction NOS
+isch_stroke_tia	medcodeid	57341000006119	Wallenberg syndrome
+isch_stroke_tia	medcodeid	95931000006111	Transient cerebral ischaemia NOS
+isch_stroke_tia	medcodeid	95961000006119	Transient global amnesia
+isch_stroke_tia	medcodeid	370701000006118	[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+isch_stroke_tia	medcodeid	542831000006116	Cerebral embolus
+isch_stroke_tia	medcodeid	543141000006110	Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+isch_stroke_tia	medcodeid	370661000006114	[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+isch_stroke_tia	medcodeid	542261000006114	Cereb infarct due unsp occlus/stenos precerebr arteries
+isch_stroke_tia	medcodeid	416991000006112	[X]Other transnt cerebral ischaemic attacks+related syndroms
+isch_stroke_tia	medcodeid	67511000006117	Vertebro-basilar insufficiency
+isch_stroke_tia	medcodeid	158118014	Cerebellar infarction
+isch_stroke_tia	medcodeid	395780010	Cerebral infarction NOS
+isch_stroke_tia	medcodeid	122361000006113	Stroke due to cerebral arterial occlusion
+isch_stroke_tia	medcodeid	2171081000000116	H/O amaurosis fugax
+isch_stroke_tia	medcodeid	2474651019	Infarction of basal ganglia
+isch_stroke_tia	medcodeid	300321011	Cerebral infarction due to thrombosis of cerebral arteries
+isch_stroke_tia	medcodeid	300353019	Intermittent cerebral ischaemia
+isch_stroke_tia	medcodeid	130375018	Lateral medullary syndrome
+isch_stroke_tia	medcodeid	605461000006117	CVA - cerebral artery occlusion
+isch_stroke_tia	medcodeid	300348012	Other transient cerebral ischaemia
+isch_stroke_tia	medcodeid	345684012	Carotid territory transient ischaemic attack
+isch_stroke_tia	medcodeid	118689010	Cerebral thrombosis
+isch_stroke_tia	medcodeid	524541000006117	Brainstem infarction
+isch_stroke_tia	medcodeid	1148331000000111	Transient ischaemic attack clinical management plan
+isch_stroke_tia	medcodeid	300312010	Cerebral infarct due to thrombosis of precerebral arteries
+isch_stroke_tia	medcodeid	300941014	[X]Other cerebral infarction
+isch_stroke_tia	medcodeid	300349016	Transient cerebral ischaemia NOS
+isch_stroke_tia	medcodeid	218511000000117	Infarction - cerebral
+isch_stroke_tia	SNOMEDCT	64009001	Vertebrobasilar insufficiency
+isch_stroke_tia	SNOMEDCT	75543006	Cerebral embolism
+isch_stroke_tia	SNOMEDCT	88032003	Amaurosis fugax
+isch_stroke_tia	SNOMEDCT	161511000	H/O: TIA
+isch_stroke_tia	SNOMEDCT	195186005	Cerebral infarction due to embolism of precerebral arteries
+isch_stroke_tia	SNOMEDCT	195190007	Cerebral infarction due to embolism of cerebral arteries
+isch_stroke_tia	SNOMEDCT	195243003	Sequelae of cerebral infarction
+isch_stroke_tia	SNOMEDCT	230692004	Infarction - precerebral
+isch_stroke_tia	SNOMEDCT	230736007	Transient global amnesia
+isch_stroke_tia	SNOMEDCT	266257000	Transient ischaemic attack
+isch_stroke_tia	SNOMEDCT	266257000	Transient cerebral ischaemia
+isch_stroke_tia	SNOMEDCT	307766002	Left sided cerebral infarction
+isch_stroke_tia	SNOMEDCT	307767006	Right sided cerebral infarction
+isch_stroke_tia	SNOMEDCT	64009001	Insufficiency - basilar artery
+isch_stroke_tia	SNOMEDCT	20059004	Cerebral arterial occlusion
+isch_stroke_tia	SNOMEDCT	751371000000107	[V]Personal history of transient ischaemic attack
+isch_stroke_tia	SNOMEDCT	95457000	Brainstem infarction NOS
+isch_stroke_tia	SNOMEDCT	78569004	Wallenberg syndrome
+isch_stroke_tia	SNOMEDCT	266257000	Transient cerebral ischaemia NOS
+isch_stroke_tia	SNOMEDCT	20059004	[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+isch_stroke_tia	SNOMEDCT	75543006	Cerebral embolus
+isch_stroke_tia	SNOMEDCT	20059004	Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+isch_stroke_tia	SNOMEDCT	125081000119106	[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+isch_stroke_tia	SNOMEDCT	125081000119106	Cereb infarct due unsp occlus/stenos precerebr arteries
+isch_stroke_tia	SNOMEDCT	266257000	[X]Other transnt cerebral ischaemic attacks+related syndroms
+isch_stroke_tia	SNOMEDCT	64009001	Vertebro-basilar insufficiency
+isch_stroke_tia	SNOMEDCT	95460007	Cerebellar infarction
+isch_stroke_tia	SNOMEDCT	432504007	Cerebral infarction NOS
+isch_stroke_tia	SNOMEDCT	230691006	Stroke due to cerebral arterial occlusion
+isch_stroke_tia	SNOMEDCT	13016361000119100	H/O amaurosis fugax
+isch_stroke_tia	SNOMEDCT	413102000	Infarction of basal ganglia
+isch_stroke_tia	SNOMEDCT	195189003	Cerebral infarction due to thrombosis of cerebral arteries
+isch_stroke_tia	SNOMEDCT	195206000	Intermittent cerebral ischaemia
+isch_stroke_tia	SNOMEDCT	78569004	Lateral medullary syndrome
+isch_stroke_tia	SNOMEDCT	230691006	CVA - cerebral artery occlusion
+isch_stroke_tia	SNOMEDCT	266257000	Other transient cerebral ischaemia
+isch_stroke_tia	SNOMEDCT	230716006	Carotid territory transient ischaemic attack
+isch_stroke_tia	SNOMEDCT	71444005	Cerebral thrombosis
+isch_stroke_tia	SNOMEDCT	95457000	Brainstem infarction
+isch_stroke_tia	SNOMEDCT	736288002	Transient ischaemic attack clinical management plan
+isch_stroke_tia	SNOMEDCT	195185009	Cerebral infarct due to thrombosis of precerebral arteries
+isch_stroke_tia	SNOMEDCT	432504007	[X]Other cerebral infarction
+isch_stroke_tia	SNOMEDCT	432504007	Infarction - cerebral
+isch_stroke_tia	Read2_5digit	14AB.	H/O: TIA
+isch_stroke_tia	Read2_5digit	14AB0	H/O amaurosis fugax
+isch_stroke_tia	Read2_5digit	1B1S.	Transient global amnesia
+isch_stroke_tia	Read2_5digit	8CRB.	Transient ischaemic attack clinical management plan
+isch_stroke_tia	Read2_5digit	F4236	Amaurosis fugax
+isch_stroke_tia	Read2_5digit	Fyu55	[X]Other transient cerebral ischaemic attacks and related syndromes
+isch_stroke_tia	Read2_5digit	G63..	Infarction - precerebral
+isch_stroke_tia	Read2_5digit	G63y0	Cerebral infarct due to thrombosis of precerebral arteries
+isch_stroke_tia	Read2_5digit	G63y1	Cerebral infarction due to embolism of precerebral arteries
+isch_stroke_tia	Read2_5digit	G64..	Cerebral arterial occlusion
+isch_stroke_tia	Read2_5digit	G640.	Cerebral thrombosis
+isch_stroke_tia	Read2_5digit	G6400	Cerebral infarction due to thrombosis of cerebral arteries
+isch_stroke_tia	Read2_5digit	G641.	Cerebral embolism
+isch_stroke_tia	Read2_5digit	G6410	Cerebral infarction due to embolism of cerebral arteries
+isch_stroke_tia	Read2_5digit	G64z.	Cerebral infarction NOS
+isch_stroke_tia	Read2_5digit	G64z0	Brainstem infarction
+isch_stroke_tia	Read2_5digit	G64z1	Wallenberg syndrome
+isch_stroke_tia	Read2_5digit	G64z2	Left sided cerebral infarction
+isch_stroke_tia	Read2_5digit	G64z3	Right sided cerebral infarction
+isch_stroke_tia	Read2_5digit	G64z4	Infarction of basal ganglia
+isch_stroke_tia	Read2_5digit	G65..	Transient cerebral ischaemia
+isch_stroke_tia	Read2_5digit	G650.	Insufficiency - basilar artery
+isch_stroke_tia	Read2_5digit	G655.	Transient global amnesia
+isch_stroke_tia	Read2_5digit	G656.	Vertebrobasilar insufficiency
+isch_stroke_tia	Read2_5digit	G657.	Carotid territory transient ischaemic attack
+isch_stroke_tia	Read2_5digit	G65y.	Other transient cerebral ischaemia
+isch_stroke_tia	Read2_5digit	G65z.	Transient cerebral ischaemia NOS
+isch_stroke_tia	Read2_5digit	G65z1	Intermittent cerebral ischaemia
+isch_stroke_tia	Read2_5digit	G65zz	Transient cerebral ischaemia NOS
+isch_stroke_tia	Read2_5digit	G683.	Sequelae of cerebral infarction
+isch_stroke_tia	Read2_5digit	G6W..	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+isch_stroke_tia	Read2_5digit	G6X..	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+isch_stroke_tia	Read2_5digit	Gyu63	[X]Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+isch_stroke_tia	Read2_5digit	Gyu64	[X]Other cerebral infarction
+isch_stroke_tia	Read2_5digit	Gyu6G	[X]Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+isch_stroke_tia	Read2_5digit	Z7CE7	Transient global amnesia
+isch_stroke_tia	Read2_5digit	ZV12D	[V]Personal history of transient ischaemic attack
+isch_stroke_tia	CTV3_5digit	14AB.	H/O: TIA
+isch_stroke_tia	CTV3_5digit	XaZIY	H/O amaurosis fugax
+isch_stroke_tia	CTV3_5digit	X00E2	Transient global amnesia
+isch_stroke_tia	CTV3_5digit	XaQve	Transient ischaemic attack clinical management plan
+isch_stroke_tia	CTV3_5digit	F4236	Amaurosis fugax
+isch_stroke_tia	CTV3_5digit	Fyu55	[X]Other transient cerebral ischaemic attacks and related syndromes
+isch_stroke_tia	CTV3_5digit	X00D4	Infarction - precerebral
+isch_stroke_tia	CTV3_5digit	G63y0	Cerebral infarct due to thrombosis of precerebral arteries
+isch_stroke_tia	CTV3_5digit	G63y1	Cerebral infarction due to embolism of precerebral arteries
+isch_stroke_tia	CTV3_5digit	XE0VI	Cerebral arterial occlusion
+isch_stroke_tia	CTV3_5digit	X00D3	CVA - cerebrovascular accident due to cerebral artery occlusion
+isch_stroke_tia	CTV3_5digit	Xa0kZ	Cerebral infarction
+isch_stroke_tia	CTV3_5digit	G640.	Cerebral thrombosis
+isch_stroke_tia	CTV3_5digit	G6400	Cerebral infarction due to thrombosis of cerebral arteries
+isch_stroke_tia	CTV3_5digit	G641.	Cerebral embolism
+isch_stroke_tia	CTV3_5digit	G6410	Cerebral infarction due to embolism of cerebral arteries
+isch_stroke_tia	CTV3_5digit	XE0VJ	Cerebral infarction NOS
+isch_stroke_tia	CTV3_5digit	X00D9	Brainstem infarction NOS
+isch_stroke_tia	CTV3_5digit	Xa00J	Cerebellar infarction
+isch_stroke_tia	CTV3_5digit	Xa00K	Brainstem infarction
+isch_stroke_tia	CTV3_5digit	Xa00M	Wallenberg syndrome
+isch_stroke_tia	CTV3_5digit	XaBEC	Left sided cerebral infarction
+isch_stroke_tia	CTV3_5digit	XaBED	Right sided cerebral infarction
+isch_stroke_tia	CTV3_5digit	XaJgQ	Infarction of basal ganglia
+isch_stroke_tia	CTV3_5digit	XE0VK	Transient cerebral ischaemia
+isch_stroke_tia	CTV3_5digit	X00DW	Vertebrobasilar insufficiency
+isch_stroke_tia	CTV3_5digit	G650.	Insufficiency - basilar artery
+isch_stroke_tia	CTV3_5digit	X00DU	Carotid territory transient ischaemic attack
+isch_stroke_tia	CTV3_5digit	G65y.	Other transient cerebral ischaemia
+isch_stroke_tia	CTV3_5digit	G65z.	Transient cerebral ischaemia NOS
+isch_stroke_tia	CTV3_5digit	G65z1	Intermittent cerebral ischaemia
+isch_stroke_tia	CTV3_5digit	G683.	Sequelae of cerebral infarction
+isch_stroke_tia	CTV3_5digit	Gyu6G	[X]Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+isch_stroke_tia	CTV3_5digit	Gyu63	[X]Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+isch_stroke_tia	CTV3_5digit	Gyu64	[X]Other cerebral infarction
+isch_stroke_tia	CTV3_5digit	XaX16	[V]Personal history of transient ischaemic attack

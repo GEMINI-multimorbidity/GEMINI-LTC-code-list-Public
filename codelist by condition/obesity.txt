@@ -1,0 +1,408 @@
+condition	vocab_id	code	description
+obesity	ICD10	E66	Obesity
+obesity	ICD10	E66.0	Obesity due to excess calories
+obesity	ICD10	E66.1	Drug-induced obesity
+obesity	ICD10	E66.2	Extreme obesity with alveolar hypoventilation
+obesity	ICD10	E66.8	Other obesity
+obesity	ICD10	E66.9	Obesity, unspecified
+obesity	Read2	1444.00	H/O: obesity
+obesity	Read2	212Q.00	Obesity resolved
+obesity	Read2	222A.00	O/E - obese
+obesity	Read2	22A5.11	O/E - obese
+obesity	Read2	22K5.00	Body mass index 30+ - obesity
+obesity	Read2	22K7.00	Body mass index 40+ - severely obese
+obesity	Read2	66C..00	Obesity monitoring
+obesity	Read2	66C1.00	Initial obesity assessment
+obesity	Read2	66C2.00	Follow-up obesity assessment
+obesity	Read2	66C4.00	Has seen dietician - obesity
+obesity	Read2	66C5.00	Treatment of obesity changed
+obesity	Read2	66C6.00	Treatment of obesity started
+obesity	Read2	66CE.00	Reason for obesity therapy - occupational
+obesity	Read2	66CZ.00	Obesity monitoring NOS
+obesity	Read2	7611400	Sleeve gastrectomy and duodenal switch
+obesity	Read2	7611500	Sleeve gastrectomy NEC
+obesity	Read2	7611600	Laparoscopic sleeve gastrectomy
+obesity	Read2	7613100	Partitioning of stomach
+obesity	Read2	7613111	Mason vertical banded gastroplasty
+obesity	Read2	7613200	Laparoscopic adjustable gastric banding
+obesity	Read2	7613300	Partitioning of stomach using band
+obesity	Read2	7613400	Partitioning of stomach using staples
+obesity	Read2	7613500	Partitioning of stomach NEC
+obesity	Read2	7613600	Maintenance of gastric band
+obesity	Read2	7614100	Bypass of stomach by anastomosis of stomach to duodenum
+obesity	Read2	7615000	Bypass of stomach by anastomosis of stomach to transposed jejunum
+obesity	Read2	7616000	Bypass of stomach by anastomosis of stomach to jejunum NEC
+obesity	Read2	7616013	Mason high gastric bypass
+obesity	Read2	7616015	Printer high gastric bypass
+obesity	Read2	7616600	Laparoscopic gastric bypass
+obesity	Read2	761A500	Removal of gastric band
+obesity	Read2	7633.00	Bypass of jejunum
+obesity	Read2	7633000	Bypass of jejunum by anastomosis of jejunum to jejunum
+obesity	Read2	7633100	Bypass of jejunum by anastomosis of jejunum to ileum
+obesity	Read2	7633200	Bypass of jejunum by anastomosis of jejunum to colon
+obesity	Read2	7633y00	Other specified bypass of jejunum
+obesity	Read2	7633z00	Bypass of jejunum NOS
+obesity	Read2	7642500	Duodenal switch
+obesity	Read2	9OK..00	Obesity monitoring admin.
+obesity	Read2	9OK..11	Obesity clinic administration
+obesity	Read2	9OK1.00	Attends obesity monitoring
+obesity	Read2	9OK2.00	Refuses obesity monitoring
+obesity	Read2	9OK3.00	Obesity monitoring default
+obesity	Read2	9OK4.00	Obesity monitoring 1st letter
+obesity	Read2	9OK5.00	Obesity monitoring 2nd letter
+obesity	Read2	9OK6.00	Obesity monitoring 3rd letter
+obesity	Read2	9OK7.00	Obesity monitoring verbal inv.
+obesity	Read2	9OK8.00	Obesity monitor phone invite
+obesity	Read2	9OKA.00	Obesity monitoring check done
+obesity	Read2	9OKZ.00	Obesity monitoring admin.NOS
+obesity	Read2	C38..00	Obesity and other hyperalimentation
+obesity	Read2	C380.00	Obesity
+obesity	Read2	C380000	Obesity due to excess calories
+obesity	Read2	C380100	Drug-induced obesity
+obesity	Read2	C380200	Extreme obesity with alveolar hypoventilation
+obesity	Read2	C380300	Morbid obesity
+obesity	Read2	C380400	Central obesity
+obesity	Read2	C380500	Generalised obesity
+obesity	Read2	C380600	Adult-onset obesity
+obesity	Read2	C380700	Lifelong obesity
+obesity	Read2	C38y.11	Pickwickian syndrome
+obesity	Read2	C38y000	Pickwickian syndrome
+obesity	Read2	C38y011	Obesity hypoventilation syndrome
+obesity	Read2	C38z.00	Obesity and other hyperalimentation NOS
+obesity	Read2	C38z000	Simple obesity NOS
+obesity	Read2	Cyu7.00	[X]Obesity and other hyperalimentation
+obesity	Read2	Cyu7000	[X]Other obesity
+obesity	Read2	ZC2CM00	Dietary advice for obesity
+obesity	Read2	ZV45P00	[V]Presence of gastric bypass
+obesity	Read2	ZV65319	[V]Dietary counselling in obesity
+obesity	CTV3	1444.Ya040	H/O: obesity
+obesity	CTV3	XaKkoYao0Y	Obesity resolved
+obesity	CTV3	222A.YM00g	O/E - obese
+obesity	CTV3	22K5.Y7DRi	Body mass index 30+ - obesity
+obesity	CTV3	XaJJHYamHz	Body mass index 40+ - severely obese
+obesity	CTV3	XE1T6Y79YM	Obesity monitoring
+obesity	CTV3	66C1.Y79YO	Initial obesity assessment
+obesity	CTV3	66C2.Y79YP	Follow-up obesity assessment
+obesity	CTV3	66C4.Y7A1K	Has seen dietician - obesity
+obesity	CTV3	66C5.Y79YQ	Treatment of obesity changed
+obesity	CTV3	66C6.Y79YR	Treatment of obesity started
+obesity	CTV3	66CE.YaaCt	Reason for obesity therapy - occupational
+obesity	CTV3	66CZ.Y79YV	Obesity monitoring NOS
+obesity	CTV3	XaLd7YaoiN	Sleeve gastrectomy and duodenal switch
+obesity	CTV3	XaLd8Yaozq	Sleeve gastrectomy NEC
+obesity	CTV3	XaMgnYapiZ	Laparoscopic sleeve gastrectomy
+obesity	CTV3	XE0CgY21Ws	Partitioning of stomach
+obesity	CTV3	76131Y21Wt	Mason vertical banded gastroplasty
+obesity	CTV3	XaDwPY21Wt	Mason vertical banded gastroplasty
+obesity	CTV3	XaK95YanMY	Laparoscopic adjustable gastric banding
+obesity	CTV3	XaLd9YaoiO	Partitioning of stomach using band
+obesity	CTV3	XaLdAYaonh	Partitioning of stomach using staples
+obesity	CTV3	XaMHVYapSR	Partitioning of stomach NEC
+obesity	CTV3	XaPpTYasS0	Maintenance of gastric band
+obesity	CTV3	XE0ChY21bH	Bypass of stomach by anastomosis of stomach to duodenum
+obesity	CTV3	76150Y21bd	Bypass of stomach by anastomosis of stomach to transposed jejunum
+obesity	CTV3	XE0CiY21bR	Bypass of stomach by anastomosis of stomach to jejunum NEC
+obesity	CTV3	76160Y21bV	Mason high gastric bypass
+obesity	CTV3	X20WLY21bJ	Anastomosis of stomach to jejunum
+obesity	CTV3	76160Y21bT	Printer high gastric bypass
+obesity	CTV3	XaOi9YarDn	Laparoscopic gastric bypass
+obesity	CTV3	XaLdHYaoiT	Removal of gastric band
+obesity	CTV3	7633.Y21ew	Bypass of jejunum
+obesity	CTV3	XE0CxY21pE	Bypass of jejunum by anastomosis of jejunum to jejunum
+obesity	CTV3	76331Y21pJ	Bypass of jejunum by anastomosis of jejunum to ileum
+obesity	CTV3	XE0CyY21pO	Bypass of jejunum by anastomosis of jejunum to colon
+obesity	CTV3	7633yY21ey	Other specified bypass of jejunum
+obesity	CTV3	7633zY21ex	Bypass of jejunum NOS
+obesity	CTV3	XaLdWYaonq	Duodenal switch
+obesity	CTV3	XE2NcY7AQW	Obesity monitoring admin.
+obesity	CTV3	XM1U4Y7AQX	Obesity clinic administration
+obesity	CTV3	9OK1.Y7AQY	Attends obesity monitoring
+obesity	CTV3	9OK2.Y7AQZ	Refuses obesity monitoring
+obesity	CTV3	9OK3.Y7AQa	Obesity monitoring default
+obesity	CTV3	9OK4.Y7AQb	Obesity monitoring first letter
+obesity	CTV3	9OK5.Y7AQc	Obesity monitoring second letter
+obesity	CTV3	9OK6.Y7AQd	Obesity monitoring third letter
+obesity	CTV3	9OK7.Y7AQe	Obesity monitoring verbal invite
+obesity	CTV3	9OK8.Y7AQf	Obesity monitoring telephone invite
+obesity	CTV3	9OKA.Y7AQh	Obesity monitoring check done
+obesity	CTV3	9OKZ.Y7AQi	Obesity monitoring admin.NOS
+obesity	CTV3	C38..YaXHV	Obesity and other hyperalimentation
+obesity	CTV3	C380.Y4203	Obesity
+obesity	CTV3	C3800YMApX	Obesity due to excess calories
+obesity	CTV3	C3801YMApg	Drug-induced obesity
+obesity	CTV3	C3802YMApY	Extreme obesity with alveolar hypoventilation
+obesity	CTV3	X40YQY420D	Morbid obesity
+obesity	CTV3	X76BUY420G	Central obesity
+obesity	CTV3	X40YOY4207	Generalised obesity
+obesity	CTV3	XSCIZYSJ2G	Adult-onset obesity
+obesity	CTV3	XSCIXYSJ2E	Lifelong obesity
+obesity	CTV3	X40YRY420E	Pickwickian syndrome
+obesity	CTV3	X40YRYSJ2M	Obesity hypoventilation syndrome
+obesity	CTV3	C38z.Y4200	Obesity and other hyperalimentation NOS
+obesity	CTV3	XaBM0Yaafl	Simple obesity NOS
+obesity	CTV3	Cyu7.YMAC9	[X]Obesity and other hyperalimentation
+obesity	CTV3	Cyu70YMACA	[X]Other obesity
+obesity	CTV3	XaPp5YasRJ	[V]Presence of gastric bypass
+obesity	CTV3	ZV653Ya0nF	[V]Dietary counselling in obesity
+obesity	medcodeid	251604013	H/O: obesity
+obesity	medcodeid	253576010	O/E - obese
+obesity	medcodeid	253848011	Body mass index 30+ - obesity
+obesity	medcodeid	264752011	Initial obesity assessment
+obesity	medcodeid	264753018	Follow-up obesity assessment
+obesity	medcodeid	264757017	Treatment of obesity changed
+obesity	medcodeid	269399016	Bypass of jejunum
+obesity	medcodeid	269403013	Bypass of jejunum by anastomosis of jejunum to ileum
+obesity	medcodeid	285741017	Attends obesity monitoring
+obesity	medcodeid	293635019	Extreme obesity with alveolar hypoventilation
+obesity	medcodeid	356966014	Generalised obesity
+obesity	medcodeid	370698013	Central obesity
+obesity	medcodeid	394134012	Partitioning of stomach
+obesity	medcodeid	394155014	Bypass of jejunum by anastomosis of jejunum to jejunum
+obesity	medcodeid	394156010	Bypass of jejunum by anastomosis of jejunum to colon
+obesity	medcodeid	436946011	Adult-onset obesity
+obesity	medcodeid	2160062010	Body mass index 40+ - severely obese
+obesity	medcodeid	2532982016	Laparoscopic adjustable gastric banding
+obesity	medcodeid	2535065012	Obesity
+obesity	medcodeid	2675969012	Laparoscopic sleeve gastrectomy
+obesity	medcodeid	2676202017	Duodenal switch
+obesity	medcodeid	2676329012	Partitioning of stomach using staples
+obesity	medcodeid	2676331015	Removal of gastric band
+obesity	medcodeid	26111000000114	Obesity clinic administration
+obesity	medcodeid	298511000000116	Obesity resolved
+obesity	medcodeid	637091000000114	Laparoscopic gastric bypass
+obesity	medcodeid	1803041000000114	Obesity hypoventilation syndrome
+obesity	medcodeid	269410019	Other specified bypass of jejunum
+obesity	medcodeid	269411015	Bypass of jejunum NOS
+obesity	medcodeid	293631011	Obesity and other hyperalimentation
+obesity	medcodeid	293802014	[X]Obesity and other hyperalimentation
+obesity	medcodeid	293803016	[X]Other obesity
+obesity	medcodeid	484706010	Mason vertical banded gastroplasty
+obesity	medcodeid	16131000000113	Obesity monitoring admin.NOS
+obesity	medcodeid	232631000006113	Pickwickian syndrome
+obesity	medcodeid	270311000006110	Obesity monitoring 2nd letter
+obesity	medcodeid	363171000000115	Sleeve gastrectomy and duodenal switch
+obesity	medcodeid	367801000000110	Partitioning of stomach NEC
+obesity	medcodeid	1227771010	[V]Dietary counselling in obesity
+obesity	medcodeid	394135013	Bypass of stomach by anastomosis of stomach to duodenum
+obesity	medcodeid	285750015	Obesity monitoring check done
+obesity	medcodeid	270301000006112	Obesity monitoring 1st letter
+obesity	medcodeid	280881000006115	O/E - obese
+obesity	medcodeid	363331000000119	Sleeve gastrectomy NEC
+obesity	medcodeid	716651000006115	Mason high gastric bypass
+obesity	medcodeid	270281000006113	Obesity monitor phone invite
+obesity	medcodeid	270321000006119	Obesity monitoring 3rd letter
+obesity	medcodeid	264769013	Obesity monitoring NOS
+obesity	medcodeid	2535848016	Pickwickian syndrome
+obesity	medcodeid	264758010	Treatment of obesity started
+obesity	medcodeid	264768017	Reason for obesity therapy - occupational
+obesity	medcodeid	742371000000117	[V]Presence of gastric bypass
+obesity	medcodeid	285742012	Refuses obesity monitoring
+obesity	medcodeid	451432013	Simple obesity NOS
+obesity	medcodeid	285743019	Obesity monitoring default
+obesity	medcodeid	264756014	Has seen dietician - obesity
+obesity	medcodeid	206821000006116	Printer high gastric bypass
+obesity	medcodeid	270381000006115	Obesity monitoring verbal inv.
+obesity	medcodeid	293650011	Obesity and other hyperalimentation NOS
+obesity	medcodeid	743041000000117	Maintenance of gastric band
+obesity	medcodeid	2537960015	Obesity due to excess calories
+obesity	medcodeid	2676217018	Partitioning of stomach using band
+obesity	medcodeid	401534016	Obesity monitoring
+obesity	medcodeid	434770018	Lifelong obesity
+obesity	medcodeid	356968010	Morbid obesity
+obesity	medcodeid	293634015	Drug-induced obesity
+obesity	medcodeid	394136014	Bypass of stomach by anastomosis of stomach to jejunum NEC
+obesity	medcodeid	21621000000119	Obesity monitoring admin.
+obesity	medcodeid	530851000006113	Bypass stomach by anastomosis stomach to transposed jejunum
+obesity	SNOMEDCT	161453001	H/O: obesity
+obesity	SNOMEDCT	162690006	O/E - obese
+obesity	SNOMEDCT	162864005	Body mass index 30+ - obesity
+obesity	SNOMEDCT	170794003	Initial obesity assessment
+obesity	SNOMEDCT	170795002	Follow-up obesity assessment
+obesity	SNOMEDCT	170798000	Treatment of obesity changed
+obesity	SNOMEDCT	173911002	Bypass of jejunum
+obesity	SNOMEDCT	173913004	Bypass of jejunum by anastomosis of jejunum to ileum
+obesity	SNOMEDCT	185741002	Attends obesity monitoring
+obesity	SNOMEDCT	190966007	Extreme obesity with alveolar hypoventilation
+obesity	SNOMEDCT	238134004	Generalised obesity
+obesity	SNOMEDCT	248311001	Central obesity
+obesity	SNOMEDCT	265364006	Partitioning of stomach
+obesity	SNOMEDCT	265380001	Bypass of jejunum by anastomosis of jejunum to jejunum
+obesity	SNOMEDCT	265381002	Bypass of jejunum by anastomosis of jejunum to colon
+obesity	SNOMEDCT	296526005	Adult-onset obesity
+obesity	SNOMEDCT	408512008	Body mass index 40+ - severely obese
+obesity	SNOMEDCT	414574004	Laparoscopic adjustable gastric banding
+obesity	SNOMEDCT	414916001	Obesity
+obesity	SNOMEDCT	427074001	Laparoscopic sleeve gastrectomy
+obesity	SNOMEDCT	426738005	Duodenal switch
+obesity	SNOMEDCT	427029008	Partitioning of stomach using staples
+obesity	SNOMEDCT	426559000	Removal of gastric band
+obesity	SNOMEDCT	713971000000102	Obesity clinic administration
+obesity	SNOMEDCT	198181000000102	Obesity resolved
+obesity	SNOMEDCT	708983005	Laparoscopic gastric bypass
+obesity	SNOMEDCT	190966007	Obesity hypoventilation syndrome
+obesity	SNOMEDCT	173911002	Other specified bypass of jejunum
+obesity	SNOMEDCT	173911002	Bypass of jejunum NOS
+obesity	SNOMEDCT	302872003	Obesity and other hyperalimentation
+obesity	SNOMEDCT	414916001	[X]Obesity and other hyperalimentation
+obesity	SNOMEDCT	414916001	[X]Other obesity
+obesity	SNOMEDCT	30803004	Mason vertical banded gastroplasty
+obesity	SNOMEDCT	713951000000106	Obesity monitoring admin.NOS
+obesity	SNOMEDCT	190966007	Pickwickian syndrome
+obesity	SNOMEDCT	185745006	Obesity monitoring 2nd letter
+obesity	SNOMEDCT	427980007	Sleeve gastrectomy and duodenal switch
+obesity	SNOMEDCT	265364006	Partitioning of stomach NEC
+obesity	SNOMEDCT	424753004	[V]Dietary counselling in obesity
+obesity	SNOMEDCT	265365007	Bypass of stomach by anastomosis of stomach to duodenum
+obesity	SNOMEDCT	185750000	Obesity monitoring check done
+obesity	SNOMEDCT	185744005	Obesity monitoring 1st letter
+obesity	SNOMEDCT	87604009	Sleeve gastrectomy NEC
+obesity	SNOMEDCT	49245001	Mason high gastric bypass
+obesity	SNOMEDCT	185748008	Obesity monitor phone invite
+obesity	SNOMEDCT	185746007	Obesity monitoring 3rd letter
+obesity	SNOMEDCT	268522006	Obesity monitoring NOS
+obesity	SNOMEDCT	170799008	Treatment of obesity started
+obesity	SNOMEDCT	170807005	Reason for obesity therapy - occupational
+obesity	SNOMEDCT	698450007	[V]Presence of gastric bypass
+obesity	SNOMEDCT	763085007	Refuses obesity monitoring
+obesity	SNOMEDCT	415530009	Simple obesity NOS
+obesity	SNOMEDCT	185743004	Obesity monitoring default
+obesity	SNOMEDCT	170797005	Has seen dietician - obesity
+obesity	SNOMEDCT	49245001	Printer high gastric bypass
+obesity	SNOMEDCT	185747003	Obesity monitoring verbal inv.
+obesity	SNOMEDCT	302872003	Obesity and other hyperalimentation NOS
+obesity	SNOMEDCT	442261001	Maintenance of gastric band
+obesity	SNOMEDCT	415530009	Obesity due to excess calories
+obesity	SNOMEDCT	426273008	Partitioning of stomach using band
+obesity	SNOMEDCT	268522006	Obesity monitoring
+obesity	SNOMEDCT	294493008	Lifelong obesity
+obesity	SNOMEDCT	238136002	Morbid obesity
+obesity	SNOMEDCT	190965006	Drug-induced obesity
+obesity	SNOMEDCT	49245001	Bypass of stomach by anastomosis of stomach to jejunum NEC
+obesity	SNOMEDCT	713951000000106	Obesity monitoring admin.
+obesity	SNOMEDCT	173748000	Bypass stomach by anastomosis stomach to transposed jejunum
+obesity	Read2_5digit	1444.	H/O: obesity
+obesity	Read2_5digit	212Q.	Obesity resolved
+obesity	Read2_5digit	222A.	O/E - obese
+obesity	Read2_5digit	22A5.	O/E - obese
+obesity	Read2_5digit	22K5.	Body mass index 30+ - obesity
+obesity	Read2_5digit	22K7.	Body mass index 40+ - severely obese
+obesity	Read2_5digit	66C1.	Initial obesity assessment
+obesity	Read2_5digit	66C2.	Follow-up obesity assessment
+obesity	Read2_5digit	66C4.	Has seen dietician - obesity
+obesity	Read2_5digit	66C5.	Treatment of obesity changed
+obesity	Read2_5digit	66C6.	Treatment of obesity started
+obesity	Read2_5digit	66CE.	Reason for obesity therapy - occupational
+obesity	Read2_5digit	66CZ.	Obesity monitoring NOS
+obesity	Read2_5digit	76114	Sleeve gastrectomy and duodenal switch
+obesity	Read2_5digit	76115	Sleeve gastrectomy NEC
+obesity	Read2_5digit	76116	Laparoscopic sleeve gastrectomy
+obesity	Read2_5digit	76131	Partitioning of stomach
+obesity	Read2_5digit	76132	Laparoscopic adjustable gastric banding
+obesity	Read2_5digit	76133	Partitioning of stomach using band
+obesity	Read2_5digit	76134	Partitioning of stomach using staples
+obesity	Read2_5digit	76135	Partitioning of stomach NEC
+obesity	Read2_5digit	76136	Maintenance of gastric band
+obesity	Read2_5digit	76150	Bypass of stomach by anastomosis of stomach to transposed jejunum
+obesity	Read2_5digit	76166	Laparoscopic gastric bypass
+obesity	Read2_5digit	761A5	Removal of gastric band
+obesity	Read2_5digit	7633.	Bypass of jejunum
+obesity	Read2_5digit	76331	Bypass of jejunum by anastomosis of jejunum to ileum
+obesity	Read2_5digit	76332	Bypass of jejunum by anastomosis of jejunum to colon
+obesity	Read2_5digit	7633y	Other specified bypass of jejunum
+obesity	Read2_5digit	7633z	Bypass of jejunum NOS
+obesity	Read2_5digit	76425	Duodenal switch
+obesity	Read2_5digit	9OK..	Obesity monitoring admin.
+obesity	Read2_5digit	9OK1.	Attends obesity monitoring
+obesity	Read2_5digit	9OK2.	Refuses obesity monitoring
+obesity	Read2_5digit	9OK3.	Obesity monitoring default
+obesity	Read2_5digit	9OK4.	Obesity monitoring 1st letter
+obesity	Read2_5digit	9OK5.	Obesity monitoring 2nd letter
+obesity	Read2_5digit	9OK6.	Obesity monitoring 3rd letter
+obesity	Read2_5digit	9OK7.	Obesity monitoring verbal inv.
+obesity	Read2_5digit	9OK8.	Obesity monitor phone invite
+obesity	Read2_5digit	9OKA.	Obesity monitoring check done
+obesity	Read2_5digit	9OKZ.	Obesity monitoring admin.NOS
+obesity	Read2_5digit	C38..	Obesity and other hyperalimentation
+obesity	Read2_5digit	C380.	Obesity
+obesity	Read2_5digit	C3800	Obesity due to excess calories
+obesity	Read2_5digit	C3801	Drug-induced obesity
+obesity	Read2_5digit	C3802	Extreme obesity with alveolar hypoventilation
+obesity	Read2_5digit	C3803	Morbid obesity
+obesity	Read2_5digit	C3804	Central obesity
+obesity	Read2_5digit	C3805	Generalised obesity
+obesity	Read2_5digit	C3806	Adult-onset obesity
+obesity	Read2_5digit	C3807	Lifelong obesity
+obesity	Read2_5digit	C38y0	Pickwickian syndrome
+obesity	Read2_5digit	C38z.	Obesity and other hyperalimentation NOS
+obesity	Read2_5digit	C38z0	Simple obesity NOS
+obesity	Read2_5digit	Cyu7.	[X]Obesity and other hyperalimentation
+obesity	Read2_5digit	Cyu70	[X]Other obesity
+obesity	Read2_5digit	ZC2CM	Dietary advice for obesity
+obesity	Read2_5digit	ZV45P	[V]Presence of gastric bypass
+obesity	CTV3_5digit	1444.	H/O: obesity
+obesity	CTV3_5digit	XaKko	Obesity resolved
+obesity	CTV3_5digit	222A.	O/E - obese
+obesity	CTV3_5digit	22K5.	Body mass index 30+ - obesity
+obesity	CTV3_5digit	XaJJH	Body mass index 40+ - severely obese
+obesity	CTV3_5digit	XE1T6	Obesity monitoring
+obesity	CTV3_5digit	66C1.	Initial obesity assessment
+obesity	CTV3_5digit	66C2.	Follow-up obesity assessment
+obesity	CTV3_5digit	66C4.	Has seen dietician - obesity
+obesity	CTV3_5digit	66C5.	Treatment of obesity changed
+obesity	CTV3_5digit	66C6.	Treatment of obesity started
+obesity	CTV3_5digit	66CE.	Reason for obesity therapy - occupational
+obesity	CTV3_5digit	66CZ.	Obesity monitoring NOS
+obesity	CTV3_5digit	XaLd7	Sleeve gastrectomy and duodenal switch
+obesity	CTV3_5digit	XaLd8	Sleeve gastrectomy NEC
+obesity	CTV3_5digit	XaMgn	Laparoscopic sleeve gastrectomy
+obesity	CTV3_5digit	XE0Cg	Partitioning of stomach
+obesity	CTV3_5digit	76131	Mason vertical banded gastroplasty
+obesity	CTV3_5digit	XaDwP	Mason vertical banded gastroplasty
+obesity	CTV3_5digit	XaK95	Laparoscopic adjustable gastric banding
+obesity	CTV3_5digit	XaLd9	Partitioning of stomach using band
+obesity	CTV3_5digit	XaLdA	Partitioning of stomach using staples
+obesity	CTV3_5digit	XaMHV	Partitioning of stomach NEC
+obesity	CTV3_5digit	XaPpT	Maintenance of gastric band
+obesity	CTV3_5digit	XE0Ch	Bypass of stomach by anastomosis of stomach to duodenum
+obesity	CTV3_5digit	76150	Bypass of stomach by anastomosis of stomach to transposed jejunum
+obesity	CTV3_5digit	XE0Ci	Bypass of stomach by anastomosis of stomach to jejunum NEC
+obesity	CTV3_5digit	76160	Mason high gastric bypass
+obesity	CTV3_5digit	X20WL	Anastomosis of stomach to jejunum
+obesity	CTV3_5digit	XaOi9	Laparoscopic gastric bypass
+obesity	CTV3_5digit	XaLdH	Removal of gastric band
+obesity	CTV3_5digit	7633.	Bypass of jejunum
+obesity	CTV3_5digit	XE0Cx	Bypass of jejunum by anastomosis of jejunum to jejunum
+obesity	CTV3_5digit	76331	Bypass of jejunum by anastomosis of jejunum to ileum
+obesity	CTV3_5digit	XE0Cy	Bypass of jejunum by anastomosis of jejunum to colon
+obesity	CTV3_5digit	7633y	Other specified bypass of jejunum
+obesity	CTV3_5digit	7633z	Bypass of jejunum NOS
+obesity	CTV3_5digit	XaLdW	Duodenal switch
+obesity	CTV3_5digit	XE2Nc	Obesity monitoring admin.
+obesity	CTV3_5digit	XM1U4	Obesity clinic administration
+obesity	CTV3_5digit	9OK1.	Attends obesity monitoring
+obesity	CTV3_5digit	9OK2.	Refuses obesity monitoring
+obesity	CTV3_5digit	9OK3.	Obesity monitoring default
+obesity	CTV3_5digit	9OK4.	Obesity monitoring first letter
+obesity	CTV3_5digit	9OK5.	Obesity monitoring second letter
+obesity	CTV3_5digit	9OK6.	Obesity monitoring third letter
+obesity	CTV3_5digit	9OK7.	Obesity monitoring verbal invite
+obesity	CTV3_5digit	9OK8.	Obesity monitoring telephone invite
+obesity	CTV3_5digit	9OKA.	Obesity monitoring check done
+obesity	CTV3_5digit	9OKZ.	Obesity monitoring admin.NOS
+obesity	CTV3_5digit	C38..	Obesity and other hyperalimentation
+obesity	CTV3_5digit	C380.	Obesity
+obesity	CTV3_5digit	C3800	Obesity due to excess calories
+obesity	CTV3_5digit	C3801	Drug-induced obesity
+obesity	CTV3_5digit	C3802	Extreme obesity with alveolar hypoventilation
+obesity	CTV3_5digit	X40YQ	Morbid obesity
+obesity	CTV3_5digit	X76BU	Central obesity
+obesity	CTV3_5digit	X40YO	Generalised obesity
+obesity	CTV3_5digit	XSCIZ	Adult-onset obesity
+obesity	CTV3_5digit	XSCIX	Lifelong obesity
+obesity	CTV3_5digit	X40YR	Pickwickian syndrome
+obesity	CTV3_5digit	C38z.	Obesity and other hyperalimentation NOS
+obesity	CTV3_5digit	XaBM0	Simple obesity NOS
+obesity	CTV3_5digit	Cyu7.	[X]Obesity and other hyperalimentation
+obesity	CTV3_5digit	Cyu70	[X]Other obesity
+obesity	CTV3_5digit	XaPp5	[V]Presence of gastric bypass
+obesity	CTV3_5digit	ZV653	[V]Dietary counselling in obesity

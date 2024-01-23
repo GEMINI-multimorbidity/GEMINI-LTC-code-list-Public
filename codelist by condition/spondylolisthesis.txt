@@ -1,0 +1,84 @@
+condition	vocab_id	code	description
+spondylolisthesis	ICD10	M43.1	Spondylolisthesis
+spondylolisthesis	Read2	7J34112	Buck fusion of lumbar spine for spondylolisthesis
+spondylolisthesis	Read2	7J48500	Spondylolisthesis operation
+spondylolisthesis	Read2	7J48511	Gill excision of spondylolisthesis
+spondylolisthesis	Read2	7J48K00	Reduction of spondylolisthesis and fusion
+spondylolisthesis	Read2	7J48L00	Fusion spondylolisthesis in situ
+spondylolisthesis	Read2	N384.00	Acquired spondylolisthesis
+spondylolisthesis	Read2	N384000	Dysplastic spondylolisthesis
+spondylolisthesis	Read2	N384100	Isthmic spondylolisthesis
+spondylolisthesis	Read2	N384200	Degenerative spondylolisthesis
+spondylolisthesis	Read2	N384300	Pedicular spondylolisthesis
+spondylolisthesis	Read2	Zw04600	[Q] Spondylolisthesis grade 1
+spondylolisthesis	Read2	Zw04700	[Q] Spondylolisthesis grade 2
+spondylolisthesis	Read2	Zw04800	[Q] Spondylolisthesis grade 3
+spondylolisthesis	Read2	Zw04900	[Q] Spondylolisthesis grade 4
+spondylolisthesis	CTV3	XE2Q0Y60j0	Buck fusion of lumbar spine for spondylolisthesis
+spondylolisthesis	CTV3	XE0ItY60fb	Spondylolisthesis operation
+spondylolisthesis	CTV3	7J485Y60fc	Gill excision of spondylolisthesis
+spondylolisthesis	CTV3	7J48KY60jr	Reduction of spondylolisthesis and fusion
+spondylolisthesis	CTV3	7J48LY60js	Fusion spondylolisthesis in situ
+spondylolisthesis	CTV3	N384.Y70ph	Acquired spondylolisthesis
+spondylolisthesis	CTV3	N3840Y70pm	Dysplastic spondylolisthesis
+spondylolisthesis	CTV3	N3841Y70pl	Isthmic spondylolisthesis
+spondylolisthesis	CTV3	N3842Y70pk	Degenerative spondylolisthesis
+spondylolisthesis	CTV3	N3843Y70pj	Pedicular spondylolisthesis
+spondylolisthesis	CTV3	Zw046YM0db	[Q] Spondylolisthesis grade 1
+spondylolisthesis	CTV3	Zw047YM0dc	[Q] Spondylolisthesis grade 2
+spondylolisthesis	CTV3	Zw048YM0dd	[Q] Spondylolisthesis grade 3
+spondylolisthesis	CTV3	Zw049YM0de	[Q] Spondylolisthesis grade 4
+spondylolisthesis	medcodeid	312467012	Isthmic spondylolisthesis
+spondylolisthesis	medcodeid	312469010	Pedicular spondylolisthesis
+spondylolisthesis	medcodeid	527151000006116	Buck fusion of lumbar spine for spondylolisthesis
+spondylolisthesis	medcodeid	461580012	[Q] Spondylolisthesis grade 2
+spondylolisthesis	medcodeid	461581011	[Q] Spondylolisthesis grade 3
+spondylolisthesis	medcodeid	394592015	Spondylolisthesis operation
+spondylolisthesis	medcodeid	312465016	Acquired spondylolisthesis
+spondylolisthesis	medcodeid	312466015	Dysplastic spondylolisthesis
+spondylolisthesis	medcodeid	276668012	Reduction of spondylolisthesis and fusion
+spondylolisthesis	medcodeid	802211000006119	Gill excision of spondylolisthesis
+spondylolisthesis	medcodeid	461579014	[Q] Spondylolisthesis grade 1
+spondylolisthesis	medcodeid	276669016	Fusion spondylolisthesis in situ
+spondylolisthesis	medcodeid	7967011	Degenerative spondylolisthesis
+spondylolisthesis	medcodeid	461582016	[Q] Spondylolisthesis grade 4
+spondylolisthesis	SNOMEDCT	203683004	Isthmic spondylolisthesis
+spondylolisthesis	SNOMEDCT	203685006	Pedicular spondylolisthesis
+spondylolisthesis	SNOMEDCT	265717009	Buck fusion of lumbar spine for spondylolisthesis
+spondylolisthesis	SNOMEDCT	62620001	[Q] Spondylolisthesis grade 2
+spondylolisthesis	SNOMEDCT	13131000	[Q] Spondylolisthesis grade 3
+spondylolisthesis	SNOMEDCT	265726007	Spondylolisthesis operation
+spondylolisthesis	SNOMEDCT	203681002	Acquired spondylolisthesis
+spondylolisthesis	SNOMEDCT	203682009	Dysplastic spondylolisthesis
+spondylolisthesis	SNOMEDCT	178805003	Reduction of spondylolisthesis and fusion
+spondylolisthesis	SNOMEDCT	265726007	Gill excision of spondylolisthesis
+spondylolisthesis	SNOMEDCT	44494000	[Q] Spondylolisthesis grade 1
+spondylolisthesis	SNOMEDCT	178806002	Fusion spondylolisthesis in situ
+spondylolisthesis	SNOMEDCT	4046000	Degenerative spondylolisthesis
+spondylolisthesis	SNOMEDCT	3472009	[Q] Spondylolisthesis grade 4
+spondylolisthesis	Read2_5digit	7J485	Spondylolisthesis operation
+spondylolisthesis	Read2_5digit	7J48K	Reduction of spondylolisthesis and fusion
+spondylolisthesis	Read2_5digit	7J48L	Fusion spondylolisthesis in situ
+spondylolisthesis	Read2_5digit	N384.	Acquired spondylolisthesis
+spondylolisthesis	Read2_5digit	N3840	Dysplastic spondylolisthesis
+spondylolisthesis	Read2_5digit	N3841	Isthmic spondylolisthesis
+spondylolisthesis	Read2_5digit	N3842	Degenerative spondylolisthesis
+spondylolisthesis	Read2_5digit	N3843	Pedicular spondylolisthesis
+spondylolisthesis	Read2_5digit	Zw046	[Q] Spondylolisthesis grade 1
+spondylolisthesis	Read2_5digit	Zw047	[Q] Spondylolisthesis grade 2
+spondylolisthesis	Read2_5digit	Zw048	[Q] Spondylolisthesis grade 3
+spondylolisthesis	Read2_5digit	Zw049	[Q] Spondylolisthesis grade 4
+spondylolisthesis	CTV3_5digit	XE2Q0	Buck fusion of lumbar spine for spondylolisthesis
+spondylolisthesis	CTV3_5digit	XE0It	Spondylolisthesis operation
+spondylolisthesis	CTV3_5digit	7J485	Gill excision of spondylolisthesis
+spondylolisthesis	CTV3_5digit	7J48K	Reduction of spondylolisthesis and fusion
+spondylolisthesis	CTV3_5digit	7J48L	Fusion spondylolisthesis in situ
+spondylolisthesis	CTV3_5digit	N384.	Acquired spondylolisthesis
+spondylolisthesis	CTV3_5digit	N3840	Dysplastic spondylolisthesis
+spondylolisthesis	CTV3_5digit	N3841	Isthmic spondylolisthesis
+spondylolisthesis	CTV3_5digit	N3842	Degenerative spondylolisthesis
+spondylolisthesis	CTV3_5digit	N3843	Pedicular spondylolisthesis
+spondylolisthesis	CTV3_5digit	Zw046	[Q] Spondylolisthesis grade 1
+spondylolisthesis	CTV3_5digit	Zw047	[Q] Spondylolisthesis grade 2
+spondylolisthesis	CTV3_5digit	Zw048	[Q] Spondylolisthesis grade 3
+spondylolisthesis	CTV3_5digit	Zw049	[Q] Spondylolisthesis grade 4

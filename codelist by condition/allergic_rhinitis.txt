@@ -1,0 +1,201 @@
+condition	vocab_id	code	description
+allergic_rhinitis	ICD10	J30.1	Allergic rhinitis due to pollen
+allergic_rhinitis	ICD10	J30.2	Other seasonal allergic rhinitis
+allergic_rhinitis	ICD10	J30.3	Other allergic rhinitis
+allergic_rhinitis	ICD10	J30.4	Allergic rhinitis, unspecified
+allergic_rhinitis	ICD10	J30.5	Allergic rhinitis due to food
+allergic_rhinitis	ICD10	J30.8	Other allergic rhinitis
+allergic_rhinitis	ICD10	J30.9	Allergic rhinitis, unspecified
+allergic_rhinitis	ICD10	J31.0	Chronic rhinitis
+allergic_rhinitis	Read2	14B1.00	H/O: hay fever
+allergic_rhinitis	Read2	H120.00	Chronic rhinitis
+allergic_rhinitis	Read2	H120000	Chronic simple rhinitis
+allergic_rhinitis	Read2	H120100	Chronic catarrhal rhinitis
+allergic_rhinitis	Read2	H120200	Chronic hypertrophic rhinitis
+allergic_rhinitis	Read2	H120300	Chronic atrophic rhinitis
+allergic_rhinitis	Read2	H120400	Chronic infective rhinitis
+allergic_rhinitis	Read2	H120500	Chronic ulcerative rhinitis
+allergic_rhinitis	Read2	H120600	Chronic membranous rhinitis
+allergic_rhinitis	Read2	H120700	Chronic fibrinous rhinitis
+allergic_rhinitis	Read2	H120z00	Chronic rhinitis NOS
+allergic_rhinitis	Read2	H13..11	Chronic rhinosinusitis
+allergic_rhinitis	Read2	H17..00	Allergic rhinitis
+allergic_rhinitis	Read2	H17..11	Perennial rhinitis
+allergic_rhinitis	Read2	H17..12	Allergic rhinosinusitis
+allergic_rhinitis	Read2	H170.00	Allergic rhinitis due to pollens
+allergic_rhinitis	Read2	H170.11	Hay fever - pollens
+allergic_rhinitis	Read2	H170.12	Pollinosis
+allergic_rhinitis	Read2	H171.00	Allergic rhinitis due to other allergens
+allergic_rhinitis	Read2	H171.11	Cat allergy
+allergic_rhinitis	Read2	H171.12	Dander (animal) allergy
+allergic_rhinitis	Read2	H171.13	Feather allergy
+allergic_rhinitis	Read2	H171.14	Hay fever - other allergen
+allergic_rhinitis	Read2	H171.15	House dust allergy
+allergic_rhinitis	Read2	H171.16	House dust mite allergy
+allergic_rhinitis	Read2	H171000	Allergy to animal
+allergic_rhinitis	Read2	H171100	Dog allergy
+allergic_rhinitis	Read2	H172.00	Allergic rhinitis due to unspecified allergen
+allergic_rhinitis	Read2	H172.11	Hay fever - unspecified allergen
+allergic_rhinitis	Read2	H17z.00	Allergic rhinitis NOS
+allergic_rhinitis	Read2	H18..00	Vasomotor rhinitis
+allergic_rhinitis	Read2	H330.13	Hay fever with asthma
+allergic_rhinitis	Read2	H330011	Hay fever with asthma
+allergic_rhinitis	Read2	Hyu2000	[X]Other seasonal allergic rhinitis
+allergic_rhinitis	Read2	Hyu2100	[X]Other allergic rhinitis
+allergic_rhinitis	CTV3	14B1.Ya04x	H/O: hay fever
+allergic_rhinitis	CTV3	XE0XxY02Rb	Chronic rhinitis
+allergic_rhinitis	CTV3	H1200Y02Rh	Chronic simple rhinitis
+allergic_rhinitis	CTV3	XE0XyY02Rd	Chronic catarrhal rhinitis
+allergic_rhinitis	CTV3	H1202Y02Rj	Chronic hypertrophic rhinitis
+allergic_rhinitis	CTV3	H1203Y02Rk	Chronic atrophic rhinitis
+allergic_rhinitis	CTV3	H1204Y02Ri	Chronic infective rhinitis
+allergic_rhinitis	CTV3	H1205Y02Rn	Chronic ulcerative rhinitis
+allergic_rhinitis	CTV3	H1206Y02Re	Chronic membranous rhinitis
+allergic_rhinitis	CTV3	H1207Y02Rf	Chronic fibrinous rhinitis
+allergic_rhinitis	CTV3	H120zY02Rg	Chronic rhinitis NOS
+allergic_rhinitis	CTV3	H13..Y02UN	Chronic rhinosinusitis
+allergic_rhinitis	CTV3	XE0Y5Y02Ry	Allergic rhinitis
+allergic_rhinitis	CTV3	H17..Y02S0	Allergic rhinosinusitis
+allergic_rhinitis	CTV3	XE0Y5Y02S0	Allergic rhinosinusitis
+allergic_rhinitis	CTV3	X00lAY02SF	Perennial allergic rhinitis
+allergic_rhinitis	CTV3	XE2QIYa268	Allergic rhinitis due to pollens
+allergic_rhinitis	CTV3	Xa0lXY02SB	Pollinosis
+allergic_rhinitis	CTV3	XE0Y6Y02S1	Allergic rhinitis due to other allergens
+allergic_rhinitis	CTV3	X00l3Y02S2	Cat allergy
+allergic_rhinitis	CTV3	X00l4Y02S3	Dander (animal) allergy
+allergic_rhinitis	CTV3	X00l5Y02S4	Feather allergy
+allergic_rhinitis	CTV3	X00l8Y02SD	Hay fever - other allergen
+allergic_rhinitis	CTV3	X00l6Y02S5	House dust allergy
+allergic_rhinitis	CTV3	X00l7Y02S6	House dust mite allergy
+allergic_rhinitis	CTV3	XaIpWYalRn	Allergy to animal
+allergic_rhinitis	CTV3	XaOb5Yar5Q	Dog allergy
+allergic_rhinitis	CTV3	XE0Y7Y02S7	Allergic rhinitis due to unspecified allergen
+allergic_rhinitis	CTV3	X00l9Y02SE	Hay fever - unspecified allergen
+allergic_rhinitis	CTV3	H17z.Y02S8	Allergic rhinitis NOS
+allergic_rhinitis	CTV3	H18..Y02Rw	Vasomotor rhinitis
+allergic_rhinitis	CTV3	X1020Y108C	Hay fever with asthma
+allergic_rhinitis	CTV3	Hyu20YMAJ7	[X]Other seasonal allergic rhinitis
+allergic_rhinitis	CTV3	Hyu21YMAJ8	[X]Other allergic rhinitis
+allergic_rhinitis	medcodeid	102311013	Allergic rhinitis
+allergic_rhinitis	medcodeid	301176016	Chronic simple rhinitis
+allergic_rhinitis	medcodeid	301181013	Chronic hypertrophic rhinitis
+allergic_rhinitis	medcodeid	301183011	Chronic infective rhinitis
+allergic_rhinitis	medcodeid	348106012	Feather allergy
+allergic_rhinitis	medcodeid	1495072016	Allergy to animal
+allergic_rhinitis	medcodeid	634501000000119	Dog allergy
+allergic_rhinitis	medcodeid	36447011	Pollinosis
+allergic_rhinitis	medcodeid	301187012	Chronic rhinitis NOS
+allergic_rhinitis	medcodeid	301824017	[X]Other allergic rhinitis
+allergic_rhinitis	medcodeid	348109017	Hay fever - other allergen
+allergic_rhinitis	medcodeid	348110010	Hay fever - unspecified allergen
+allergic_rhinitis	medcodeid	477701000006111	Allergic rhinosinusitis
+allergic_rhinitis	medcodeid	817341000006110	Hay fever - pollens
+allergic_rhinitis	medcodeid	301823011	[X]Other seasonal allergic rhinitis
+allergic_rhinitis	medcodeid	481104016	Allergic rhinitis due to pollens
+allergic_rhinitis	medcodeid	348107015	House dust allergy
+allergic_rhinitis	medcodeid	350153016	Hay fever with asthma
+allergic_rhinitis	medcodeid	301185016	Chronic membranous rhinitis
+allergic_rhinitis	medcodeid	301186015	Chronic fibrinous rhinitis
+allergic_rhinitis	medcodeid	14582019	Vasomotor rhinitis
+allergic_rhinitis	medcodeid	251711015	H/O: hay fever
+allergic_rhinitis	medcodeid	396097015	Allergic rhinitis due to other allergens
+allergic_rhinitis	medcodeid	348104010	Dander (animal) allergy
+allergic_rhinitis	medcodeid	1229598015	Chronic rhinosinusitis
+allergic_rhinitis	medcodeid	142764012	Chronic rhinitis
+allergic_rhinitis	medcodeid	396095011	Chronic catarrhal rhinitis
+allergic_rhinitis	medcodeid	348103016	Cat allergy
+allergic_rhinitis	medcodeid	301184017	Chronic ulcerative rhinitis
+allergic_rhinitis	medcodeid	224001000000114	Perennial rhinitis
+allergic_rhinitis	medcodeid	348108013	House dust mite allergy
+allergic_rhinitis	medcodeid	301182018	Chronic atrophic rhinitis
+allergic_rhinitis	medcodeid	817361000006114	Hay fever with asthma
+allergic_rhinitis	medcodeid	301268012	Allergic rhinitis NOS
+allergic_rhinitis	medcodeid	396098013	Allergic rhinitis due to unspecified allergen
+allergic_rhinitis	SNOMEDCT	61582004	Allergic rhinitis
+allergic_rhinitis	SNOMEDCT	195765002	Chronic simple rhinitis
+allergic_rhinitis	SNOMEDCT	195768000	Chronic hypertrophic rhinitis
+allergic_rhinitis	SNOMEDCT	195770009	Chronic infective rhinitis
+allergic_rhinitis	SNOMEDCT	232348003	Feather allergy
+allergic_rhinitis	SNOMEDCT	717234006	Allergy to animal
+allergic_rhinitis	SNOMEDCT	419271008	Dog allergy
+allergic_rhinitis	SNOMEDCT	21719001	Pollinosis
+allergic_rhinitis	SNOMEDCT	86094006	Chronic rhinitis NOS
+allergic_rhinitis	SNOMEDCT	61582004	[X]Other allergic rhinitis
+allergic_rhinitis	SNOMEDCT	21719001	Hay fever - other allergen
+allergic_rhinitis	SNOMEDCT	21719001	Hay fever - unspecified allergen
+allergic_rhinitis	SNOMEDCT	61582004	Allergic rhinosinusitis
+allergic_rhinitis	SNOMEDCT	21719001	Hay fever - pollens
+allergic_rhinitis	SNOMEDCT	367498001	[X]Other seasonal allergic rhinitis
+allergic_rhinitis	SNOMEDCT	21719001	Allergic rhinitis due to pollens
+allergic_rhinitis	SNOMEDCT	232349006	House dust allergy
+allergic_rhinitis	SNOMEDCT	233683003	Hay fever with asthma
+allergic_rhinitis	SNOMEDCT	195772001	Chronic membranous rhinitis
+allergic_rhinitis	SNOMEDCT	195773006	Chronic fibrinous rhinitis
+allergic_rhinitis	SNOMEDCT	8229003	Vasomotor rhinitis
+allergic_rhinitis	SNOMEDCT	161524000	H/O: hay fever
+allergic_rhinitis	SNOMEDCT	61582004	Allergic rhinitis due to other allergens
+allergic_rhinitis	SNOMEDCT	232347008	Dander (animal) allergy
+allergic_rhinitis	SNOMEDCT	40055000	Chronic rhinosinusitis
+allergic_rhinitis	SNOMEDCT	86094006	Chronic rhinitis
+allergic_rhinitis	SNOMEDCT	266342009	Chronic catarrhal rhinitis
+allergic_rhinitis	SNOMEDCT	232346004	Cat allergy
+allergic_rhinitis	SNOMEDCT	195771008	Chronic ulcerative rhinitis
+allergic_rhinitis	SNOMEDCT	446096008	Perennial rhinitis
+allergic_rhinitis	SNOMEDCT	232350006	House dust mite allergy
+allergic_rhinitis	SNOMEDCT	195769008	Chronic atrophic rhinitis
+allergic_rhinitis	SNOMEDCT	61582004	Allergic rhinitis NOS
+allergic_rhinitis	SNOMEDCT	61582004	Allergic rhinitis due to unspecified allergen
+allergic_rhinitis	Read2_5digit	14B1.	H/O: hay fever
+allergic_rhinitis	Read2_5digit	H120.	Chronic rhinitis
+allergic_rhinitis	Read2_5digit	H1200	Chronic simple rhinitis
+allergic_rhinitis	Read2_5digit	H1201	Chronic catarrhal rhinitis
+allergic_rhinitis	Read2_5digit	H1202	Chronic hypertrophic rhinitis
+allergic_rhinitis	Read2_5digit	H1203	Chronic atrophic rhinitis
+allergic_rhinitis	Read2_5digit	H1204	Chronic infective rhinitis
+allergic_rhinitis	Read2_5digit	H1205	Chronic ulcerative rhinitis
+allergic_rhinitis	Read2_5digit	H1206	Chronic membranous rhinitis
+allergic_rhinitis	Read2_5digit	H1207	Chronic fibrinous rhinitis
+allergic_rhinitis	Read2_5digit	H120z	Chronic rhinitis NOS
+allergic_rhinitis	Read2_5digit	H17..	Allergic rhinitis
+allergic_rhinitis	Read2_5digit	H170.	Allergic rhinitis due to pollens
+allergic_rhinitis	Read2_5digit	H171.	Allergic rhinitis due to other allergens
+allergic_rhinitis	Read2_5digit	H1710	Allergy to animal
+allergic_rhinitis	Read2_5digit	H1711	Dog allergy
+allergic_rhinitis	Read2_5digit	H172.	Allergic rhinitis due to unspecified allergen
+allergic_rhinitis	Read2_5digit	H17z.	Allergic rhinitis NOS
+allergic_rhinitis	Read2_5digit	H18..	Vasomotor rhinitis
+allergic_rhinitis	Read2_5digit	Hyu20	[X]Other seasonal allergic rhinitis
+allergic_rhinitis	Read2_5digit	Hyu21	[X]Other allergic rhinitis
+allergic_rhinitis	CTV3_5digit	14B1.	H/O: hay fever
+allergic_rhinitis	CTV3_5digit	XE0Xx	Chronic rhinitis
+allergic_rhinitis	CTV3_5digit	H1200	Chronic simple rhinitis
+allergic_rhinitis	CTV3_5digit	XE0Xy	Chronic catarrhal rhinitis
+allergic_rhinitis	CTV3_5digit	H1202	Chronic hypertrophic rhinitis
+allergic_rhinitis	CTV3_5digit	H1203	Chronic atrophic rhinitis
+allergic_rhinitis	CTV3_5digit	H1204	Chronic infective rhinitis
+allergic_rhinitis	CTV3_5digit	H1205	Chronic ulcerative rhinitis
+allergic_rhinitis	CTV3_5digit	H1206	Chronic membranous rhinitis
+allergic_rhinitis	CTV3_5digit	H1207	Chronic fibrinous rhinitis
+allergic_rhinitis	CTV3_5digit	H120z	Chronic rhinitis NOS
+allergic_rhinitis	CTV3_5digit	H13..	Chronic rhinosinusitis
+allergic_rhinitis	CTV3_5digit	XE0Y5	Allergic rhinitis
+allergic_rhinitis	CTV3_5digit	H17..	Allergic rhinosinusitis
+allergic_rhinitis	CTV3_5digit	X00lA	Perennial allergic rhinitis
+allergic_rhinitis	CTV3_5digit	XE2QI	Allergic rhinitis due to pollens
+allergic_rhinitis	CTV3_5digit	Xa0lX	Pollinosis
+allergic_rhinitis	CTV3_5digit	XE0Y6	Allergic rhinitis due to other allergens
+allergic_rhinitis	CTV3_5digit	X00l3	Cat allergy
+allergic_rhinitis	CTV3_5digit	X00l4	Dander (animal) allergy
+allergic_rhinitis	CTV3_5digit	X00l5	Feather allergy
+allergic_rhinitis	CTV3_5digit	X00l8	Hay fever - other allergen
+allergic_rhinitis	CTV3_5digit	X00l6	House dust allergy
+allergic_rhinitis	CTV3_5digit	X00l7	House dust mite allergy
+allergic_rhinitis	CTV3_5digit	XaIpW	Allergy to animal
+allergic_rhinitis	CTV3_5digit	XaOb5	Dog allergy
+allergic_rhinitis	CTV3_5digit	XE0Y7	Allergic rhinitis due to unspecified allergen
+allergic_rhinitis	CTV3_5digit	X00l9	Hay fever - unspecified allergen
+allergic_rhinitis	CTV3_5digit	H17z.	Allergic rhinitis NOS
+allergic_rhinitis	CTV3_5digit	H18..	Vasomotor rhinitis
+allergic_rhinitis	CTV3_5digit	X1020	Hay fever with asthma
+allergic_rhinitis	CTV3_5digit	Hyu20	[X]Other seasonal allergic rhinitis
+allergic_rhinitis	CTV3_5digit	Hyu21	[X]Other allergic rhinitis

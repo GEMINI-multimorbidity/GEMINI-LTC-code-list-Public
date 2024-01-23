@@ -1,8 +1,3 @@
-# GEMINI-LTC-code-list-Public
-
-long term condition (ltc) codes used in the GEMINI project
-
-
 name	file_prefix
 Abdominal aortic aneurysm	AAA
 Atrial fibrillation	AF

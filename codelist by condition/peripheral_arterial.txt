@@ -1,0 +1,296 @@
+condition	vocab_id	code	description
+peripheral_arterial	ICD10	I73.8	Other specified peripheral vascular diseases
+peripheral_arterial	ICD10	I73.9	Peripheral vascular disease, unspecified
+peripheral_arterial	Read2	14F7.00	H/O: arterial lower limb ulcer
+peripheral_arterial	Read2	14NB.00	H/O: Peripheral vascular disease procedure
+peripheral_arterial	Read2	2G63.00	Ischaemic toe
+peripheral_arterial	Read2	A3A0F00	Gas gangrene-foot
+peripheral_arterial	Read2	C107.00	Diabetes mellitus with peripheral circulatory disorder
+peripheral_arterial	Read2	C107000	Diabetes mellitus, juvenile type, with peripheral circulatory disorder
+peripheral_arterial	Read2	C107100	Diabetes mellitus, adult onset, with peripheral circulatory disorder
+peripheral_arterial	Read2	C107300	IDDM with peripheral circulatory disorder
+peripheral_arterial	Read2	C107400	NIDDM with peripheral circulatory disorder
+peripheral_arterial	Read2	C107z00	Diabetes mellitus NOS with peripheral circulatory disorder
+peripheral_arterial	Read2	C108G00	Insulin dependent diabetes mellitus with peripheral angiopathy
+peripheral_arterial	Read2	C109F00	Non-insulin-dependent diabetes mellitus with peripheral angiopathy
+peripheral_arterial	Read2	C109F11	Type II diabetes mellitus with peripheral angiopathy
+peripheral_arterial	Read2	C109F12	Type 2 diabetes mellitus with peripheral angiopathy
+peripheral_arterial	Read2	C10EG00	Type 1 diabetes mellitus with peripheral angiopathy
+peripheral_arterial	Read2	C10FF00	Type 2 diabetes mellitus with peripheral angiopathy
+peripheral_arterial	Read2	G700.11	Aorto-iliac disease
+peripheral_arterial	Read2	G702.00	Extremity artery atheroma
+peripheral_arterial	Read2	G702z00	Extremity artery atheroma NOS
+peripheral_arterial	Read2	G73..00	Other peripheral vascular disease
+peripheral_arterial	Read2	G73..11	Peripheral ischaemic vascular disease
+peripheral_arterial	Read2	G73..12	Ischaemia of legs
+peripheral_arterial	Read2	G73..13	Peripheral ischaemia
+peripheral_arterial	Read2	G732.00	Peripheral gangrene
+peripheral_arterial	Read2	G732000	Gangrene of toe
+peripheral_arterial	Read2	G732100	Gangrene of foot
+peripheral_arterial	Read2	G733.00	Ischaemic foot
+peripheral_arterial	Read2	G73y.00	Other specified peripheral vascular disease
+peripheral_arterial	Read2	G73y000	Diabetic peripheral angiopathy
+peripheral_arterial	Read2	G73y100	Peripheral angiopathic disease EC NOS
+peripheral_arterial	Read2	G73y200	Acrocyanosis
+peripheral_arterial	Read2	G73y400	Acroparaesthesia - Schultze's type
+peripheral_arterial	Read2	G73y500	Acroparaesthesia - Nothnagel's type
+peripheral_arterial	Read2	G73y511	Nothnagel's vasomotor acroparaesthesia
+peripheral_arterial	Read2	G73y600	Acroparaesthesia - unspecified
+peripheral_arterial	Read2	G73y700	Erythrocyanosis
+peripheral_arterial	Read2	G73y800	Erythromelalgia
+peripheral_arterial	Read2	G73yz00	Other specified peripheral vascular disease NOS
+peripheral_arterial	Read2	G73z.00	Peripheral vascular disease NOS
+peripheral_arterial	Read2	G73z000	Intermittent claudication
+peripheral_arterial	Read2	G73z011	Claudication
+peripheral_arterial	Read2	G73zz00	Peripheral vascular disease NOS
+peripheral_arterial	Read2	G740.12	Aortoiliac obstruction
+peripheral_arterial	Read2	G742z00	Peripheral arterial embolism and thrombosis NOS
+peripheral_arterial	Read2	Gyu7400	[X]Other specified peripheral vascular diseases
+peripheral_arterial	Read2	M271.12	Ischaemic leg ulcer
+peripheral_arterial	Read2	M271000	Ischaemic ulcer diabetic foot
+peripheral_arterial	Read2	M271300	Arterial leg ulcer
+peripheral_arterial	Read2	M271400	Mixed venous and arterial leg ulcer
+peripheral_arterial	Read2	R054200	[D]Gangrene of toe in diabetic
+peripheral_arterial	Read2	R054300	[D]Widespread diabetic foot gangrene
+peripheral_arterial	Read2	R055000	[D]Failure of peripheral circulation
+peripheral_arterial	Read2	R055011	[D]Peripheral circulatory failure
+peripheral_arterial	CTV3	Xaa0JYavtb	H/O: arterial lower limb ulcer
+peripheral_arterial	CTV3	XaBL7Yaaes	H/O: Peripheral vascular disease procedure
+peripheral_arterial	CTV3	XaB5XYaaIs	Ischaemic toe
+peripheral_arterial	CTV3	A3A0FY71Pq	Gas gangrene-foot
+peripheral_arterial	CTV3	XE10IY41P7	Diabetes mellitus with peripheral circulatory disorder
+peripheral_arterial	CTV3	C1070Y41PA	Diabetes mellitus, juvenile type, with peripheral circulatory disorder
+peripheral_arterial	CTV3	C1071Y41PB	Diabetes mellitus, adult onset, with peripheral circulatory disorder
+peripheral_arterial	CTV3	C1073Ya3xw	IDDM with peripheral circulatory disorder
+peripheral_arterial	CTV3	C1074Ya3xx	NIDDM with peripheral circulatory disorder
+peripheral_arterial	CTV3	C107zY41PD	Diabetes mellitus NOS with peripheral circulatory disorder
+peripheral_arterial	CTV3	XaFmKYagvo	Insulin dependent diabetes mellitus with peripheral angiopathy
+peripheral_arterial	CTV3	XaFn7Yagww	Non-insulin-dependent diabetes mellitus with peripheral angiopathy
+peripheral_arterial	CTV3	XaFn7YajRm	Type 2 diabetes mellitus with peripheral angiopathy
+peripheral_arterial	CTV3	XaFn7Yagwv	Type II diabetes mellitus with peripheral angiopathy
+peripheral_arterial	CTV3	XaFmKYajRP	Type 1 diabetes mellitus with peripheral angiopathy
+peripheral_arterial	CTV3	X203LYadvw	Aortoiliac disease
+peripheral_arterial	CTV3	X203LYae75	Aortoiliac atherosclerosis
+peripheral_arterial	CTV3	G702.Ya265	Extremity artery atheroma
+peripheral_arterial	CTV3	G702zY20Eh	Extremity artery atheroma NOS
+peripheral_arterial	CTV3	XE0VPY20EX	Other peripheral vascular disease
+peripheral_arterial	CTV3	X203TY20Eq	Lower limb ischaemia
+peripheral_arterial	CTV3	X203TY20Et	Ischaemic leg
+peripheral_arterial	CTV3	X203QY20Em	Peripheral ischaemia
+peripheral_arterial	CTV3	X203QY20En	Peripheral ischaemic vascular disease
+peripheral_arterial	CTV3	G732.Ya3DP	Peripheral gangrene
+peripheral_arterial	CTV3	G7320Ya3DQ	Gangrene of toe
+peripheral_arterial	CTV3	G7321Ya3E6	Gangrene of foot
+peripheral_arterial	CTV3	Xa84UYaVdQ	Ischaemic foot
+peripheral_arterial	CTV3	G73y.Y20Eb	Other specified peripheral vascular disease
+peripheral_arterial	CTV3	G73y0Y20Ec	Diabetic peripheral angiopathy
+peripheral_arterial	CTV3	G73y1Y20Ed	Peripheral angiopathic disease EC NOS
+peripheral_arterial	CTV3	G73y2Y20Jn	Acrocyanosis
+peripheral_arterial	CTV3	G73y4Y20Jq	Schultze's simple acroparaesthesia
+peripheral_arterial	CTV3	G73y5Y20Js	Nothnagel's vasomotor acroparaesthesia
+peripheral_arterial	CTV3	G73y6Y20Jp	Acroparaesthesia - unspecified
+peripheral_arterial	CTV3	G73y7Y20Ju	Erythrocyanosis
+peripheral_arterial	CTV3	G73y8Y20Jv	Erythromelalgia
+peripheral_arterial	CTV3	G73yzY20Ee	Other specified peripheral vascular disease NOS
+peripheral_arterial	CTV3	G73z.Y20Ef	Peripheral vascular disease NOS
+peripheral_arterial	CTV3	XE0VRY20SJ	Intermittent claudication
+peripheral_arterial	CTV3	XM1QuY20SK	Claudication
+peripheral_arterial	CTV3	X203mY20G7	Aortoiliac obstruction
+peripheral_arterial	CTV3	G742zY20Fl	Peripheral arterial embolism and thrombosis NOS
+peripheral_arterial	CTV3	Gyu74YMAIH	[X]Other specified peripheral vascular diseases
+peripheral_arterial	CTV3	X50BfY50UV	Ischaemic leg ulcer
+peripheral_arterial	CTV3	M2710Y50UY	Ischaemic ulcer diabetic foot
+peripheral_arterial	CTV3	X50BfY50UW	Arterial leg ulcer
+peripheral_arterial	CTV3	X50BeY50UU	Mixed venous and arterial leg ulcer
+peripheral_arterial	CTV3	R0542YM0zt	[D]Gangrene of toe in diabetic
+peripheral_arterial	CTV3	R0543YM0zu	[D]Widespread diabetic foot gangrene
+peripheral_arterial	CTV3	R0550YM0zx	[D]Failure of peripheral circulation
+peripheral_arterial	CTV3	R0550YM0zy	[D]Peripheral circulatory failure
+peripheral_arterial	medcodeid	302011	Diabetic peripheral angiopathy
+peripheral_arterial	medcodeid	41903014	Acrocyanosis
+peripheral_arterial	medcodeid	61977017	Erythromelalgia
+peripheral_arterial	medcodeid	105536013	Intermittent claudication
+peripheral_arterial	medcodeid	300504018	Peripheral gangrene
+peripheral_arterial	medcodeid	300505017	Gangrene of toe
+peripheral_arterial	medcodeid	300506016	Gangrene of foot
+peripheral_arterial	medcodeid	309177010	Ischaemic ulcer diabetic foot
+peripheral_arterial	medcodeid	350533013	Peripheral ischaemia
+peripheral_arterial	medcodeid	350535018	Peripheral ischaemic vascular disease
+peripheral_arterial	medcodeid	357894012	Arterial leg ulcer
+peripheral_arterial	medcodeid	443199013	Ischaemic foot
+peripheral_arterial	medcodeid	450665015	Ischaemic toe
+peripheral_arterial	medcodeid	459308015	Type 2 diabetes mellitus with peripheral angiopathy
+peripheral_arterial	medcodeid	300434013	Extremity artery atheroma NOS
+peripheral_arterial	medcodeid	300511019	Peripheral angiopathic disease EC NOS
+peripheral_arterial	medcodeid	300514010	Other specified peripheral vascular disease NOS
+peripheral_arterial	medcodeid	300963017	[X]Other specified peripheral vascular diseases
+peripheral_arterial	medcodeid	317347010	[D]Gangrene of toe in diabetic
+peripheral_arterial	medcodeid	317348017	[D]Widespread diabetic foot gangrene
+peripheral_arterial	medcodeid	84961000006116	Type II diabetes mellitus with peripheral angiopathy
+peripheral_arterial	medcodeid	235911000006116	Peripheral vascular disease NOS
+peripheral_arterial	medcodeid	280561000006111	Non-insulin-dependent d m with peripheral angiopath
+peripheral_arterial	medcodeid	454891000006117	Acroparaesthesia - Nothnagel's type
+peripheral_arterial	medcodeid	674961000006118	NIDDM with peripheral circulatory disorder
+peripheral_arterial	medcodeid	772141000006118	Insulin dependent diab mell with peripheral angiopathy
+peripheral_arterial	medcodeid	913931000006116	Type 1 diabetes mellitus with peripheral angiopathy
+peripheral_arterial	medcodeid	292523015	Diabetes mellitus NOS with peripheral circulatory disorder
+peripheral_arterial	medcodeid	357893018	Mixed venous and arterial leg ulcer
+peripheral_arterial	medcodeid	286570019	Gas gangrene-foot
+peripheral_arterial	medcodeid	124092018	Erythrocyanosis
+peripheral_arterial	medcodeid	223991000000116	Aorto-iliac disease
+peripheral_arterial	medcodeid	1222508013	[D]Peripheral circulatory failure
+peripheral_arterial	medcodeid	84591000006119	Type 2 diabetes mellitus with peripheral angiopathy
+peripheral_arterial	medcodeid	300515011	Peripheral vascular disease NOS
+peripheral_arterial	medcodeid	350564010	Aortoiliac obstruction
+peripheral_arterial	medcodeid	300433019	Extremity artery atheroma
+peripheral_arterial	medcodeid	787101000006114	IDDM with peripheral circulatory disorder
+peripheral_arterial	medcodeid	411512011	Claudication
+peripheral_arterial	medcodeid	300512014	Acroparaesthesia - unspecified
+peripheral_arterial	medcodeid	616591000006117	Diabetes mellitus, juvenile +peripheral circulatory disorder
+peripheral_arterial	medcodeid	300510018	Other specified peripheral vascular disease
+peripheral_arterial	medcodeid	300550015	Peripheral arterial embolism and thrombosis NOS
+peripheral_arterial	medcodeid	503681010	Nothnagel's vasomotor acroparaesthesia
+peripheral_arterial	medcodeid	357895013	Ischaemic leg ulcer
+peripheral_arterial	medcodeid	454901000006118	Acroparaesthesia - Schultze's type
+peripheral_arterial	medcodeid	2232441000000113	H/O: arterial lower limb ulcer
+peripheral_arterial	medcodeid	451376017	H/O: Peripheral vascular disease procedure
+peripheral_arterial	medcodeid	742481000006118	Ischaemia of legs
+peripheral_arterial	medcodeid	317351012	[D]Failure of peripheral circulation
+peripheral_arterial	medcodeid	395791015	Other peripheral vascular disease
+peripheral_arterial	medcodeid	616441000006113	Diabetes mellitus with peripheral circulatory disorder
+peripheral_arterial	medcodeid	616581000006115	Diabetes mellitus, adult, + peripheral circulatory disorder
+peripheral_arterial	SNOMEDCT	127014009	Diabetic peripheral angiopathy
+peripheral_arterial	SNOMEDCT	25003006	Acrocyanosis
+peripheral_arterial	SNOMEDCT	37151006	Erythromelalgia
+peripheral_arterial	SNOMEDCT	63491006	Intermittent claudication
+peripheral_arterial	SNOMEDCT	195301007	Peripheral gangrene
+peripheral_arterial	SNOMEDCT	195302000	Gangrene of toe
+peripheral_arterial	SNOMEDCT	195303005	Gangrene of foot
+peripheral_arterial	SNOMEDCT	201250006	Ischaemic ulcer diabetic foot
+peripheral_arterial	SNOMEDCT	233958001	Peripheral ischaemia
+peripheral_arterial	SNOMEDCT	233958001	Peripheral ischaemic vascular disease
+peripheral_arterial	SNOMEDCT	238793001	Arterial leg ulcer
+peripheral_arterial	SNOMEDCT	301755001	Ischaemic foot
+peripheral_arterial	SNOMEDCT	307408003	Ischaemic toe
+peripheral_arterial	SNOMEDCT	314902007	Type 2 diabetes mellitus with peripheral angiopathy
+peripheral_arterial	SNOMEDCT	195254008	Extremity artery atheroma NOS
+peripheral_arterial	SNOMEDCT	400047006	Peripheral angiopathic disease EC NOS
+peripheral_arterial	SNOMEDCT	400047006	Other specified peripheral vascular disease NOS
+peripheral_arterial	SNOMEDCT	400047006	[X]Other specified peripheral vascular diseases
+peripheral_arterial	SNOMEDCT	195302000	[D]Gangrene of toe in diabetic
+peripheral_arterial	SNOMEDCT	195303005	[D]Widespread diabetic foot gangrene
+peripheral_arterial	SNOMEDCT	314902007	Type II diabetes mellitus with peripheral angiopathy
+peripheral_arterial	SNOMEDCT	400047006	Peripheral vascular disease NOS
+peripheral_arterial	SNOMEDCT	314902007	Non-insulin-dependent d m with peripheral angiopath
+peripheral_arterial	SNOMEDCT	77788005	Acroparaesthesia - Nothnagel's type
+peripheral_arterial	SNOMEDCT	422166005	NIDDM with peripheral circulatory disorder
+peripheral_arterial	SNOMEDCT	421895002	Insulin dependent diab mell with peripheral angiopathy
+peripheral_arterial	SNOMEDCT	31211000119101	Type 1 diabetes mellitus with peripheral angiopathy
+peripheral_arterial	SNOMEDCT	421895002	Diabetes mellitus NOS with peripheral circulatory disorder
+peripheral_arterial	SNOMEDCT	238792006	Mixed venous and arterial leg ulcer
+peripheral_arterial	SNOMEDCT	186423003	Gas gangrene-foot
+peripheral_arterial	SNOMEDCT	74725000	Erythrocyanosis
+peripheral_arterial	SNOMEDCT	233956002	Aorto-iliac disease
+peripheral_arterial	SNOMEDCT	27942005	[D]Peripheral circulatory failure
+peripheral_arterial	SNOMEDCT	233972005	Aortoiliac obstruction
+peripheral_arterial	SNOMEDCT	195254008	Extremity artery atheroma
+peripheral_arterial	SNOMEDCT	421895002	IDDM with peripheral circulatory disorder
+peripheral_arterial	SNOMEDCT	63491006	Claudication
+peripheral_arterial	SNOMEDCT	79256006	Acroparaesthesia - unspecified
+peripheral_arterial	SNOMEDCT	421365002	Diabetes mellitus, juvenile +peripheral circulatory disorder
+peripheral_arterial	SNOMEDCT	400047006	Other specified peripheral vascular disease
+peripheral_arterial	SNOMEDCT	195318006	Peripheral arterial embolism and thrombosis NOS
+peripheral_arterial	SNOMEDCT	77788005	Nothnagel's vasomotor acroparaesthesia
+peripheral_arterial	SNOMEDCT	238793001	Ischaemic leg ulcer
+peripheral_arterial	SNOMEDCT	57105000	Acroparaesthesia - Schultze's type
+peripheral_arterial	SNOMEDCT	863401000000101	H/O: arterial lower limb ulcer
+peripheral_arterial	SNOMEDCT	308071004	H/O: Peripheral vascular disease procedure
+peripheral_arterial	SNOMEDCT	233961000	Ischaemia of legs
+peripheral_arterial	SNOMEDCT	27942005	[D]Failure of peripheral circulation
+peripheral_arterial	SNOMEDCT	400047006	Other peripheral vascular disease
+peripheral_arterial	SNOMEDCT	421895002	Diabetes mellitus with peripheral circulatory disorder
+peripheral_arterial	SNOMEDCT	422166005	Diabetes mellitus, adult, + peripheral circulatory disorder
+peripheral_arterial	Read2_5digit	14F7.	H/O: arterial lower limb ulcer
+peripheral_arterial	Read2_5digit	14NB.	H/O: Peripheral vascular disease procedure
+peripheral_arterial	Read2_5digit	2G63.	Ischaemic toe
+peripheral_arterial	Read2_5digit	A3A0F	Gas gangrene-foot
+peripheral_arterial	Read2_5digit	C107.	Diabetes mellitus with peripheral circulatory disorder
+peripheral_arterial	Read2_5digit	C1070	Diabetes mellitus, juvenile type, with peripheral circulatory disorder
+peripheral_arterial	Read2_5digit	C1071	Diabetes mellitus, adult onset, with peripheral circulatory disorder
+peripheral_arterial	Read2_5digit	C1073	IDDM with peripheral circulatory disorder
+peripheral_arterial	Read2_5digit	C1074	NIDDM with peripheral circulatory disorder
+peripheral_arterial	Read2_5digit	C107z	Diabetes mellitus NOS with peripheral circulatory disorder
+peripheral_arterial	Read2_5digit	C108G	Insulin dependent diabetes mellitus with peripheral angiopathy
+peripheral_arterial	Read2_5digit	C109F	Non-insulin-dependent diabetes mellitus with peripheral angiopathy
+peripheral_arterial	Read2_5digit	C10EG	Type 1 diabetes mellitus with peripheral angiopathy
+peripheral_arterial	Read2_5digit	C10FF	Type 2 diabetes mellitus with peripheral angiopathy
+peripheral_arterial	Read2_5digit	G702.	Extremity artery atheroma
+peripheral_arterial	Read2_5digit	G702z	Extremity artery atheroma NOS
+peripheral_arterial	Read2_5digit	G73..	Other peripheral vascular disease
+peripheral_arterial	Read2_5digit	G732.	Peripheral gangrene
+peripheral_arterial	Read2_5digit	G7320	Gangrene of toe
+peripheral_arterial	Read2_5digit	G7321	Gangrene of foot
+peripheral_arterial	Read2_5digit	G733.	Ischaemic foot
+peripheral_arterial	Read2_5digit	G73y.	Other specified peripheral vascular disease
+peripheral_arterial	Read2_5digit	G73y0	Diabetic peripheral angiopathy
+peripheral_arterial	Read2_5digit	G73y1	Peripheral angiopathic disease EC NOS
+peripheral_arterial	Read2_5digit	G73y2	Acrocyanosis
+peripheral_arterial	Read2_5digit	G73y5	Acroparaesthesia - Nothnagel's type
+peripheral_arterial	Read2_5digit	G73y6	Acroparaesthesia - unspecified
+peripheral_arterial	Read2_5digit	G73y7	Erythrocyanosis
+peripheral_arterial	Read2_5digit	G73yz	Other specified peripheral vascular disease NOS
+peripheral_arterial	Read2_5digit	G73z.	Peripheral vascular disease NOS
+peripheral_arterial	Read2_5digit	G73z0	Intermittent claudication
+peripheral_arterial	Read2_5digit	G73zz	Peripheral vascular disease NOS
+peripheral_arterial	Read2_5digit	G742z	Peripheral arterial embolism and thrombosis NOS
+peripheral_arterial	Read2_5digit	Gyu74	[X]Other specified peripheral vascular diseases
+peripheral_arterial	Read2_5digit	M2710	Ischaemic ulcer diabetic foot
+peripheral_arterial	Read2_5digit	M2713	Arterial leg ulcer
+peripheral_arterial	Read2_5digit	M2714	Mixed venous and arterial leg ulcer
+peripheral_arterial	Read2_5digit	R0542	[D]Gangrene of toe in diabetic
+peripheral_arterial	Read2_5digit	R0543	[D]Widespread diabetic foot gangrene
+peripheral_arterial	Read2_5digit	R0550	[D]Failure of peripheral circulation
+peripheral_arterial	CTV3_5digit	Xaa0J	H/O: arterial lower limb ulcer
+peripheral_arterial	CTV3_5digit	XaBL7	H/O: Peripheral vascular disease procedure
+peripheral_arterial	CTV3_5digit	XaB5X	Ischaemic toe
+peripheral_arterial	CTV3_5digit	A3A0F	Gas gangrene-foot
+peripheral_arterial	CTV3_5digit	XE10I	Diabetes mellitus with peripheral circulatory disorder
+peripheral_arterial	CTV3_5digit	C1070	Diabetes mellitus, juvenile type, with peripheral circulatory disorder
+peripheral_arterial	CTV3_5digit	C1071	Diabetes mellitus, adult onset, with peripheral circulatory disorder
+peripheral_arterial	CTV3_5digit	C1073	IDDM with peripheral circulatory disorder
+peripheral_arterial	CTV3_5digit	C1074	NIDDM with peripheral circulatory disorder
+peripheral_arterial	CTV3_5digit	C107z	Diabetes mellitus NOS with peripheral circulatory disorder
+peripheral_arterial	CTV3_5digit	XaFmK	Insulin dependent diabetes mellitus with peripheral angiopathy
+peripheral_arterial	CTV3_5digit	XaFn7	Non-insulin-dependent diabetes mellitus with peripheral angiopathy
+peripheral_arterial	CTV3_5digit	X203L	Aortoiliac disease
+peripheral_arterial	CTV3_5digit	G702.	Extremity artery atheroma
+peripheral_arterial	CTV3_5digit	G702z	Extremity artery atheroma NOS
+peripheral_arterial	CTV3_5digit	XE0VP	Other peripheral vascular disease
+peripheral_arterial	CTV3_5digit	X203T	Lower limb ischaemia
+peripheral_arterial	CTV3_5digit	X203Q	Peripheral ischaemia
+peripheral_arterial	CTV3_5digit	G732.	Peripheral gangrene
+peripheral_arterial	CTV3_5digit	G7320	Gangrene of toe
+peripheral_arterial	CTV3_5digit	G7321	Gangrene of foot
+peripheral_arterial	CTV3_5digit	Xa84U	Ischaemic foot
+peripheral_arterial	CTV3_5digit	G73y.	Other specified peripheral vascular disease
+peripheral_arterial	CTV3_5digit	G73y0	Diabetic peripheral angiopathy
+peripheral_arterial	CTV3_5digit	G73y1	Peripheral angiopathic disease EC NOS
+peripheral_arterial	CTV3_5digit	G73y2	Acrocyanosis
+peripheral_arterial	CTV3_5digit	G73y4	Schultze's simple acroparaesthesia
+peripheral_arterial	CTV3_5digit	G73y5	Nothnagel's vasomotor acroparaesthesia
+peripheral_arterial	CTV3_5digit	G73y6	Acroparaesthesia - unspecified
+peripheral_arterial	CTV3_5digit	G73y7	Erythrocyanosis
+peripheral_arterial	CTV3_5digit	G73y8	Erythromelalgia
+peripheral_arterial	CTV3_5digit	G73yz	Other specified peripheral vascular disease NOS
+peripheral_arterial	CTV3_5digit	G73z.	Peripheral vascular disease NOS
+peripheral_arterial	CTV3_5digit	XE0VR	Intermittent claudication
+peripheral_arterial	CTV3_5digit	XM1Qu	Claudication
+peripheral_arterial	CTV3_5digit	X203m	Aortoiliac obstruction
+peripheral_arterial	CTV3_5digit	G742z	Peripheral arterial embolism and thrombosis NOS
+peripheral_arterial	CTV3_5digit	Gyu74	[X]Other specified peripheral vascular diseases
+peripheral_arterial	CTV3_5digit	X50Bf	Ischaemic leg ulcer
+peripheral_arterial	CTV3_5digit	M2710	Ischaemic ulcer diabetic foot
+peripheral_arterial	CTV3_5digit	X50Be	Mixed venous and arterial leg ulcer
+peripheral_arterial	CTV3_5digit	R0542	[D]Gangrene of toe in diabetic
+peripheral_arterial	CTV3_5digit	R0543	[D]Widespread diabetic foot gangrene
+peripheral_arterial	CTV3_5digit	R0550	[D]Failure of peripheral circulation

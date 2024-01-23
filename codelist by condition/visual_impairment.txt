@@ -1,0 +1,519 @@
+condition	vocab_id	code	description
+visual_impairment	ICD10	H54.0	Blindness, binocular
+visual_impairment	ICD10	H54.1	Severe visual impairment, binocular
+visual_impairment	ICD10	H54.2	Moderate visual impairment, binocular
+visual_impairment	ICD10	H54.4	Blindness, monocular
+visual_impairment	ICD10	H54.5	Severe visual impairment, monocular
+visual_impairment	ICD10	H54.6	Moderate visual impairment, monocular
+visual_impairment	ICD10	H54.7	Unspecified visual loss
+visual_impairment	ICD10	H54.8	Legal blindness, as defined in USA
+visual_impairment	ICD10	H54.9	Unspecified visual impairment (binocular)
+visual_impairment	Read2	1B75.00	Loss of vision
+visual_impairment	Read2	2B6A.11	O/E - blind R-eye
+visual_impairment	Read2	2B6B.00	O/E - R-eye completely blind
+visual_impairment	Read2	2B6S.00	O/E - pinhole R-eye completely blind
+visual_impairment	Read2	2B7A.11	O/E - blind L-eye
+visual_impairment	Read2	2B7B.00	O/E - L-eye completely blind
+visual_impairment	Read2	2B7S.00	O/E - pinhole L-eye completely blind
+visual_impairment	Read2	2BBo.00	O/E - sight threatening diabetic retinopathy
+visual_impairment	Read2	2BBr.00	Impaired vision due to diabetic retinopathy
+visual_impairment	Read2	6688.00	Registered partially sighted
+visual_impairment	Read2	6688.11	Registered partially blind
+visual_impairment	Read2	6689.00	Registered blind
+visual_impairment	Read2	6689.11	Registered severely sight impaired
+visual_impairment	Read2	668D.00	Registered sight impaired
+visual_impairment	Read2	8F6..11	Blind rehabilitation
+visual_impairment	Read2	8F61.00	Blind rehabilitation
+visual_impairment	Read2	8F62.00	Blind lead dog rehabilitation
+visual_impairment	Read2	8HlE.00	Referral to visual impairment multidisciplinary team
+visual_impairment	Read2	9m08.00	Excluded from diabetic retinopathy screening as blind
+visual_impairment	Read2	9NfB.00	Requires deafblind communicator guide
+visual_impairment	Read2	9NlD.00	Seen by visual impairment teacher
+visual_impairment	Read2	F404100	Blind hypotensive eye
+visual_impairment	Read2	F404200	Blind hypertensive eye
+visual_impairment	Read2	F49..00	Blindness and low vision
+visual_impairment	Read2	F49..11	Impaired vision
+visual_impairment	Read2	F49..13	Partial sight
+visual_impairment	Read2	F49..14	Sight impaired
+visual_impairment	Read2	F490.00	Blindness, both eyes
+visual_impairment	Read2	F490000	Unspecified blindness both eyes
+visual_impairment	Read2	F490100	Both eyes total visual impairment
+visual_impairment	Read2	F490200	Better eye: near total visual impairment, Lesser eye: unspecified
+visual_impairment	Read2	F490400	Better eye: near total visual impairment, Lesser eye: near total visual impairment
+visual_impairment	Read2	F490600	Better eye: profound visual impairment, Lesser eye: total visual impairment
+visual_impairment	Read2	F490900	Acquired blindness, both eyes
+visual_impairment	Read2	F490z00	Blindness both eyes NOS
+visual_impairment	Read2	F491.00	Better eye: low vision, Lesser eye: profound visual impairment
+visual_impairment	Read2	F491000	One eye blind, one eye low vision
+visual_impairment	Read2	F491100	Better eye: severe visual impairment, Lesser eye: blind, unspecified
+visual_impairment	Read2	F491300	Better eye: severe visual impairment, Lesser eye: near total visual impairment
+visual_impairment	Read2	F491400	Better eye: severe visual impairment, Lesser eye: profound visual impairment
+visual_impairment	Read2	F491500	Better eye: moderate visual impairment, Lesser eye: blind, unspecified
+visual_impairment	Read2	F491700	Better eye: moderate visual impairment, Lesser eye: near total visual impairment
+visual_impairment	Read2	F491z00	One eye blind, one eye low vision NOS
+visual_impairment	Read2	F492.00	Low vision, both eyes
+visual_impairment	Read2	F492000	Low vision, both eyes unspecified
+visual_impairment	Read2	F492200	Better eye: severe visual impairment, Lesser eye: severe visual impairment
+visual_impairment	Read2	F492300	Better eye: moderate visual impairment, Lesser eye: low vision unspecified
+visual_impairment	Read2	F492400	Better eye: moderate visual impairment, Lesser eye: severe visual impairment
+visual_impairment	Read2	F492500	Better eye: moderate visual impairment, Lesser eye: moderate visual impairment
+visual_impairment	Read2	F492z00	Low vision, both eyes NOS
+visual_impairment	Read2	F493.00	Visual loss, both eyes unqualified
+visual_impairment	Read2	F494.00	Legal blindness USA
+visual_impairment	Read2	F495.00	Profound impairment, one eye
+visual_impairment	Read2	F495000	Blindness, one eye, unspecified
+visual_impairment	Read2	F495100	Lesser eye: total visual impairment, Better eye: unspecified
+visual_impairment	Read2	F495200	Lesser eye: total visual impairment, Better eye: near normal vision
+visual_impairment	Read2	F495300	Lesser eye: total visual impairment, Better eye: normal vision
+visual_impairment	Read2	F495400	Lesser eye: near total visual impairment, Better eye: unspecified
+visual_impairment	Read2	F495500	Lesser eye: near total visual impairment, Better eye: near normal vision
+visual_impairment	Read2	F495600	Lesser eye: near total visual impairment, Better eye: normal vision
+visual_impairment	Read2	F495800	Lesser eye: profound visual impairment, Better eye: near normal vision
+visual_impairment	Read2	F495A00	Acquired blindness, one eye
+visual_impairment	Read2	F495z00	Profound impairment one eye NOS
+visual_impairment	Read2	F496.00	Low vision, one eye
+visual_impairment	Read2	F496000	Low vision, one eye, unspecified
+visual_impairment	Read2	F496100	Lesser eye: severe visual impairment, Better eye: unspecified
+visual_impairment	Read2	F496200	Lesser eye: severe visual impairment, Better eye: near normal vision
+visual_impairment	Read2	F496300	Lesser eye: severe visual impairment, Better eye: normal vision
+visual_impairment	Read2	F496400	Lesser eye: moderate visual impairment, Better eye: unspecified
+visual_impairment	Read2	F496500	Lesser eye: moderate visual impairment, Better eye: near normal vision
+visual_impairment	Read2	F496600	Lesser eye: moderate visual impairment, Better eye: normal vision
+visual_impairment	Read2	F496z00	Low vision, one eye NOS
+visual_impairment	Read2	F497.00	Severe visual impairment, binocular
+visual_impairment	Read2	F498.00	Moderate visual impairment, binocular
+visual_impairment	Read2	F49A.00	Blindness, monocular
+visual_impairment	Read2	F49B.00	Severe visual impairment, monocular
+visual_impairment	Read2	F49C.00	Moderate visual impairment, monocular
+visual_impairment	Read2	F49y.00	Visual loss, one eye, unqualified
+visual_impairment	Read2	F49z.00	Visual loss NOS
+visual_impairment	Read2	F49z.11	Acquired blindness
+visual_impairment	Read2	F49z000	Charles Bonnet syndrome
+visual_impairment	Read2	F4H7300	Cortical blindness
+visual_impairment	Read2	Fy1..00	Combined visual and hearing impairment
+visual_impairment	Read2	FyuL.00	[X]Visual disturbances and blindness
+visual_impairment	Read2	SJ0z.11	Blindness - traumatic - NOS
+visual_impairment	Read2	Z96..00	Provision for visual and hearing impairment
+visual_impairment	Read2	Z961.00	Provision of guide help for visual and hearing impairment
+visual_impairment	Read2	ZN56800	Blind telephone user
+visual_impairment	Read2	ZRhO.00	Reynell Zinkin language scale for the visually impaired
+visual_impairment	Read2	ZRr6.00	Vineland maturity scales adapted for the blind
+visual_impairment	Read2	ZV41000	[V]Problems with sight
+visual_impairment	CTV3	1B75.Y7CJJ	Loss of vision
+visual_impairment	CTV3	XE16MY02AS	Visual loss NOS
+visual_impairment	CTV3	2B6B.YM0Mt	O/E - blind R-eye
+visual_impairment	CTV3	2B6B.YM0Mu	O/E - R-eye completely blind
+visual_impairment	CTV3	XaJTZYamXC	O/E - pinhole R-eye completely blind
+visual_impairment	CTV3	2B7B.YM0N7	O/E - blind L-eye
+visual_impairment	CTV3	2B7B.YM0N8	O/E - L-eye completely blind
+visual_impairment	CTV3	XaJTVYamX4	O/E - pinhole L-eye completely blind
+visual_impairment	CTV3	XaKcSYanwh	O/E - sight threatening diabetic retinopathy
+visual_impairment	CTV3	XaPenYasHI	Impaired vision due to diabetic retinopathy
+visual_impairment	CTV3	Xa7nFY02Aq	Registered partially sighted
+visual_impairment	CTV3	XE1T1Y7AJJ	Registered partially blind
+visual_impairment	CTV3	6689.Y02Ag	Registered blind
+visual_impairment	CTV3	6689.Yatp5	Registered severely sight impaired
+visual_impairment	CTV3	XaW0lYatoQ	Registered sight impaired
+visual_impairment	CTV3	8F61.Y7517	Blind rehabilitation
+visual_impairment	CTV3	8F62.Y7519	Guide dog training
+visual_impairment	CTV3	XaQ8mYasjz	Referral to visual impairment multidisciplinary team
+visual_impairment	CTV3	XaPjKYasL0	Excluded from diabetic retinopathy screening as blind
+visual_impairment	CTV3	XaYB3Yaugm	Requires deafblind communicator guide
+visual_impairment	CTV3	XaPtFYasWQ	Seen by visual impairment teacher
+visual_impairment	CTV3	F4041Y01dY	Blind hypotensive eye
+visual_impairment	CTV3	XE15rY01db	Blind hypertensive eye
+visual_impairment	CTV3	XE16LY029n	Impaired vision
+visual_impairment	CTV3	XE16LY029s	Sight impaired
+visual_impairment	CTV3	Xa1IhY029r	Partial sight
+visual_impairment	CTV3	F490.Y02AV	Blindness - both eyes
+visual_impairment	CTV3	F4900Y02AW	Unspecified blindness both eyes
+visual_impairment	CTV3	F4901Y02AX	Both eyes total visual impairment
+visual_impairment	CTV3	F4902Y02AY	Better eye: near total visual impairment, Lesser eye: unspecified
+visual_impairment	CTV3	F4904Y02Aa	Better eye: near total visual impairment, Lesser eye: near total visual impairment
+visual_impairment	CTV3	F4906Y02Ac	Better eye: profound visual impairment, Lesser eye: total visual impairment
+visual_impairment	CTV3	XaE6sYaeN4	Acquired blindness, both eyes
+visual_impairment	CTV3	F490zY02Af	Blindness both eyes NOS
+visual_impairment	CTV3	F491.Y029t	Better eye: low vision, Lesser eye: profound visual impairment
+visual_impairment	CTV3	F4910Y029u	One eye blind, one eye low vision
+visual_impairment	CTV3	F4911Y029v	Better eye: severe visual impairment, Lesser eye: blind, unspecified
+visual_impairment	CTV3	F4913Y029x	Better eye: severe visual impairment, Lesser eye: near total visual impairment
+visual_impairment	CTV3	F4914Y029y	Better eye: severe visual impairment, Lesser eye: profound visual impairment
+visual_impairment	CTV3	F4915Y029z	Better eye: moderate visual impairment, Lesser eye: blind, unspecified
+visual_impairment	CTV3	F4917Y02A1	Better eye: moderate visual impairment, Lesser eye: near total visual impairment
+visual_impairment	CTV3	F491zY02A3	One eye blind, one eye low vision NOS
+visual_impairment	CTV3	F492.Y02Ai	Low vision, both eyes
+visual_impairment	CTV3	F4920Y02Aj	Low vision, both eyes unspecified
+visual_impairment	CTV3	F4922Y02Al	Better eye: severe visual impairment, Lesser eye: severe visual impairment
+visual_impairment	CTV3	F4923Y02Am	Better eye: moderate visual impairment, Lesser eye: low vision unspecified
+visual_impairment	CTV3	F4924Y02An	Better eye: moderate visual impairment, Lesser eye: severe visual impairment
+visual_impairment	CTV3	F4925Y02Ao	Better eye: moderate visual impairment, Lesser eye: moderate visual impairment
+visual_impairment	CTV3	F492zY02Ap	Low vision, both eyes NOS
+visual_impairment	CTV3	F493.Y02A4	Visual loss, both eyes unqualified
+visual_impairment	CTV3	F494.Y02A5	Legal blindness USA
+visual_impairment	CTV3	F495.Y02A6	Profound impairment, one eye
+visual_impairment	CTV3	F4950Y02A7	Blindness, one eye, unspecified
+visual_impairment	CTV3	F4951Y02A8	Lesser eye: total visual impairment, Better eye: unspecified
+visual_impairment	CTV3	F4952Y02A9	Lesser eye: total visual impairment, Better eye: near normal vision
+visual_impairment	CTV3	F4953Y02AA	Lesser eye: total visual impairment, Better eye: normal vision
+visual_impairment	CTV3	F4954Y02AB	Lesser eye: near total visual impairment, Better eye: unspecified
+visual_impairment	CTV3	F4955Y02AC	Lesser eye: near total visual impairment, Better eye: near normal vision
+visual_impairment	CTV3	F4956Y02AD	Lesser eye: near total visual impairment, Better eye: normal vision
+visual_impairment	CTV3	F4958Y02AF	Lesser eye: profound visual impairment, Better eye: near normal vision
+visual_impairment	CTV3	XaE6tYaeN5	Acquired blindness, one eye
+visual_impairment	CTV3	F495zY02AH	Profound impairment one eye NOS
+visual_impairment	CTV3	F496.Y02AI	Low vision, one eye
+visual_impairment	CTV3	F4960Y02AJ	Low vision, one eye, unspecified
+visual_impairment	CTV3	F4961Y02AK	Lesser eye: severe visual impairment, Better eye: unspecified
+visual_impairment	CTV3	F4962Y02AL	Lesser eye: severe visual impairment, Better eye: near normal vision
+visual_impairment	CTV3	F4963Y02AM	Lesser eye: severe visual impairment, Better eye: normal vision
+visual_impairment	CTV3	F4964Y02AN	Lesser eye: moderate visual impairment, Better eye: unspecified
+visual_impairment	CTV3	F4965Y02AO	Lesser eye: moderate visual impairment, Better eye: near normal vision
+visual_impairment	CTV3	F4966Y02AP	Lesser eye: moderate visual impairment, Better eye: normal vision
+visual_impairment	CTV3	F496zY02AQ	Low vision, one eye NOS
+visual_impairment	CTV3	XaYfFYauxq	Severe visual impairment, binocular
+visual_impairment	CTV3	XaYfHYauxs	Moderate visual impairment, binocular
+visual_impairment	CTV3	Ua1f0Yauxu	Blindness, monocular
+visual_impairment	CTV3	XaYfGYauxr	Severe visual impairment, monocular
+visual_impairment	CTV3	XaYfIYauxt	Moderate visual impairment, monocular
+visual_impairment	CTV3	F49y.Y02AR	Visual loss, one eye, unqualified
+visual_impairment	CTV3	X00gNY02AT	Acquired blindness
+visual_impairment	CTV3	F49z0Y02AU	Charles Bonnet syndrome
+visual_impairment	CTV3	F4H73Y00Tr	Cortical blindness
+visual_impairment	CTV3	XaYPJYaumG	Combined visual and hearing impairment
+visual_impairment	CTV3	FyuL.YMAG0	[X]Visual disturbances and blindness
+visual_impairment	CTV3	XE1o4YA0q5	Optic nerve or pathway injury NOS
+visual_impairment	CTV3	ZV410Ya0Nq	[V]Problems with sight
+visual_impairment	medcodeid	255275013	O/E - blind R-eye
+visual_impairment	medcodeid	255276014	O/E - R-eye completely blind
+visual_impairment	medcodeid	255293014	O/E - L-eye completely blind
+visual_impairment	medcodeid	264661019	Registered blind
+visual_impairment	medcodeid	298277012	Low vision, both eyes
+visual_impairment	medcodeid	298300012	Low vision, one eye
+visual_impairment	medcodeid	442202014	Registered partially sighted
+visual_impairment	medcodeid	2164158012	Partial sight
+visual_impairment	medcodeid	17791000000110	Registered partially blind
+visual_impairment	medcodeid	736911000000111	Excluded from diabetic retinopathy screening as blind
+visual_impairment	medcodeid	746431000000113	Seen by visual impairment teacher
+visual_impairment	medcodeid	1060061000000116	Referral to visual impairment multidisciplinary team
+visual_impairment	medcodeid	1779881000000115	Requires deafblind communicator guide
+visual_impairment	medcodeid	2168211000000115	Moderate visual impairment, monocular
+visual_impairment	medcodeid	298252011	Unspecified blindness both eyes
+visual_impairment	medcodeid	298262016	Blindness both eyes NOS
+visual_impairment	medcodeid	298278019	Low vision, both eyes unspecified
+visual_impairment	medcodeid	298284016	Low vision, both eyes NOS
+visual_impairment	medcodeid	298285015	Visual loss, both eyes unqualified
+visual_impairment	medcodeid	298288018	Blindness, one eye, unspecified
+visual_impairment	medcodeid	298289014	Lesser eye: total visual impairment, Better eye: unspecified
+visual_impairment	medcodeid	298299016	Profound impairment one eye NOS
+visual_impairment	medcodeid	298301011	Low vision, one eye, unspecified
+visual_impairment	medcodeid	399455016	Visual loss NOS
+visual_impairment	medcodeid	510201000006119	Better eye: moderate VI, Lesser eye: low vision unspecified
+visual_impairment	medcodeid	510221000006112	Better eye: moderate VI, Lesser eye: near total VI
+visual_impairment	medcodeid	510281000006111	Better eye: near total VI, Lesser eye: unspecified
+visual_impairment	medcodeid	510311000006113	Better eye: profound VI, Lesser eye: total VI
+visual_impairment	medcodeid	510371000006116	Better eye: severe VI, Lesser eye: severe VI
+visual_impairment	medcodeid	515731000006113	Blind rehabilitation
+visual_impairment	medcodeid	734951000006114	Lesser eye: near total VI, Better eye: normal vision
+visual_impairment	medcodeid	747331000006111	Lesser eye: moderate VI, Better eye: unspecified
+visual_impairment	medcodeid	747341000006118	Lesser eye: near total VI, Better eye: near normal vision
+visual_impairment	medcodeid	747361000006119	Lesser eye: profound VI, Better eye: near normal vision
+visual_impairment	medcodeid	747391000006110	Lesser eye: severe VI, Better eye: near normal vision
+visual_impairment	medcodeid	747411000006110	Lesser eye: severe VI, Better eye: unspecified
+visual_impairment	medcodeid	299506011	[X]Visual disturbances and blindness
+visual_impairment	medcodeid	456798010	Acquired blindness, both eyes
+visual_impairment	medcodeid	456799019	Acquired blindness, one eye
+visual_impairment	medcodeid	2164155010	Sight impaired
+visual_impairment	medcodeid	298308017	Low vision, one eye NOS
+visual_impairment	medcodeid	298309013	Visual loss, one eye, unqualified
+visual_impairment	medcodeid	1563201000000117	Registered sight impaired
+visual_impairment	medcodeid	1564221000000111	Registered severely sight impaired
+visual_impairment	medcodeid	2163958019	O/E - pinhole L-eye completely blind
+visual_impairment	medcodeid	2773231012	Combined visual and hearing impairment
+visual_impairment	medcodeid	298286019	Legal blindness USA
+visual_impairment	medcodeid	14191011	Impaired vision
+visual_impairment	medcodeid	1816041000006111	Blindness, monocular
+visual_impairment	medcodeid	747321000006113	Lesser eye: moderate VI, Better eye: normal vision
+visual_impairment	medcodeid	510181000006115	Better eye: low vision, Lesser eye: profound VI
+visual_impairment	medcodeid	510191000006117	Better eye: moderate VI, Lesser eye: blind, unspecified
+visual_impairment	medcodeid	510261000006118	Better eye: near total VI, Lesser eye: near total VI
+visual_impairment	medcodeid	515811000006111	Blindness, both eyes
+visual_impairment	medcodeid	298276015	One eye blind, one eye low vision NOS
+visual_impairment	medcodeid	2549896013	O/E - sight threatening diabetic retinopathy
+visual_impairment	medcodeid	2619503012	Both eyes total visual impairment
+visual_impairment	medcodeid	298313018	Charles Bonnet syndrome
+visual_impairment	medcodeid	113901010	Cortical blindness
+visual_impairment	medcodeid	510331000006119	Better eye: severe VI, Lesser eye: blind, unspecified
+visual_impairment	medcodeid	515781000006114	Blindness - traumatic - NOS
+visual_impairment	medcodeid	747311000006117	Lesser eye: moderate VI, Better eye: near normal vision
+visual_impairment	medcodeid	747351000006116	Lesser eye: near total VI, Better eye: unspecified
+visual_impairment	medcodeid	747421000006119	Lesser eye: total VI, Better eye: near normal vision
+visual_impairment	medcodeid	2168191000000119	Severe visual impairment, monocular
+visual_impairment	medcodeid	2168201000000117	Moderate visual impairment, binocular
+visual_impairment	medcodeid	734661000006116	Loss of vision
+visual_impairment	medcodeid	298264015	One eye blind, one eye low vision
+visual_impairment	medcodeid	283416014	Blind rehabilitation
+visual_impairment	medcodeid	1529013	Blind hypertensive eye
+visual_impairment	medcodeid	510241000006117	Better eye: moderate VI, Lesser eye: severe VI
+visual_impairment	medcodeid	510361000006111	Better eye: severe VI, Lesser eye: profound VI
+visual_impairment	medcodeid	515711000006119	Blind lead dog rehabilitation
+visual_impairment	medcodeid	515791000006112	Blindness and low vision
+visual_impairment	medcodeid	2168181000000116	Severe visual impairment, binocular
+visual_impairment	medcodeid	733161000000116	Impaired vision due to diabetic retinopathy
+visual_impairment	medcodeid	2163962013	O/E - pinhole R-eye completely blind
+visual_impairment	medcodeid	298287011	Profound impairment, one eye
+visual_impairment	medcodeid	255292016	O/E - blind L-eye
+visual_impairment	medcodeid	747401000006112	Lesser eye: severe VI, Better eye: normal vision
+visual_impairment	medcodeid	747431000006116	Lesser eye: total VI, Better eye: normal vision
+visual_impairment	medcodeid	510211000006116	Better eye: moderate VI, Lesser eye: moderate VI
+visual_impairment	medcodeid	510351000006114	Better eye: severe VI, Lesser eye: near total VI
+visual_impairment	medcodeid	460633016	[V]Problems with sight
+visual_impairment	medcodeid	347842017	Acquired blindness
+visual_impairment	medcodeid	493267010	Blind hypotensive eye
+visual_impairment	SNOMEDCT	163946009	O/E - blind R-eye
+visual_impairment	SNOMEDCT	163946009	O/E - R-eye completely blind
+visual_impairment	SNOMEDCT	163960006	O/E - L-eye completely blind
+visual_impairment	SNOMEDCT	170727003	Registered blind
+visual_impairment	SNOMEDCT	193722001	Low vision, both eyes
+visual_impairment	SNOMEDCT	193745007	Low vision, one eye
+visual_impairment	SNOMEDCT	300994001	Registered partially sighted
+visual_impairment	SNOMEDCT	7973008	Partial sight
+visual_impairment	SNOMEDCT	2531000000100	Registered partially blind
+visual_impairment	SNOMEDCT	374691000000100	Excluded from diabetic retinopathy screening as blind
+visual_impairment	SNOMEDCT	378931000000102	Seen by visual impairment teacher
+visual_impairment	SNOMEDCT	492361000000106	Referral to visual impairment multidisciplinary team
+visual_impairment	SNOMEDCT	796201000000109	Requires deafblind communicator guide
+visual_impairment	SNOMEDCT	813901000000108	Moderate visual impairment, monocular
+visual_impairment	SNOMEDCT	193699007	Unspecified blindness both eyes
+visual_impairment	SNOMEDCT	193699007	Blindness both eyes NOS
+visual_impairment	SNOMEDCT	193722001	Low vision, both eyes unspecified
+visual_impairment	SNOMEDCT	193722001	Low vision, both eyes NOS
+visual_impairment	SNOMEDCT	267727004	Visual loss, both eyes unqualified
+visual_impairment	SNOMEDCT	22950006	Blindness, one eye, unspecified
+visual_impairment	SNOMEDCT	193732008	Lesser eye: total visual impairment, Better eye: unspecified
+visual_impairment	SNOMEDCT	193732008	Profound impairment one eye NOS
+visual_impairment	SNOMEDCT	193745007	Low vision, one eye, unspecified
+visual_impairment	SNOMEDCT	240311000000103	Visual loss NOS
+visual_impairment	SNOMEDCT	193722001	Better eye: moderate VI, Lesser eye: low vision unspecified
+visual_impairment	SNOMEDCT	193719003	Better eye: moderate VI, Lesser eye: near total VI
+visual_impairment	SNOMEDCT	193699007	Better eye: near total VI, Lesser eye: unspecified
+visual_impairment	SNOMEDCT	13734003	Better eye: profound VI, Lesser eye: total VI
+visual_impairment	SNOMEDCT	193725004	Better eye: severe VI, Lesser eye: severe VI
+visual_impairment	SNOMEDCT	183361009	Blind rehabilitation
+visual_impairment	SNOMEDCT	111519001	Lesser eye: near total VI, Better eye: normal vision
+visual_impairment	SNOMEDCT	193745007	Lesser eye: moderate VI, Better eye: unspecified
+visual_impairment	SNOMEDCT	193738007	Lesser eye: near total VI, Better eye: near normal vision
+visual_impairment	SNOMEDCT	193741003	Lesser eye: profound VI, Better eye: near normal vision
+visual_impairment	SNOMEDCT	193748009	Lesser eye: severe VI, Better eye: near normal vision
+visual_impairment	SNOMEDCT	193745007	Lesser eye: severe VI, Better eye: unspecified
+visual_impairment	SNOMEDCT	105597003	[X]Visual disturbances and blindness
+visual_impairment	SNOMEDCT	193709009	Acquired blindness, both eyes
+visual_impairment	SNOMEDCT	22950006	Acquired blindness, one eye
+visual_impairment	SNOMEDCT	397540003	Sight impaired
+visual_impairment	SNOMEDCT	193745007	Low vision, one eye NOS
+visual_impairment	SNOMEDCT	267728009	Visual loss, one eye, unqualified
+visual_impairment	SNOMEDCT	713031000000100	Registered sight impaired
+visual_impairment	SNOMEDCT	170727003	Registered severely sight impaired
+visual_impairment	SNOMEDCT	408318008	O/E - pinhole L-eye completely blind
+visual_impairment	SNOMEDCT	433147009	Combined visual and hearing impairment
+visual_impairment	SNOMEDCT	193731001	Legal blindness USA
+visual_impairment	SNOMEDCT	397540003	Impaired vision
+visual_impairment	SNOMEDCT	22950006	Blindness, monocular
+visual_impairment	SNOMEDCT	16169003	Lesser eye: moderate VI, Better eye: normal vision
+visual_impairment	SNOMEDCT	193711000	Better eye: low vision, Lesser eye: profound VI
+visual_impairment	SNOMEDCT	193711000	Better eye: moderate VI, Lesser eye: blind, unspecified
+visual_impairment	SNOMEDCT	193704004	Better eye: near total VI, Lesser eye: near total VI
+visual_impairment	SNOMEDCT	193699007	Blindness, both eyes
+visual_impairment	SNOMEDCT	193711000	One eye blind, one eye low vision NOS
+visual_impairment	SNOMEDCT	417677008	O/E - sight threatening diabetic retinopathy
+visual_impairment	SNOMEDCT	193699007	Both eyes total visual impairment
+visual_impairment	SNOMEDCT	193756007	Charles Bonnet syndrome
+visual_impairment	SNOMEDCT	68574006	Cortical blindness
+visual_impairment	SNOMEDCT	193711000	Better eye: severe VI, Lesser eye: blind, unspecified
+visual_impairment	SNOMEDCT	212141007	Blindness - traumatic - NOS
+visual_impairment	SNOMEDCT	193751002	Lesser eye: moderate VI, Better eye: near normal vision
+visual_impairment	SNOMEDCT	193732008	Lesser eye: near total VI, Better eye: unspecified
+visual_impairment	SNOMEDCT	193735005	Lesser eye: total VI, Better eye: near normal vision
+visual_impairment	SNOMEDCT	813881000000105	Severe visual impairment, monocular
+visual_impairment	SNOMEDCT	813891000000107	Moderate visual impairment, binocular
+visual_impairment	SNOMEDCT	240311000000103	Loss of vision
+visual_impairment	SNOMEDCT	193712007	One eye blind, one eye low vision
+visual_impairment	SNOMEDCT	264008	Blind hypertensive eye
+visual_impairment	SNOMEDCT	193727007	Better eye: moderate VI, Lesser eye: severe VI
+visual_impairment	SNOMEDCT	193716005	Better eye: severe VI, Lesser eye: profound VI
+visual_impairment	SNOMEDCT	29960003	Blind lead dog rehabilitation
+visual_impairment	SNOMEDCT	397540003	Blindness and low vision
+visual_impairment	SNOMEDCT	813871000000108	Severe visual impairment, binocular
+visual_impairment	SNOMEDCT	373041000000101	Impaired vision due to diabetic retinopathy
+visual_impairment	SNOMEDCT	408322003	O/E - pinhole R-eye completely blind
+visual_impairment	SNOMEDCT	193732008	Profound impairment, one eye
+visual_impairment	SNOMEDCT	163960006	O/E - blind L-eye
+visual_impairment	SNOMEDCT	193749001	Lesser eye: severe VI, Better eye: normal vision
+visual_impairment	SNOMEDCT	193736006	Lesser eye: total VI, Better eye: normal vision
+visual_impairment	SNOMEDCT	193728002	Better eye: moderate VI, Lesser eye: moderate VI
+visual_impairment	SNOMEDCT	1909000	Better eye: severe VI, Lesser eye: near total VI
+visual_impairment	SNOMEDCT	397540003	[V]Problems with sight
+visual_impairment	SNOMEDCT	105597003	Acquired blindness
+visual_impairment	SNOMEDCT	4229009	Blind hypotensive eye
+visual_impairment	Read2_5digit	1B75.	Loss of vision
+visual_impairment	Read2_5digit	2B6A.	O/E - blind R-eye
+visual_impairment	Read2_5digit	2B6B.	O/E - R-eye completely blind
+visual_impairment	Read2_5digit	2B6S.	O/E - pinhole R-eye completely blind
+visual_impairment	Read2_5digit	2B7A.	O/E - blind L-eye
+visual_impairment	Read2_5digit	2B7B.	O/E - L-eye completely blind
+visual_impairment	Read2_5digit	2B7S.	O/E - pinhole L-eye completely blind
+visual_impairment	Read2_5digit	2BBo.	O/E - sight threatening diabetic retinopathy
+visual_impairment	Read2_5digit	2BBr.	Impaired vision due to diabetic retinopathy
+visual_impairment	Read2_5digit	6688.	Registered partially sighted
+visual_impairment	Read2_5digit	6689.	Registered blind
+visual_impairment	Read2_5digit	668D.	Registered sight impaired
+visual_impairment	Read2_5digit	8F61.	Blind rehabilitation
+visual_impairment	Read2_5digit	8F62.	Blind lead dog rehabilitation
+visual_impairment	Read2_5digit	8HlE.	Referral to visual impairment multidisciplinary team
+visual_impairment	Read2_5digit	9m08.	Excluded from diabetic retinopathy screening as blind
+visual_impairment	Read2_5digit	9NfB.	Requires deafblind communicator guide
+visual_impairment	Read2_5digit	9NlD.	Seen by visual impairment teacher
+visual_impairment	Read2_5digit	F4041	Blind hypotensive eye
+visual_impairment	Read2_5digit	F4042	Blind hypertensive eye
+visual_impairment	Read2_5digit	F49..	Blindness and low vision
+visual_impairment	Read2_5digit	F490.	Blindness, both eyes
+visual_impairment	Read2_5digit	F4900	Unspecified blindness both eyes
+visual_impairment	Read2_5digit	F4901	Both eyes total visual impairment
+visual_impairment	Read2_5digit	F4902	Better eye: near total visual impairment, Lesser eye: unspecified
+visual_impairment	Read2_5digit	F4904	Better eye: near total visual impairment, Lesser eye: near total visual impairment
+visual_impairment	Read2_5digit	F4906	Better eye: profound visual impairment, Lesser eye: total visual impairment
+visual_impairment	Read2_5digit	F4909	Acquired blindness, both eyes
+visual_impairment	Read2_5digit	F490z	Blindness both eyes NOS
+visual_impairment	Read2_5digit	F491.	Better eye: low vision, Lesser eye: profound visual impairment
+visual_impairment	Read2_5digit	F4910	One eye blind, one eye low vision
+visual_impairment	Read2_5digit	F4911	Better eye: severe visual impairment, Lesser eye: blind, unspecified
+visual_impairment	Read2_5digit	F4913	Better eye: severe visual impairment, Lesser eye: near total visual impairment
+visual_impairment	Read2_5digit	F4914	Better eye: severe visual impairment, Lesser eye: profound visual impairment
+visual_impairment	Read2_5digit	F4915	Better eye: moderate visual impairment, Lesser eye: blind, unspecified
+visual_impairment	Read2_5digit	F4917	Better eye: moderate visual impairment, Lesser eye: near total visual impairment
+visual_impairment	Read2_5digit	F491z	One eye blind, one eye low vision NOS
+visual_impairment	Read2_5digit	F492.	Low vision, both eyes
+visual_impairment	Read2_5digit	F4920	Low vision, both eyes unspecified
+visual_impairment	Read2_5digit	F4922	Better eye: severe visual impairment, Lesser eye: severe visual impairment
+visual_impairment	Read2_5digit	F4923	Better eye: moderate visual impairment, Lesser eye: low vision unspecified
+visual_impairment	Read2_5digit	F4924	Better eye: moderate visual impairment, Lesser eye: severe visual impairment
+visual_impairment	Read2_5digit	F4925	Better eye: moderate visual impairment, Lesser eye: moderate visual impairment
+visual_impairment	Read2_5digit	F492z	Low vision, both eyes NOS
+visual_impairment	Read2_5digit	F493.	Visual loss, both eyes unqualified
+visual_impairment	Read2_5digit	F494.	Legal blindness USA
+visual_impairment	Read2_5digit	F495.	Profound impairment, one eye
+visual_impairment	Read2_5digit	F4950	Blindness, one eye, unspecified
+visual_impairment	Read2_5digit	F4951	Lesser eye: total visual impairment, Better eye: unspecified
+visual_impairment	Read2_5digit	F4952	Lesser eye: total visual impairment, Better eye: near normal vision
+visual_impairment	Read2_5digit	F4953	Lesser eye: total visual impairment, Better eye: normal vision
+visual_impairment	Read2_5digit	F4954	Lesser eye: near total visual impairment, Better eye: unspecified
+visual_impairment	Read2_5digit	F4955	Lesser eye: near total visual impairment, Better eye: near normal vision
+visual_impairment	Read2_5digit	F4956	Lesser eye: near total visual impairment, Better eye: normal vision
+visual_impairment	Read2_5digit	F4958	Lesser eye: profound visual impairment, Better eye: near normal vision
+visual_impairment	Read2_5digit	F495A	Acquired blindness, one eye
+visual_impairment	Read2_5digit	F495z	Profound impairment one eye NOS
+visual_impairment	Read2_5digit	F496.	Low vision, one eye
+visual_impairment	Read2_5digit	F4960	Low vision, one eye, unspecified
+visual_impairment	Read2_5digit	F4961	Lesser eye: severe visual impairment, Better eye: unspecified
+visual_impairment	Read2_5digit	F4962	Lesser eye: severe visual impairment, Better eye: near normal vision
+visual_impairment	Read2_5digit	F4963	Lesser eye: severe visual impairment, Better eye: normal vision
+visual_impairment	Read2_5digit	F4964	Lesser eye: moderate visual impairment, Better eye: unspecified
+visual_impairment	Read2_5digit	F4965	Lesser eye: moderate visual impairment, Better eye: near normal vision
+visual_impairment	Read2_5digit	F4966	Lesser eye: moderate visual impairment, Better eye: normal vision
+visual_impairment	Read2_5digit	F496z	Low vision, one eye NOS
+visual_impairment	Read2_5digit	F497.	Severe visual impairment, binocular
+visual_impairment	Read2_5digit	F498.	Moderate visual impairment, binocular
+visual_impairment	Read2_5digit	F49A.	Blindness, monocular
+visual_impairment	Read2_5digit	F49B.	Severe visual impairment, monocular
+visual_impairment	Read2_5digit	F49C.	Moderate visual impairment, monocular
+visual_impairment	Read2_5digit	F49y.	Visual loss, one eye, unqualified
+visual_impairment	Read2_5digit	F49z.	Visual loss NOS
+visual_impairment	Read2_5digit	F49z0	Charles Bonnet syndrome
+visual_impairment	Read2_5digit	F4H73	Cortical blindness
+visual_impairment	Read2_5digit	Fy1..	Combined visual and hearing impairment
+visual_impairment	Read2_5digit	FyuL.	[X]Visual disturbances and blindness
+visual_impairment	Read2_5digit	Z96..	Provision for visual and hearing impairment
+visual_impairment	Read2_5digit	Z961.	Provision of guide help for visual and hearing impairment
+visual_impairment	Read2_5digit	ZN568	Blind telephone user
+visual_impairment	Read2_5digit	ZRhO.	Reynell Zinkin language scale for the visually impaired
+visual_impairment	Read2_5digit	ZRr6.	Vineland maturity scales adapted for the blind
+visual_impairment	Read2_5digit	ZV410	[V]Problems with sight
+visual_impairment	CTV3_5digit	1B75.	Loss of vision
+visual_impairment	CTV3_5digit	XE16M	Visual loss NOS
+visual_impairment	CTV3_5digit	2B6B.	O/E - blind R-eye
+visual_impairment	CTV3_5digit	XaJTZ	O/E - pinhole R-eye completely blind
+visual_impairment	CTV3_5digit	2B7B.	O/E - blind L-eye
+visual_impairment	CTV3_5digit	XaJTV	O/E - pinhole L-eye completely blind
+visual_impairment	CTV3_5digit	XaKcS	O/E - sight threatening diabetic retinopathy
+visual_impairment	CTV3_5digit	XaPen	Impaired vision due to diabetic retinopathy
+visual_impairment	CTV3_5digit	Xa7nF	Registered partially sighted
+visual_impairment	CTV3_5digit	XE1T1	Registered partially blind
+visual_impairment	CTV3_5digit	6689.	Registered blind
+visual_impairment	CTV3_5digit	XaW0l	Registered sight impaired
+visual_impairment	CTV3_5digit	8F61.	Blind rehabilitation
+visual_impairment	CTV3_5digit	8F62.	Guide dog training
+visual_impairment	CTV3_5digit	XaQ8m	Referral to visual impairment multidisciplinary team
+visual_impairment	CTV3_5digit	XaPjK	Excluded from diabetic retinopathy screening as blind
+visual_impairment	CTV3_5digit	XaYB3	Requires deafblind communicator guide
+visual_impairment	CTV3_5digit	XaPtF	Seen by visual impairment teacher
+visual_impairment	CTV3_5digit	F4041	Blind hypotensive eye
+visual_impairment	CTV3_5digit	XE15r	Blind hypertensive eye
+visual_impairment	CTV3_5digit	XE16L	Impaired vision
+visual_impairment	CTV3_5digit	Xa1Ih	Partial sight
+visual_impairment	CTV3_5digit	F490.	Blindness - both eyes
+visual_impairment	CTV3_5digit	F4900	Unspecified blindness both eyes
+visual_impairment	CTV3_5digit	F4901	Both eyes total visual impairment
+visual_impairment	CTV3_5digit	F4902	Better eye: near total visual impairment, Lesser eye: unspecified
+visual_impairment	CTV3_5digit	F4904	Better eye: near total visual impairment, Lesser eye: near total visual impairment
+visual_impairment	CTV3_5digit	F4906	Better eye: profound visual impairment, Lesser eye: total visual impairment
+visual_impairment	CTV3_5digit	XaE6s	Acquired blindness, both eyes
+visual_impairment	CTV3_5digit	F490z	Blindness both eyes NOS
+visual_impairment	CTV3_5digit	F491.	Better eye: low vision, Lesser eye: profound visual impairment
+visual_impairment	CTV3_5digit	F4910	One eye blind, one eye low vision
+visual_impairment	CTV3_5digit	F4911	Better eye: severe visual impairment, Lesser eye: blind, unspecified
+visual_impairment	CTV3_5digit	F4913	Better eye: severe visual impairment, Lesser eye: near total visual impairment
+visual_impairment	CTV3_5digit	F4914	Better eye: severe visual impairment, Lesser eye: profound visual impairment
+visual_impairment	CTV3_5digit	F4915	Better eye: moderate visual impairment, Lesser eye: blind, unspecified
+visual_impairment	CTV3_5digit	F4917	Better eye: moderate visual impairment, Lesser eye: near total visual impairment
+visual_impairment	CTV3_5digit	F491z	One eye blind, one eye low vision NOS
+visual_impairment	CTV3_5digit	F492.	Low vision, both eyes
+visual_impairment	CTV3_5digit	F4920	Low vision, both eyes unspecified
+visual_impairment	CTV3_5digit	F4922	Better eye: severe visual impairment, Lesser eye: severe visual impairment
+visual_impairment	CTV3_5digit	F4923	Better eye: moderate visual impairment, Lesser eye: low vision unspecified
+visual_impairment	CTV3_5digit	F4924	Better eye: moderate visual impairment, Lesser eye: severe visual impairment
+visual_impairment	CTV3_5digit	F4925	Better eye: moderate visual impairment, Lesser eye: moderate visual impairment
+visual_impairment	CTV3_5digit	F492z	Low vision, both eyes NOS
+visual_impairment	CTV3_5digit	F493.	Visual loss, both eyes unqualified
+visual_impairment	CTV3_5digit	F494.	Legal blindness USA
+visual_impairment	CTV3_5digit	F495.	Profound impairment, one eye
+visual_impairment	CTV3_5digit	F4950	Blindness, one eye, unspecified
+visual_impairment	CTV3_5digit	F4951	Lesser eye: total visual impairment, Better eye: unspecified
+visual_impairment	CTV3_5digit	F4952	Lesser eye: total visual impairment, Better eye: near normal vision
+visual_impairment	CTV3_5digit	F4953	Lesser eye: total visual impairment, Better eye: normal vision
+visual_impairment	CTV3_5digit	F4954	Lesser eye: near total visual impairment, Better eye: unspecified
+visual_impairment	CTV3_5digit	F4955	Lesser eye: near total visual impairment, Better eye: near normal vision
+visual_impairment	CTV3_5digit	F4956	Lesser eye: near total visual impairment, Better eye: normal vision
+visual_impairment	CTV3_5digit	F4958	Lesser eye: profound visual impairment, Better eye: near normal vision
+visual_impairment	CTV3_5digit	XaE6t	Acquired blindness, one eye
+visual_impairment	CTV3_5digit	F495z	Profound impairment one eye NOS
+visual_impairment	CTV3_5digit	F496.	Low vision, one eye
+visual_impairment	CTV3_5digit	F4960	Low vision, one eye, unspecified
+visual_impairment	CTV3_5digit	F4961	Lesser eye: severe visual impairment, Better eye: unspecified
+visual_impairment	CTV3_5digit	F4962	Lesser eye: severe visual impairment, Better eye: near normal vision
+visual_impairment	CTV3_5digit	F4963	Lesser eye: severe visual impairment, Better eye: normal vision
+visual_impairment	CTV3_5digit	F4964	Lesser eye: moderate visual impairment, Better eye: unspecified
+visual_impairment	CTV3_5digit	F4965	Lesser eye: moderate visual impairment, Better eye: near normal vision
+visual_impairment	CTV3_5digit	F4966	Lesser eye: moderate visual impairment, Better eye: normal vision
+visual_impairment	CTV3_5digit	F496z	Low vision, one eye NOS
+visual_impairment	CTV3_5digit	XaYfF	Severe visual impairment, binocular
+visual_impairment	CTV3_5digit	XaYfH	Moderate visual impairment, binocular
+visual_impairment	CTV3_5digit	Ua1f0	Blindness, monocular
+visual_impairment	CTV3_5digit	XaYfG	Severe visual impairment, monocular
+visual_impairment	CTV3_5digit	XaYfI	Moderate visual impairment, monocular
+visual_impairment	CTV3_5digit	F49y.	Visual loss, one eye, unqualified
+visual_impairment	CTV3_5digit	X00gN	Acquired blindness
+visual_impairment	CTV3_5digit	F49z0	Charles Bonnet syndrome
+visual_impairment	CTV3_5digit	F4H73	Cortical blindness
+visual_impairment	CTV3_5digit	XaYPJ	Combined visual and hearing impairment
+visual_impairment	CTV3_5digit	FyuL.	[X]Visual disturbances and blindness
+visual_impairment	CTV3_5digit	XE1o4	Optic nerve or pathway injury NOS
+visual_impairment	CTV3_5digit	ZV410	[V]Problems with sight

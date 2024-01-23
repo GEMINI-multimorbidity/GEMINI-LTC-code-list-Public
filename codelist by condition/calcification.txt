@@ -1,0 +1,54 @@
+condition	vocab_id	code	description
+calcification	ICD10	M65.2	Calcific tendinitis
+calcification	ICD10	M71.4	Calcium deposit in bursa
+calcification	ICD10	M75.3	Calcific tendinitis of shoulder
+calcification	ICD10	M76.2	Iliac crest spur
+calcification	ICD10	M77.2	Periarthritis of wrist
+calcification	ICD10	M77.3	Calcaneal spur
+calcification	Read2	N211100	Calcifying tendinitis of the shoulder
+calcification	Read2	N212000	Periarthritis of shoulder
+calcification	Read2	N214200	Periarthritis of wrist
+calcification	Read2	N215300	Iliac crest spur
+calcification	Read2	N216211	Pellegrini - Stieda syndrome
+calcification	Read2	N217700	Calcaneal spur
+calcification	Read2	N21z100	Periarthritis NOS
+calcification	Read2	N23y900	Calcific tendinitis
+calcification	CTV3	N2111Y70SG	Calcifying tendinitis of the shoulder
+calcification	CTV3	XE1FLY70SJ	Periarthritis of shoulder
+calcification	CTV3	N2142Y70TA	Periarthritis of wrist
+calcification	CTV3	N2153Y70UM	Iliac crest spur
+calcification	CTV3	Xa1uRYa3hY	Calcification of medial collateral ligament of knee
+calcification	CTV3	N2177YM1gW	Calcaneal spur
+calcification	CTV3	N21z1Y70S9	Periarthritis NOS
+calcification	CTV3	N23y9YMAqK	Calcific tendinitis
+calcification	medcodeid	178460018	Periarthritis of wrist
+calcification	medcodeid	483645017	Calcifying tendinitis of the shoulder
+calcification	medcodeid	91871010	Calcaneal spur
+calcification	medcodeid	158048010	Calcific tendinitis
+calcification	medcodeid	311398011	Periarthritis NOS
+calcification	medcodeid	1786700015	Periarthritis of shoulder
+calcification	medcodeid	139830015	Iliac crest spur
+calcification	medcodeid	221601000000118	Pellegrini - Stieda syndrome
+calcification	SNOMEDCT	111242007	Periarthritis of wrist
+calcification	SNOMEDCT	27741009	Calcifying tendinitis of the shoulder
+calcification	SNOMEDCT	55260003	Calcaneal spur
+calcification	SNOMEDCT	95414005	Calcific tendinitis
+calcification	SNOMEDCT	50921008	Periarthritis NOS
+calcification	SNOMEDCT	399114005	Periarthritis of shoulder
+calcification	SNOMEDCT	84308008	Iliac crest spur
+calcification	SNOMEDCT	60644007	Pellegrini - Stieda syndrome
+calcification	Read2_5digit	N2111	Calcifying tendinitis of the shoulder
+calcification	Read2_5digit	N2120	Periarthritis of shoulder
+calcification	Read2_5digit	N2142	Periarthritis of wrist
+calcification	Read2_5digit	N2153	Iliac crest spur
+calcification	Read2_5digit	N2162	Pellegrini - Stieda syndrome
+calcification	Read2_5digit	N2177	Calcaneal spur
+calcification	Read2_5digit	N21z1	Periarthritis NOS
+calcification	Read2_5digit	N23y9	Calcific tendinitis
+calcification	CTV3_5digit	N2111	Calcifying tendinitis of the shoulder
+calcification	CTV3_5digit	N2142	Periarthritis of wrist
+calcification	CTV3_5digit	N2153	Iliac crest spur
+calcification	CTV3_5digit	Xa1uR	Calcification of medial collateral ligament of knee
+calcification	CTV3_5digit	N2177	Calcaneal spur
+calcification	CTV3_5digit	N21z1	Periarthritis NOS
+calcification	CTV3_5digit	N23y9	Calcific tendinitis

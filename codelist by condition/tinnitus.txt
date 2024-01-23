@@ -1,0 +1,61 @@
+condition	vocab_id	code	description
+tinnitus	ICD10	H93.1	Tinnitus
+tinnitus	Read2	1C2..00	Tinnitus symptoms
+tinnitus	Read2	1C23.00	Ringing in ear
+tinnitus	Read2	1C24.00	Hissing in ear
+tinnitus	Read2	1C2Z.00	Tinnitus symptom NOS
+tinnitus	Read2	F583.00	Tinnitus
+tinnitus	Read2	F583000	Unspecified tinnitus
+tinnitus	Read2	F583100	Subjective tinnitus
+tinnitus	Read2	F583200	Objective tinnitus
+tinnitus	Read2	F583z00	Tinnitus NOS
+tinnitus	Read2	Z911200	Fit tinnitus masker
+tinnitus	Read2	ZEB..00	Observation of tinnitus
+tinnitus	CTV3	1C2..Y7CgP	Noises in ear
+tinnitus	CTV3	1C2..Y7CgR	Noises in head
+tinnitus	CTV3	1C2Z.Y7CgU	Tinnitus symptom NOS
+tinnitus	CTV3	1C23.Y7CgX	Ringing in ear
+tinnitus	CTV3	1C24.Y7CgW	Hissing in ear
+tinnitus	CTV3	XE17LY02Pd	Tinnitus
+tinnitus	CTV3	F5830Y02Pe	Unspecified tinnitus
+tinnitus	CTV3	F5831Y02Pg	Subjective tinnitus
+tinnitus	CTV3	F5832Y02Pi	Objective tinnitus
+tinnitus	CTV3	F583zY02Pf	Tinnitus NOS
+tinnitus	medcodeid	101130017	Tinnitus
+tinnitus	medcodeid	253173014	Ringing in ear
+tinnitus	medcodeid	253174015	Hissing in ear
+tinnitus	medcodeid	299214018	Tinnitus NOS
+tinnitus	medcodeid	253176018	Tinnitus symptom NOS
+tinnitus	medcodeid	103798013	Subjective tinnitus
+tinnitus	medcodeid	299212019	Unspecified tinnitus
+tinnitus	medcodeid	48076013	Objective tinnitus
+tinnitus	medcodeid	102721000006110	Tinnitus symptoms
+tinnitus	SNOMEDCT	60862001	Tinnitus
+tinnitus	SNOMEDCT	162352007	Ringing in ear
+tinnitus	SNOMEDCT	162353002	Hissing in ear
+tinnitus	SNOMEDCT	60862001	Tinnitus NOS
+tinnitus	SNOMEDCT	60862001	Tinnitus symptom NOS
+tinnitus	SNOMEDCT	62452009	Subjective tinnitus
+tinnitus	SNOMEDCT	60862001	Unspecified tinnitus
+tinnitus	SNOMEDCT	28715001	Objective tinnitus
+tinnitus	SNOMEDCT	60862001	Tinnitus symptoms
+tinnitus	Read2_5digit	1C2..	Tinnitus symptoms
+tinnitus	Read2_5digit	1C23.	Ringing in ear
+tinnitus	Read2_5digit	1C24.	Hissing in ear
+tinnitus	Read2_5digit	1C2Z.	Tinnitus symptom NOS
+tinnitus	Read2_5digit	F583.	Tinnitus
+tinnitus	Read2_5digit	F5830	Unspecified tinnitus
+tinnitus	Read2_5digit	F5831	Subjective tinnitus
+tinnitus	Read2_5digit	F5832	Objective tinnitus
+tinnitus	Read2_5digit	F583z	Tinnitus NOS
+tinnitus	Read2_5digit	Z9112	Fit tinnitus masker
+tinnitus	Read2_5digit	ZEB..	Observation of tinnitus
+tinnitus	CTV3_5digit	1C2..	Noises in ear
+tinnitus	CTV3_5digit	1C2Z.	Tinnitus symptom NOS
+tinnitus	CTV3_5digit	1C23.	Ringing in ear
+tinnitus	CTV3_5digit	1C24.	Hissing in ear
+tinnitus	CTV3_5digit	XE17L	Tinnitus
+tinnitus	CTV3_5digit	F5830	Unspecified tinnitus
+tinnitus	CTV3_5digit	F5831	Subjective tinnitus
+tinnitus	CTV3_5digit	F5832	Objective tinnitus
+tinnitus	CTV3_5digit	F583z	Tinnitus NOS

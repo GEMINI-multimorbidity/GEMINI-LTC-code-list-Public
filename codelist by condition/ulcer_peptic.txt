@@ -1,0 +1,609 @@
+condition	vocab_id	code	description
+ulcer_peptic	ICD10	K25	Gastric ulcer
+ulcer_peptic	ICD10	K26	Duodenal ulcer
+ulcer_peptic	ICD10	K27	Peptic ulcer, site unspecified
+ulcer_peptic	ICD10	K28	Gastrojejunal ulcer
+ulcer_peptic	Read2	14C1.00	H/O: peptic ulcer
+ulcer_peptic	Read2	14C1.11	H/O: duodenal ulcer
+ulcer_peptic	Read2	14C1.12	H/O: gastric ulcer
+ulcer_peptic	Read2	7612111	Balfour excision of gastric ulcer
+ulcer_peptic	Read2	7612500	Resection of gastric ulcer by cautery
+ulcer_peptic	Read2	761D500	Endoscopic injection haemostasis of duodenal ulcer
+ulcer_peptic	Read2	761D600	Endoscopic injection haemostasis of gastric ulcer
+ulcer_peptic	Read2	761J.00	Operations on gastric ulcer
+ulcer_peptic	Read2	761J.11	Stomach ulcer operations
+ulcer_peptic	Read2	761J000	Closure of perforated gastric ulcer
+ulcer_peptic	Read2	761J100	Closure of gastric ulcer NEC
+ulcer_peptic	Read2	761J111	Suture of ulcer of stomach NEC
+ulcer_peptic	Read2	761Jy00	Other specified operation on gastric ulcer
+ulcer_peptic	Read2	761Jz00	Operation on gastric ulcer NOS
+ulcer_peptic	Read2	7627.00	Operations on duodenal ulcer
+ulcer_peptic	Read2	7627000	Closure of perforated duodenal ulcer
+ulcer_peptic	Read2	7627100	Suture of duodenal ulcer not elsewhere classified
+ulcer_peptic	Read2	7627200	Oversew of blood vessel of duodenal ulcer
+ulcer_peptic	Read2	7627y00	Other specified operation on duodenal ulcer
+ulcer_peptic	Read2	7627z00	Operation on duodenal ulcer NOS
+ulcer_peptic	Read2	J11..00	Gastric ulcer - (GU)
+ulcer_peptic	Read2	J11..11	Prepyloric ulcer
+ulcer_peptic	Read2	J11..12	Pyloric ulcer
+ulcer_peptic	Read2	J111.00	Chronic gastric ulcer
+ulcer_peptic	Read2	J111000	Chronic gastric ulcer without mention of complication
+ulcer_peptic	Read2	J111100	Chronic gastric ulcer with haemorrhage
+ulcer_peptic	Read2	J111111	Bleeding chronic gastric ulcer
+ulcer_peptic	Read2	J111200	Chronic gastric ulcer with perforation
+ulcer_peptic	Read2	J111211	Perforated chronic gastric ulcer
+ulcer_peptic	Read2	J111300	Chronic gastric ulcer with haemorrhage and perforation
+ulcer_peptic	Read2	J111400	Chronic gastric ulcer with obstruction
+ulcer_peptic	Read2	J111y00	Chronic gastric ulcer unspecified
+ulcer_peptic	Read2	J111z00	Chronic gastric ulcer NOS
+ulcer_peptic	Read2	J112.00	Anti-platelet induced gastric ulcer
+ulcer_peptic	Read2	J112z00	Anti-platelet induced gastric ulcer NOS
+ulcer_peptic	Read2	J113.00	Non steroidal anti inflammatory drug induced gastric ulcer
+ulcer_peptic	Read2	J113z00	Non steroidal anti inflammatory drug induced gastric ulcer NOS
+ulcer_peptic	Read2	J11y.00	Unspecified gastric ulcer
+ulcer_peptic	Read2	J11y000	Unspecified gastric ulcer without mention of complication
+ulcer_peptic	Read2	J11y100	Unspecified gastric ulcer with haemorrhage
+ulcer_peptic	Read2	J11y200	Unspecified gastric ulcer with perforation
+ulcer_peptic	Read2	J11y400	Unspecified gastric ulcer with obstruction
+ulcer_peptic	Read2	J11yy00	Unspecified gastric ulcer with unspecified haemorrhage and/or perforation
+ulcer_peptic	Read2	J11yz00	Unspecified gastric ulcer NOS
+ulcer_peptic	Read2	J11z.00	Gastric ulcer NOS
+ulcer_peptic	Read2	J11z.11	Gastric erosions
+ulcer_peptic	Read2	J11z.12	Multiple gastric ulcers
+ulcer_peptic	Read2	J12..00	Duodenal ulcer - (DU)
+ulcer_peptic	Read2	J121.00	Chronic duodenal ulcer
+ulcer_peptic	Read2	J121000	Chronic duodenal ulcer without mention of complication
+ulcer_peptic	Read2	J121100	Chronic duodenal ulcer with haemorrhage
+ulcer_peptic	Read2	J121111	Bleeding chronic duodenal ulcer
+ulcer_peptic	Read2	J121200	Chronic duodenal ulcer with perforation
+ulcer_peptic	Read2	J121211	Perforated chronic duodenal ulcer
+ulcer_peptic	Read2	J121300	Chronic duodenal ulcer with haemorrhage and perforation
+ulcer_peptic	Read2	J121400	Chronic duodenal ulcer with obstruction
+ulcer_peptic	Read2	J121y00	Chronic duodenal ulcer unspecified
+ulcer_peptic	Read2	J121z00	Chronic duodenal ulcer NOS
+ulcer_peptic	Read2	J122.00	Duodenal ulcer disease
+ulcer_peptic	Read2	J123.00	Duodenal erosion
+ulcer_peptic	Read2	J124.00	Recurrent duodenal ulcer
+ulcer_peptic	Read2	J125.00	Anti-platelet induced duodenal ulcer
+ulcer_peptic	Read2	J126.00	Non steroidal anti inflammatory drug induced duodenal ulcer
+ulcer_peptic	Read2	J12y.00	Unspecified duodenal ulcer
+ulcer_peptic	Read2	J12y000	Unspecified duodenal ulcer without mention of complication
+ulcer_peptic	Read2	J12y100	Unspecified duodenal ulcer with haemorrhage
+ulcer_peptic	Read2	J12y200	Unspecified duodenal ulcer with perforation
+ulcer_peptic	Read2	J12y300	Unspecified duodenal ulcer with haemorrhage and perforation
+ulcer_peptic	Read2	J12y400	Unspecified duodenal ulcer with obstruction
+ulcer_peptic	Read2	J12yy00	Unspecified duodenal ulcer with unspecified haemorrhage and/or perforation
+ulcer_peptic	Read2	J12yz00	Unspecified duodenal ulcer NOS
+ulcer_peptic	Read2	J12z.00	Duodenal ulcer NOS
+ulcer_peptic	Read2	J13..00	Peptic ulcer - (PU) site unspecified
+ulcer_peptic	Read2	J13..11	Stress ulcer NOS
+ulcer_peptic	Read2	J131.00	Chronic peptic ulcer
+ulcer_peptic	Read2	J131000	Chronic peptic ulcer without mention of complication
+ulcer_peptic	Read2	J131100	Chronic peptic ulcer with haemorrhage
+ulcer_peptic	Read2	J131200	Chronic peptic ulcer with perforation
+ulcer_peptic	Read2	J131400	Chronic peptic ulcer with obstruction
+ulcer_peptic	Read2	J131y00	Chronic peptic ulcer unspecified
+ulcer_peptic	Read2	J131z00	Chronic peptic ulcer NOS
+ulcer_peptic	Read2	J13y.00	Unspecified peptic ulcer
+ulcer_peptic	Read2	J13y000	Unspecified peptic ulcer without mention of complication
+ulcer_peptic	Read2	J13y100	Unspecified peptic ulcer with haemorrhage
+ulcer_peptic	Read2	J13y200	Unspecified peptic ulcer with perforation
+ulcer_peptic	Read2	J13y300	Unspecified peptic ulcer with haemorrhage and perforation
+ulcer_peptic	Read2	J13y400	Unspecified peptic ulcer with obstruction
+ulcer_peptic	Read2	J13yz00	Unspecified peptic ulcer NOS
+ulcer_peptic	Read2	J13z.00	Peptic ulcer NOS
+ulcer_peptic	Read2	J14..00	Gastrojejunal ulcer (GJU)
+ulcer_peptic	Read2	J14..11	Anastomotic ulcer
+ulcer_peptic	Read2	J14..12	Gastrocolic ulcer
+ulcer_peptic	Read2	J14..13	Jejunal ulcer
+ulcer_peptic	Read2	J141.00	Chronic gastrojejunal ulcer
+ulcer_peptic	Read2	J141300	Chronic gastrojejunal ulcer with haemorrhage and perforation
+ulcer_peptic	Read2	J14y.00	Unspecified gastrojejunal ulcer
+ulcer_peptic	Read2	J14y100	Unspecified gastrojejunal ulcer with haemorrhage
+ulcer_peptic	Read2	J14y200	Unspecified gastrojejunal ulcer with perforation
+ulcer_peptic	Read2	J14yz00	Unspecified gastrojejunal ulcer NOS
+ulcer_peptic	Read2	J14z.00	Gastrojejunal ulcer NOS
+ulcer_peptic	Read2	J17y800	Healed gastric ulcer leaving a scar
+ulcer_peptic	Read2	ZV12711	[V]Personal history of peptic ulcer
+ulcer_peptic	Read2	ZV12712	[V]Personal history of duodenal ulcer
+ulcer_peptic	Read2	ZV12C00	[V] Personal history of gastric ulcer
+ulcer_peptic	CTV3	XE0qBYa054	H/O: peptic ulcer
+ulcer_peptic	CTV3	XM1RNYa0WA	H/O: duodenal ulcer
+ulcer_peptic	CTV3	XM1ROYa0WB	H/O: gastric ulcer
+ulcer_peptic	CTV3	76121Y21Wy	Balfour excision of gastric ulcer
+ulcer_peptic	CTV3	Xa3u7Ya6JW	Stomach ulcer excision
+ulcer_peptic	CTV3	76125Y21Yt	Resection of gastric ulcer by cautery
+ulcer_peptic	CTV3	XaFBqYagDG	Endoscopic injection haemostasis of duodenal ulcer
+ulcer_peptic	CTV3	XaFBsYagDI	Endoscopic injection haemostasis of gastric ulcer
+ulcer_peptic	CTV3	761J.Y21Wa	Operations on gastric ulcer
+ulcer_peptic	CTV3	761J.Y21Wb	Stomach ulcer operations
+ulcer_peptic	CTV3	761J0Y21Yd	Closure of perforated gastric ulcer
+ulcer_peptic	CTV3	XE0CrY21Wm	Closure of gastric ulcer NEC
+ulcer_peptic	CTV3	XM1I9Y21Wn	Suture of ulcer of stomach NEC
+ulcer_peptic	CTV3	761JyY21Wd	Other specified operation on gastric ulcer
+ulcer_peptic	CTV3	761JzY21Wc	Operation on gastric ulcer NOS
+ulcer_peptic	CTV3	7627.Y21ZX	Operations on duodenal ulcer
+ulcer_peptic	CTV3	76270Y21aM	Closure of perforated duodenal ulcer
+ulcer_peptic	CTV3	76271Y21Za	Suture of duodenal ulcer not elsewhere classified
+ulcer_peptic	CTV3	XaLdVYaoib	Oversew of blood vessel of duodenal ulcer
+ulcer_peptic	CTV3	7627yY21ZZ	Other specified operation on duodenal ulcer
+ulcer_peptic	CTV3	7627zY21ZY	Operation on duodenal ulcer NOS
+ulcer_peptic	CTV3	XE0aPY303R	Gastric ulcer
+ulcer_peptic	CTV3	XE0aPY303U	GU - Gastric ulcer
+ulcer_peptic	CTV3	Xa6otY303T	Prepyloric ulcer
+ulcer_peptic	CTV3	Xa84hY303S	Pyloric ulcer
+ulcer_peptic	CTV3	J111.Y303r	Chronic gastric ulcer
+ulcer_peptic	CTV3	J1110Y303w	Chronic gastric ulcer without mention of complication
+ulcer_peptic	CTV3	J1111Y30bZ	Chronic gastric ulcer with haemorrhage
+ulcer_peptic	CTV3	J1111Y30ba	Bleeding chronic gastric ulcer
+ulcer_peptic	CTV3	J1112Y3066	Chronic gastric ulcer with perforation
+ulcer_peptic	CTV3	J1112Y3067	Perforated chronic gastric ulcer
+ulcer_peptic	CTV3	J1113Y303v	Chronic gastric ulcer with haemorrhage and perforation
+ulcer_peptic	CTV3	J1114Y303u	Chronic gastric ulcer with obstruction
+ulcer_peptic	CTV3	J111yY303t	Chronic gastric ulcer unspecified
+ulcer_peptic	CTV3	J111zY303s	Chronic gastric ulcer NOS
+ulcer_peptic	CTV3	XaLWqYaoda	Anti-platelet induced gastric ulcer
+ulcer_peptic	CTV3	XaLWrYaodb	Anti-platelet induced gastric ulcer NOS
+ulcer_peptic	CTV3	XaMO5YapZz	Non steroidal anti inflammatory drug induced gastric ulcer
+ulcer_peptic	CTV3	XaMO6Yapa0	Non steroidal anti inflammatory drug induced gastric ulcer NOS
+ulcer_peptic	CTV3	J11y.Y303X	Unspecified gastric ulcer
+ulcer_peptic	CTV3	J11y0Y303e	Unspecified gastric ulcer without mention of complication
+ulcer_peptic	CTV3	J11y1Y303d	Unspecified gastric ulcer with haemorrhage
+ulcer_peptic	CTV3	J11y2Y303c	Unspecified gastric ulcer with perforation
+ulcer_peptic	CTV3	J11y4Y303a	Unspecified gastric ulcer with obstruction
+ulcer_peptic	CTV3	J11yyY303Z	Unspecified gastric ulcer with unspecified haemorrhage and/or perforation
+ulcer_peptic	CTV3	J11yzY303Y	Unspecified gastric ulcer NOS
+ulcer_peptic	CTV3	XE0aQY303W	Gastric ulcer NOS
+ulcer_peptic	CTV3	X301MY3040	Gastric erosions
+ulcer_peptic	CTV3	XaELEY3042	Multiple gastric ulcers
+ulcer_peptic	CTV3	J12..Y306g	Duodenal ulcer
+ulcer_peptic	CTV3	J12..Y306h	DU - Duodenal ulcer
+ulcer_peptic	CTV3	J121.Y3071	Chronic duodenal ulcer
+ulcer_peptic	CTV3	J1210Y3076	Chronic duodenal ulcer without mention of complication
+ulcer_peptic	CTV3	J1211Y30be	Chronic duodenal ulcer with haemorrhage
+ulcer_peptic	CTV3	J1211Y30bf	Bleeding chronic duodenal ulcer
+ulcer_peptic	CTV3	J1212Y307c	Chronic duodenal ulcer with perforation
+ulcer_peptic	CTV3	J1212Y307d	Perforated chronic duodenal ulcer
+ulcer_peptic	CTV3	J1213Y3075	Chronic duodenal ulcer with haemorrhage and perforation
+ulcer_peptic	CTV3	J1214Y3074	Chronic duodenal ulcer with obstruction
+ulcer_peptic	CTV3	J121yY3073	Chronic duodenal ulcer unspecified
+ulcer_peptic	CTV3	J121zY3072	Chronic duodenal ulcer NOS
+ulcer_peptic	CTV3	X302bY308N	Duodenal ulcer disease
+ulcer_peptic	CTV3	X302GY3079	Duodenal erosion
+ulcer_peptic	CTV3	J124.YaY9q	Recurrent duodenal ulcer
+ulcer_peptic	CTV3	XaLWsYaodc	Anti-platelet induced duodenal ulcer
+ulcer_peptic	CTV3	XaMO7Yapa1	Non steroidal anti inflammatory drug induced duodenal ulcer
+ulcer_peptic	CTV3	J12y.Y306j	Unspecified duodenal ulcer
+ulcer_peptic	CTV3	J12y0Y306q	Unspecified duodenal ulcer without mention of complication
+ulcer_peptic	CTV3	J12y1Y306p	Unspecified duodenal ulcer with haemorrhage
+ulcer_peptic	CTV3	J12y2Y306o	Unspecified duodenal ulcer with perforation
+ulcer_peptic	CTV3	J12y3Y306n	Unspecified duodenal ulcer with haemorrhage and perforation
+ulcer_peptic	CTV3	J12y4Y306m	Unspecified duodenal ulcer with obstruction
+ulcer_peptic	CTV3	J12yyY306l	Unspecified duodenal ulcer with unspecified haemorrhage and/or perforation
+ulcer_peptic	CTV3	J12yzY306k	Unspecified duodenal ulcer NOS
+ulcer_peptic	CTV3	J12z.Y306i	Duodenal ulcer NOS
+ulcer_peptic	CTV3	XE0aRYM0uN	Peptic ulcer - (PU) site unspecified
+ulcer_peptic	CTV3	J13..YM0uO	Stress ulcer NOS
+ulcer_peptic	CTV3	J131.Y307p	Chronic peptic ulcer
+ulcer_peptic	CTV3	J1310Y307w	Chronic peptic ulcer without mention of complication
+ulcer_peptic	CTV3	J1311Y307v	Chronic peptic ulcer with haemorrhage
+ulcer_peptic	CTV3	J1312Y307u	Chronic peptic ulcer with perforation
+ulcer_peptic	CTV3	J1314Y307s	Chronic peptic ulcer with obstruction
+ulcer_peptic	CTV3	J131yY307r	Chronic peptic ulcer unspecified
+ulcer_peptic	CTV3	J131zY307q	Chronic peptic ulcer NOS
+ulcer_peptic	CTV3	J13y.Y3086	Unspecified peptic ulcer
+ulcer_peptic	CTV3	J13y0Y308D	Unspecified peptic ulcer without mention of complication
+ulcer_peptic	CTV3	J13y1Y308C	Unspecified peptic ulcer with haemorrhage
+ulcer_peptic	CTV3	J13y2Y308B	Unspecified peptic ulcer with perforation
+ulcer_peptic	CTV3	J13y3Y308A	Unspecified peptic ulcer with haemorrhage and perforation
+ulcer_peptic	CTV3	J13y4Y3089	Unspecified peptic ulcer with obstruction
+ulcer_peptic	CTV3	J13yzY3087	Unspecified peptic ulcer NOS
+ulcer_peptic	CTV3	J13z.Y3085	Peptic ulcer NOS
+ulcer_peptic	CTV3	XE0aSY308V	Gastrojejunal ulcer
+ulcer_peptic	CTV3	XE0aSY308W	GJU - Gastrojejunal ulcer
+ulcer_peptic	CTV3	Xa1qAY308X	Anastomotic ulcer
+ulcer_peptic	CTV3	Xa1qCY308Y	Gastrocolic ulcer
+ulcer_peptic	CTV3	Xa1qBY308Z	Jejunal ulcer
+ulcer_peptic	CTV3	J141.Y308k	Chronic gastrojejunal ulcer
+ulcer_peptic	CTV3	J1413Y308o	Chronic gastrojejunal ulcer with haemorrhage and perforation
+ulcer_peptic	CTV3	J14y.Y308e	Unspecified gastrojejunal ulcer
+ulcer_peptic	CTV3	J14y1Y308i	Unspecified gastrojejunal ulcer with haemorrhage
+ulcer_peptic	CTV3	J14y2Y308h	Unspecified gastrojejunal ulcer with perforation
+ulcer_peptic	CTV3	J14yzY308d	Unspecified gastrojejunal ulcer NOS
+ulcer_peptic	CTV3	J14z.Y308c	Gastrojejunal ulcer NOS
+ulcer_peptic	CTV3	J17y8Y308M	Healed gastric ulcer leaving a scar
+ulcer_peptic	CTV3	ZV127YaadP	[V]Personal history of duodenal ulcer
+ulcer_peptic	CTV3	ZV127YaadN	[V]Personal history of peptic ulcer
+ulcer_peptic	CTV3	XaCLuYac7T	[V] Personal history of gastric ulcer
+ulcer_peptic	medcodeid	37964010	Prepyloric ulcer
+ulcer_peptic	medcodeid	40392014	Gastrocolic ulcer
+ulcer_peptic	medcodeid	65759011	Pyloric ulcer
+ulcer_peptic	medcodeid	83140013	Chronic duodenal ulcer with perforation
+ulcer_peptic	medcodeid	86362013	Duodenal ulcer disease
+ulcer_peptic	medcodeid	206558015	Chronic gastrojejunal ulcer
+ulcer_peptic	medcodeid	269310018	Closure of perforated gastric ulcer
+ulcer_peptic	medcodeid	269371013	Operations on duodenal ulcer
+ulcer_peptic	medcodeid	302530012	Recurrent duodenal ulcer
+ulcer_peptic	medcodeid	353328012	Duodenal erosion
+ulcer_peptic	medcodeid	397833011	H/O: peptic ulcer
+ulcer_peptic	medcodeid	411542014	H/O: gastric ulcer
+ulcer_peptic	medcodeid	457315015	Multiple gastric ulcers
+ulcer_peptic	medcodeid	459010010	Endoscopic injection haemostasis of duodenal ulcer
+ulcer_peptic	medcodeid	484836012	Perforated chronic gastric ulcer
+ulcer_peptic	medcodeid	486596015	Chronic duodenal ulcer with haemorrhage AND perforation
+ulcer_peptic	medcodeid	494304013	Chronic gastrojejunal ulcer with haemorrhage AND perforation
+ulcer_peptic	medcodeid	495535010	Perforated chronic duodenal ulcer
+ulcer_peptic	medcodeid	497833010	Chronic gastric ulcer with haemorrhage
+ulcer_peptic	medcodeid	508524014	Chronic duodenal ulcer with haemorrhage
+ulcer_peptic	medcodeid	2649532016	Anti-platelet induced gastric ulcer
+ulcer_peptic	medcodeid	362951000000115	Oversew of blood vessel of duodenal ulcer
+ulcer_peptic	medcodeid	269314010	Other specified operation on gastric ulcer
+ulcer_peptic	medcodeid	269377012	Operation on duodenal ulcer NOS
+ulcer_peptic	medcodeid	302473018	Chronic gastric ulcer without mention of complication
+ulcer_peptic	medcodeid	302482012	Chronic gastric ulcer unspecified
+ulcer_peptic	medcodeid	302483019	Chronic gastric ulcer NOS
+ulcer_peptic	medcodeid	302485014	Unspecified gastric ulcer
+ulcer_peptic	medcodeid	302486010	Unspecified gastric ulcer without mention of complication
+ulcer_peptic	medcodeid	302487018	Unspecified gastric ulcer with haemorrhage
+ulcer_peptic	medcodeid	302492016	Unspecified gastric ulcer with obstruction
+ulcer_peptic	medcodeid	302495019	Unspecified gastric ulcer NOS
+ulcer_peptic	medcodeid	302531011	Unspecified duodenal ulcer
+ulcer_peptic	medcodeid	302532016	Unspecified duodenal ulcer without mention of complication
+ulcer_peptic	medcodeid	302556017	Chronic peptic ulcer without mention of complication
+ulcer_peptic	medcodeid	302563017	Chronic peptic ulcer unspecified
+ulcer_peptic	medcodeid	302566013	Unspecified peptic ulcer without mention of complication
+ulcer_peptic	medcodeid	302568014	Unspecified peptic ulcer with haemorrhage
+ulcer_peptic	medcodeid	302572013	Unspecified peptic ulcer with obstruction
+ulcer_peptic	medcodeid	302575010	Unspecified peptic ulcer NOS
+ulcer_peptic	medcodeid	302604016	Unspecified gastrojejunal ulcer
+ulcer_peptic	medcodeid	302606019	Unspecified gastrojejunal ulcer with haemorrhage
+ulcer_peptic	medcodeid	394147019	Closure of gastric ulcer NEC
+ulcer_peptic	medcodeid	396346019	Peptic ulcer - (PU) site unspecified
+ulcer_peptic	medcodeid	81301000006118	Unspec duodenal ulcer; unspec haemorrhage and/or perforation
+ulcer_peptic	medcodeid	121891000006117	Stress ulcer NOS
+ulcer_peptic	medcodeid	344611000006119	[V]Personal history of duodenal ulcer
+ulcer_peptic	medcodeid	345501000006119	[V]Personal history of peptic ulcer
+ulcer_peptic	medcodeid	554311000006114	Chronic gastric ulcer with haemorrhage and perforation
+ulcer_peptic	medcodeid	632091000006116	Duodenal ulcer - (DU)
+ulcer_peptic	medcodeid	1562941000006111	Non steroidal anti inflammatory drug induced duodenal ulcer
+ulcer_peptic	medcodeid	454252012	[V] Personal history of gastric ulcer
+ulcer_peptic	medcodeid	118251000006114	Suture of duodenal ulcer not elsewhere classified
+ulcer_peptic	medcodeid	302489015	Unspecified gastric ulcer with perforation
+ulcer_peptic	medcodeid	302542019	Duodenal ulcer NOS
+ulcer_peptic	medcodeid	302564011	Chronic peptic ulcer NOS
+ulcer_peptic	medcodeid	477650018	Anastomotic ulcer
+ulcer_peptic	medcodeid	495344012	Chronic peptic ulcer with haemorrhage
+ulcer_peptic	medcodeid	459013012	Endoscopic injection haemostasis of gastric ulcer
+ulcer_peptic	medcodeid	302525013	Chronic duodenal ulcer with obstruction
+ulcer_peptic	medcodeid	269308015	Stomach ulcer operations
+ulcer_peptic	medcodeid	269309011	Operations on gastric ulcer
+ulcer_peptic	medcodeid	52347016	Chronic gastric ulcer with perforation
+ulcer_peptic	medcodeid	396345015	Gastric ulcer NOS
+ulcer_peptic	medcodeid	221011000000113	Gastrojejunal ulcer (GJU)
+ulcer_peptic	medcodeid	410931019	Suture of ulcer of stomach NEC
+ulcer_peptic	medcodeid	302514016	Chronic duodenal ulcer without mention of complication
+ulcer_peptic	medcodeid	302527017	Chronic duodenal ulcer NOS
+ulcer_peptic	medcodeid	302537010	Unspecified duodenal ulcer with haemorrhage and perforation
+ulcer_peptic	medcodeid	302569018	Unspecified peptic ulcer with perforation
+ulcer_peptic	medcodeid	302576011	Peptic ulcer NOS
+ulcer_peptic	medcodeid	302614013	Unspecified gastrojejunal ulcer NOS
+ulcer_peptic	medcodeid	269315011	Operation on gastric ulcer NOS
+ulcer_peptic	medcodeid	2649534015	Anti-platelet induced duodenal ulcer
+ulcer_peptic	medcodeid	411541019	H/O: duodenal ulcer
+ulcer_peptic	medcodeid	269116019	Resection of gastric ulcer by cautery
+ulcer_peptic	medcodeid	91115011	Jejunal ulcer
+ulcer_peptic	medcodeid	206557013	Chronic peptic ulcer
+ulcer_peptic	medcodeid	502691000006110	Balfour excision of gastric ulcer
+ulcer_peptic	medcodeid	302538017	Unspecified duodenal ulcer with obstruction
+ulcer_peptic	medcodeid	302541014	Unspecified duodenal ulcer NOS
+ulcer_peptic	medcodeid	302571018	Unspecified peptic ulcer with haemorrhage and perforation
+ulcer_peptic	medcodeid	302608018	Unspecified gastrojejunal ulcer with perforation
+ulcer_peptic	medcodeid	302615014	Gastrojejunal ulcer NOS
+ulcer_peptic	medcodeid	269376015	Other specified operation on duodenal ulcer
+ulcer_peptic	medcodeid	1231704018	Bleeding chronic gastric ulcer
+ulcer_peptic	medcodeid	1235462014	Bleeding chronic duodenal ulcer
+ulcer_peptic	medcodeid	302481017	Chronic gastric ulcer with obstruction
+ulcer_peptic	medcodeid	302562010	Chronic peptic ulcer with obstruction
+ulcer_peptic	medcodeid	269374017	Closure of perforated duodenal ulcer
+ulcer_peptic	medcodeid	206556016	Chronic duodenal ulcer
+ulcer_peptic	medcodeid	221001000000111	Gastric ulcer - (GU)
+ulcer_peptic	medcodeid	302534015	Unspecified duodenal ulcer with haemorrhage
+ulcer_peptic	medcodeid	353273019	Gastric erosions
+ulcer_peptic	medcodeid	302675019	Healed gastric ulcer leaving a scar
+ulcer_peptic	medcodeid	6875014	Chronic peptic ulcer with perforation
+ulcer_peptic	medcodeid	158231014	Chronic gastric ulcer
+ulcer_peptic	medcodeid	1562921000006116	Non steroidal anti inflammatory drug induced gastric ulcer
+ulcer_peptic	medcodeid	1562931000006118	Non steroidal anti inflammatory drug induced gastric ulc NOS
+ulcer_peptic	medcodeid	302526014	Chronic duodenal ulcer unspecified
+ulcer_peptic	medcodeid	302535019	Unspecified duodenal ulcer with perforation
+ulcer_peptic	medcodeid	302565012	Unspecified peptic ulcer
+ulcer_peptic	medcodeid	81311000006115	Unspec gastric ulcer; unspec haemorrhage and/or perforation
+ulcer_peptic	medcodeid	317691000000117	Anti-platelet induced gastric ulcer NOS
+ulcer_peptic	SNOMEDCT	22620000	Prepyloric ulcer
+ulcer_peptic	SNOMEDCT	24060004	Gastrocolic ulcer
+ulcer_peptic	SNOMEDCT	39204006	Pyloric ulcer
+ulcer_peptic	SNOMEDCT	49916007	Chronic duodenal ulcer with perforation
+ulcer_peptic	SNOMEDCT	51868009	Duodenal ulcer disease
+ulcer_peptic	SNOMEDCT	128288009	Chronic gastrojejunal ulcer
+ulcer_peptic	SNOMEDCT	173842008	Closure of perforated gastric ulcer
+ulcer_peptic	SNOMEDCT	173887007	Operations on duodenal ulcer
+ulcer_peptic	SNOMEDCT	196671008	Recurrent duodenal ulcer
+ulcer_peptic	SNOMEDCT	235692002	Duodenal erosion
+ulcer_peptic	SNOMEDCT	266998003	H/O: peptic ulcer
+ulcer_peptic	SNOMEDCT	275548000	H/O: gastric ulcer
+ulcer_peptic	SNOMEDCT	313425006	Multiple gastric ulcers
+ulcer_peptic	SNOMEDCT	314627002	Endoscopic injection haemostasis of duodenal ulcer
+ulcer_peptic	SNOMEDCT	31301004	Perforated chronic gastric ulcer
+ulcer_peptic	SNOMEDCT	36975000	Chronic duodenal ulcer with haemorrhage AND perforation
+ulcer_peptic	SNOMEDCT	45640006	Chronic gastrojejunal ulcer with haemorrhage AND perforation
+ulcer_peptic	SNOMEDCT	49916007	Perforated chronic duodenal ulcer
+ulcer_peptic	SNOMEDCT	57246001	Chronic gastric ulcer with haemorrhage
+ulcer_peptic	SNOMEDCT	89469000	Chronic duodenal ulcer with haemorrhage
+ulcer_peptic	SNOMEDCT	424301005	Anti-platelet induced gastric ulcer
+ulcer_peptic	SNOMEDCT	226891000000104	Oversew of blood vessel of duodenal ulcer
+ulcer_peptic	SNOMEDCT	173841001	Other specified operation on gastric ulcer
+ulcer_peptic	SNOMEDCT	173887007	Operation on duodenal ulcer NOS
+ulcer_peptic	SNOMEDCT	95530000	Chronic gastric ulcer without mention of complication
+ulcer_peptic	SNOMEDCT	95530000	Chronic gastric ulcer unspecified
+ulcer_peptic	SNOMEDCT	95530000	Chronic gastric ulcer NOS
+ulcer_peptic	SNOMEDCT	397825006	Unspecified gastric ulcer
+ulcer_peptic	SNOMEDCT	397825006	Unspecified gastric ulcer without mention of complication
+ulcer_peptic	SNOMEDCT	15902003	Unspecified gastric ulcer with haemorrhage
+ulcer_peptic	SNOMEDCT	849591000000103	Unspecified gastric ulcer with obstruction
+ulcer_peptic	SNOMEDCT	397825006	Unspecified gastric ulcer NOS
+ulcer_peptic	SNOMEDCT	51868009	Unspecified duodenal ulcer
+ulcer_peptic	SNOMEDCT	51868009	Unspecified duodenal ulcer without mention of complication
+ulcer_peptic	SNOMEDCT	128287004	Chronic peptic ulcer without mention of complication
+ulcer_peptic	SNOMEDCT	128287004	Chronic peptic ulcer unspecified
+ulcer_peptic	SNOMEDCT	13200003	Unspecified peptic ulcer without mention of complication
+ulcer_peptic	SNOMEDCT	13200003	Unspecified peptic ulcer with haemorrhage
+ulcer_peptic	SNOMEDCT	849611000000106	Unspecified peptic ulcer with obstruction
+ulcer_peptic	SNOMEDCT	13200003	Unspecified peptic ulcer NOS
+ulcer_peptic	SNOMEDCT	16121001	Unspecified gastrojejunal ulcer
+ulcer_peptic	SNOMEDCT	16121001	Unspecified gastrojejunal ulcer with haemorrhage
+ulcer_peptic	SNOMEDCT	173841001	Closure of gastric ulcer NEC
+ulcer_peptic	SNOMEDCT	13200003	Peptic ulcer - (PU) site unspecified
+ulcer_peptic	SNOMEDCT	51868009	Unspec duodenal ulcer; unspec haemorrhage and/or perforation
+ulcer_peptic	SNOMEDCT	13200003	Stress ulcer NOS
+ulcer_peptic	SNOMEDCT	275547005	[V]Personal history of duodenal ulcer
+ulcer_peptic	SNOMEDCT	266998003	[V]Personal history of peptic ulcer
+ulcer_peptic	SNOMEDCT	76181002	Chronic gastric ulcer with haemorrhage and perforation
+ulcer_peptic	SNOMEDCT	51868009	Duodenal ulcer - (DU)
+ulcer_peptic	SNOMEDCT	722200003	Non steroidal anti inflammatory drug induced duodenal ulcer
+ulcer_peptic	SNOMEDCT	275548000	[V] Personal history of gastric ulcer
+ulcer_peptic	SNOMEDCT	307260009	Suture of duodenal ulcer not elsewhere classified
+ulcer_peptic	SNOMEDCT	9829001	Unspecified gastric ulcer with perforation
+ulcer_peptic	SNOMEDCT	51868009	Duodenal ulcer NOS
+ulcer_peptic	SNOMEDCT	128287004	Chronic peptic ulcer NOS
+ulcer_peptic	SNOMEDCT	16121001	Anastomotic ulcer
+ulcer_peptic	SNOMEDCT	49232000	Chronic peptic ulcer with haemorrhage
+ulcer_peptic	SNOMEDCT	314629004	Endoscopic injection haemostasis of gastric ulcer
+ulcer_peptic	SNOMEDCT	196666001	Chronic duodenal ulcer with obstruction
+ulcer_peptic	SNOMEDCT	173841001	Stomach ulcer operations
+ulcer_peptic	SNOMEDCT	173841001	Operations on gastric ulcer
+ulcer_peptic	SNOMEDCT	31301004	Chronic gastric ulcer with perforation
+ulcer_peptic	SNOMEDCT	397825006	Gastric ulcer NOS
+ulcer_peptic	SNOMEDCT	16121001	Gastrojejunal ulcer (GJU)
+ulcer_peptic	SNOMEDCT	307259004	Suture of ulcer of stomach NEC
+ulcer_peptic	SNOMEDCT	128286008	Chronic duodenal ulcer without mention of complication
+ulcer_peptic	SNOMEDCT	128286008	Chronic duodenal ulcer NOS
+ulcer_peptic	SNOMEDCT	51868009	Unspecified duodenal ulcer with haemorrhage and perforation
+ulcer_peptic	SNOMEDCT	13200003	Unspecified peptic ulcer with perforation
+ulcer_peptic	SNOMEDCT	13200003	Peptic ulcer NOS
+ulcer_peptic	SNOMEDCT	16121001	Unspecified gastrojejunal ulcer NOS
+ulcer_peptic	SNOMEDCT	173841001	Operation on gastric ulcer NOS
+ulcer_peptic	SNOMEDCT	423643000	Anti-platelet induced duodenal ulcer
+ulcer_peptic	SNOMEDCT	275547005	H/O: duodenal ulcer
+ulcer_peptic	SNOMEDCT	173731008	Resection of gastric ulcer by cautery
+ulcer_peptic	SNOMEDCT	54822007	Jejunal ulcer
+ulcer_peptic	SNOMEDCT	128287004	Chronic peptic ulcer
+ulcer_peptic	SNOMEDCT	287832000	Balfour excision of gastric ulcer
+ulcer_peptic	SNOMEDCT	849601000000109	Unspecified duodenal ulcer with obstruction
+ulcer_peptic	SNOMEDCT	51868009	Unspecified duodenal ulcer NOS
+ulcer_peptic	SNOMEDCT	13200003	Unspecified peptic ulcer with haemorrhage and perforation
+ulcer_peptic	SNOMEDCT	16121001	Unspecified gastrojejunal ulcer with perforation
+ulcer_peptic	SNOMEDCT	16121001	Gastrojejunal ulcer NOS
+ulcer_peptic	SNOMEDCT	173887007	Other specified operation on duodenal ulcer
+ulcer_peptic	SNOMEDCT	57246001	Bleeding chronic gastric ulcer
+ulcer_peptic	SNOMEDCT	89469000	Bleeding chronic duodenal ulcer
+ulcer_peptic	SNOMEDCT	196639001	Chronic gastric ulcer with obstruction
+ulcer_peptic	SNOMEDCT	196694009	Chronic peptic ulcer with obstruction
+ulcer_peptic	SNOMEDCT	173889005	Closure of perforated duodenal ulcer
+ulcer_peptic	SNOMEDCT	128286008	Chronic duodenal ulcer
+ulcer_peptic	SNOMEDCT	397825006	Gastric ulcer - (GU)
+ulcer_peptic	SNOMEDCT	27281001	Unspecified duodenal ulcer with haemorrhage
+ulcer_peptic	SNOMEDCT	235652004	Gastric erosions
+ulcer_peptic	SNOMEDCT	196775009	Healed gastric ulcer leaving a scar
+ulcer_peptic	SNOMEDCT	3483000	Chronic peptic ulcer with perforation
+ulcer_peptic	SNOMEDCT	95530000	Chronic gastric ulcer
+ulcer_peptic	SNOMEDCT	248891000000103	Non steroidal anti inflammatory drug induced gastric ulcer
+ulcer_peptic	SNOMEDCT	248891000000103	Non steroidal anti inflammatory drug induced gastric ulc NOS
+ulcer_peptic	SNOMEDCT	128286008	Chronic duodenal ulcer unspecified
+ulcer_peptic	SNOMEDCT	88968005	Unspecified duodenal ulcer with perforation
+ulcer_peptic	SNOMEDCT	13200003	Unspecified peptic ulcer
+ulcer_peptic	SNOMEDCT	62366003	Unspec gastric ulcer; unspec haemorrhage and/or perforation
+ulcer_peptic	SNOMEDCT	424301005	Anti-platelet induced gastric ulcer NOS
+ulcer_peptic	Read2_5digit	14C1.	H/O: peptic ulcer
+ulcer_peptic	Read2_5digit	76125	Resection of gastric ulcer by cautery
+ulcer_peptic	Read2_5digit	761D5	Endoscopic injection haemostasis of duodenal ulcer
+ulcer_peptic	Read2_5digit	761D6	Endoscopic injection haemostasis of gastric ulcer
+ulcer_peptic	Read2_5digit	761J.	Operations on gastric ulcer
+ulcer_peptic	Read2_5digit	761J0	Closure of perforated gastric ulcer
+ulcer_peptic	Read2_5digit	761J1	Closure of gastric ulcer NEC
+ulcer_peptic	Read2_5digit	761Jy	Other specified operation on gastric ulcer
+ulcer_peptic	Read2_5digit	761Jz	Operation on gastric ulcer NOS
+ulcer_peptic	Read2_5digit	7627.	Operations on duodenal ulcer
+ulcer_peptic	Read2_5digit	76270	Closure of perforated duodenal ulcer
+ulcer_peptic	Read2_5digit	76271	Suture of duodenal ulcer not elsewhere classified
+ulcer_peptic	Read2_5digit	76272	Oversew of blood vessel of duodenal ulcer
+ulcer_peptic	Read2_5digit	7627y	Other specified operation on duodenal ulcer
+ulcer_peptic	Read2_5digit	7627z	Operation on duodenal ulcer NOS
+ulcer_peptic	Read2_5digit	J11..	Gastric ulcer - (GU)
+ulcer_peptic	Read2_5digit	J111.	Chronic gastric ulcer
+ulcer_peptic	Read2_5digit	J1110	Chronic gastric ulcer without mention of complication
+ulcer_peptic	Read2_5digit	J1111	Chronic gastric ulcer with haemorrhage
+ulcer_peptic	Read2_5digit	J1112	Chronic gastric ulcer with perforation
+ulcer_peptic	Read2_5digit	J1113	Chronic gastric ulcer with haemorrhage and perforation
+ulcer_peptic	Read2_5digit	J1114	Chronic gastric ulcer with obstruction
+ulcer_peptic	Read2_5digit	J111y	Chronic gastric ulcer unspecified
+ulcer_peptic	Read2_5digit	J111z	Chronic gastric ulcer NOS
+ulcer_peptic	Read2_5digit	J112.	Anti-platelet induced gastric ulcer
+ulcer_peptic	Read2_5digit	J112z	Anti-platelet induced gastric ulcer NOS
+ulcer_peptic	Read2_5digit	J113.	Non steroidal anti inflammatory drug induced gastric ulcer
+ulcer_peptic	Read2_5digit	J113z	Non steroidal anti inflammatory drug induced gastric ulcer NOS
+ulcer_peptic	Read2_5digit	J11y.	Unspecified gastric ulcer
+ulcer_peptic	Read2_5digit	J11y0	Unspecified gastric ulcer without mention of complication
+ulcer_peptic	Read2_5digit	J11y1	Unspecified gastric ulcer with haemorrhage
+ulcer_peptic	Read2_5digit	J11y2	Unspecified gastric ulcer with perforation
+ulcer_peptic	Read2_5digit	J11y4	Unspecified gastric ulcer with obstruction
+ulcer_peptic	Read2_5digit	J11yy	Unspecified gastric ulcer with unspecified haemorrhage and/or perforation
+ulcer_peptic	Read2_5digit	J11yz	Unspecified gastric ulcer NOS
+ulcer_peptic	Read2_5digit	J11z.	Gastric ulcer NOS
+ulcer_peptic	Read2_5digit	J12..	Duodenal ulcer - (DU)
+ulcer_peptic	Read2_5digit	J121.	Chronic duodenal ulcer
+ulcer_peptic	Read2_5digit	J1210	Chronic duodenal ulcer without mention of complication
+ulcer_peptic	Read2_5digit	J1211	Chronic duodenal ulcer with haemorrhage
+ulcer_peptic	Read2_5digit	J1212	Chronic duodenal ulcer with perforation
+ulcer_peptic	Read2_5digit	J1213	Chronic duodenal ulcer with haemorrhage and perforation
+ulcer_peptic	Read2_5digit	J1214	Chronic duodenal ulcer with obstruction
+ulcer_peptic	Read2_5digit	J121y	Chronic duodenal ulcer unspecified
+ulcer_peptic	Read2_5digit	J121z	Chronic duodenal ulcer NOS
+ulcer_peptic	Read2_5digit	J122.	Duodenal ulcer disease
+ulcer_peptic	Read2_5digit	J123.	Duodenal erosion
+ulcer_peptic	Read2_5digit	J124.	Recurrent duodenal ulcer
+ulcer_peptic	Read2_5digit	J125.	Anti-platelet induced duodenal ulcer
+ulcer_peptic	Read2_5digit	J126.	Non steroidal anti inflammatory drug induced duodenal ulcer
+ulcer_peptic	Read2_5digit	J12y.	Unspecified duodenal ulcer
+ulcer_peptic	Read2_5digit	J12y0	Unspecified duodenal ulcer without mention of complication
+ulcer_peptic	Read2_5digit	J12y1	Unspecified duodenal ulcer with haemorrhage
+ulcer_peptic	Read2_5digit	J12y2	Unspecified duodenal ulcer with perforation
+ulcer_peptic	Read2_5digit	J12y3	Unspecified duodenal ulcer with haemorrhage and perforation
+ulcer_peptic	Read2_5digit	J12y4	Unspecified duodenal ulcer with obstruction
+ulcer_peptic	Read2_5digit	J12yy	Unspecified duodenal ulcer with unspecified haemorrhage and/or perforation
+ulcer_peptic	Read2_5digit	J12yz	Unspecified duodenal ulcer NOS
+ulcer_peptic	Read2_5digit	J12z.	Duodenal ulcer NOS
+ulcer_peptic	Read2_5digit	J13..	Peptic ulcer - (PU) site unspecified
+ulcer_peptic	Read2_5digit	J131.	Chronic peptic ulcer
+ulcer_peptic	Read2_5digit	J1310	Chronic peptic ulcer without mention of complication
+ulcer_peptic	Read2_5digit	J1311	Chronic peptic ulcer with haemorrhage
+ulcer_peptic	Read2_5digit	J1312	Chronic peptic ulcer with perforation
+ulcer_peptic	Read2_5digit	J1314	Chronic peptic ulcer with obstruction
+ulcer_peptic	Read2_5digit	J131y	Chronic peptic ulcer unspecified
+ulcer_peptic	Read2_5digit	J131z	Chronic peptic ulcer NOS
+ulcer_peptic	Read2_5digit	J13y.	Unspecified peptic ulcer
+ulcer_peptic	Read2_5digit	J13y0	Unspecified peptic ulcer without mention of complication
+ulcer_peptic	Read2_5digit	J13y1	Unspecified peptic ulcer with haemorrhage
+ulcer_peptic	Read2_5digit	J13y2	Unspecified peptic ulcer with perforation
+ulcer_peptic	Read2_5digit	J13y3	Unspecified peptic ulcer with haemorrhage and perforation
+ulcer_peptic	Read2_5digit	J13y4	Unspecified peptic ulcer with obstruction
+ulcer_peptic	Read2_5digit	J13yz	Unspecified peptic ulcer NOS
+ulcer_peptic	Read2_5digit	J13z.	Peptic ulcer NOS
+ulcer_peptic	Read2_5digit	J14..	Gastrojejunal ulcer (GJU)
+ulcer_peptic	Read2_5digit	J141.	Chronic gastrojejunal ulcer
+ulcer_peptic	Read2_5digit	J1413	Chronic gastrojejunal ulcer with haemorrhage and perforation
+ulcer_peptic	Read2_5digit	J14y.	Unspecified gastrojejunal ulcer
+ulcer_peptic	Read2_5digit	J14y1	Unspecified gastrojejunal ulcer with haemorrhage
+ulcer_peptic	Read2_5digit	J14y2	Unspecified gastrojejunal ulcer with perforation
+ulcer_peptic	Read2_5digit	J14yz	Unspecified gastrojejunal ulcer NOS
+ulcer_peptic	Read2_5digit	J14z.	Gastrojejunal ulcer NOS
+ulcer_peptic	Read2_5digit	J17y8	Healed gastric ulcer leaving a scar
+ulcer_peptic	Read2_5digit	ZV12C	[V] Personal history of gastric ulcer
+ulcer_peptic	CTV3_5digit	XE0qB	H/O: peptic ulcer
+ulcer_peptic	CTV3_5digit	XM1RN	H/O: duodenal ulcer
+ulcer_peptic	CTV3_5digit	XM1RO	H/O: gastric ulcer
+ulcer_peptic	CTV3_5digit	76121	Balfour excision of gastric ulcer
+ulcer_peptic	CTV3_5digit	Xa3u7	Stomach ulcer excision
+ulcer_peptic	CTV3_5digit	76125	Resection of gastric ulcer by cautery
+ulcer_peptic	CTV3_5digit	XaFBq	Endoscopic injection haemostasis of duodenal ulcer
+ulcer_peptic	CTV3_5digit	XaFBs	Endoscopic injection haemostasis of gastric ulcer
+ulcer_peptic	CTV3_5digit	761J.	Operations on gastric ulcer
+ulcer_peptic	CTV3_5digit	761J0	Closure of perforated gastric ulcer
+ulcer_peptic	CTV3_5digit	XE0Cr	Closure of gastric ulcer NEC
+ulcer_peptic	CTV3_5digit	XM1I9	Suture of ulcer of stomach NEC
+ulcer_peptic	CTV3_5digit	761Jy	Other specified operation on gastric ulcer
+ulcer_peptic	CTV3_5digit	761Jz	Operation on gastric ulcer NOS
+ulcer_peptic	CTV3_5digit	7627.	Operations on duodenal ulcer
+ulcer_peptic	CTV3_5digit	76270	Closure of perforated duodenal ulcer
+ulcer_peptic	CTV3_5digit	76271	Suture of duodenal ulcer not elsewhere classified
+ulcer_peptic	CTV3_5digit	XaLdV	Oversew of blood vessel of duodenal ulcer
+ulcer_peptic	CTV3_5digit	7627y	Other specified operation on duodenal ulcer
+ulcer_peptic	CTV3_5digit	7627z	Operation on duodenal ulcer NOS
+ulcer_peptic	CTV3_5digit	XE0aP	Gastric ulcer
+ulcer_peptic	CTV3_5digit	Xa6ot	Prepyloric ulcer
+ulcer_peptic	CTV3_5digit	Xa84h	Pyloric ulcer
+ulcer_peptic	CTV3_5digit	J111.	Chronic gastric ulcer
+ulcer_peptic	CTV3_5digit	J1110	Chronic gastric ulcer without mention of complication
+ulcer_peptic	CTV3_5digit	J1111	Chronic gastric ulcer with haemorrhage
+ulcer_peptic	CTV3_5digit	J1112	Chronic gastric ulcer with perforation
+ulcer_peptic	CTV3_5digit	J1113	Chronic gastric ulcer with haemorrhage and perforation
+ulcer_peptic	CTV3_5digit	J1114	Chronic gastric ulcer with obstruction
+ulcer_peptic	CTV3_5digit	J111y	Chronic gastric ulcer unspecified
+ulcer_peptic	CTV3_5digit	J111z	Chronic gastric ulcer NOS
+ulcer_peptic	CTV3_5digit	XaLWq	Anti-platelet induced gastric ulcer
+ulcer_peptic	CTV3_5digit	XaLWr	Anti-platelet induced gastric ulcer NOS
+ulcer_peptic	CTV3_5digit	XaMO5	Non steroidal anti inflammatory drug induced gastric ulcer
+ulcer_peptic	CTV3_5digit	XaMO6	Non steroidal anti inflammatory drug induced gastric ulcer NOS
+ulcer_peptic	CTV3_5digit	J11y.	Unspecified gastric ulcer
+ulcer_peptic	CTV3_5digit	J11y0	Unspecified gastric ulcer without mention of complication
+ulcer_peptic	CTV3_5digit	J11y1	Unspecified gastric ulcer with haemorrhage
+ulcer_peptic	CTV3_5digit	J11y2	Unspecified gastric ulcer with perforation
+ulcer_peptic	CTV3_5digit	J11y4	Unspecified gastric ulcer with obstruction
+ulcer_peptic	CTV3_5digit	J11yy	Unspecified gastric ulcer with unspecified haemorrhage and/or perforation
+ulcer_peptic	CTV3_5digit	J11yz	Unspecified gastric ulcer NOS
+ulcer_peptic	CTV3_5digit	XE0aQ	Gastric ulcer NOS
+ulcer_peptic	CTV3_5digit	X301M	Gastric erosions
+ulcer_peptic	CTV3_5digit	XaELE	Multiple gastric ulcers
+ulcer_peptic	CTV3_5digit	J12..	Duodenal ulcer
+ulcer_peptic	CTV3_5digit	J121.	Chronic duodenal ulcer
+ulcer_peptic	CTV3_5digit	J1210	Chronic duodenal ulcer without mention of complication
+ulcer_peptic	CTV3_5digit	J1211	Chronic duodenal ulcer with haemorrhage
+ulcer_peptic	CTV3_5digit	J1212	Chronic duodenal ulcer with perforation
+ulcer_peptic	CTV3_5digit	J1213	Chronic duodenal ulcer with haemorrhage and perforation
+ulcer_peptic	CTV3_5digit	J1214	Chronic duodenal ulcer with obstruction
+ulcer_peptic	CTV3_5digit	J121y	Chronic duodenal ulcer unspecified
+ulcer_peptic	CTV3_5digit	J121z	Chronic duodenal ulcer NOS
+ulcer_peptic	CTV3_5digit	X302b	Duodenal ulcer disease
+ulcer_peptic	CTV3_5digit	X302G	Duodenal erosion
+ulcer_peptic	CTV3_5digit	J124.	Recurrent duodenal ulcer
+ulcer_peptic	CTV3_5digit	XaLWs	Anti-platelet induced duodenal ulcer
+ulcer_peptic	CTV3_5digit	XaMO7	Non steroidal anti inflammatory drug induced duodenal ulcer
+ulcer_peptic	CTV3_5digit	J12y.	Unspecified duodenal ulcer
+ulcer_peptic	CTV3_5digit	J12y0	Unspecified duodenal ulcer without mention of complication
+ulcer_peptic	CTV3_5digit	J12y1	Unspecified duodenal ulcer with haemorrhage
+ulcer_peptic	CTV3_5digit	J12y2	Unspecified duodenal ulcer with perforation
+ulcer_peptic	CTV3_5digit	J12y3	Unspecified duodenal ulcer with haemorrhage and perforation
+ulcer_peptic	CTV3_5digit	J12y4	Unspecified duodenal ulcer with obstruction
+ulcer_peptic	CTV3_5digit	J12yy	Unspecified duodenal ulcer with unspecified haemorrhage and/or perforation
+ulcer_peptic	CTV3_5digit	J12yz	Unspecified duodenal ulcer NOS
+ulcer_peptic	CTV3_5digit	J12z.	Duodenal ulcer NOS
+ulcer_peptic	CTV3_5digit	XE0aR	Peptic ulcer - (PU) site unspecified
+ulcer_peptic	CTV3_5digit	J13..	Stress ulcer NOS
+ulcer_peptic	CTV3_5digit	J131.	Chronic peptic ulcer
+ulcer_peptic	CTV3_5digit	J1310	Chronic peptic ulcer without mention of complication
+ulcer_peptic	CTV3_5digit	J1311	Chronic peptic ulcer with haemorrhage
+ulcer_peptic	CTV3_5digit	J1312	Chronic peptic ulcer with perforation
+ulcer_peptic	CTV3_5digit	J1314	Chronic peptic ulcer with obstruction
+ulcer_peptic	CTV3_5digit	J131y	Chronic peptic ulcer unspecified
+ulcer_peptic	CTV3_5digit	J131z	Chronic peptic ulcer NOS
+ulcer_peptic	CTV3_5digit	J13y.	Unspecified peptic ulcer
+ulcer_peptic	CTV3_5digit	J13y0	Unspecified peptic ulcer without mention of complication
+ulcer_peptic	CTV3_5digit	J13y1	Unspecified peptic ulcer with haemorrhage
+ulcer_peptic	CTV3_5digit	J13y2	Unspecified peptic ulcer with perforation
+ulcer_peptic	CTV3_5digit	J13y3	Unspecified peptic ulcer with haemorrhage and perforation
+ulcer_peptic	CTV3_5digit	J13y4	Unspecified peptic ulcer with obstruction
+ulcer_peptic	CTV3_5digit	J13yz	Unspecified peptic ulcer NOS
+ulcer_peptic	CTV3_5digit	J13z.	Peptic ulcer NOS
+ulcer_peptic	CTV3_5digit	XE0aS	Gastrojejunal ulcer
+ulcer_peptic	CTV3_5digit	Xa1qA	Anastomotic ulcer
+ulcer_peptic	CTV3_5digit	Xa1qC	Gastrocolic ulcer
+ulcer_peptic	CTV3_5digit	Xa1qB	Jejunal ulcer
+ulcer_peptic	CTV3_5digit	J141.	Chronic gastrojejunal ulcer
+ulcer_peptic	CTV3_5digit	J1413	Chronic gastrojejunal ulcer with haemorrhage and perforation
+ulcer_peptic	CTV3_5digit	J14y.	Unspecified gastrojejunal ulcer
+ulcer_peptic	CTV3_5digit	J14y1	Unspecified gastrojejunal ulcer with haemorrhage
+ulcer_peptic	CTV3_5digit	J14y2	Unspecified gastrojejunal ulcer with perforation
+ulcer_peptic	CTV3_5digit	J14yz	Unspecified gastrojejunal ulcer NOS
+ulcer_peptic	CTV3_5digit	J14z.	Gastrojejunal ulcer NOS
+ulcer_peptic	CTV3_5digit	J17y8	Healed gastric ulcer leaving a scar
+ulcer_peptic	CTV3_5digit	ZV127	[V]Personal history of duodenal ulcer
+ulcer_peptic	CTV3_5digit	XaCLu	[V] Personal history of gastric ulcer

@@ -1,0 +1,471 @@
+condition	vocab_id	code	description
+enthesopathy_upper	ICD10	M65.21	Calcific tendinitis, Shoulder region
+enthesopathy_upper	ICD10	M65.22	Calcific tendinitis, Upper arm
+enthesopathy_upper	ICD10	M65.23	Calcific tendinitis, Forearm
+enthesopathy_upper	ICD10	M65.24	Calcific tendinitis, Hand
+enthesopathy_upper	ICD10	M65.3	Trigger finger
+enthesopathy_upper	ICD10	M65.4	Radial styloid tenosynovitis [de Quervain]
+enthesopathy_upper	ICD10	M66.2	Spontaneous rupture of extensor tendons
+enthesopathy_upper	ICD10	M66.3	Spontaneous rupture of flexor tendons
+enthesopathy_upper	ICD10	M70.0	Chronic crepitant synovitis of hand and wrist
+enthesopathy_upper	ICD10	M70.1	Bursitis of hand
+enthesopathy_upper	ICD10	M70.2	Olecranon bursitis
+enthesopathy_upper	ICD10	M70.3	Other bursitis of elbow
+enthesopathy_upper	ICD10	M75	Shoulder lesions
+enthesopathy_upper	ICD10	M77.0	Medial epicondylitis
+enthesopathy_upper	ICD10	M77.1	Lateral epicondylitis
+enthesopathy_upper	ICD10	M77.2	Periarthritis of wrist
+enthesopathy_upper	Read2	N210.00	Adhesive capsulitis of the shoulder
+enthesopathy_upper	Read2	N210.11	Bursitis - shoulder
+enthesopathy_upper	Read2	N210.12	Frozen shoulder
+enthesopathy_upper	Read2	N211.00	Rotator cuff shoulder syndrome and allied disorders
+enthesopathy_upper	Read2	N211000	Rotator cuff syndrome, unspecified
+enthesopathy_upper	Read2	N211011	Supraspinatus syndrome
+enthesopathy_upper	Read2	N211100	Calcifying tendinitis of the shoulder
+enthesopathy_upper	Read2	N211200	Bicipital tenosynovitis
+enthesopathy_upper	Read2	N211300	Supraspinatus tendinitis
+enthesopathy_upper	Read2	N211400	Partial thickness rotator cuff tear
+enthesopathy_upper	Read2	N211500	Full thickness rotator cuff tear
+enthesopathy_upper	Read2	N211600	Subacromial bursitis
+enthesopathy_upper	Read2	N211700	Subdeltoid bursitis
+enthesopathy_upper	Read2	N211800	Bursitis of shoulder
+enthesopathy_upper	Read2	N211z00	Rotator cuff syndrome NOS
+enthesopathy_upper	Read2	N211z11	Painful arc syndrome
+enthesopathy_upper	Read2	N211z12	Subacromial bursitis
+enthesopathy_upper	Read2	N212.00	Other shoulder affections NEC
+enthesopathy_upper	Read2	N212000	Periarthritis of shoulder
+enthesopathy_upper	Read2	N212100	Scapulohumeral fibrositis
+enthesopathy_upper	Read2	N212200	Subacromial impingement
+enthesopathy_upper	Read2	N212300	Coracoid impingement
+enthesopathy_upper	Read2	N212400	Impingement syndrome of shoulder
+enthesopathy_upper	Read2	N212500	Shoulder tendonitis
+enthesopathy_upper	Read2	N212z00	Other shoulder affections NEC, NOS
+enthesopathy_upper	Read2	N213.00	Enthesopathy of the elbow region
+enthesopathy_upper	Read2	N213000	Elbow enthesopathy unspecified
+enthesopathy_upper	Read2	N213100	Medial epicondylitis of the elbow
+enthesopathy_upper	Read2	N213111	Golfer's elbow
+enthesopathy_upper	Read2	N213200	Lateral epicondylitis of the elbow
+enthesopathy_upper	Read2	N213211	Tennis elbow
+enthesopathy_upper	Read2	N213300	Olecranon bursitis
+enthesopathy_upper	Read2	N213400	Biceps tendinitis
+enthesopathy_upper	Read2	N213500	Triceps tendinitis
+enthesopathy_upper	Read2	N213z00	Elbow enthesopathy NOS
+enthesopathy_upper	Read2	N214.00	Enthesopathy of the wrist and carpus
+enthesopathy_upper	Read2	N214000	Bursitis of wrist
+enthesopathy_upper	Read2	N214100	Bursitis of hand
+enthesopathy_upper	Read2	N214200	Periarthritis of wrist
+enthesopathy_upper	Read2	N214300	Carpometacarpal bossing
+enthesopathy_upper	Read2	N214z00	Wrist or carpus enthesopathy NOS
+enthesopathy_upper	Read2	N21z212	Bicepital tendonitis
+enthesopathy_upper	Read2	N21z213	Tendonitis bicepital
+enthesopathy_upper	Read2	N21z216	Supraspinatus tendonitis
+enthesopathy_upper	Read2	N220300	Trigger finger - acquired
+enthesopathy_upper	Read2	N220311	Trigger thumb
+enthesopathy_upper	Read2	N220312	Snapping fingers
+enthesopathy_upper	Read2	N220313	Finger trigger
+enthesopathy_upper	Read2	N220400	Radial styloid tenosynovitis
+enthesopathy_upper	Read2	N220411	De Quervain's disease
+enthesopathy_upper	Read2	N220412	Trigger thumb - acquired
+enthesopathy_upper	Read2	N220413	Thumb trigger
+enthesopathy_upper	Read2	N220500	Other tenosynovitis of hand or wrist
+enthesopathy_upper	Read2	N220511	Other tenosynovitis of the hand
+enthesopathy_upper	Read2	N220512	Other tenosynovitis of the wrist
+enthesopathy_upper	Read2	N220513	Tensynovitis of fingers
+enthesopathy_upper	Read2	N220514	Tendonitis of thumb
+enthesopathy_upper	Read2	N220A00	Flexor tenosynovitis of wrist
+enthesopathy_upper	Read2	N220B00	Flexor tenosynovitis of finger
+enthesopathy_upper	Read2	N220C00	Flexor tenosynovitis of thumb
+enthesopathy_upper	Read2	N220D00	Extensor tenosynovitis of wrist
+enthesopathy_upper	Read2	N220E00	Extensor tenosynovitis of finger
+enthesopathy_upper	Read2	N220F00	Extensor tenosynovitis of thumb
+enthesopathy_upper	Read2	N220G00	Acquired trigger thumb
+enthesopathy_upper	Read2	N220R00	Chronic crepitant synovitis of hand and wrist
+enthesopathy_upper	Read2	N220W00	Synovitis of elbow
+enthesopathy_upper	Read2	N220X00	Synovitis of shoulder
+enthesopathy_upper	Read2	N220z11	Shoulder synovitis
+enthesopathy_upper	Read2	N220z13	Synovitis of elbow
+enthesopathy_upper	Read2	N222000	Beat elbow
+enthesopathy_upper	Read2	N222100	Beat hand
+enthesopathy_upper	Read2	N226100	Rotator cuff complete rupture
+enthesopathy_upper	Read2	N226200	Biceps tendon rupture
+enthesopathy_upper	Read2	N226300	Hand and wrist extensor tendon rupture
+enthesopathy_upper	Read2	N226400	Hand and wrist flexor tendon rupture
+enthesopathy_upper	Read2	N226800	Extensor digitorum communis rupture
+enthesopathy_upper	Read2	N226900	Extensor pollicis longus rupture
+enthesopathy_upper	Read2	N226A00	Long head of biceps rupture
+enthesopathy_upper	Read2	N226C00	Flexor digitorum sublimis tendon rupture
+enthesopathy_upper	Read2	N226D00	Flexor digitorum profundus tendon rupture
+enthesopathy_upper	Read2	N226E00	Flexor pollicis longus tendon rupture
+enthesopathy_upper	Read2	N23y900	Calcific tendinitis
+enthesopathy_upper	Read2	NyuA000	[X]Other bursitis of elbow
+enthesopathy_upper	CTV3	XE1FLY70SH	Frozen shoulder
+enthesopathy_upper	CTV3	XE1FLY70SK	Adhesive capsulitis of shoulder
+enthesopathy_upper	CTV3	X706IY70Sj	Bursitis of shoulder
+enthesopathy_upper	CTV3	N211.Y70SM	Rotator cuff shoulder syndrome and allied disorders
+enthesopathy_upper	CTV3	XE1FMY70ST	Rotator cuff syndrome, unspecified
+enthesopathy_upper	CTV3	S5Q2.Y70SU	Supraspinatus tear
+enthesopathy_upper	CTV3	S5Q2.YM1kQ	Rupture supraspinatus tendon
+enthesopathy_upper	CTV3	X706FY70Se	Painful arc syndrome
+enthesopathy_upper	CTV3	N2111Y70SG	Calcifying tendinitis of the shoulder
+enthesopathy_upper	CTV3	N2112Y70X6	Bicipital tenosynovitis
+enthesopathy_upper	CTV3	N2113Y70SZ	Supraspinatus tendinitis
+enthesopathy_upper	CTV3	N2114Y70SS	Partial thickness rotator cuff tear
+enthesopathy_upper	CTV3	N2115Y70SR	Full thickness rotator cuff tear
+enthesopathy_upper	CTV3	N2116Y70Sk	Subacromial bursitis
+enthesopathy_upper	CTV3	N2117Y70Sl	Subdeltoid bursitis
+enthesopathy_upper	CTV3	XE1FNY70SQ	Rotator cuff syndrome NOS
+enthesopathy_upper	CTV3	N212.Ya16M	Other shoulder affections NEC
+enthesopathy_upper	CTV3	XE1FLY70SJ	Periarthritis of shoulder
+enthesopathy_upper	CTV3	N2121Y70SF	Scapulohumeral fibrositis
+enthesopathy_upper	CTV3	N2122Y70Sh	Subacromial impingement
+enthesopathy_upper	CTV3	N2123Y70Si	Coracoid impingement
+enthesopathy_upper	CTV3	X706HY70Sg	Impingement syndrome of shoulder region
+enthesopathy_upper	CTV3	N2125YaeWz	Shoulder tendinitis
+enthesopathy_upper	CTV3	N212zY70SE	Other shoulder affections NEC, NOS
+enthesopathy_upper	CTV3	N213.Y70Sw	Enthesopathy of the elbow region
+enthesopathy_upper	CTV3	N2130Y70Sy	Elbow enthesopathy unspecified
+enthesopathy_upper	CTV3	N2131Y70Sz	Medial epicondylitis
+enthesopathy_upper	CTV3	N2131Y70T0	Medial epicondylitis of elbow
+enthesopathy_upper	CTV3	N2131Y70T1	Golfer's elbow
+enthesopathy_upper	CTV3	N2132Y70T2	Lateral epicondylitis
+enthesopathy_upper	CTV3	N2132Y70T3	Lateral epicondylitis of elbow
+enthesopathy_upper	CTV3	N2132Y70T4	Tennis elbow
+enthesopathy_upper	CTV3	N2133Y70Su	Olecranon bursitis
+enthesopathy_upper	CTV3	N2134Y70Sb	Biceps tendinitis
+enthesopathy_upper	CTV3	N2135Y70We	Triceps tendinitis
+enthesopathy_upper	CTV3	N213zY70Sx	Elbow enthesopathy NOS
+enthesopathy_upper	CTV3	N214.YaXI8	Enthesopathy of the wrist and carpus
+enthesopathy_upper	CTV3	N2140Y70TV	Bursitis of wrist
+enthesopathy_upper	CTV3	N2141Y70TW	Bursitis of hand
+enthesopathy_upper	CTV3	N2142Y70TA	Periarthritis of wrist
+enthesopathy_upper	CTV3	Xaa6RYavzi	Carpometacarpal bossing
+enthesopathy_upper	CTV3	N214zY70TY	Wrist or carpus enthesopathy NOS
+enthesopathy_upper	CTV3	N2134Y70Sc	Bicipital tendinitis
+enthesopathy_upper	CTV3	XE1FUY70Tk	Trigger finger - acquired
+enthesopathy_upper	CTV3	XE1FUY70Tl	Trigger finger
+enthesopathy_upper	CTV3	XE1FUY70Tm	Snapping finger
+enthesopathy_upper	CTV3	N220GY70Tg	Trigger thumb
+enthesopathy_upper	CTV3	XE1FVY70TG	Radial styloid tenosynovitis
+enthesopathy_upper	CTV3	X40HSY41MB	De Quervain's thyroiditis
+enthesopathy_upper	CTV3	XE1FVY70TF	De Quervain's tenosynovitis
+enthesopathy_upper	CTV3	N220GY70Tf	Trigger thumb - acquired
+enthesopathy_upper	CTV3	XE1FWY70TE	Other tenosynovitis of hand or wrist
+enthesopathy_upper	CTV3	X706XY70TD	Other tenosynovitis of the hand
+enthesopathy_upper	CTV3	X706WY70TC	Other tenosynovitis of the wrist
+enthesopathy_upper	CTV3	X707tYae5T	Tenosynovitis of fingers
+enthesopathy_upper	CTV3	N220AY70X9	Flexor tenosynovitis of wrist
+enthesopathy_upper	CTV3	N220BY70TI	Flexor tenosynovitis of finger
+enthesopathy_upper	CTV3	N220CY70TJ	Flexor tenosynovitis of thumb
+enthesopathy_upper	CTV3	N220DY70TN	Extensor tenosynovitis of wrist
+enthesopathy_upper	CTV3	N220EY70TL	Extensor tenosynovitis of finger
+enthesopathy_upper	CTV3	N220FY70TM	Extensor tenosynovitis of thumb
+enthesopathy_upper	CTV3	N220RYMC0g	Chronic crepitant synovitis of hand and wrist
+enthesopathy_upper	CTV3	X702FY70FR	Synovitis of elbow
+enthesopathy_upper	CTV3	X702HYaoYX	Synovitis of shoulder
+enthesopathy_upper	CTV3	X702HY70FT	Shoulder synovitis
+enthesopathy_upper	CTV3	N2220Y70W4	Beat elbow
+enthesopathy_upper	CTV3	N2221Y70W3	Beat hand
+enthesopathy_upper	CTV3	N2261YM1gX	Rotator cuff complete rupture
+enthesopathy_upper	CTV3	S5Q4.YM1gj	Rupture biceps tendon
+enthesopathy_upper	CTV3	N2263YM0n2	Hand and wrist extensor tendon rupture
+enthesopathy_upper	CTV3	N2264YM0n3	Hand and wrist flexor tendon rupture
+enthesopathy_upper	CTV3	N2268YM0n4	Extensor digitorum communis rupture
+enthesopathy_upper	CTV3	S5S1.Y70se	Mallet thumb
+enthesopathy_upper	CTV3	S5S1.YA0uG	Rupture extensor pollicis longus
+enthesopathy_upper	CTV3	N226AY70SX	Long head of biceps rupture
+enthesopathy_upper	CTV3	S5T0.Ya16K	Flexor digitorum sublimis tendon rupture
+enthesopathy_upper	CTV3	S5T1.YA0u9	Rupture flexor digitorum profundus tendon
+enthesopathy_upper	CTV3	N226EYaXI9	Flexor pollicis longus tendon rupture
+enthesopathy_upper	CTV3	N23y9YMAqK	Calcific tendinitis
+enthesopathy_upper	CTV3	NyuA0YMAOU	[X]Other bursitis of elbow
+enthesopathy_upper	medcodeid	68050018	Subacromial bursitis
+enthesopathy_upper	medcodeid	68620010	Bicipital tenosynovitis
+enthesopathy_upper	medcodeid	73041019	Bursitis of wrist
+enthesopathy_upper	medcodeid	130615018	Subdeltoid bursitis
+enthesopathy_upper	medcodeid	178460018	Periarthritis of wrist
+enthesopathy_upper	medcodeid	311325017	Supraspinatus tendinitis
+enthesopathy_upper	medcodeid	311326016	Partial thickness rotator cuff tear
+enthesopathy_upper	medcodeid	311327013	Full thickness rotator cuff tear
+enthesopathy_upper	medcodeid	311336012	Subacromial impingement
+enthesopathy_upper	medcodeid	311442012	Flexor tenosynovitis of wrist
+enthesopathy_upper	medcodeid	311443019	Flexor tenosynovitis of finger
+enthesopathy_upper	medcodeid	311444013	Flexor tenosynovitis of thumb
+enthesopathy_upper	medcodeid	311445014	Extensor tenosynovitis of wrist
+enthesopathy_upper	medcodeid	311446010	Extensor tenosynovitis of finger
+enthesopathy_upper	medcodeid	311456014	Chronic crepitant synovitis of hand and wrist
+enthesopathy_upper	medcodeid	311519015	Flexor pollicis longus tendon rupture
+enthesopathy_upper	medcodeid	320526010	Flexor digitorum sublimis tendon rupture
+enthesopathy_upper	medcodeid	483645017	Calcifying tendinitis of the shoulder
+enthesopathy_upper	medcodeid	493441015	Trigger thumb - acquired
+enthesopathy_upper	medcodeid	496608016	Golfer's elbow
+enthesopathy_upper	medcodeid	345741000000115	Synovitis of shoulder
+enthesopathy_upper	medcodeid	2239701000000110	Carpometacarpal bossing
+enthesopathy_upper	medcodeid	311320010	Rotator cuff shoulder syndrome and allied disorders
+enthesopathy_upper	medcodeid	400302019	Other tenosynovitis of hand or wrist
+enthesopathy_upper	medcodeid	1228253018	Enthesopathy of the elbow region
+enthesopathy_upper	medcodeid	109031000006116	Tendonitis of thumb
+enthesopathy_upper	medcodeid	109341000006111	Tensynovitis of fingers
+enthesopathy_upper	medcodeid	113541000006115	Synovitis of elbow
+enthesopathy_upper	medcodeid	164821000006112	Rotator cuff complete rupture
+enthesopathy_upper	medcodeid	219651000000111	Adhesive capsulitis of the shoulder
+enthesopathy_upper	medcodeid	221621000000110	Tendonitis bicepital
+enthesopathy_upper	medcodeid	454631000006115	Acquired trigger thumb
+enthesopathy_upper	medcodeid	646141000006114	Enthesopathy of the wrist and carpus
+enthesopathy_upper	medcodeid	657981000006117	Extensor pollicis longus rupture
+enthesopathy_upper	medcodeid	713261000006110	Medial epicondylitis of the elbow
+enthesopathy_upper	medcodeid	761911000006119	Flexor digitorum profundus tendon rupture
+enthesopathy_upper	medcodeid	784571000006116	Impingement syndrome of shoulder
+enthesopathy_upper	medcodeid	359542012	Painful arc syndrome
+enthesopathy_upper	medcodeid	1778711014	Supraspinatus syndrome
+enthesopathy_upper	medcodeid	49155011	Beat hand
+enthesopathy_upper	medcodeid	128927013	Beat elbow
+enthesopathy_upper	medcodeid	140831000006110	Shoulder tendonitis
+enthesopathy_upper	medcodeid	2673129012	Olecranon bursitis
+enthesopathy_upper	medcodeid	359328017	Shoulder synovitis
+enthesopathy_upper	medcodeid	359546010	Bursitis of shoulder
+enthesopathy_upper	medcodeid	311345013	Biceps tendinitis
+enthesopathy_upper	medcodeid	311510016	Hand and wrist flexor tendon rupture
+enthesopathy_upper	medcodeid	311515014	Long head of biceps rupture
+enthesopathy_upper	medcodeid	36572013	Radial styloid tenosynovitis
+enthesopathy_upper	medcodeid	158048010	Calcific tendinitis
+enthesopathy_upper	medcodeid	311340015	Other shoulder affections NEC, NOS
+enthesopathy_upper	medcodeid	311348010	Elbow enthesopathy NOS
+enthesopathy_upper	medcodeid	219661000000114	Bursitis - shoulder
+enthesopathy_upper	medcodeid	221611000000116	Bicepital tendonitis
+enthesopathy_upper	medcodeid	36573015	de Quervain's disease
+enthesopathy_upper	medcodeid	493439016	Trigger thumb
+enthesopathy_upper	medcodeid	311343018	Tennis elbow
+enthesopathy_upper	medcodeid	311347017	Triceps tendinitis
+enthesopathy_upper	medcodeid	311513019	Extensor digitorum communis rupture
+enthesopathy_upper	medcodeid	400295013	Rotator cuff syndrome, unspecified
+enthesopathy_upper	medcodeid	311333016	Other shoulder affections NEC
+enthesopathy_upper	medcodeid	1786699016	Frozen shoulder
+enthesopathy_upper	medcodeid	1786700015	Periarthritis of shoulder
+enthesopathy_upper	medcodeid	311335011	Scapulohumeral fibrositis
+enthesopathy_upper	medcodeid	311337015	Coracoid impingement
+enthesopathy_upper	medcodeid	311509014	Hand and wrist extensor tendon rupture
+enthesopathy_upper	medcodeid	221641000000115	Supraspinatus tendonitis
+enthesopathy_upper	medcodeid	749561000006115	Lateral epicondylitis of the elbow
+enthesopathy_upper	medcodeid	311350019	Wrist or carpus enthesopathy NOS
+enthesopathy_upper	medcodeid	359326018	Synovitis of elbow
+enthesopathy_upper	medcodeid	311447018	Extensor tenosynovitis of thumb
+enthesopathy_upper	medcodeid	95394012	Bursitis of hand
+enthesopathy_upper	medcodeid	312657011	[X]Other bursitis of elbow
+enthesopathy_upper	medcodeid	311341016	Elbow enthesopathy unspecified
+enthesopathy_upper	medcodeid	359560012	Other tenosynovitis of the wrist
+enthesopathy_upper	medcodeid	359561011	Other tenosynovitis of the hand
+enthesopathy_upper	medcodeid	400296014	Rotator cuff syndrome NOS
+enthesopathy_upper	medcodeid	87741000006114	Trigger finger - acquired
+enthesopathy_upper	medcodeid	101011000006114	Thumb trigger
+enthesopathy_upper	medcodeid	122681000006110	Subacromial bursitis
+enthesopathy_upper	medcodeid	137921000006118	Snapping fingers
+enthesopathy_upper	medcodeid	510491000006113	Biceps tendon rupture
+enthesopathy_upper	medcodeid	710181000006116	Finger trigger
+enthesopathy_upper	SNOMEDCT	40799003	Subacromial bursitis
+enthesopathy_upper	SNOMEDCT	41137001	Bicipital tenosynovitis
+enthesopathy_upper	SNOMEDCT	43800000	Bursitis of wrist
+enthesopathy_upper	SNOMEDCT	78715003	Subdeltoid bursitis
+enthesopathy_upper	SNOMEDCT	111242007	Periarthritis of wrist
+enthesopathy_upper	SNOMEDCT	202841003	Supraspinatus tendinitis
+enthesopathy_upper	SNOMEDCT	202842005	Partial thickness rotator cuff tear
+enthesopathy_upper	SNOMEDCT	202843000	Full thickness rotator cuff tear
+enthesopathy_upper	SNOMEDCT	202849001	Subacromial impingement
+enthesopathy_upper	SNOMEDCT	202911004	Flexor tenosynovitis of wrist
+enthesopathy_upper	SNOMEDCT	202912006	Flexor tenosynovitis of finger
+enthesopathy_upper	SNOMEDCT	202913001	Flexor tenosynovitis of thumb
+enthesopathy_upper	SNOMEDCT	202914007	Extensor tenosynovitis of wrist
+enthesopathy_upper	SNOMEDCT	202915008	Extensor tenosynovitis of finger
+enthesopathy_upper	SNOMEDCT	202925003	Chronic crepitant synovitis of hand and wrist
+enthesopathy_upper	SNOMEDCT	202971005	Flexor pollicis longus tendon rupture
+enthesopathy_upper	SNOMEDCT	209771004	Flexor digitorum sublimis tendon rupture
+enthesopathy_upper	SNOMEDCT	27741009	Calcifying tendinitis of the shoulder
+enthesopathy_upper	SNOMEDCT	42786005	Trigger thumb - acquired
+enthesopathy_upper	SNOMEDCT	53286005	Golfer's elbow
+enthesopathy_upper	SNOMEDCT	239818009	Synovitis of shoulder
+enthesopathy_upper	SNOMEDCT	866511000000105	Carpometacarpal bossing
+enthesopathy_upper	SNOMEDCT	4106009	Rotator cuff shoulder syndrome and allied disorders
+enthesopathy_upper	SNOMEDCT	67801009	Other tenosynovitis of hand or wrist
+enthesopathy_upper	SNOMEDCT	35185008	Enthesopathy of the elbow region
+enthesopathy_upper	SNOMEDCT	67801009	Tendonitis of thumb
+enthesopathy_upper	SNOMEDCT	240036003	Tensynovitis of fingers
+enthesopathy_upper	SNOMEDCT	239816008	Synovitis of elbow
+enthesopathy_upper	SNOMEDCT	202843000	Rotator cuff complete rupture
+enthesopathy_upper	SNOMEDCT	399114005	Adhesive capsulitis of the shoulder
+enthesopathy_upper	SNOMEDCT	202856007	Tendonitis bicepital
+enthesopathy_upper	SNOMEDCT	42786005	Acquired trigger thumb
+enthesopathy_upper	SNOMEDCT	33439002	Enthesopathy of the wrist and carpus
+enthesopathy_upper	SNOMEDCT	209767002	Extensor pollicis longus rupture
+enthesopathy_upper	SNOMEDCT	53286005	Medial epicondylitis of the elbow
+enthesopathy_upper	SNOMEDCT	209772006	Flexor digitorum profundus tendon rupture
+enthesopathy_upper	SNOMEDCT	239960007	Impingement syndrome of shoulder
+enthesopathy_upper	SNOMEDCT	202841003	Painful arc syndrome
+enthesopathy_upper	SNOMEDCT	202841003	Supraspinatus syndrome
+enthesopathy_upper	SNOMEDCT	57356000	Beat hand
+enthesopathy_upper	SNOMEDCT	712484007	Beat elbow
+enthesopathy_upper	SNOMEDCT	442520000	Shoulder tendonitis
+enthesopathy_upper	SNOMEDCT	425940002	Olecranon bursitis
+enthesopathy_upper	SNOMEDCT	239818009	Shoulder synovitis
+enthesopathy_upper	SNOMEDCT	239961006	Bursitis of shoulder
+enthesopathy_upper	SNOMEDCT	202856007	Biceps tendinitis
+enthesopathy_upper	SNOMEDCT	202962001	Hand and wrist flexor tendon rupture
+enthesopathy_upper	SNOMEDCT	202967007	Long head of biceps rupture
+enthesopathy_upper	SNOMEDCT	21794005	Radial styloid tenosynovitis
+enthesopathy_upper	SNOMEDCT	95414005	Calcific tendinitis
+enthesopathy_upper	SNOMEDCT	239954007	Other shoulder affections NEC, NOS
+enthesopathy_upper	SNOMEDCT	35185008	Elbow enthesopathy NOS
+enthesopathy_upper	SNOMEDCT	239961006	Bursitis - shoulder
+enthesopathy_upper	SNOMEDCT	202856007	Bicepital tendonitis
+enthesopathy_upper	SNOMEDCT	21794005	de Quervain's disease
+enthesopathy_upper	SNOMEDCT	42786005	Trigger thumb
+enthesopathy_upper	SNOMEDCT	202855006	Tennis elbow
+enthesopathy_upper	SNOMEDCT	202857003	Triceps tendinitis
+enthesopathy_upper	SNOMEDCT	202965004	Extensor digitorum communis rupture
+enthesopathy_upper	SNOMEDCT	4106009	Rotator cuff syndrome, unspecified
+enthesopathy_upper	SNOMEDCT	239954007	Other shoulder affections NEC
+enthesopathy_upper	SNOMEDCT	399114005	Frozen shoulder
+enthesopathy_upper	SNOMEDCT	399114005	Periarthritis of shoulder
+enthesopathy_upper	SNOMEDCT	202848009	Scapulohumeral fibrositis
+enthesopathy_upper	SNOMEDCT	202850001	Coracoid impingement
+enthesopathy_upper	SNOMEDCT	202961008	Hand and wrist extensor tendon rupture
+enthesopathy_upper	SNOMEDCT	202841003	Supraspinatus tendonitis
+enthesopathy_upper	SNOMEDCT	202855006	Lateral epicondylitis of the elbow
+enthesopathy_upper	SNOMEDCT	302936009	Wrist or carpus enthesopathy NOS
+enthesopathy_upper	SNOMEDCT	202916009	Extensor tenosynovitis of thumb
+enthesopathy_upper	SNOMEDCT	57356000	Bursitis of hand
+enthesopathy_upper	SNOMEDCT	712484007	[X]Other bursitis of elbow
+enthesopathy_upper	SNOMEDCT	35185008	Elbow enthesopathy unspecified
+enthesopathy_upper	SNOMEDCT	442048005	Other tenosynovitis of the wrist
+enthesopathy_upper	SNOMEDCT	423778009	Other tenosynovitis of the hand
+enthesopathy_upper	SNOMEDCT	4106009	Rotator cuff syndrome NOS
+enthesopathy_upper	SNOMEDCT	1539003	Trigger finger - acquired
+enthesopathy_upper	SNOMEDCT	42786005	Thumb trigger
+enthesopathy_upper	SNOMEDCT	1539003	Snapping fingers
+enthesopathy_upper	SNOMEDCT	428883008	Biceps tendon rupture
+enthesopathy_upper	SNOMEDCT	1539003	Finger trigger
+enthesopathy_upper	Read2_5digit	N210.	Adhesive capsulitis of the shoulder
+enthesopathy_upper	Read2_5digit	N211.	Rotator cuff shoulder syndrome and allied disorders
+enthesopathy_upper	Read2_5digit	N2110	Rotator cuff syndrome, unspecified
+enthesopathy_upper	Read2_5digit	N2111	Calcifying tendinitis of the shoulder
+enthesopathy_upper	Read2_5digit	N2112	Bicipital tenosynovitis
+enthesopathy_upper	Read2_5digit	N2113	Supraspinatus tendinitis
+enthesopathy_upper	Read2_5digit	N2114	Partial thickness rotator cuff tear
+enthesopathy_upper	Read2_5digit	N2115	Full thickness rotator cuff tear
+enthesopathy_upper	Read2_5digit	N2116	Subacromial bursitis
+enthesopathy_upper	Read2_5digit	N2117	Subdeltoid bursitis
+enthesopathy_upper	Read2_5digit	N2118	Bursitis of shoulder
+enthesopathy_upper	Read2_5digit	N211z	Rotator cuff syndrome NOS
+enthesopathy_upper	Read2_5digit	N212.	Other shoulder affections NEC
+enthesopathy_upper	Read2_5digit	N2120	Periarthritis of shoulder
+enthesopathy_upper	Read2_5digit	N2121	Scapulohumeral fibrositis
+enthesopathy_upper	Read2_5digit	N2122	Subacromial impingement
+enthesopathy_upper	Read2_5digit	N2123	Coracoid impingement
+enthesopathy_upper	Read2_5digit	N2124	Impingement syndrome of shoulder
+enthesopathy_upper	Read2_5digit	N2125	Shoulder tendonitis
+enthesopathy_upper	Read2_5digit	N212z	Other shoulder affections NEC, NOS
+enthesopathy_upper	Read2_5digit	N213.	Enthesopathy of the elbow region
+enthesopathy_upper	Read2_5digit	N2130	Elbow enthesopathy unspecified
+enthesopathy_upper	Read2_5digit	N2131	Medial epicondylitis of the elbow
+enthesopathy_upper	Read2_5digit	N2132	Lateral epicondylitis of the elbow
+enthesopathy_upper	Read2_5digit	N2133	Olecranon bursitis
+enthesopathy_upper	Read2_5digit	N2134	Biceps tendinitis
+enthesopathy_upper	Read2_5digit	N2135	Triceps tendinitis
+enthesopathy_upper	Read2_5digit	N213z	Elbow enthesopathy NOS
+enthesopathy_upper	Read2_5digit	N214.	Enthesopathy of the wrist and carpus
+enthesopathy_upper	Read2_5digit	N2140	Bursitis of wrist
+enthesopathy_upper	Read2_5digit	N2141	Bursitis of hand
+enthesopathy_upper	Read2_5digit	N2142	Periarthritis of wrist
+enthesopathy_upper	Read2_5digit	N2143	Carpometacarpal bossing
+enthesopathy_upper	Read2_5digit	N214z	Wrist or carpus enthesopathy NOS
+enthesopathy_upper	Read2_5digit	N2203	Trigger finger - acquired
+enthesopathy_upper	Read2_5digit	N2204	Radial styloid tenosynovitis
+enthesopathy_upper	Read2_5digit	N2205	Other tenosynovitis of hand or wrist
+enthesopathy_upper	Read2_5digit	N220A	Flexor tenosynovitis of wrist
+enthesopathy_upper	Read2_5digit	N220B	Flexor tenosynovitis of finger
+enthesopathy_upper	Read2_5digit	N220C	Flexor tenosynovitis of thumb
+enthesopathy_upper	Read2_5digit	N220D	Extensor tenosynovitis of wrist
+enthesopathy_upper	Read2_5digit	N220E	Extensor tenosynovitis of finger
+enthesopathy_upper	Read2_5digit	N220F	Extensor tenosynovitis of thumb
+enthesopathy_upper	Read2_5digit	N220G	Acquired trigger thumb
+enthesopathy_upper	Read2_5digit	N220R	Chronic crepitant synovitis of hand and wrist
+enthesopathy_upper	Read2_5digit	N220W	Synovitis of elbow
+enthesopathy_upper	Read2_5digit	N220X	Synovitis of shoulder
+enthesopathy_upper	Read2_5digit	N2220	Beat elbow
+enthesopathy_upper	Read2_5digit	N2221	Beat hand
+enthesopathy_upper	Read2_5digit	N2261	Rotator cuff complete rupture
+enthesopathy_upper	Read2_5digit	N2262	Biceps tendon rupture
+enthesopathy_upper	Read2_5digit	N2263	Hand and wrist extensor tendon rupture
+enthesopathy_upper	Read2_5digit	N2264	Hand and wrist flexor tendon rupture
+enthesopathy_upper	Read2_5digit	N2268	Extensor digitorum communis rupture
+enthesopathy_upper	Read2_5digit	N2269	Extensor pollicis longus rupture
+enthesopathy_upper	Read2_5digit	N226A	Long head of biceps rupture
+enthesopathy_upper	Read2_5digit	N226C	Flexor digitorum sublimis tendon rupture
+enthesopathy_upper	Read2_5digit	N226D	Flexor digitorum profundus tendon rupture
+enthesopathy_upper	Read2_5digit	N226E	Flexor pollicis longus tendon rupture
+enthesopathy_upper	Read2_5digit	N23y9	Calcific tendinitis
+enthesopathy_upper	Read2_5digit	NyuA0	[X]Other bursitis of elbow
+enthesopathy_upper	CTV3_5digit	XE1FL	Frozen shoulder
+enthesopathy_upper	CTV3_5digit	X706I	Bursitis of shoulder
+enthesopathy_upper	CTV3_5digit	N211.	Rotator cuff shoulder syndrome and allied disorders
+enthesopathy_upper	CTV3_5digit	XE1FM	Rotator cuff syndrome, unspecified
+enthesopathy_upper	CTV3_5digit	S5Q2.	Supraspinatus tear
+enthesopathy_upper	CTV3_5digit	X706F	Painful arc syndrome
+enthesopathy_upper	CTV3_5digit	N2111	Calcifying tendinitis of the shoulder
+enthesopathy_upper	CTV3_5digit	N2112	Bicipital tenosynovitis
+enthesopathy_upper	CTV3_5digit	N2113	Supraspinatus tendinitis
+enthesopathy_upper	CTV3_5digit	N2114	Partial thickness rotator cuff tear
+enthesopathy_upper	CTV3_5digit	N2115	Full thickness rotator cuff tear
+enthesopathy_upper	CTV3_5digit	N2116	Subacromial bursitis
+enthesopathy_upper	CTV3_5digit	N2117	Subdeltoid bursitis
+enthesopathy_upper	CTV3_5digit	XE1FN	Rotator cuff syndrome NOS
+enthesopathy_upper	CTV3_5digit	N212.	Other shoulder affections NEC
+enthesopathy_upper	CTV3_5digit	N2121	Scapulohumeral fibrositis
+enthesopathy_upper	CTV3_5digit	N2122	Subacromial impingement
+enthesopathy_upper	CTV3_5digit	N2123	Coracoid impingement
+enthesopathy_upper	CTV3_5digit	X706H	Impingement syndrome of shoulder region
+enthesopathy_upper	CTV3_5digit	N2125	Shoulder tendinitis
+enthesopathy_upper	CTV3_5digit	N212z	Other shoulder affections NEC, NOS
+enthesopathy_upper	CTV3_5digit	N213.	Enthesopathy of the elbow region
+enthesopathy_upper	CTV3_5digit	N2130	Elbow enthesopathy unspecified
+enthesopathy_upper	CTV3_5digit	N2131	Medial epicondylitis
+enthesopathy_upper	CTV3_5digit	N2132	Lateral epicondylitis
+enthesopathy_upper	CTV3_5digit	N2133	Olecranon bursitis
+enthesopathy_upper	CTV3_5digit	N2134	Biceps tendinitis
+enthesopathy_upper	CTV3_5digit	N2135	Triceps tendinitis
+enthesopathy_upper	CTV3_5digit	N213z	Elbow enthesopathy NOS
+enthesopathy_upper	CTV3_5digit	N214.	Enthesopathy of the wrist and carpus
+enthesopathy_upper	CTV3_5digit	N2140	Bursitis of wrist
+enthesopathy_upper	CTV3_5digit	N2141	Bursitis of hand
+enthesopathy_upper	CTV3_5digit	N2142	Periarthritis of wrist
+enthesopathy_upper	CTV3_5digit	Xaa6R	Carpometacarpal bossing
+enthesopathy_upper	CTV3_5digit	N214z	Wrist or carpus enthesopathy NOS
+enthesopathy_upper	CTV3_5digit	XE1FU	Trigger finger - acquired
+enthesopathy_upper	CTV3_5digit	N220G	Trigger thumb
+enthesopathy_upper	CTV3_5digit	XE1FV	Radial styloid tenosynovitis
+enthesopathy_upper	CTV3_5digit	X40HS	De Quervain's thyroiditis
+enthesopathy_upper	CTV3_5digit	XE1FW	Other tenosynovitis of hand or wrist
+enthesopathy_upper	CTV3_5digit	X706X	Other tenosynovitis of the hand
+enthesopathy_upper	CTV3_5digit	X706W	Other tenosynovitis of the wrist
+enthesopathy_upper	CTV3_5digit	X707t	Tenosynovitis of fingers
+enthesopathy_upper	CTV3_5digit	N220A	Flexor tenosynovitis of wrist
+enthesopathy_upper	CTV3_5digit	N220B	Flexor tenosynovitis of finger
+enthesopathy_upper	CTV3_5digit	N220C	Flexor tenosynovitis of thumb
+enthesopathy_upper	CTV3_5digit	N220D	Extensor tenosynovitis of wrist
+enthesopathy_upper	CTV3_5digit	N220E	Extensor tenosynovitis of finger
+enthesopathy_upper	CTV3_5digit	N220F	Extensor tenosynovitis of thumb
+enthesopathy_upper	CTV3_5digit	N220R	Chronic crepitant synovitis of hand and wrist
+enthesopathy_upper	CTV3_5digit	X702F	Synovitis of elbow
+enthesopathy_upper	CTV3_5digit	X702H	Synovitis of shoulder
+enthesopathy_upper	CTV3_5digit	N2220	Beat elbow
+enthesopathy_upper	CTV3_5digit	N2221	Beat hand
+enthesopathy_upper	CTV3_5digit	N2261	Rotator cuff complete rupture
+enthesopathy_upper	CTV3_5digit	S5Q4.	Rupture biceps tendon
+enthesopathy_upper	CTV3_5digit	N2263	Hand and wrist extensor tendon rupture
+enthesopathy_upper	CTV3_5digit	N2264	Hand and wrist flexor tendon rupture
+enthesopathy_upper	CTV3_5digit	N2268	Extensor digitorum communis rupture
+enthesopathy_upper	CTV3_5digit	S5S1.	Mallet thumb
+enthesopathy_upper	CTV3_5digit	N226A	Long head of biceps rupture
+enthesopathy_upper	CTV3_5digit	S5T0.	Flexor digitorum sublimis tendon rupture
+enthesopathy_upper	CTV3_5digit	S5T1.	Rupture flexor digitorum profundus tendon
+enthesopathy_upper	CTV3_5digit	N226E	Flexor pollicis longus tendon rupture
+enthesopathy_upper	CTV3_5digit	N23y9	Calcific tendinitis
+enthesopathy_upper	CTV3_5digit	NyuA0	[X]Other bursitis of elbow

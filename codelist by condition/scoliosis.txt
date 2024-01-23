@@ -1,0 +1,140 @@
+condition	vocab_id	code	description
+scoliosis	ICD10	M41	Scoliosis
+scoliosis	Read2	2376.00	O/E - kyphoscoliotic chest def
+scoliosis	Read2	7J44111	Dwyer anterior wiring of spine for scoliosis
+scoliosis	Read2	G411.00	Kyphoscoliotic heart disease
+scoliosis	Read2	N373.00	Kyphoscoliosis and scoliosis
+scoliosis	Read2	N373000	Idiopathic scoliosis
+scoliosis	Read2	N373100	Idiopathic kyphoscoliosis
+scoliosis	Read2	N373200	Resolving infantile idiopathic scoliosis
+scoliosis	Read2	N373300	Progressive infantile idiopathic scoliosis
+scoliosis	Read2	N373500	Thoracogenic scoliosis
+scoliosis	Read2	N373600	Postural scoliosis
+scoliosis	Read2	N373700	Adolescent idiopathic scoliosis
+scoliosis	Read2	N373z00	Kyphoscoliosis or scoliosis NOS
+scoliosis	Read2	N374300	Scoliosis associated with other condition
+scoliosis	Read2	N374A00	Scoliosis in skeletal dysplasia
+scoliosis	Read2	N374B00	Neuromuscular scoliosis
+scoliosis	Read2	N374C00	Scoliosis in neurofibromatosis
+scoliosis	Read2	N374D00	Scoliosis in connective tissue anomalies
+scoliosis	Read2	Nyu5300	[X]Other idiopathic scoliosis
+scoliosis	Read2	Nyu5400	[X]Other secondary scoliosis
+scoliosis	Read2	Nyu5500	[X]Other forms of scoliosis
+scoliosis	Read2	PE22.00	Congenital postural scoliosis
+scoliosis	Read2	PE23.00	Congenital scoliosis due to congenital bony malformation
+scoliosis	Read2	PG18.11	Congenital kyphoscoliosis
+scoliosis	CTV3	2376.YM04f	O/E - kyphoscoliotic chest def
+scoliosis	CTV3	7J441Y60ji	Dwyer anterior wiring of spine for scoliosis
+scoliosis	CTV3	XE0IrY60jh	Correction of spinal deformity and anterior instrumentation
+scoliosis	CTV3	G411.Y20E2	Kyphoscoliotic heart disease
+scoliosis	CTV3	N373.Y70qz	Kyphoscoliosis and scoliosis
+scoliosis	CTV3	N3730Y70rJ	Idiopathic scoliosis
+scoliosis	CTV3	N3731Y70rI	Idiopathic kyphoscoliosis
+scoliosis	CTV3	N3732Y70rH	Resolving infantile idiopathic scoliosis
+scoliosis	CTV3	N3733Y70rG	Progressive infantile idiopathic scoliosis
+scoliosis	CTV3	N3735Y70rE	Thoracogenic scoliosis
+scoliosis	CTV3	N3736Y70rD	Postural scoliosis
+scoliosis	CTV3	N3737Y70rC	Adolescent idiopathic scoliosis
+scoliosis	CTV3	N373zY70r9	Kyphoscoliosis or scoliosis NOS
+scoliosis	CTV3	N3743Y70r8	Scoliosis associated with other condition
+scoliosis	CTV3	N374AY70r7	Scoliosis in skeletal dysplasia
+scoliosis	CTV3	N374BY70r6	Neuromuscular scoliosis
+scoliosis	CTV3	N374CY70r5	Scoliosis in neurofibromatosis
+scoliosis	CTV3	N374DY70r4	Scoliosis in connective tissue anomalies
+scoliosis	CTV3	Nyu53YMANb	[X]Other idiopathic scoliosis
+scoliosis	CTV3	Nyu54YMANc	[X]Other secondary scoliosis
+scoliosis	CTV3	Nyu55YMANd	[X]Other forms of scoliosis
+scoliosis	CTV3	PE22.Y7IQi	Congenital postural scoliosis
+scoliosis	CTV3	PE23.Y7IRA	Congenital scoliosis due to bony malformation
+scoliosis	CTV3	X789EY7IR8	Congenital kyphoscoliosis
+scoliosis	medcodeid	35274016	Progressive infantile idiopathic scoliosis
+scoliosis	medcodeid	48227012	Resolving infantile idiopathic scoliosis
+scoliosis	medcodeid	312426019	Postural scoliosis
+scoliosis	medcodeid	312428018	Adolescent idiopathic scoliosis
+scoliosis	medcodeid	312445011	Scoliosis in skeletal dysplasia
+scoliosis	medcodeid	312447015	Scoliosis in neurofibromatosis
+scoliosis	medcodeid	2157548013	Congenital kyphoscoliosis
+scoliosis	medcodeid	312431017	Kyphoscoliosis or scoliosis NOS
+scoliosis	medcodeid	312438011	Scoliosis associated with other condition
+scoliosis	medcodeid	312596011	[X]Other idiopathic scoliosis
+scoliosis	medcodeid	312597019	[X]Other secondary scoliosis
+scoliosis	medcodeid	312598012	[X]Other forms of scoliosis
+scoliosis	medcodeid	632801000006118	Dwyer anterior wiring of spine for scoliosis
+scoliosis	medcodeid	253939017	O/E - kyphoscoliotic chest def
+scoliosis	medcodeid	312448013	Scoliosis in connective tissue anomalies
+scoliosis	medcodeid	312420013	Idiopathic scoliosis
+scoliosis	medcodeid	312421012	Idiopathic kyphoscoliosis
+scoliosis	medcodeid	121239018	Thoracogenic scoliosis
+scoliosis	medcodeid	585051000006118	Congenital scoliosis due to congenital bony malformation
+scoliosis	medcodeid	312419019	Kyphoscoliosis and scoliosis
+scoliosis	medcodeid	312446012	Neuromuscular scoliosis
+scoliosis	medcodeid	35209010	Congenital postural scoliosis
+scoliosis	medcodeid	76126013	Kyphoscoliotic heart disease
+scoliosis	SNOMEDCT	20980008	Progressive infantile idiopathic scoliosis
+scoliosis	SNOMEDCT	28801006	Resolving infantile idiopathic scoliosis
+scoliosis	SNOMEDCT	203645000	Postural scoliosis
+scoliosis	SNOMEDCT	203646004	Adolescent idiopathic scoliosis
+scoliosis	SNOMEDCT	203661003	Scoliosis in skeletal dysplasia
+scoliosis	SNOMEDCT	203663000	Scoliosis in neurofibromatosis
+scoliosis	SNOMEDCT	405772002	Congenital kyphoscoliosis
+scoliosis	SNOMEDCT	64217002	Kyphoscoliosis or scoliosis NOS
+scoliosis	SNOMEDCT	64217002	Scoliosis associated with other condition
+scoliosis	SNOMEDCT	203639008	[X]Other idiopathic scoliosis
+scoliosis	SNOMEDCT	111266001	[X]Other secondary scoliosis
+scoliosis	SNOMEDCT	298382003	[X]Other forms of scoliosis
+scoliosis	SNOMEDCT	265724005	Dwyer anterior wiring of spine for scoliosis
+scoliosis	SNOMEDCT	162929002	O/E - kyphoscoliotic chest def
+scoliosis	SNOMEDCT	203664006	Scoliosis in connective tissue anomalies
+scoliosis	SNOMEDCT	203639008	Idiopathic scoliosis
+scoliosis	SNOMEDCT	203640005	Idiopathic kyphoscoliosis
+scoliosis	SNOMEDCT	72992003	Thoracogenic scoliosis
+scoliosis	SNOMEDCT	205045003	Congenital scoliosis due to congenital bony malformation
+scoliosis	SNOMEDCT	203638000	Kyphoscoliosis and scoliosis
+scoliosis	SNOMEDCT	203662005	Neuromuscular scoliosis
+scoliosis	SNOMEDCT	20944008	Congenital postural scoliosis
+scoliosis	SNOMEDCT	45650007	Kyphoscoliotic heart disease
+scoliosis	Read2_5digit	2376.	O/E - kyphoscoliotic chest def
+scoliosis	Read2_5digit	G411.	Kyphoscoliotic heart disease
+scoliosis	Read2_5digit	N373.	Kyphoscoliosis and scoliosis
+scoliosis	Read2_5digit	N3730	Idiopathic scoliosis
+scoliosis	Read2_5digit	N3731	Idiopathic kyphoscoliosis
+scoliosis	Read2_5digit	N3732	Resolving infantile idiopathic scoliosis
+scoliosis	Read2_5digit	N3733	Progressive infantile idiopathic scoliosis
+scoliosis	Read2_5digit	N3735	Thoracogenic scoliosis
+scoliosis	Read2_5digit	N3736	Postural scoliosis
+scoliosis	Read2_5digit	N3737	Adolescent idiopathic scoliosis
+scoliosis	Read2_5digit	N373z	Kyphoscoliosis or scoliosis NOS
+scoliosis	Read2_5digit	N3743	Scoliosis associated with other condition
+scoliosis	Read2_5digit	N374A	Scoliosis in skeletal dysplasia
+scoliosis	Read2_5digit	N374B	Neuromuscular scoliosis
+scoliosis	Read2_5digit	N374C	Scoliosis in neurofibromatosis
+scoliosis	Read2_5digit	N374D	Scoliosis in connective tissue anomalies
+scoliosis	Read2_5digit	Nyu53	[X]Other idiopathic scoliosis
+scoliosis	Read2_5digit	Nyu54	[X]Other secondary scoliosis
+scoliosis	Read2_5digit	Nyu55	[X]Other forms of scoliosis
+scoliosis	Read2_5digit	PE22.	Congenital postural scoliosis
+scoliosis	Read2_5digit	PE23.	Congenital scoliosis due to congenital bony malformation
+scoliosis	CTV3_5digit	2376.	O/E - kyphoscoliotic chest def
+scoliosis	CTV3_5digit	7J441	Dwyer anterior wiring of spine for scoliosis
+scoliosis	CTV3_5digit	XE0Ir	Correction of spinal deformity and anterior instrumentation
+scoliosis	CTV3_5digit	G411.	Kyphoscoliotic heart disease
+scoliosis	CTV3_5digit	N373.	Kyphoscoliosis and scoliosis
+scoliosis	CTV3_5digit	N3730	Idiopathic scoliosis
+scoliosis	CTV3_5digit	N3731	Idiopathic kyphoscoliosis
+scoliosis	CTV3_5digit	N3732	Resolving infantile idiopathic scoliosis
+scoliosis	CTV3_5digit	N3733	Progressive infantile idiopathic scoliosis
+scoliosis	CTV3_5digit	N3735	Thoracogenic scoliosis
+scoliosis	CTV3_5digit	N3736	Postural scoliosis
+scoliosis	CTV3_5digit	N3737	Adolescent idiopathic scoliosis
+scoliosis	CTV3_5digit	N373z	Kyphoscoliosis or scoliosis NOS
+scoliosis	CTV3_5digit	N3743	Scoliosis associated with other condition
+scoliosis	CTV3_5digit	N374A	Scoliosis in skeletal dysplasia
+scoliosis	CTV3_5digit	N374B	Neuromuscular scoliosis
+scoliosis	CTV3_5digit	N374C	Scoliosis in neurofibromatosis
+scoliosis	CTV3_5digit	N374D	Scoliosis in connective tissue anomalies
+scoliosis	CTV3_5digit	Nyu53	[X]Other idiopathic scoliosis
+scoliosis	CTV3_5digit	Nyu54	[X]Other secondary scoliosis
+scoliosis	CTV3_5digit	Nyu55	[X]Other forms of scoliosis
+scoliosis	CTV3_5digit	PE22.	Congenital postural scoliosis
+scoliosis	CTV3_5digit	PE23.	Congenital scoliosis due to bony malformation
+scoliosis	CTV3_5digit	X789E	Congenital kyphoscoliosis

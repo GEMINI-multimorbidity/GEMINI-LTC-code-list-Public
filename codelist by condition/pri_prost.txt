@@ -1,0 +1,79 @@
+condition	vocab_id	code	description
+pri_prost	ICD10	C61	Malignant neoplasm of prostate
+pri_prost	Read2	1427000	H/O: prostate cancer
+pri_prost	Read2	4M0..00	Gleason grading of prostate cancer
+pri_prost	Read2	4M00.00	Gleason prostate grade 2-4 (low)
+pri_prost	Read2	4M01.00	Gleason prostate grade 5-7 (medium)
+pri_prost	Read2	4M02.00	Gleason prostate grade 8-10 (high)
+pri_prost	Read2	7B20000	Radical cystoprostatourethrectomy
+pri_prost	Read2	7B20200	Radical cystoprostatectomy
+pri_prost	Read2	7B36000	Radical prostatectomy - unspecified excision of pelvic nodes
+pri_prost	Read2	7B36500	Radical prostatectomy without pelvic node excision
+pri_prost	Read2	7B36600	Radical prostatectomy with pelvic node sampling
+pri_prost	Read2	7B36700	Radical prostatectomy with pelvic lymphadenectomy
+pri_prost	Read2	B46..00	Malignant neoplasm of prostate
+pri_prost	Read2	ZV10415	[V]Personal history of malignant neoplasm of prostate
+pri_prost	CTV3	XaXGkYauKi	H/O: prostate cancer
+pri_prost	CTV3	XaImaYalK3	Gleason grading of prostate cancer
+pri_prost	CTV3	XaImbYalK4	Gleason prostate grade 2-4 (low)
+pri_prost	CTV3	XaImcYalK5	Gleason prostate grade 5-7 (medium)
+pri_prost	CTV3	XaImdYalK6	Gleason prostate grade 8-10 (high)
+pri_prost	CTV3	7B200Y30md	Radical cystoprostatourethrectomy
+pri_prost	CTV3	7B202Y30mh	Radical cystoprostatectomy
+pri_prost	CTV3	7B360Y30rF	Radical prostatectomy - unspecified excision of pelvic nodes
+pri_prost	CTV3	7B365Y30rJ	Radical prostatectomy without pelvic node excision
+pri_prost	CTV3	7B366Y30rI	Radical prostatectomy with pelvic node sampling
+pri_prost	CTV3	7B367Y30rH	Radical prostatectomy with pelvic lymphadenectomy
+pri_prost	CTV3	B46..Y7JjG	Malignant neoplasm of prostate
+pri_prost	CTV3	ZV104Ya0dZ	[V]Personal history of malignant neoplasm of prostate
+pri_prost	medcodeid	272628011	Radical cystoprostatourethrectomy
+pri_prost	medcodeid	1488634012	Gleason prostate grade 5-7 (medium)
+pri_prost	medcodeid	1490806016	Gleason prostate grade 2-4 (low)
+pri_prost	medcodeid	1227569012	[V]Personal history of malignant neoplasm of prostate
+pri_prost	medcodeid	1490807013	Gleason prostate grade 8-10 (high)
+pri_prost	medcodeid	134770016	Radical cystoprostatectomy
+pri_prost	medcodeid	844951000006111	Gleason grading of prostate cancer
+pri_prost	medcodeid	1717461000000112	H/O: prostate cancer
+pri_prost	medcodeid	272890012	Radical prostatectomy without pelvic node excision
+pri_prost	medcodeid	272891011	Radical prostatectomy with pelvic node sampling
+pri_prost	medcodeid	272892016	Radical prostatectomy with pelvic lymphadenectomy
+pri_prost	medcodeid	272887018	Radical prostatectomy - unspecified excision of pelvic nodes
+pri_prost	medcodeid	722361000006115	Malignant neoplasm of prostate
+pri_prost	SNOMEDCT	176106009	Radical cystoprostatourethrectomy
+pri_prost	SNOMEDCT	394932008	Gleason prostate grade 5-7 (medium)
+pri_prost	SNOMEDCT	369775001	Gleason prostate grade 2-4 (low)
+pri_prost	SNOMEDCT	428262008	[V]Personal history of malignant neoplasm of prostate
+pri_prost	SNOMEDCT	369777009	Gleason prostate grade 8-10 (high)
+pri_prost	SNOMEDCT	81232004	Radical cystoprostatectomy
+pri_prost	SNOMEDCT	385377005	Gleason grading of prostate cancer
+pri_prost	SNOMEDCT	428262008	H/O: prostate cancer
+pri_prost	SNOMEDCT	176261008	Radical prostatectomy without pelvic node excision
+pri_prost	SNOMEDCT	176262001	Radical prostatectomy with pelvic node sampling
+pri_prost	SNOMEDCT	176263006	Radical prostatectomy with pelvic lymphadenectomy
+pri_prost	SNOMEDCT	176263006	Radical prostatectomy - unspecified excision of pelvic nodes
+pri_prost	SNOMEDCT	399068003	Malignant neoplasm of prostate
+pri_prost	Read2_5digit	14270	H/O: prostate cancer
+pri_prost	Read2_5digit	4M0..	Gleason grading of prostate cancer
+pri_prost	Read2_5digit	4M00.	Gleason prostate grade 2-4 (low)
+pri_prost	Read2_5digit	4M01.	Gleason prostate grade 5-7 (medium)
+pri_prost	Read2_5digit	4M02.	Gleason prostate grade 8-10 (high)
+pri_prost	Read2_5digit	7B200	Radical cystoprostatourethrectomy
+pri_prost	Read2_5digit	7B202	Radical cystoprostatectomy
+pri_prost	Read2_5digit	7B360	Radical prostatectomy - unspecified excision of pelvic nodes
+pri_prost	Read2_5digit	7B365	Radical prostatectomy without pelvic node excision
+pri_prost	Read2_5digit	7B366	Radical prostatectomy with pelvic node sampling
+pri_prost	Read2_5digit	7B367	Radical prostatectomy with pelvic lymphadenectomy
+pri_prost	Read2_5digit	B46..	Malignant neoplasm of prostate
+pri_prost	CTV3_5digit	XaXGk	H/O: prostate cancer
+pri_prost	CTV3_5digit	XaIma	Gleason grading of prostate cancer
+pri_prost	CTV3_5digit	XaImb	Gleason prostate grade 2-4 (low)
+pri_prost	CTV3_5digit	XaImc	Gleason prostate grade 5-7 (medium)
+pri_prost	CTV3_5digit	XaImd	Gleason prostate grade 8-10 (high)
+pri_prost	CTV3_5digit	7B200	Radical cystoprostatourethrectomy
+pri_prost	CTV3_5digit	7B202	Radical cystoprostatectomy
+pri_prost	CTV3_5digit	7B360	Radical prostatectomy - unspecified excision of pelvic nodes
+pri_prost	CTV3_5digit	7B365	Radical prostatectomy without pelvic node excision
+pri_prost	CTV3_5digit	7B366	Radical prostatectomy with pelvic node sampling
+pri_prost	CTV3_5digit	7B367	Radical prostatectomy with pelvic lymphadenectomy
+pri_prost	CTV3_5digit	B46..	Malignant neoplasm of prostate
+pri_prost	CTV3_5digit	ZV104	[V]Personal history of malignant neoplasm of prostate

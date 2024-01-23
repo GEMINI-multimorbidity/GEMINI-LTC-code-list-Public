@@ -1,0 +1,34 @@
+condition	vocab_id	code	description
+IBS	ICD10	K58	Irritable bowel syndrome
+IBS	Read2	14CF.00	History of irritable bowel syndrome
+IBS	Read2	8Cm..00	Management of irritable bowel syndrome
+IBS	Read2	J521.00	Irritable colon - Irritable bowel syndrome
+IBS	Read2	J521.11	Irritable bowel syndrome
+IBS	Read2	J521.13	Spastic colon
+IBS	Read2	J521000	Irritable bowel syndrome with diarrhoea
+IBS	CTV3	XaLBmYaoFe	History of irritable bowel syndrome
+IBS	CTV3	XaYnpYav5v	Management of irritable bowel syndrome
+IBS	CTV3	XE0asY30JC	Irritable bowel syndrome
+IBS	CTV3	XE0asY30JG	Colon spasm
+IBS	CTV3	XE0asY30JM	Spastic colon
+IBS	CTV3	J5210YMAlT	Irritable bowel syndrome with diarrhoea
+IBS	medcodeid	18665016	Spastic colon
+IBS	medcodeid	18666015	Irritable bowel syndrome
+IBS	medcodeid	303071000000118	History of irritable bowel syndrome
+IBS	medcodeid	2129721000000119	Management of irritable bowel syndrome
+IBS	medcodeid	303172010	Irritable bowel syndrome with diarrhoea
+IBS	medcodeid	742351000006119	Irritable colon - Irritable bowel syndrome
+IBS	SNOMEDCT	10743008	Spastic colon
+IBS	SNOMEDCT	10743008	Irritable bowel syndrome
+IBS	SNOMEDCT	70871000119100	History of irritable bowel syndrome
+IBS	SNOMEDCT	817511000000108	Management of irritable bowel syndrome
+IBS	SNOMEDCT	197125005	Irritable bowel syndrome with diarrhoea
+IBS	SNOMEDCT	10743008	Irritable colon - Irritable bowel syndrome
+IBS	Read2_5digit	14CF.	History of irritable bowel syndrome
+IBS	Read2_5digit	8Cm..	Management of irritable bowel syndrome
+IBS	Read2_5digit	J521.	Irritable colon - Irritable bowel syndrome
+IBS	Read2_5digit	J5210	Irritable bowel syndrome with diarrhoea
+IBS	CTV3_5digit	XaLBm	History of irritable bowel syndrome
+IBS	CTV3_5digit	XaYnp	Management of irritable bowel syndrome
+IBS	CTV3_5digit	XE0as	Irritable bowel syndrome
+IBS	CTV3_5digit	J5210	Irritable bowel syndrome with diarrhoea

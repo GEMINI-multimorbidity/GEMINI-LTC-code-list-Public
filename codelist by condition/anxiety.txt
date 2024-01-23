@@ -1,0 +1,447 @@
+condition	vocab_id	code	description
+anxiety	ICD10	F40	Phobic anxiety disorders
+anxiety	ICD10	F41	Other anxiety disorders
+anxiety	Read2	1466.00	H/O: anxiety state
+anxiety	Read2	146G.00	H/O: agoraphobia
+anxiety	Read2	1B1H.11	Fear
+anxiety	Read2	1B1V.00	C/O - panic attack
+anxiety	Read2	1Bb..00	Specific fear
+anxiety	Read2	225J.00	O/E - panic attack
+anxiety	Read2	225K.00	O/E - fearful mood
+anxiety	Read2	285..00	Neurotic condition, insight present
+anxiety	Read2	286..00	Poor insight into neurotic condition
+anxiety	Read2	8G52.00	Antiphobic therapy
+anxiety	Read2	8G94.00	Anxiety management training
+anxiety	Read2	8HHp.00	Referral for guided self-help for anxiety
+anxiety	Read2	9N54.00	Encounter for fear
+anxiety	Read2	E20..00	Neurotic disorders
+anxiety	Read2	E200.00	Anxiety states
+anxiety	Read2	E200000	Anxiety state unspecified
+anxiety	Read2	E200100	Panic disorder
+anxiety	Read2	E200111	Panic attack
+anxiety	Read2	E200200	Generalised anxiety disorder
+anxiety	Read2	E200300	Anxiety with depression
+anxiety	Read2	E200400	Chronic anxiety
+anxiety	Read2	E200500	Recurrent anxiety
+anxiety	Read2	E200z00	Anxiety state NOS
+anxiety	Read2	E201B00	Compensation neurosis
+anxiety	Read2	E202.00	Phobic disorders
+anxiety	Read2	E202.11	Social phobic disorders
+anxiety	Read2	E202.12	Phobic anxiety
+anxiety	Read2	E202000	Phobia unspecified
+anxiety	Read2	E202100	Agoraphobia with panic attacks
+anxiety	Read2	E202200	Agoraphobia without mention of panic attacks
+anxiety	Read2	E202300	Social phobia, fear of eating in public
+anxiety	Read2	E202400	Social phobia, fear of public speaking
+anxiety	Read2	E202500	Social phobia, fear of public washing
+anxiety	Read2	E202600	Acrophobia
+anxiety	Read2	E202700	Animal phobia
+anxiety	Read2	E202800	Claustrophobia
+anxiety	Read2	E202900	Fear of crowds
+anxiety	Read2	E202A00	Fear of flying
+anxiety	Read2	E202B00	Cancer phobia
+anxiety	Read2	E202C00	Dental phobia
+anxiety	Read2	E202D00	Fear of death
+anxiety	Read2	E202E00	Fear of pregnancy
+anxiety	Read2	E202z00	Phobic disorder NOS
+anxiety	Read2	E20y.00	Other neurotic disorders
+anxiety	Read2	E20y100	Writer's cramp neurosis
+anxiety	Read2	E20y200	Other occupational neurosis
+anxiety	Read2	E20y300	Psychasthenic neurosis
+anxiety	Read2	E20yz00	Other neurotic disorder NOS
+anxiety	Read2	E20z.00	Neurotic disorder NOS
+anxiety	Read2	Eu34111	[X]Depressive neurosis
+anxiety	Read2	Eu34113	[X]Neurotic depression
+anxiety	Read2	Eu34114	[X]Persistant anxiety depression
+anxiety	Read2	Eu40.00	[X]Phobic anxiety disorders
+anxiety	Read2	Eu40000	[X]Agoraphobia
+anxiety	Read2	Eu40011	[X]Agoraphobia without history of panic disorder
+anxiety	Read2	Eu40012	[X]Panic disorder with agoraphobia
+anxiety	Read2	Eu40100	[X]Social phobias
+anxiety	Read2	Eu40112	[X]Social neurosis
+anxiety	Read2	Eu40200	[X]Specific (isolated) phobias
+anxiety	Read2	Eu40211	[X]Acrophobia
+anxiety	Read2	Eu40212	[X]Animal phobias
+anxiety	Read2	Eu40213	[X]Claustrophobia
+anxiety	Read2	Eu40214	[X]Simple phobia
+anxiety	Read2	Eu40300	[X]Needle phobia
+anxiety	Read2	Eu40y00	[X]Other phobic anxiety disorders
+anxiety	Read2	Eu40z00	[X]Phobic anxiety disorder, unspecified
+anxiety	Read2	Eu40z11	[X]Phobia NOS
+anxiety	Read2	Eu40z12	[X]Phobic state NOS
+anxiety	Read2	Eu41.00	[X]Other anxiety disorders
+anxiety	Read2	Eu41000	[X]Panic disorder [episodic paroxysmal anxiety]
+anxiety	Read2	Eu41011	[X]Panic attack
+anxiety	Read2	Eu41012	[X]Panic state
+anxiety	Read2	Eu41100	[X]Generalized anxiety disorder
+anxiety	Read2	Eu41111	[X]Anxiety neurosis
+anxiety	Read2	Eu41112	[X]Anxiety reaction
+anxiety	Read2	Eu41113	[X]Anxiety state
+anxiety	Read2	Eu41200	[X]Mixed anxiety and depressive disorder
+anxiety	Read2	Eu41211	[X]Mild anxiety depression
+anxiety	Read2	Eu41300	[X]Other mixed anxiety disorders
+anxiety	Read2	Eu41y00	[X]Other specified anxiety disorders
+anxiety	Read2	Eu41y11	[X]Anxiety hysteria
+anxiety	Read2	Eu41z00	[X]Anxiety disorder, unspecified
+anxiety	Read2	Eu41z11	[X]Anxiety NOS
+anxiety	Read2	Z481.00	Phobia counselling
+anxiety	Read2	Z4L1.00	Anxiety counselling
+anxiety	Read2	ZV11200	[V]Personal history of neurosis
+anxiety	CTV3	1466.Ya04H	H/O: anxiety state
+anxiety	CTV3	XaK2cYanBt	H/O: agoraphobia
+anxiety	CTV3	XE0riY7D8h	Fear
+anxiety	CTV3	XaIo7YalNU	C/O - panic attack
+anxiety	CTV3	X7627Ya0sq	Specific fear
+anxiety	CTV3	XaKVAYannE	O/E - panic attack
+anxiety	CTV3	XaKVNYannM	O/E - fearful mood
+anxiety	CTV3	XE1hkYM0rT	Neurotic condition, insight present
+anxiety	CTV3	XE1hlY01Fz	Poor insight into neurotic condition
+anxiety	CTV3	8G52.Y75X5	Antiphobic therapy
+anxiety	CTV3	Ub0qsYMD7r	Anxiety management training
+anxiety	CTV3	XaL0qYao6e	Referral for guided self-help for anxiety
+anxiety	CTV3	9N54.Y7ALK	Encounter for fear
+anxiety	CTV3	E20..Y01Fy	Neurotic disorder
+anxiety	CTV3	E200.Y01Gq	Anxiety state
+anxiety	CTV3	E200.Y01GY	Anxiety disorder
+anxiety	CTV3	E2000Y01Gb	Anxiety state unspecified
+anxiety	CTV3	XE1Y7Y01Gc	Panic disorder
+anxiety	CTV3	Ua1qSYMGBI	Panic attack
+anxiety	CTV3	E2002Y01Gl	Generalised anxiety disorder
+anxiety	CTV3	X00SbY01Gr	Mixed anxiety and depressive disorder
+anxiety	CTV3	X00SbY01Gs	Anxiety depression
+anxiety	CTV3	E2004YaYAu	Chronic anxiety
+anxiety	CTV3	E2005YaYAv	Recurrent anxiety
+anxiety	CTV3	E200zY01Ga	Anxiety state NOS
+anxiety	CTV3	E201BY01Hx	Compensation neurosis
+anxiety	CTV3	XE1YAY01GA	Phobia
+anxiety	CTV3	XE1YAYa5am	Phobic anxiety disorder
+anxiety	CTV3	X00SWY01GM	Social phobia
+anxiety	CTV3	E2020Y01GH	Phobia unspecified
+anxiety	CTV3	E2021Y01GL	Agoraphobia with panic attacks
+anxiety	CTV3	E2022Y01GK	Agoraphobia without mention of panic attacks
+anxiety	CTV3	E2023Y01GQ	Social phobia, fear of eating in public
+anxiety	CTV3	E2024Y01GP	Social phobia, fear of public speaking
+anxiety	CTV3	E2025Y01GO	Social phobia, fear of public washing
+anxiety	CTV3	E2026Y01GG	Acrophobia
+anxiety	CTV3	E2027Y01GS	Animal phobia
+anxiety	CTV3	E2028Y01GT	Claustrophobia
+anxiety	CTV3	E2029Y01GF	Fear of crowds
+anxiety	CTV3	X762GY7D9J	Fear of flying
+anxiety	CTV3	Xa7ljYaVCF	Cancer phobia
+anxiety	CTV3	E202CYaYAy	Dental phobia
+anxiety	CTV3	X762TY7D9Y	Fear of death
+anxiety	CTV3	E202EYaYB0	Fear of pregnancy
+anxiety	CTV3	XE1YBY01GE	Phobic disorder NOS
+anxiety	CTV3	E20y.Y01G3	Other neurotic disorders
+anxiety	CTV3	E20y1Y01G6	Writer's cramp neurosis
+anxiety	CTV3	E20y2Y01G5	Other occupational neurosis
+anxiety	CTV3	E20y3Y01G4	Psychasthenic neurosis
+anxiety	CTV3	E20yzY01G9	Other neurotic disorder NOS
+anxiety	CTV3	XE1YEY01G1	Neurotic disorder NOS
+anxiety	CTV3	E2112Y01Fv	Dysthymia
+anxiety	CTV3	E2112Y01Fw	Depressive neurosis
+anxiety	CTV3	E2112YMBxo	Neurotic depression
+anxiety	CTV3	Eu40.YMB4R	[X]Phobic anxiety disorders
+anxiety	CTV3	X00SVY01GI	Agoraphobia
+anxiety	CTV3	X00SVY01GJ	Phobia of going out
+anxiety	CTV3	X00SXY01GR	Simple phobia
+anxiety	CTV3	X00SXYa0so	Specific phobia
+anxiety	CTV3	X00SYY01GU	Needle phobia
+anxiety	CTV3	Eu40yYMB4V	[X]Other phobic anxiety disorders
+anxiety	CTV3	Eu40zYMB4W	[X]Phobic anxiety disorder, unspecified
+anxiety	CTV3	Eu41.YMB4X	[X]Other anxiety disorders
+anxiety	CTV3	Eu410YMB4Y	[X]Panic disorder [episodic paroxysmal anxiety]
+anxiety	CTV3	E2002Y01Gp	Anxiety neurosis
+anxiety	CTV3	E2002Y01Gq	Anxiety state
+anxiety	CTV3	Eu413YMB4b	[X]Other mixed anxiety disorders
+anxiety	CTV3	XE1ZjYMB4c	[X]Other specified anxiety disorders
+anxiety	CTV3	Eu41zYMB4d	[X]Anxiety disorder, unspecified
+anxiety	CTV3	ZV112Ya0e1	[V]Personal history of neurosis
+anxiety	medcodeid	56251019	Compensation neurosis
+anxiety	medcodeid	65032014	Dental phobia
+anxiety	medcodeid	97986013	Acrophobia
+anxiety	medcodeid	166341019	Fear of death
+anxiety	medcodeid	251630012	H/O: anxiety state
+anxiety	medcodeid	283464017	Antiphobic therapy
+anxiety	medcodeid	294994012	Social phobia, fear of eating in public
+anxiety	medcodeid	294995013	Social phobia, fear of public speaking
+anxiety	medcodeid	294998010	Fear of crowds
+anxiety	medcodeid	295029017	Writer's cramp neurosis
+anxiety	medcodeid	295032019	Psychasthenic neurosis
+anxiety	medcodeid	342665019	Anxiety management training
+anxiety	medcodeid	370048011	Fear of flying
+anxiety	medcodeid	402503018	Neurotic condition, insight present
+anxiety	medcodeid	481154010	Generalised anxiety disorder
+anxiety	medcodeid	1210253015	Panic disorder
+anxiety	medcodeid	1231321013	Animal phobia
+anxiety	medcodeid	1488717011	C/O - panic attack
+anxiety	medcodeid	2533632018	H/O: agoraphobia
+anxiety	medcodeid	2549895012	O/E - panic attack
+anxiety	medcodeid	300681000000118	Referral for guided self-help for anxiety
+anxiety	medcodeid	294953016	Anxiety state unspecified
+anxiety	medcodeid	294993018	Agoraphobia without mention of panic attacks
+anxiety	medcodeid	295031014	Other occupational neurosis
+anxiety	medcodeid	295033012	Other neurotic disorder NOS
+anxiety	medcodeid	296224013	[X]Phobic anxiety disorders
+anxiety	medcodeid	296237011	[X]Phobic anxiety disorder, unspecified
+anxiety	medcodeid	296238018	[X]Other anxiety disorders
+anxiety	medcodeid	138401000006119	Social phobic disorders
+anxiety	medcodeid	223631000000113	Phobic disorders
+anxiety	medcodeid	362871000006111	[X]Agoraphobia
+anxiety	medcodeid	363281000006117	[X]Animal phobias
+anxiety	medcodeid	363641000006114	[X]Anxiety hysteria
+anxiety	medcodeid	363651000006111	[X]Anxiety neurosis
+anxiety	medcodeid	363671000006118	[X]Anxiety reaction
+anxiety	medcodeid	376741000006119	[X]Depressive neurosis
+anxiety	medcodeid	388071000006116	[X]Generalized anxiety disorder
+anxiety	medcodeid	398351000006110	[X]Mild anxiety depression
+anxiety	medcodeid	398561000006117	[X]Mixed anxiety and depressive disorder
+anxiety	medcodeid	418031000006113	[X]Panic attack
+anxiety	medcodeid	418061000006116	[X]Panic state
+anxiety	medcodeid	420671000006112	[X]Phobic state NOS
+anxiety	medcodeid	427071000006115	[X]Social phobias
+anxiety	medcodeid	488211000006112	Anxiety with depression
+anxiety	medcodeid	675881000006115	Neurotic disorders
+anxiety	medcodeid	980191000006111	[X]Needle phobia
+anxiety	medcodeid	419841000006116	[X]Persistant anxiety depression
+anxiety	medcodeid	426871000006113	[X]Simple phobia
+anxiety	medcodeid	460275012	[V]Personal history of neurosis
+anxiety	medcodeid	401783019	Neurotic disorder NOS
+anxiety	medcodeid	295026012	Other neurotic disorders
+anxiety	medcodeid	296249012	[X]Anxiety disorder, unspecified
+anxiety	medcodeid	370038014	Specific fear
+anxiety	medcodeid	362181000006117	[X]Acrophobia
+anxiety	medcodeid	363661000006113	[X]Anxiety NOS
+anxiety	medcodeid	427061000006110	[X]Social neurosis
+anxiety	medcodeid	294991016	Phobia unspecified
+anxiety	medcodeid	296239014	[X]Panic disorder [episodic paroxysmal anxiety]
+anxiety	medcodeid	2549835014	O/E - fearful mood
+anxiety	medcodeid	2665410014	Fear
+anxiety	medcodeid	402505013	Poor insight into neurotic condition
+anxiety	medcodeid	294960010	Chronic anxiety
+anxiety	medcodeid	294996014	Social phobia, fear of public washing
+anxiety	medcodeid	418051000006118	[X]Panic disorder with agoraphobia
+anxiety	medcodeid	362881000006114	[X]Agoraphobia without history of panic disorder
+anxiety	medcodeid	399961000006118	[X]Neurotic depression
+anxiety	medcodeid	294963012	Anxiety state NOS
+anxiety	medcodeid	485870016	Cancer phobia
+anxiety	medcodeid	339044013	Panic attack
+anxiety	medcodeid	294961014	Recurrent anxiety
+anxiety	medcodeid	295004011	Fear of pregnancy
+anxiety	medcodeid	296236019	[X]Other phobic anxiety disorders
+anxiety	medcodeid	401780016	Phobic disorder NOS
+anxiety	medcodeid	488201000006114	Anxiety states
+anxiety	medcodeid	363681000006115	[X]Anxiety state
+anxiety	medcodeid	371071000006117	[X]Claustrophobia
+anxiety	medcodeid	420631000006114	[X]Phobia NOS
+anxiety	medcodeid	427231000006111	[X]Specific (isolated) phobias
+anxiety	medcodeid	285365017	Encounter for fear
+anxiety	medcodeid	294992011	Agoraphobia with panic attacks
+anxiety	medcodeid	33475016	Claustrophobia
+anxiety	medcodeid	296245018	[X]Other mixed anxiety disorders
+anxiety	medcodeid	401881014	[X]Other specified anxiety disorders
+anxiety	medcodeid	223641000000116	Phobic anxiety
+anxiety	SNOMEDCT	33693007	Compensation neurosis
+anxiety	SNOMEDCT	38617005	Dental phobia
+anxiety	SNOMEDCT	58963008	Acrophobia
+anxiety	SNOMEDCT	102912007	Fear of death
+anxiety	SNOMEDCT	161470009	H/O: anxiety state
+anxiety	SNOMEDCT	183399002	Antiphobic therapy
+anxiety	SNOMEDCT	191724005	Social phobia, fear of eating in public
+anxiety	SNOMEDCT	191725006	Social phobia, fear of public speaking
+anxiety	SNOMEDCT	191728008	Fear of crowds
+anxiety	SNOMEDCT	191744004	Writer's cramp neurosis
+anxiety	SNOMEDCT	191746002	Psychasthenic neurosis
+anxiety	SNOMEDCT	228560001	Anxiety management training
+anxiety	SNOMEDCT	247853008	Fear of flying
+anxiety	SNOMEDCT	268957000	Neurotic condition, insight present
+anxiety	SNOMEDCT	21897009	Generalised anxiety disorder
+anxiety	SNOMEDCT	371631005	Panic disorder
+anxiety	SNOMEDCT	54307006	Animal phobia
+anxiety	SNOMEDCT	395017009	C/O - panic attack
+anxiety	SNOMEDCT	414371008	H/O: agoraphobia
+anxiety	SNOMEDCT	417676004	O/E - panic attack
+anxiety	SNOMEDCT	199101000000102	Referral for guided self-help for anxiety
+anxiety	SNOMEDCT	198288003	Anxiety state unspecified
+anxiety	SNOMEDCT	61569007	Agoraphobia without mention of panic attacks
+anxiety	SNOMEDCT	111475002	Other occupational neurosis
+anxiety	SNOMEDCT	111475002	Other neurotic disorder NOS
+anxiety	SNOMEDCT	386810004	[X]Phobic anxiety disorders
+anxiety	SNOMEDCT	386810004	[X]Phobic anxiety disorder, unspecified
+anxiety	SNOMEDCT	197480006	[X]Other anxiety disorders
+anxiety	SNOMEDCT	25501002	Social phobic disorders
+anxiety	SNOMEDCT	386810004	Phobic disorders
+anxiety	SNOMEDCT	70691001	[X]Agoraphobia
+anxiety	SNOMEDCT	54307006	[X]Animal phobias
+anxiety	SNOMEDCT	197480006	[X]Anxiety hysteria
+anxiety	SNOMEDCT	207363009	[X]Anxiety neurosis
+anxiety	SNOMEDCT	197480006	[X]Anxiety reaction
+anxiety	SNOMEDCT	78667006	[X]Depressive neurosis
+anxiety	SNOMEDCT	21897009	[X]Generalized anxiety disorder
+anxiety	SNOMEDCT	231504006	[X]Mild anxiety depression
+anxiety	SNOMEDCT	231504006	[X]Mixed anxiety and depressive disorder
+anxiety	SNOMEDCT	371631005	[X]Panic attack
+anxiety	SNOMEDCT	371631005	[X]Panic state
+anxiety	SNOMEDCT	386810004	[X]Phobic state NOS
+anxiety	SNOMEDCT	25501002	[X]Social phobias
+anxiety	SNOMEDCT	231504006	Anxiety with depression
+anxiety	SNOMEDCT	111475002	Neurotic disorders
+anxiety	SNOMEDCT	231501003	[X]Needle phobia
+anxiety	SNOMEDCT	231504006	[X]Persistant anxiety depression
+anxiety	SNOMEDCT	386810004	[X]Simple phobia
+anxiety	SNOMEDCT	161464003	[V]Personal history of neurosis
+anxiety	SNOMEDCT	111475002	Neurotic disorder NOS
+anxiety	SNOMEDCT	111475002	Other neurotic disorders
+anxiety	SNOMEDCT	197480006	[X]Anxiety disorder, unspecified
+anxiety	SNOMEDCT	247845000	Specific fear
+anxiety	SNOMEDCT	54587008	[X]Acrophobia
+anxiety	SNOMEDCT	197480006	[X]Anxiety NOS
+anxiety	SNOMEDCT	25501002	[X]Social neurosis
+anxiety	SNOMEDCT	386808001	Phobia unspecified
+anxiety	SNOMEDCT	371631005	[X]Panic disorder [episodic paroxysmal anxiety]
+anxiety	SNOMEDCT	417620007	O/E - fearful mood
+anxiety	SNOMEDCT	1402001	Fear
+anxiety	SNOMEDCT	268958005	Poor insight into neurotic condition
+anxiety	SNOMEDCT	191708009	Chronic anxiety
+anxiety	SNOMEDCT	191726007	Social phobia, fear of public washing
+anxiety	SNOMEDCT	191722009	[X]Panic disorder with agoraphobia
+anxiety	SNOMEDCT	70691001	[X]Agoraphobia without history of panic disorder
+anxiety	SNOMEDCT	78667006	[X]Neurotic depression
+anxiety	SNOMEDCT	198288003	Anxiety state NOS
+anxiety	SNOMEDCT	34563004	Cancer phobia
+anxiety	SNOMEDCT	225624000	Panic attack
+anxiety	SNOMEDCT	191709001	Recurrent anxiety
+anxiety	SNOMEDCT	191733007	Fear of pregnancy
+anxiety	SNOMEDCT	386810004	[X]Other phobic anxiety disorders
+anxiety	SNOMEDCT	386810004	Phobic disorder NOS
+anxiety	SNOMEDCT	197480006	Anxiety states
+anxiety	SNOMEDCT	198288003	[X]Anxiety state
+anxiety	SNOMEDCT	54587008	[X]Claustrophobia
+anxiety	SNOMEDCT	386810004	[X]Phobia NOS
+anxiety	SNOMEDCT	54587008	[X]Specific (isolated) phobias
+anxiety	SNOMEDCT	185348006	Encounter for fear
+anxiety	SNOMEDCT	191722009	Agoraphobia with panic attacks
+anxiety	SNOMEDCT	19887002	Claustrophobia
+anxiety	SNOMEDCT	231504006	[X]Other mixed anxiety disorders
+anxiety	SNOMEDCT	197480006	[X]Other specified anxiety disorders
+anxiety	SNOMEDCT	386810004	Phobic anxiety
+anxiety	Read2_5digit	1466.	H/O: anxiety state
+anxiety	Read2_5digit	146G.	H/O: agoraphobia
+anxiety	Read2_5digit	1B1H.	Fear
+anxiety	Read2_5digit	1B1V.	C/O - panic attack
+anxiety	Read2_5digit	1Bb..	Specific fear
+anxiety	Read2_5digit	225J.	O/E - panic attack
+anxiety	Read2_5digit	225K.	O/E - fearful mood
+anxiety	Read2_5digit	8G52.	Antiphobic therapy
+anxiety	Read2_5digit	8G94.	Anxiety management training
+anxiety	Read2_5digit	8HHp.	Referral for guided self-help for anxiety
+anxiety	Read2_5digit	9N54.	Encounter for fear
+anxiety	Read2_5digit	E20..	Neurotic disorders
+anxiety	Read2_5digit	E200.	Anxiety states
+anxiety	Read2_5digit	E2000	Anxiety state unspecified
+anxiety	Read2_5digit	E2001	Panic disorder
+anxiety	Read2_5digit	E2002	Generalised anxiety disorder
+anxiety	Read2_5digit	E2003	Anxiety with depression
+anxiety	Read2_5digit	E2004	Chronic anxiety
+anxiety	Read2_5digit	E2005	Recurrent anxiety
+anxiety	Read2_5digit	E200z	Anxiety state NOS
+anxiety	Read2_5digit	E201B	Compensation neurosis
+anxiety	Read2_5digit	E202.	Phobic disorders
+anxiety	Read2_5digit	E2020	Phobia unspecified
+anxiety	Read2_5digit	E2021	Agoraphobia with panic attacks
+anxiety	Read2_5digit	E2022	Agoraphobia without mention of panic attacks
+anxiety	Read2_5digit	E2023	Social phobia, fear of eating in public
+anxiety	Read2_5digit	E2024	Social phobia, fear of public speaking
+anxiety	Read2_5digit	E2025	Social phobia, fear of public washing
+anxiety	Read2_5digit	E2026	Acrophobia
+anxiety	Read2_5digit	E2027	Animal phobia
+anxiety	Read2_5digit	E2028	Claustrophobia
+anxiety	Read2_5digit	E2029	Fear of crowds
+anxiety	Read2_5digit	E202A	Fear of flying
+anxiety	Read2_5digit	E202B	Cancer phobia
+anxiety	Read2_5digit	E202C	Dental phobia
+anxiety	Read2_5digit	E202D	Fear of death
+anxiety	Read2_5digit	E202E	Fear of pregnancy
+anxiety	Read2_5digit	E20y.	Other neurotic disorders
+anxiety	Read2_5digit	E20y1	Writer's cramp neurosis
+anxiety	Read2_5digit	E20y2	Other occupational neurosis
+anxiety	Read2_5digit	E20y3	Psychasthenic neurosis
+anxiety	Read2_5digit	E20yz	Other neurotic disorder NOS
+anxiety	Read2_5digit	E20z.	Neurotic disorder NOS
+anxiety	Read2_5digit	Eu40.	[X]Phobic anxiety disorders
+anxiety	Read2_5digit	Eu400	[X]Agoraphobia
+anxiety	Read2_5digit	Eu401	[X]Social phobias
+anxiety	Read2_5digit	Eu402	[X]Specific (isolated) phobias
+anxiety	Read2_5digit	Eu403	[X]Needle phobia
+anxiety	Read2_5digit	Eu40y	[X]Other phobic anxiety disorders
+anxiety	Read2_5digit	Eu40z	[X]Phobic anxiety disorder, unspecified
+anxiety	Read2_5digit	Eu41.	[X]Other anxiety disorders
+anxiety	Read2_5digit	Eu410	[X]Panic disorder [episodic paroxysmal anxiety]
+anxiety	Read2_5digit	Eu411	[X]Generalized anxiety disorder
+anxiety	Read2_5digit	Eu412	[X]Mixed anxiety and depressive disorder
+anxiety	Read2_5digit	Eu413	[X]Other mixed anxiety disorders
+anxiety	Read2_5digit	Eu41y	[X]Other specified anxiety disorders
+anxiety	Read2_5digit	Eu41z	[X]Anxiety disorder, unspecified
+anxiety	Read2_5digit	Z481.	Phobia counselling
+anxiety	Read2_5digit	Z4L1.	Anxiety counselling
+anxiety	Read2_5digit	ZV112	[V]Personal history of neurosis
+anxiety	CTV3_5digit	1466.	H/O: anxiety state
+anxiety	CTV3_5digit	XaK2c	H/O: agoraphobia
+anxiety	CTV3_5digit	XE0ri	Fear
+anxiety	CTV3_5digit	XaIo7	C/O - panic attack
+anxiety	CTV3_5digit	X7627	Specific fear
+anxiety	CTV3_5digit	XaKVA	O/E - panic attack
+anxiety	CTV3_5digit	XaKVN	O/E - fearful mood
+anxiety	CTV3_5digit	XE1hk	Neurotic condition, insight present
+anxiety	CTV3_5digit	XE1hl	Poor insight into neurotic condition
+anxiety	CTV3_5digit	8G52.	Antiphobic therapy
+anxiety	CTV3_5digit	Ub0qs	Anxiety management training
+anxiety	CTV3_5digit	XaL0q	Referral for guided self-help for anxiety
+anxiety	CTV3_5digit	9N54.	Encounter for fear
+anxiety	CTV3_5digit	E20..	Neurotic disorder
+anxiety	CTV3_5digit	E200.	Anxiety state
+anxiety	CTV3_5digit	E2000	Anxiety state unspecified
+anxiety	CTV3_5digit	XE1Y7	Panic disorder
+anxiety	CTV3_5digit	Ua1qS	Panic attack
+anxiety	CTV3_5digit	E2002	Generalised anxiety disorder
+anxiety	CTV3_5digit	X00Sb	Mixed anxiety and depressive disorder
+anxiety	CTV3_5digit	E2004	Chronic anxiety
+anxiety	CTV3_5digit	E2005	Recurrent anxiety
+anxiety	CTV3_5digit	E200z	Anxiety state NOS
+anxiety	CTV3_5digit	E201B	Compensation neurosis
+anxiety	CTV3_5digit	XE1YA	Phobia
+anxiety	CTV3_5digit	X00SW	Social phobia
+anxiety	CTV3_5digit	E2020	Phobia unspecified
+anxiety	CTV3_5digit	E2021	Agoraphobia with panic attacks
+anxiety	CTV3_5digit	E2022	Agoraphobia without mention of panic attacks
+anxiety	CTV3_5digit	E2023	Social phobia, fear of eating in public
+anxiety	CTV3_5digit	E2024	Social phobia, fear of public speaking
+anxiety	CTV3_5digit	E2025	Social phobia, fear of public washing
+anxiety	CTV3_5digit	E2026	Acrophobia
+anxiety	CTV3_5digit	E2027	Animal phobia
+anxiety	CTV3_5digit	E2028	Claustrophobia
+anxiety	CTV3_5digit	E2029	Fear of crowds
+anxiety	CTV3_5digit	X762G	Fear of flying
+anxiety	CTV3_5digit	Xa7lj	Cancer phobia
+anxiety	CTV3_5digit	E202C	Dental phobia
+anxiety	CTV3_5digit	X762T	Fear of death
+anxiety	CTV3_5digit	E202E	Fear of pregnancy
+anxiety	CTV3_5digit	XE1YB	Phobic disorder NOS
+anxiety	CTV3_5digit	E20y.	Other neurotic disorders
+anxiety	CTV3_5digit	E20y2	Other occupational neurosis
+anxiety	CTV3_5digit	E20y3	Psychasthenic neurosis
+anxiety	CTV3_5digit	E20yz	Other neurotic disorder NOS
+anxiety	CTV3_5digit	XE1YE	Neurotic disorder NOS
+anxiety	CTV3_5digit	E2112	Dysthymia
+anxiety	CTV3_5digit	Eu40.	[X]Phobic anxiety disorders
+anxiety	CTV3_5digit	X00SV	Agoraphobia
+anxiety	CTV3_5digit	X00SX	Simple phobia
+anxiety	CTV3_5digit	X00SY	Needle phobia
+anxiety	CTV3_5digit	Eu40y	[X]Other phobic anxiety disorders
+anxiety	CTV3_5digit	Eu40z	[X]Phobic anxiety disorder, unspecified
+anxiety	CTV3_5digit	Eu41.	[X]Other anxiety disorders
+anxiety	CTV3_5digit	Eu410	[X]Panic disorder [episodic paroxysmal anxiety]
+anxiety	CTV3_5digit	Eu413	[X]Other mixed anxiety disorders
+anxiety	CTV3_5digit	XE1Zj	[X]Other specified anxiety disorders
+anxiety	CTV3_5digit	Eu41z	[X]Anxiety disorder, unspecified
+anxiety	CTV3_5digit	ZV112	[V]Personal history of neurosis

@@ -1,0 +1,177 @@
+condition	vocab_id	code	description
+valve_nonrheumatic	ICD10	I34	Nonrheumatic mitral valve disordersd
+valve_nonrheumatic	ICD10	I35	Nonrheumatic aortic valve disorders
+valve_nonrheumatic	Read2	G11..00	Mitral valve diseases
+valve_nonrheumatic	Read2	G114.00	Ruptured mitral valve cusp
+valve_nonrheumatic	Read2	G11z.00	Mitral valve disease NOS
+valve_nonrheumatic	Read2	G540.00	Mitral valve incompetence
+valve_nonrheumatic	Read2	G540.12	Mitral valve insufficiency
+valve_nonrheumatic	Read2	G540.14	Mitral valve regurgitation
+valve_nonrheumatic	Read2	G540.15	Mitral valve prolapse
+valve_nonrheumatic	Read2	G540.16	Mitral regurgitation
+valve_nonrheumatic	Read2	G540000	Mitral incompetence, non-rheumatic
+valve_nonrheumatic	Read2	G540100	Mitral incompetence, cause unspecified
+valve_nonrheumatic	Read2	G540200	Mitral valve prolapse
+valve_nonrheumatic	Read2	G540300	Mitral valve leaf prolapse
+valve_nonrheumatic	Read2	G540z00	Mitral valve disorders NOS
+valve_nonrheumatic	Read2	G541.00	Aortic valve disorders
+valve_nonrheumatic	Read2	G541000	Aortic incompetence, non-rheumatic
+valve_nonrheumatic	Read2	G541011	Aortic insufficiency, non-rheumatic
+valve_nonrheumatic	Read2	G541012	Aortic regurgitation, non-rheumatic
+valve_nonrheumatic	Read2	G541100	Aortic stenosis, non-rheumatic
+valve_nonrheumatic	Read2	G541200	Aortic incompetence alone, cause unspecified
+valve_nonrheumatic	Read2	G541211	Aortic insufficiency alone, cause unspecified
+valve_nonrheumatic	Read2	G541212	Aortic regurgitation alone, cause unspecified
+valve_nonrheumatic	Read2	G541300	Aortic stenosis alone, cause unspecified
+valve_nonrheumatic	Read2	G541400	Aortic valve stenosis with insufficiency
+valve_nonrheumatic	Read2	G541500	Aortic stenosis
+valve_nonrheumatic	Read2	G541600	Aortic valve sclerosis
+valve_nonrheumatic	Read2	G541700	Aortic valve calcification
+valve_nonrheumatic	Read2	G541z00	Aortic valve disorders NOS
+valve_nonrheumatic	Read2	Gyu1000	[X]Other mitral valve diseases
+valve_nonrheumatic	Read2	Gyu1100	[X]Other rheumatic aortic valve diseases
+valve_nonrheumatic	Read2	Gyu5500	[X]Other nonrheumatic mitral valve disorders
+valve_nonrheumatic	Read2	Gyu5600	[X]Other aortic valve disorders
+valve_nonrheumatic	Read2	Gyu5A00	[X]Aortic valve disorders in diseases classified elsewhere
+valve_nonrheumatic	CTV3	XE0UYY204W	Mitral valve disease
+valve_nonrheumatic	CTV3	X7787Y7Fpa	Perforated mitral leaflet
+valve_nonrheumatic	CTV3	X7787Y7FpZ	Torn mitral leaflet
+valve_nonrheumatic	CTV3	G11z.Y204Z	Mitral valve disease NOS
+valve_nonrheumatic	CTV3	XE0UxY204k	Mitral regurgitation
+valve_nonrheumatic	CTV3	XE0UxY204o	Mitral incompetence
+valve_nonrheumatic	CTV3	XE0UxY204l	Mitral valve insufficiency
+valve_nonrheumatic	CTV3	X200uY204y	Mitral valve prolapse
+valve_nonrheumatic	CTV3	XE0UxY204p	Mitral valve regurgitation
+valve_nonrheumatic	CTV3	G5400Y204v	Mitral incompetence, non-rheumatic
+valve_nonrheumatic	CTV3	G5401Y204w	Mitral incompetence, cause unspecified
+valve_nonrheumatic	CTV3	X777qYaXHq	Mitral valve leaf prolapse
+valve_nonrheumatic	CTV3	G540zY204Y	Mitral valve disorders NOS
+valve_nonrheumatic	CTV3	G541.Y205E	Aortic valve disease
+valve_nonrheumatic	CTV3	G5410Y205e	Aortic incompetence, non-rheumatic
+valve_nonrheumatic	CTV3	G5410Y205g	Aortic insufficiency, non-rheumatic
+valve_nonrheumatic	CTV3	G5410Y205f	Aortic regurgitation, non-rheumatic
+valve_nonrheumatic	CTV3	G5411Y205M	Aortic stenosis, non-rheumatic
+valve_nonrheumatic	CTV3	G5412Y205b	Aortic incompetence alone, cause unspecified
+valve_nonrheumatic	CTV3	G5412Y205c	Aortic insufficiency alone, cause unspecified
+valve_nonrheumatic	CTV3	G5412Y205d	Aortic regurgitation alone, cause unspecified
+valve_nonrheumatic	CTV3	G5413Y205L	Aortic stenosis alone, cause unspecified
+valve_nonrheumatic	CTV3	G5414YMAzK	Aortic valve stenosis with insufficiency
+valve_nonrheumatic	CTV3	X2011Y205I	Aortic stenosis
+valve_nonrheumatic	CTV3	XSDVNYSLfV	Aortic valve sclerosis
+valve_nonrheumatic	CTV3	X777cY7Fp3	Aortic valve calcification
+valve_nonrheumatic	CTV3	G541zY205F	Aortic valve disorders NOS
+valve_nonrheumatic	CTV3	Gyu10YMAGu	[X]Other mitral valve diseases
+valve_nonrheumatic	CTV3	Gyu11YMAGv	[X]Other rheumatic aortic valve diseases
+valve_nonrheumatic	CTV3	Gyu55YadFt	[X]Other non-rheumatic mitral valve disorders
+valve_nonrheumatic	CTV3	Gyu56YMAHL	[X]Other aortic valve disorders
+valve_nonrheumatic	CTV3	Gyu5AYMAHP	[X]Aortic valve disorders in diseases classified elsewhere
+valve_nonrheumatic	medcodeid	81186016	Mitral valve regurgitation
+valve_nonrheumatic	medcodeid	81192010	Mitral valve insufficiency
+valve_nonrheumatic	medcodeid	112523010	Aortic valve sclerosis
+valve_nonrheumatic	medcodeid	299980014	Mitral incompetence, non-rheumatic
+valve_nonrheumatic	medcodeid	299987012	Aortic insufficiency, non-rheumatic
+valve_nonrheumatic	medcodeid	374104011	Aortic valve calcification
+valve_nonrheumatic	medcodeid	374120018	Mitral valve leaf prolapse
+valve_nonrheumatic	medcodeid	2471474013	Mitral valve prolapse
+valve_nonrheumatic	medcodeid	299596016	Mitral valve disease NOS
+valve_nonrheumatic	medcodeid	299981013	Mitral incompetence, cause unspecified
+valve_nonrheumatic	medcodeid	299989010	Aortic incompetence alone, cause unspecified
+valve_nonrheumatic	medcodeid	299990018	Aortic stenosis alone, cause unspecified
+valve_nonrheumatic	medcodeid	299992014	Aortic valve disorders NOS
+valve_nonrheumatic	medcodeid	300864010	[X]Other rheumatic aortic valve diseases
+valve_nonrheumatic	medcodeid	300893010	[X]Other aortic valve disorders
+valve_nonrheumatic	medcodeid	1222314017	Aortic insufficiency alone, cause unspecified
+valve_nonrheumatic	medcodeid	1222315016	Aortic regurgitation alone, cause unspecified
+valve_nonrheumatic	medcodeid	412241000006110	[X]Other nonrheumatic mitral valve disorders
+valve_nonrheumatic	medcodeid	488521000006118	Aortic valve disorders
+valve_nonrheumatic	medcodeid	700891000006114	Mitral valve prolapse
+valve_nonrheumatic	medcodeid	1232103019	Aortic stenosis
+valve_nonrheumatic	medcodeid	159271000006119	Ruptured mitral valve cusp
+valve_nonrheumatic	medcodeid	299984017	Mitral valve disorders NOS
+valve_nonrheumatic	medcodeid	300863016	[X]Other mitral valve diseases
+valve_nonrheumatic	medcodeid	299985016	Aortic incompetence, non-rheumatic
+valve_nonrheumatic	medcodeid	299986015	Aortic regurgitation, non-rheumatic
+valve_nonrheumatic	medcodeid	300897011	[X]Aortic valve disorders in diseases classified elsewhere
+valve_nonrheumatic	medcodeid	81191015	Mitral valve incompetence
+valve_nonrheumatic	medcodeid	299988019	Aortic stenosis, non-rheumatic
+valve_nonrheumatic	medcodeid	299991019	Aortic valve stenosis with insufficiency
+valve_nonrheumatic	medcodeid	81193017	Mitral regurgitation
+valve_nonrheumatic	medcodeid	219511000000113	Mitral valve diseases
+valve_nonrheumatic	SNOMEDCT	48724000	Mitral valve regurgitation
+valve_nonrheumatic	SNOMEDCT	48724000	Mitral valve insufficiency
+valve_nonrheumatic	SNOMEDCT	67754003	Aortic valve sclerosis
+valve_nonrheumatic	SNOMEDCT	194978002	Mitral incompetence, non-rheumatic
+valve_nonrheumatic	SNOMEDCT	194983005	Aortic insufficiency, non-rheumatic
+valve_nonrheumatic	SNOMEDCT	250978003	Aortic valve calcification
+valve_nonrheumatic	SNOMEDCT	250989005	Mitral valve leaf prolapse
+valve_nonrheumatic	SNOMEDCT	409712001	Mitral valve prolapse
+valve_nonrheumatic	SNOMEDCT	11851006	Mitral valve disease NOS
+valve_nonrheumatic	SNOMEDCT	48724000	Mitral incompetence, cause unspecified
+valve_nonrheumatic	SNOMEDCT	60234000	Aortic incompetence alone, cause unspecified
+valve_nonrheumatic	SNOMEDCT	60573004	Aortic stenosis alone, cause unspecified
+valve_nonrheumatic	SNOMEDCT	8722008	Aortic valve disorders NOS
+valve_nonrheumatic	SNOMEDCT	12023003	[X]Other rheumatic aortic valve diseases
+valve_nonrheumatic	SNOMEDCT	8722008	[X]Other aortic valve disorders
+valve_nonrheumatic	SNOMEDCT	60234000	Aortic insufficiency alone, cause unspecified
+valve_nonrheumatic	SNOMEDCT	60234000	Aortic regurgitation alone, cause unspecified
+valve_nonrheumatic	SNOMEDCT	11851006	[X]Other nonrheumatic mitral valve disorders
+valve_nonrheumatic	SNOMEDCT	8722008	Aortic valve disorders
+valve_nonrheumatic	SNOMEDCT	60573004	Aortic stenosis
+valve_nonrheumatic	SNOMEDCT	251003004	Ruptured mitral valve cusp
+valve_nonrheumatic	SNOMEDCT	11851006	Mitral valve disorders NOS
+valve_nonrheumatic	SNOMEDCT	11851006	[X]Other mitral valve diseases
+valve_nonrheumatic	SNOMEDCT	194983005	Aortic incompetence, non-rheumatic
+valve_nonrheumatic	SNOMEDCT	194983005	Aortic regurgitation, non-rheumatic
+valve_nonrheumatic	SNOMEDCT	8722008	[X]Aortic valve disorders in diseases classified elsewhere
+valve_nonrheumatic	SNOMEDCT	48724000	Mitral valve incompetence
+valve_nonrheumatic	SNOMEDCT	194984004	Aortic stenosis, non-rheumatic
+valve_nonrheumatic	SNOMEDCT	194987006	Aortic valve stenosis with insufficiency
+valve_nonrheumatic	SNOMEDCT	48724000	Mitral regurgitation
+valve_nonrheumatic	SNOMEDCT	11851006	Mitral valve diseases
+valve_nonrheumatic	Read2_5digit	G114.	Ruptured mitral valve cusp
+valve_nonrheumatic	Read2_5digit	G11z.	Mitral valve disease NOS
+valve_nonrheumatic	Read2_5digit	G540.	Mitral valve incompetence
+valve_nonrheumatic	Read2_5digit	G5400	Mitral incompetence, non-rheumatic
+valve_nonrheumatic	Read2_5digit	G5401	Mitral incompetence, cause unspecified
+valve_nonrheumatic	Read2_5digit	G5402	Mitral valve prolapse
+valve_nonrheumatic	Read2_5digit	G5403	Mitral valve leaf prolapse
+valve_nonrheumatic	Read2_5digit	G540z	Mitral valve disorders NOS
+valve_nonrheumatic	Read2_5digit	G541.	Aortic valve disorders
+valve_nonrheumatic	Read2_5digit	G5410	Aortic incompetence, non-rheumatic
+valve_nonrheumatic	Read2_5digit	G5411	Aortic stenosis, non-rheumatic
+valve_nonrheumatic	Read2_5digit	G5412	Aortic incompetence alone, cause unspecified
+valve_nonrheumatic	Read2_5digit	G5413	Aortic stenosis alone, cause unspecified
+valve_nonrheumatic	Read2_5digit	G5414	Aortic valve stenosis with insufficiency
+valve_nonrheumatic	Read2_5digit	G5415	Aortic stenosis
+valve_nonrheumatic	Read2_5digit	G5416	Aortic valve sclerosis
+valve_nonrheumatic	Read2_5digit	G5417	Aortic valve calcification
+valve_nonrheumatic	Read2_5digit	G541z	Aortic valve disorders NOS
+valve_nonrheumatic	Read2_5digit	Gyu10	[X]Other mitral valve diseases
+valve_nonrheumatic	Read2_5digit	Gyu11	[X]Other rheumatic aortic valve diseases
+valve_nonrheumatic	Read2_5digit	Gyu55	[X]Other nonrheumatic mitral valve disorders
+valve_nonrheumatic	Read2_5digit	Gyu56	[X]Other aortic valve disorders
+valve_nonrheumatic	Read2_5digit	Gyu5A	[X]Aortic valve disorders in diseases classified elsewhere
+valve_nonrheumatic	CTV3_5digit	XE0UY	Mitral valve disease
+valve_nonrheumatic	CTV3_5digit	X7787	Perforated mitral leaflet
+valve_nonrheumatic	CTV3_5digit	G11z.	Mitral valve disease NOS
+valve_nonrheumatic	CTV3_5digit	XE0Ux	Mitral regurgitation
+valve_nonrheumatic	CTV3_5digit	X200u	Mitral valve prolapse
+valve_nonrheumatic	CTV3_5digit	G5400	Mitral incompetence, non-rheumatic
+valve_nonrheumatic	CTV3_5digit	G5401	Mitral incompetence, cause unspecified
+valve_nonrheumatic	CTV3_5digit	X777q	Mitral valve leaf prolapse
+valve_nonrheumatic	CTV3_5digit	G540z	Mitral valve disorders NOS
+valve_nonrheumatic	CTV3_5digit	G541.	Aortic valve disease
+valve_nonrheumatic	CTV3_5digit	G5410	Aortic incompetence, non-rheumatic
+valve_nonrheumatic	CTV3_5digit	G5411	Aortic stenosis, non-rheumatic
+valve_nonrheumatic	CTV3_5digit	G5412	Aortic incompetence alone, cause unspecified
+valve_nonrheumatic	CTV3_5digit	G5413	Aortic stenosis alone, cause unspecified
+valve_nonrheumatic	CTV3_5digit	G5414	Aortic valve stenosis with insufficiency
+valve_nonrheumatic	CTV3_5digit	X2011	Aortic stenosis
+valve_nonrheumatic	CTV3_5digit	XSDVN	Aortic valve sclerosis
+valve_nonrheumatic	CTV3_5digit	X777c	Aortic valve calcification
+valve_nonrheumatic	CTV3_5digit	G541z	Aortic valve disorders NOS
+valve_nonrheumatic	CTV3_5digit	Gyu10	[X]Other mitral valve diseases
+valve_nonrheumatic	CTV3_5digit	Gyu11	[X]Other rheumatic aortic valve diseases
+valve_nonrheumatic	CTV3_5digit	Gyu55	[X]Other non-rheumatic mitral valve disorders
+valve_nonrheumatic	CTV3_5digit	Gyu56	[X]Other aortic valve disorders
+valve_nonrheumatic	CTV3_5digit	Gyu5A	[X]Aortic valve disorders in diseases classified elsewhere

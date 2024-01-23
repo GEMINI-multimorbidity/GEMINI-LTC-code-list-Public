@@ -1,0 +1,398 @@
+condition	vocab_id	code	description
+dementia	ICD10	F00	Dementia in Alzheimer disease
+dementia	ICD10	F01	Vascular dementia
+dementia	ICD10	F03	Unspecified dementia
+dementia	ICD10	F05.1	Delirium superimposed on dementia
+dementia	ICD10	G30	Alzheimer disease
+dementia	Read2	1461.00	H/O: dementia
+dementia	Read2	66h..00	Dementia monitoring
+dementia	Read2	6AB..00	Dementia annual review
+dementia	Read2	8CMZ.00	Dementia care plan
+dementia	Read2	9hD..00	Exception reporting: dementia quality indicators
+dementia	Read2	9hD0.00	Excepted from dementia quality indicators: Patient unsuitable
+dementia	Read2	9hD1.00	Excepted from dementia quality indicators: Informed dissent
+dementia	Read2	9Ou..00	Dementia monitoring administration
+dementia	Read2	9Ou1.00	Dementia monitoring first letter
+dementia	Read2	9Ou2.00	Dementia monitoring second letter
+dementia	Read2	9Ou3.00	Dementia monitoring third letter
+dementia	Read2	9Ou4.00	Dementia monitoring verbal invite
+dementia	Read2	9Ou5.00	Dementia monitoring telephone invite
+dementia	Read2	E00..00	Senile and presenile organic psychotic conditions
+dementia	Read2	E00..11	Senile dementia
+dementia	Read2	E00..12	Senile/presenile dementia
+dementia	Read2	E000.00	Uncomplicated senile dementia
+dementia	Read2	E001.00	Presenile dementia
+dementia	Read2	E001000	Uncomplicated presenile dementia
+dementia	Read2	E001100	Presenile dementia with delirium
+dementia	Read2	E001200	Presenile dementia with paranoia
+dementia	Read2	E001300	Presenile dementia with depression
+dementia	Read2	E001z00	Presenile dementia NOS
+dementia	Read2	E002.00	Senile dementia with depressive or paranoid features
+dementia	Read2	E002000	Senile dementia with paranoia
+dementia	Read2	E002100	Senile dementia with depression
+dementia	Read2	E002z00	Senile dementia with depressive or paranoid features NOS
+dementia	Read2	E003.00	Senile dementia with delirium
+dementia	Read2	E004.00	Arteriosclerotic dementia
+dementia	Read2	E004.11	Multi infarct dementia
+dementia	Read2	E004000	Uncomplicated arteriosclerotic dementia
+dementia	Read2	E004100	Arteriosclerotic dementia with delirium
+dementia	Read2	E004200	Arteriosclerotic dementia with paranoia
+dementia	Read2	E004300	Arteriosclerotic dementia with depression
+dementia	Read2	E004z00	Arteriosclerotic dementia NOS
+dementia	Read2	E00y.00	Other senile and presenile organic psychoses
+dementia	Read2	E00y.11	Presbyophrenic psychosis
+dementia	Read2	E00z.00	Senile or presenile psychoses NOS
+dementia	Read2	E041.00	Dementia in conditions EC
+dementia	Read2	Eu00.00	[X]Dementia in Alzheimer's disease
+dementia	Read2	Eu00000	[X]Dementia in Alzheimer's disease with early onset
+dementia	Read2	Eu00011	[X]Presenile dementia,Alzheimer's type
+dementia	Read2	Eu00012	[X] Primary degenerative dementia of Alzheimer's type, presenile onset
+dementia	Read2	Eu00013	[X]Alzheimer's disease type 2
+dementia	Read2	Eu00100	[X]Dementia in Alzheimer's disease with late onset
+dementia	Read2	Eu00111	[X]Alzheimer's disease type 1
+dementia	Read2	Eu00112	[X]Senile dementia,Alzheimer's type
+dementia	Read2	Eu00113	[X]Primary degenerative dementia of Alzheimer's type, senile onset
+dementia	Read2	Eu00200	[X]Dementia in Alzheimer's dis, atypical or mixed type
+dementia	Read2	Eu00z00	[X]Dementia in Alzheimer's disease, unspecified
+dementia	Read2	Eu00z11	[X]Alzheimer's dementia unspec
+dementia	Read2	Eu01.00	[X]Vascular dementia
+dementia	Read2	Eu01.11	[X]Arteriosclerotic dementia
+dementia	Read2	Eu01000	[X]Vascular dementia of acute onset
+dementia	Read2	Eu01100	[X]Multi-infarct dementia
+dementia	Read2	Eu01111	[X]Predominantly cortical dementia
+dementia	Read2	Eu01200	[X]Subcortical vascular dementia
+dementia	Read2	Eu01300	[X]Mixed cortical and subcortical vascular dementia
+dementia	Read2	Eu01y00	[X]Other vascular dementia
+dementia	Read2	Eu01z00	[X]Vascular dementia, unspecified
+dementia	Read2	Eu02z00	[X] Unspecified dementia
+dementia	Read2	Eu02z11	[X] Presenile dementia NOS
+dementia	Read2	Eu02z12	[X] Presenile psychosis NOS
+dementia	Read2	Eu02z13	[X] Primary degenerative dementia NOS
+dementia	Read2	Eu02z14	[X] Senile dementia NOS
+dementia	Read2	Eu02z15	[X] Senile psychosis NOS
+dementia	Read2	Eu02z16	[X] Senile dementia, depressed or paranoid type
+dementia	Read2	Eu04100	[X]Delirium superimposed on dementia
+dementia	Read2	F110.00	Alzheimer's disease
+dementia	Read2	F110000	Alzheimer's disease with early onset
+dementia	Read2	F110100	Alzheimer's disease with late onset
+dementia	Read2	Fyu3000	[X]Other Alzheimer's disease
+dementia	Read2	ZS7C500	Language disorder of dementia
+dementia	CTV3	1461.Ya04C	H/O: dementia
+dementia	CTV3	XaMJCYapUB	Dementia monitoring
+dementia	CTV3	XaMGFYapQZ	Dementia annual review
+dementia	CTV3	XaaBZYaw3t	Dementia care plan
+dementia	CTV3	XaLFfYaoJD	Exception reporting: dementia quality indicators
+dementia	CTV3	XaLFoYaoJV	Excepted from dementia quality indicators: Patient unsuitable
+dementia	CTV3	XaLFpYaoJX	Excepted from dementia quality indicators: Informed dissent
+dementia	CTV3	XaMFyYapQG	Dementia monitoring administration
+dementia	CTV3	XaMG0YapQK	Dementia monitoring first letter
+dementia	CTV3	XaMGGYapQa	Dementia monitoring second letter
+dementia	CTV3	XaMGIYapQe	Dementia monitoring third letter
+dementia	CTV3	XaMGJYapQg	Dementia monitoring verbal invite
+dementia	CTV3	XaMGKYapQi	Dementia monitoring telephone invite
+dementia	CTV3	XE1XrY016M	Senile and presenile organic psychotic conditions
+dementia	CTV3	X00R2Y016Y	Senile dementia
+dementia	CTV3	X002wY00Gv	Dementia
+dementia	CTV3	E000.Y016e	Uncomplicated senile dementia
+dementia	CTV3	E001.Y016S	Presenile dementia
+dementia	CTV3	E0010Y016T	Uncomplicated presenile dementia
+dementia	CTV3	E0011Y016U	Presenile dementia with delirium
+dementia	CTV3	E0012Y016V	Presenile dementia with paranoia
+dementia	CTV3	E0013Y016W	Presenile dementia with depression
+dementia	CTV3	E001zY016X	Presenile dementia NOS
+dementia	CTV3	E002.Y016a	Senile dementia with depressive or paranoid features
+dementia	CTV3	E0020Y016b	Senile dementia with paranoia
+dementia	CTV3	E0021Y016c	Senile dementia with depression
+dementia	CTV3	E002zY016d	Senile dementia with depressive or paranoid features NOS
+dementia	CTV3	E003.Y016Z	Senile dementia with delirium
+dementia	CTV3	XE1XsY00Hw	Arteriosclerotic dementia
+dementia	CTV3	Xa0lHYadT0	Multi-infarct dementia
+dementia	CTV3	E0040Y0170	Uncomplicated arteriosclerotic dementia
+dementia	CTV3	E0041Y016z	Arteriosclerotic dementia with delirium
+dementia	CTV3	E0042Y016w	Arteriosclerotic dementia with paranoia
+dementia	CTV3	E0043Y016x	Arteriosclerotic dementia with depression
+dementia	CTV3	E004zY016y	Arteriosclerotic dementia NOS
+dementia	CTV3	XE1XtY016O	Other senile and presenile organic psychoses
+dementia	CTV3	X00R0Y016P	Presbyophrenic psychosis
+dementia	CTV3	E00z.Y016N	Senile or presenile psychoses NOS
+dementia	CTV3	E041.Y016f	Dementia in conditions EC
+dementia	CTV3	Eu00.YMB0i	[X]Dementia in Alzheimer's disease
+dementia	CTV3	X002xY00H0	Dementia in Alzheimer's disease with early onset
+dementia	CTV3	X002xY00H2	Presenile dementia, Alzheimer's type
+dementia	CTV3	X0030Y00H5	Dementia in Alzheimer's disease with late onset
+dementia	CTV3	X0030Y00H7	SDAT - Senile dementia, Alzheimer's type
+dementia	CTV3	Eu002YMB0l	[X]Dementia in Alzheimer's dis, atypical or mixed type
+dementia	CTV3	Eu00zYMB0m	[X]Dementia in Alzheimer's disease, unspecified
+dementia	CTV3	XE1XsY00Hv	Vascular dementia
+dementia	CTV3	X003RY00Hx	Vascular dementia of acute onset
+dementia	CTV3	Xa0lHY00dJ	MID - Multi-infarct dementia
+dementia	CTV3	X003TY00Hz	Subcortical vascular dementia
+dementia	CTV3	X003VY00I1	Mixed cortical and subcortical vascular dementia
+dementia	CTV3	Eu01yYMB0s	[X]Other vascular dementia
+dementia	CTV3	Eu01zYMB0t	[X]Vascular dementia, unspecified
+dementia	CTV3	XE1Z6YMB11	[X]Unspecified dementia
+dementia	CTV3	E00z.YMBwl	[X]Presenile psychosis NOS
+dementia	CTV3	Eu02zYMK1N	[X] Primary degenerative dementia NOS
+dementia	CTV3	Xa1GBYa2nk	Cerebral degeneration presenting primarily with dementia
+dementia	CTV3	Eu02zYMK1O	[X] Senile dementia NOS
+dementia	CTV3	Eu02zYMK1P	[X] Senile psychosis NOS
+dementia	CTV3	Eu041YMB15	[X]Delirium superimposed on dementia
+dementia	CTV3	F110.Y00Gw	Alzheimer's disease
+dementia	CTV3	XaIKBYMAhP	Alzheimer's disease with early onset
+dementia	CTV3	XaIKCYMAhQ	Alzheimer's disease with late onset
+dementia	CTV3	Fyu30YMADH	[X]Other Alzheimer's disease
+dementia	medcodeid	26545010	Senile dementia
+dementia	medcodeid	294637017	Uncomplicated presenile dementia
+dementia	medcodeid	294646011	Senile dementia with depression
+dementia	medcodeid	294648012	Senile dementia with delirium
+dementia	medcodeid	294652012	Uncomplicated arteriosclerotic dementia
+dementia	medcodeid	294653019	Arteriosclerotic dementia with delirium
+dementia	medcodeid	294654013	Arteriosclerotic dementia with paranoia
+dementia	medcodeid	294655014	Arteriosclerotic dementia with depression
+dementia	medcodeid	346897015	Presbyophrenic psychosis
+dementia	medcodeid	401757012	Senile and presenile organic psychotic conditions
+dementia	medcodeid	406841000000115	Dementia monitoring administration
+dementia	medcodeid	407461000000119	Dementia monitoring
+dementia	medcodeid	408401000000119	Dementia annual review
+dementia	medcodeid	497559016	Arteriosclerotic dementia
+dementia	medcodeid	294647019	Senile dementia with depressive or paranoid features NOS
+dementia	medcodeid	295680015	[X]Other vascular dementia
+dementia	medcodeid	299325013	[X]Other Alzheimer's disease
+dementia	medcodeid	401759010	Other senile and presenile organic psychoses
+dementia	medcodeid	294111000000119	Exception reporting: dementia quality indicators
+dementia	medcodeid	294321000000111	Excepted from dementia quality indicators: Informed dissent
+dementia	medcodeid	359141000006111	[X] Senile dementia NOS
+dementia	medcodeid	359161000006110	[X] Senile psychosis NOS
+dementia	medcodeid	376531000006119	[X]Dementia in Alzheimer's disease with early onset
+dementia	medcodeid	398571000006112	[X]Mixed cortical and subcortical vascular dementia
+dementia	medcodeid	399031000006111	[X]Multi-infarct dementia
+dementia	medcodeid	408481000000112	Dementia monitoring verbal invite
+dementia	medcodeid	423221000006117	[X]Predominantly cortical dementia
+dementia	medcodeid	423351000006115	[X]Presenile dementia,Alzheimer's type
+dementia	medcodeid	423381000006111	[X]Primary degen dementia of Alzheimer's type, senile onset
+dementia	medcodeid	423391000006114	[X]Primary degen dementia, Alzheimer's type, presenile onset
+dementia	medcodeid	428201000006119	[X]Subcortical vascular dementia
+dementia	medcodeid	431681000006117	[X]Vascular dementia
+dementia	medcodeid	431691000006119	[X]Vascular dementia of acute onset
+dementia	medcodeid	294656010	Arteriosclerotic dementia NOS
+dementia	medcodeid	359081000006118	[X] Presenile dementia NOS
+dementia	medcodeid	363791000006112	[X]Arteriosclerotic dementia
+dementia	medcodeid	295671015	[X]Dementia in Alzheimer's dis, atypical or mixed type
+dementia	medcodeid	425901000006116	[X]Senile dementia,Alzheimer's type
+dementia	medcodeid	408361000000111	Dementia monitoring first letter
+dementia	medcodeid	408421000000111	Dementia monitoring second letter
+dementia	medcodeid	294641018	Presenile dementia with paranoia
+dementia	medcodeid	294718018	Dementia in conditions EC
+dementia	medcodeid	363031000006111	[X]Alzheimer's disease type 1
+dementia	medcodeid	295681016	[X]Vascular dementia, unspecified
+dementia	medcodeid	408461000000115	Dementia monitoring third letter
+dementia	medcodeid	499946014	Alzheimer's disease with early onset
+dementia	medcodeid	500317011	Alzheimer's disease with late onset
+dementia	medcodeid	294635013	Uncomplicated senile dementia
+dementia	medcodeid	294638010	Presenile dementia with delirium
+dementia	medcodeid	21256010	Presenile dementia
+dementia	medcodeid	45046017	Alzheimer's disease
+dementia	medcodeid	251625013	H/O: dementia
+dementia	medcodeid	363041000006118	[X]Alzheimer's disease type 2
+dementia	medcodeid	376541000006112	[X]Dementia in Alzheimer's disease with late onset
+dementia	medcodeid	363021000006113	[X]Alzheimer's dementia unspec
+dementia	medcodeid	359091000006115	[X] Presenile psychosis NOS
+dementia	medcodeid	359241000006119	[X] Unspecified dementia
+dementia	medcodeid	408501000000115	Dementia monitoring telephone invite
+dementia	medcodeid	294660013	Senile or presenile psychoses NOS
+dementia	medcodeid	2248021000000110	Dementia care plan
+dementia	medcodeid	999961000006114	Excepted from dementia quality indicators: Patient unsuitabl
+dementia	medcodeid	295668011	[X]Dementia in Alzheimer's disease
+dementia	medcodeid	295672010	[X]Dementia in Alzheimer's disease, unspecified
+dementia	medcodeid	359151000006113	[X] Senile dementia, depressed or paranoid type
+dementia	medcodeid	359101000006114	[X] Primary degenerative dementia NOS
+dementia	medcodeid	294642013	Presenile dementia with depression
+dementia	medcodeid	294644014	Senile dementia with depressive or paranoid features
+dementia	medcodeid	294645010	Senile dementia with paranoia
+dementia	medcodeid	294643015	Presenile dementia NOS
+dementia	medcodeid	295714013	[X]Delirium superimposed on dementia
+dementia	medcodeid	148381000006115	Senile/presenile dementia
+dementia	medcodeid	696161000006115	Multi infarct dementia
+dementia	SNOMEDCT	15662003	Senile dementia
+dementia	SNOMEDCT	191451009	Uncomplicated presenile dementia
+dementia	SNOMEDCT	191459006	Senile dementia with depression
+dementia	SNOMEDCT	191461002	Senile dementia with delirium
+dementia	SNOMEDCT	191463004	Uncomplicated arteriosclerotic dementia
+dementia	SNOMEDCT	191464005	Arteriosclerotic dementia with delirium
+dementia	SNOMEDCT	191465006	Arteriosclerotic dementia with paranoia
+dementia	SNOMEDCT	191466007	Arteriosclerotic dementia with depression
+dementia	SNOMEDCT	231438001	Presbyophrenic psychosis
+dementia	SNOMEDCT	268612007	Senile and presenile organic psychotic conditions
+dementia	SNOMEDCT	713821000000106	Dementia monitoring administration
+dementia	SNOMEDCT	248711000000102	Dementia monitoring
+dementia	SNOMEDCT	249181000000100	Dementia annual review
+dementia	SNOMEDCT	56267009	Arteriosclerotic dementia
+dementia	SNOMEDCT	191457008	Senile dementia with depressive or paranoid features NOS
+dementia	SNOMEDCT	429998004	[X]Other vascular dementia
+dementia	SNOMEDCT	26929004	[X]Other Alzheimer's disease
+dementia	SNOMEDCT	268612007	Other senile and presenile organic psychoses
+dementia	SNOMEDCT	715881000000108	Exception reporting: dementia quality indicators
+dementia	SNOMEDCT	716131000000105	Excepted from dementia quality indicators: Informed dissent
+dementia	SNOMEDCT	15662003	[X] Senile dementia NOS
+dementia	SNOMEDCT	268612007	[X] Senile psychosis NOS
+dementia	SNOMEDCT	416780008	[X]Dementia in Alzheimer's disease with early onset
+dementia	SNOMEDCT	230287006	[X]Mixed cortical and subcortical vascular dementia
+dementia	SNOMEDCT	56267009	[X]Multi-infarct dementia
+dementia	SNOMEDCT	716221000000104	Dementia monitoring verbal invite
+dementia	SNOMEDCT	56267009	[X]Predominantly cortical dementia
+dementia	SNOMEDCT	416780008	[X]Presenile dementia,Alzheimer's type
+dementia	SNOMEDCT	416975007	[X]Primary degen dementia of Alzheimer's type, senile onset
+dementia	SNOMEDCT	416780008	[X]Primary degen dementia, Alzheimer's type, presenile onset
+dementia	SNOMEDCT	230286002	[X]Subcortical vascular dementia
+dementia	SNOMEDCT	429998004	[X]Vascular dementia
+dementia	SNOMEDCT	230285003	[X]Vascular dementia of acute onset
+dementia	SNOMEDCT	56267009	Arteriosclerotic dementia NOS
+dementia	SNOMEDCT	12348006	[X] Presenile dementia NOS
+dementia	SNOMEDCT	56267009	[X]Arteriosclerotic dementia
+dementia	SNOMEDCT	26929004	[X]Dementia in Alzheimer's dis, atypical or mixed type
+dementia	SNOMEDCT	416975007	[X]Senile dementia,Alzheimer's type
+dementia	SNOMEDCT	715821000000107	Dementia monitoring first letter
+dementia	SNOMEDCT	717471000000101	Dementia monitoring second letter
+dementia	SNOMEDCT	191454001	Presenile dementia with paranoia
+dementia	SNOMEDCT	191519005	Dementia in conditions EC
+dementia	SNOMEDCT	416975007	[X]Alzheimer's disease type 1
+dementia	SNOMEDCT	429998004	[X]Vascular dementia, unspecified
+dementia	SNOMEDCT	716671000000102	Dementia monitoring third letter
+dementia	SNOMEDCT	416780008	Alzheimer's disease with early onset
+dementia	SNOMEDCT	416975007	Alzheimer's disease with late onset
+dementia	SNOMEDCT	191449005	Uncomplicated senile dementia
+dementia	SNOMEDCT	191452002	Presenile dementia with delirium
+dementia	SNOMEDCT	12348006	Presenile dementia
+dementia	SNOMEDCT	26929004	Alzheimer's disease
+dementia	SNOMEDCT	161465002	H/O: dementia
+dementia	SNOMEDCT	416780008	[X]Alzheimer's disease type 2
+dementia	SNOMEDCT	416975007	[X]Dementia in Alzheimer's disease with late onset
+dementia	SNOMEDCT	26929004	[X]Alzheimer's dementia unspec
+dementia	SNOMEDCT	268612007	[X] Presenile psychosis NOS
+dementia	SNOMEDCT	52448006	[X] Unspecified dementia
+dementia	SNOMEDCT	716991000000108	Dementia monitoring telephone invite
+dementia	SNOMEDCT	268612007	Senile or presenile psychoses NOS
+dementia	SNOMEDCT	736371006	Dementia care plan
+dementia	SNOMEDCT	716341000000104	Excepted from dementia quality indicators: Patient unsuitabl
+dementia	SNOMEDCT	26929004	[X]Dementia in Alzheimer's disease
+dementia	SNOMEDCT	26929004	[X]Dementia in Alzheimer's disease, unspecified
+dementia	SNOMEDCT	191457008	[X] Senile dementia, depressed or paranoid type
+dementia	SNOMEDCT	279982005	[X] Primary degenerative dementia NOS
+dementia	SNOMEDCT	191455000	Presenile dementia with depression
+dementia	SNOMEDCT	191457008	Senile dementia with depressive or paranoid features
+dementia	SNOMEDCT	191458003	Senile dementia with paranoia
+dementia	SNOMEDCT	12348006	Presenile dementia NOS
+dementia	SNOMEDCT	2776000	[X]Delirium superimposed on dementia
+dementia	SNOMEDCT	52448006	Senile/presenile dementia
+dementia	SNOMEDCT	56267009	Multi infarct dementia
+dementia	Read2_5digit	1461.	H/O: dementia
+dementia	Read2_5digit	66h..	Dementia monitoring
+dementia	Read2_5digit	6AB..	Dementia annual review
+dementia	Read2_5digit	8CMZ.	Dementia care plan
+dementia	Read2_5digit	9hD..	Exception reporting: dementia quality indicators
+dementia	Read2_5digit	9hD0.	Excepted from dementia quality indicators: Patient unsuitable
+dementia	Read2_5digit	9hD1.	Excepted from dementia quality indicators: Informed dissent
+dementia	Read2_5digit	9Ou..	Dementia monitoring administration
+dementia	Read2_5digit	9Ou1.	Dementia monitoring first letter
+dementia	Read2_5digit	9Ou2.	Dementia monitoring second letter
+dementia	Read2_5digit	9Ou3.	Dementia monitoring third letter
+dementia	Read2_5digit	9Ou4.	Dementia monitoring verbal invite
+dementia	Read2_5digit	9Ou5.	Dementia monitoring telephone invite
+dementia	Read2_5digit	E00..	Senile and presenile organic psychotic conditions
+dementia	Read2_5digit	E000.	Uncomplicated senile dementia
+dementia	Read2_5digit	E001.	Presenile dementia
+dementia	Read2_5digit	E0010	Uncomplicated presenile dementia
+dementia	Read2_5digit	E0011	Presenile dementia with delirium
+dementia	Read2_5digit	E0012	Presenile dementia with paranoia
+dementia	Read2_5digit	E0013	Presenile dementia with depression
+dementia	Read2_5digit	E001z	Presenile dementia NOS
+dementia	Read2_5digit	E002.	Senile dementia with depressive or paranoid features
+dementia	Read2_5digit	E0020	Senile dementia with paranoia
+dementia	Read2_5digit	E0021	Senile dementia with depression
+dementia	Read2_5digit	E002z	Senile dementia with depressive or paranoid features NOS
+dementia	Read2_5digit	E003.	Senile dementia with delirium
+dementia	Read2_5digit	E004.	Arteriosclerotic dementia
+dementia	Read2_5digit	E0040	Uncomplicated arteriosclerotic dementia
+dementia	Read2_5digit	E0041	Arteriosclerotic dementia with delirium
+dementia	Read2_5digit	E0042	Arteriosclerotic dementia with paranoia
+dementia	Read2_5digit	E0043	Arteriosclerotic dementia with depression
+dementia	Read2_5digit	E004z	Arteriosclerotic dementia NOS
+dementia	Read2_5digit	E00y.	Other senile and presenile organic psychoses
+dementia	Read2_5digit	E00z.	Senile or presenile psychoses NOS
+dementia	Read2_5digit	E041.	Dementia in conditions EC
+dementia	Read2_5digit	Eu00.	[X]Dementia in Alzheimer's disease
+dementia	Read2_5digit	Eu000	[X]Dementia in Alzheimer's disease with early onset
+dementia	Read2_5digit	Eu001	[X]Dementia in Alzheimer's disease with late onset
+dementia	Read2_5digit	Eu002	[X]Dementia in Alzheimer's dis, atypical or mixed type
+dementia	Read2_5digit	Eu00z	[X]Dementia in Alzheimer's disease, unspecified
+dementia	Read2_5digit	Eu01.	[X]Vascular dementia
+dementia	Read2_5digit	Eu010	[X]Vascular dementia of acute onset
+dementia	Read2_5digit	Eu011	[X]Multi-infarct dementia
+dementia	Read2_5digit	Eu012	[X]Subcortical vascular dementia
+dementia	Read2_5digit	Eu013	[X]Mixed cortical and subcortical vascular dementia
+dementia	Read2_5digit	Eu01y	[X]Other vascular dementia
+dementia	Read2_5digit	Eu01z	[X]Vascular dementia, unspecified
+dementia	Read2_5digit	Eu02z	[X] Unspecified dementia
+dementia	Read2_5digit	Eu041	[X]Delirium superimposed on dementia
+dementia	Read2_5digit	F110.	Alzheimer's disease
+dementia	Read2_5digit	F1100	Alzheimer's disease with early onset
+dementia	Read2_5digit	F1101	Alzheimer's disease with late onset
+dementia	Read2_5digit	Fyu30	[X]Other Alzheimer's disease
+dementia	Read2_5digit	ZS7C5	Language disorder of dementia
+dementia	CTV3_5digit	1461.	H/O: dementia
+dementia	CTV3_5digit	XaMJC	Dementia monitoring
+dementia	CTV3_5digit	XaMGF	Dementia annual review
+dementia	CTV3_5digit	XaaBZ	Dementia care plan
+dementia	CTV3_5digit	XaLFf	Exception reporting: dementia quality indicators
+dementia	CTV3_5digit	XaLFo	Excepted from dementia quality indicators: Patient unsuitable
+dementia	CTV3_5digit	XaLFp	Excepted from dementia quality indicators: Informed dissent
+dementia	CTV3_5digit	XaMFy	Dementia monitoring administration
+dementia	CTV3_5digit	XaMG0	Dementia monitoring first letter
+dementia	CTV3_5digit	XaMGG	Dementia monitoring second letter
+dementia	CTV3_5digit	XaMGI	Dementia monitoring third letter
+dementia	CTV3_5digit	XaMGJ	Dementia monitoring verbal invite
+dementia	CTV3_5digit	XaMGK	Dementia monitoring telephone invite
+dementia	CTV3_5digit	XE1Xr	Senile and presenile organic psychotic conditions
+dementia	CTV3_5digit	X00R2	Senile dementia
+dementia	CTV3_5digit	X002w	Dementia
+dementia	CTV3_5digit	E000.	Uncomplicated senile dementia
+dementia	CTV3_5digit	E001.	Presenile dementia
+dementia	CTV3_5digit	E0010	Uncomplicated presenile dementia
+dementia	CTV3_5digit	E0011	Presenile dementia with delirium
+dementia	CTV3_5digit	E0012	Presenile dementia with paranoia
+dementia	CTV3_5digit	E0013	Presenile dementia with depression
+dementia	CTV3_5digit	E001z	Presenile dementia NOS
+dementia	CTV3_5digit	E002.	Senile dementia with depressive or paranoid features
+dementia	CTV3_5digit	E0020	Senile dementia with paranoia
+dementia	CTV3_5digit	E0021	Senile dementia with depression
+dementia	CTV3_5digit	E002z	Senile dementia with depressive or paranoid features NOS
+dementia	CTV3_5digit	E003.	Senile dementia with delirium
+dementia	CTV3_5digit	XE1Xs	Arteriosclerotic dementia
+dementia	CTV3_5digit	Xa0lH	Multi-infarct dementia
+dementia	CTV3_5digit	E0040	Uncomplicated arteriosclerotic dementia
+dementia	CTV3_5digit	E0041	Arteriosclerotic dementia with delirium
+dementia	CTV3_5digit	E0042	Arteriosclerotic dementia with paranoia
+dementia	CTV3_5digit	E0043	Arteriosclerotic dementia with depression
+dementia	CTV3_5digit	E004z	Arteriosclerotic dementia NOS
+dementia	CTV3_5digit	XE1Xt	Other senile and presenile organic psychoses
+dementia	CTV3_5digit	X00R0	Presbyophrenic psychosis
+dementia	CTV3_5digit	E00z.	Senile or presenile psychoses NOS
+dementia	CTV3_5digit	E041.	Dementia in conditions EC
+dementia	CTV3_5digit	Eu00.	[X]Dementia in Alzheimer's disease
+dementia	CTV3_5digit	X002x	Dementia in Alzheimer's disease with early onset
+dementia	CTV3_5digit	X0030	Dementia in Alzheimer's disease with late onset
+dementia	CTV3_5digit	Eu002	[X]Dementia in Alzheimer's dis, atypical or mixed type
+dementia	CTV3_5digit	Eu00z	[X]Dementia in Alzheimer's disease, unspecified
+dementia	CTV3_5digit	X003R	Vascular dementia of acute onset
+dementia	CTV3_5digit	X003T	Subcortical vascular dementia
+dementia	CTV3_5digit	X003V	Mixed cortical and subcortical vascular dementia
+dementia	CTV3_5digit	Eu01y	[X]Other vascular dementia
+dementia	CTV3_5digit	Eu01z	[X]Vascular dementia, unspecified
+dementia	CTV3_5digit	XE1Z6	[X]Unspecified dementia
+dementia	CTV3_5digit	Eu02z	[X] Primary degenerative dementia NOS
+dementia	CTV3_5digit	Xa1GB	Cerebral degeneration presenting primarily with dementia
+dementia	CTV3_5digit	Eu041	[X]Delirium superimposed on dementia
+dementia	CTV3_5digit	F110.	Alzheimer's disease
+dementia	CTV3_5digit	XaIKB	Alzheimer's disease with early onset
+dementia	CTV3_5digit	XaIKC	Alzheimer's disease with late onset
+dementia	CTV3_5digit	Fyu30	[X]Other Alzheimer's disease

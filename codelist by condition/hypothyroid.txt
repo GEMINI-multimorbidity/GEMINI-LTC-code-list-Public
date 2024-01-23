@@ -1,0 +1,44 @@
+condition	vocab_id	code	description
+hypothyroid	ICD10	E03.8	Other specified hypothyroidism
+hypothyroid	ICD10	E03.9	Hypothyroidism, unspecified
+hypothyroid	ICD10	E06.3	Autoimmune thyroiditis
+hypothyroid	Read2	C04..00	Acquired hypothyroidism
+hypothyroid	Read2	C04..11	Myxoedema
+hypothyroid	Read2	C04..12	Thyroid deficiency
+hypothyroid	Read2	C04..13	Hypothyroidism
+hypothyroid	Read2	C046.00	Autoimmune myxoedema
+hypothyroid	Read2	C052.00	Chronic lymphocytic thyroiditis
+hypothyroid	Read2	C052.11	Autoimmune thyroiditis
+hypothyroid	Read2	C052.12	Hashimoto's disease
+hypothyroid	CTV3	XE108Y41LX	Acquired hypothyroidism
+hypothyroid	CTV3	X40IQY41Nn	Hypothyroidism
+hypothyroid	CTV3	X40IQY41No	Myxoedema
+hypothyroid	CTV3	XE108Y41LY	Primary hypothyroidism
+hypothyroid	CTV3	X40HEYabUM	Autoimmune myxoedema
+hypothyroid	CTV3	XE10CY41MG	Chronic lymphocytic thyroiditis
+hypothyroid	CTV3	XE10CY41MF	Autoimmune thyroiditis
+hypothyroid	CTV3	X40HWY41MI	Hashimoto's disease
+hypothyroid	medcodeid	68268011	Hypothyroidism
+hypothyroid	medcodeid	355964016	Autoimmune myxoedema
+hypothyroid	medcodeid	481187014	Chronic lymphocytic thyroiditis
+hypothyroid	medcodeid	481188016	Autoimmune thyroiditis
+hypothyroid	medcodeid	493538010	Myxoedema
+hypothyroid	medcodeid	101171000006116	Thyroid deficiency
+hypothyroid	medcodeid	36888019	Hashimoto's disease
+hypothyroid	medcodeid	178809013	Acquired hypothyroidism
+hypothyroid	SNOMEDCT	40930008	Hypothyroidism
+hypothyroid	SNOMEDCT	237519003	Autoimmune myxoedema
+hypothyroid	SNOMEDCT	21983002	Chronic lymphocytic thyroiditis
+hypothyroid	SNOMEDCT	21983002	Autoimmune thyroiditis
+hypothyroid	SNOMEDCT	43153006	Myxoedema
+hypothyroid	SNOMEDCT	40930008	Thyroid deficiency
+hypothyroid	SNOMEDCT	21983002	Hashimoto's disease
+hypothyroid	SNOMEDCT	111566002	Acquired hypothyroidism
+hypothyroid	Read2_5digit	C04..	Acquired hypothyroidism
+hypothyroid	Read2_5digit	C046.	Autoimmune myxoedema
+hypothyroid	Read2_5digit	C052.	Chronic lymphocytic thyroiditis
+hypothyroid	CTV3_5digit	XE108	Acquired hypothyroidism
+hypothyroid	CTV3_5digit	X40IQ	Hypothyroidism
+hypothyroid	CTV3_5digit	X40HE	Autoimmune myxoedema
+hypothyroid	CTV3_5digit	XE10C	Chronic lymphocytic thyroiditis
+hypothyroid	CTV3_5digit	X40HW	Hashimoto's disease

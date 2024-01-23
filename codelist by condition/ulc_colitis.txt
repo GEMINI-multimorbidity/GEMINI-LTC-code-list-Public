@@ -1,0 +1,115 @@
+condition	vocab_id	code	description
+ulc_colitis	ICD10	K51	Ulcerative colitis
+ulc_colitis	Read2	14C4.11	H/O: ulcerative colitis
+ulc_colitis	Read2	J41..00	Idiopathic proctocolitis
+ulc_colitis	Read2	J41..11	Mucous colitis and/or proctitis
+ulc_colitis	Read2	J41..12	Ulcerative colitis and/or proctitis
+ulc_colitis	Read2	J410.00	Ulcerative proctocolitis
+ulc_colitis	Read2	J410000	Ulcerative ileocolitis
+ulc_colitis	Read2	J410100	Ulcerative colitis
+ulc_colitis	Read2	J410200	Ulcerative rectosigmoiditis
+ulc_colitis	Read2	J410300	Ulcerative proctitis
+ulc_colitis	Read2	J410400	Exacerbation of ulcerative colitis
+ulc_colitis	Read2	J410z00	Ulcerative proctocolitis NOS
+ulc_colitis	Read2	J411.00	Ulcerative (chronic) enterocolitis
+ulc_colitis	Read2	J412.00	Ulcerative (chronic) ileocolitis
+ulc_colitis	Read2	J413.00	Ulcerative pancolitis
+ulc_colitis	Read2	J41y.00	Other idiopathic proctocolitis
+ulc_colitis	Read2	J41yz00	Other idiopathic proctocolitis NOS
+ulc_colitis	Read2	J41z.00	Idiopathic proctocolitis NOS
+ulc_colitis	Read2	Jyu4100	[X]Other ulcerative colitis
+ulc_colitis	Read2	N031000	Arthropathy in ulcerative colitis
+ulc_colitis	Read2	N045400	Juvenile arthritis in ulcerative colitis
+ulc_colitis	CTV3	XM1RPYa0WC	H/O: ulcerative colitis
+ulc_colitis	CTV3	J41z.Y30GV	Idiopathic proctocolitis NOS
+ulc_colitis	CTV3	XE0agY30GS	Idiopathic proctocolitis
+ulc_colitis	CTV3	XaB5zYaYBp	Enterocolitis
+ulc_colitis	CTV3	XE0agY30CP	Ulcerative colitis
+ulc_colitis	CTV3	XE0agY30GU	UC - Ulcerative colitis
+ulc_colitis	CTV3	J410.Y30CQ	Distal colitis
+ulc_colitis	CTV3	J410.Y30CS	Ulcerative proctocolitis
+ulc_colitis	CTV3	J4100Y30GZ	Ulcerative ileocolitis
+ulc_colitis	CTV3	J410.Y30CV	Ulcerative rectosigmoiditis
+ulc_colitis	CTV3	J4103Y30D7	Ulcerative proctitis
+ulc_colitis	CTV3	XaK6EYanIk	Exacerbation of ulcerative colitis
+ulc_colitis	CTV3	J410zY30GY	Ulcerative proctocolitis NOS
+ulc_colitis	CTV3	X3030Y30AB	Ulcerative enterocolitis
+ulc_colitis	CTV3	XaYzXYavEt	Ulcerative pancolitis
+ulc_colitis	CTV3	J41y.Y30GX	Other idiopathic proctocolitis
+ulc_colitis	CTV3	J41yzY30GW	Other idiopathic proctocolitis NOS
+ulc_colitis	CTV3	Jyu41YMAKL	[X]Other ulcerative colitis
+ulc_colitis	CTV3	N0310Y70FJ	Arthropathy in ulcerative colitis
+ulc_colitis	CTV3	N0454YMAq8	Juvenile arthritis in ulcerative colitis
+ulc_colitis	medcodeid	107644019	Ulcerative colitis
+ulc_colitis	medcodeid	411543016	H/O: ulcerative colitis
+ulc_colitis	medcodeid	496249010	Ulcerative proctitis
+ulc_colitis	medcodeid	302959019	Other idiopathic proctocolitis
+ulc_colitis	medcodeid	302961011	Other idiopathic proctocolitis NOS
+ulc_colitis	medcodeid	302962016	Idiopathic proctocolitis NOS
+ulc_colitis	medcodeid	2579429013	Idiopathic proctocolitis
+ulc_colitis	medcodeid	85901000006116	Ulcerative (chronic) ileocolitis
+ulc_colitis	medcodeid	302956014	Ulcerative proctocolitis NOS
+ulc_colitis	medcodeid	309743013	Arthropathy in ulcerative colitis
+ulc_colitis	medcodeid	85931000006112	Ulcerative colitis and/or proctitis
+ulc_colitis	medcodeid	2532953017	Exacerbation of ulcerative colitis
+ulc_colitis	medcodeid	2872721013	Ulcerative pancolitis
+ulc_colitis	medcodeid	302953018	Ulcerative ileocolitis
+ulc_colitis	medcodeid	696071000006114	Mucous colitis and/or proctitis
+ulc_colitis	medcodeid	435370011	Ulcerative proctocolitis
+ulc_colitis	medcodeid	309836013	Juvenile arthritis in ulcerative colitis
+ulc_colitis	medcodeid	496332018	Ulcerative rectosigmoiditis
+ulc_colitis	medcodeid	303762015	[X]Other ulcerative colitis
+ulc_colitis	medcodeid	85891000006115	Ulcerative (chronic) enterocolitis
+ulc_colitis	SNOMEDCT	64766004	Ulcerative colitis
+ulc_colitis	SNOMEDCT	275549008	H/O: ulcerative colitis
+ulc_colitis	SNOMEDCT	52231000	Ulcerative proctitis
+ulc_colitis	SNOMEDCT	418130002	Other idiopathic proctocolitis
+ulc_colitis	SNOMEDCT	418130002	Other idiopathic proctocolitis NOS
+ulc_colitis	SNOMEDCT	64766004	Idiopathic proctocolitis NOS
+ulc_colitis	SNOMEDCT	64766004	Idiopathic proctocolitis
+ulc_colitis	SNOMEDCT	196987008	Ulcerative (chronic) ileocolitis
+ulc_colitis	SNOMEDCT	295046003	Ulcerative proctocolitis NOS
+ulc_colitis	SNOMEDCT	201727001	Arthropathy in ulcerative colitis
+ulc_colitis	SNOMEDCT	295046003	Ulcerative colitis and/or proctitis
+ulc_colitis	SNOMEDCT	414156000	Exacerbation of ulcerative colitis
+ulc_colitis	SNOMEDCT	444548001	Ulcerative pancolitis
+ulc_colitis	SNOMEDCT	196987008	Ulcerative ileocolitis
+ulc_colitis	SNOMEDCT	43752006	Mucous colitis and/or proctitis
+ulc_colitis	SNOMEDCT	295046003	Ulcerative proctocolitis
+ulc_colitis	SNOMEDCT	201807008	Juvenile arthritis in ulcerative colitis
+ulc_colitis	SNOMEDCT	52506002	Ulcerative rectosigmoiditis
+ulc_colitis	SNOMEDCT	64766004	[X]Other ulcerative colitis
+ulc_colitis	SNOMEDCT	235714007	Ulcerative (chronic) enterocolitis
+ulc_colitis	Read2_5digit	J41..	Idiopathic proctocolitis
+ulc_colitis	Read2_5digit	J410.	Ulcerative proctocolitis
+ulc_colitis	Read2_5digit	J4100	Ulcerative ileocolitis
+ulc_colitis	Read2_5digit	J4101	Ulcerative colitis
+ulc_colitis	Read2_5digit	J4102	Ulcerative rectosigmoiditis
+ulc_colitis	Read2_5digit	J4103	Ulcerative proctitis
+ulc_colitis	Read2_5digit	J4104	Exacerbation of ulcerative colitis
+ulc_colitis	Read2_5digit	J410z	Ulcerative proctocolitis NOS
+ulc_colitis	Read2_5digit	J411.	Ulcerative (chronic) enterocolitis
+ulc_colitis	Read2_5digit	J412.	Ulcerative (chronic) ileocolitis
+ulc_colitis	Read2_5digit	J413.	Ulcerative pancolitis
+ulc_colitis	Read2_5digit	J41y.	Other idiopathic proctocolitis
+ulc_colitis	Read2_5digit	J41yz	Other idiopathic proctocolitis NOS
+ulc_colitis	Read2_5digit	J41z.	Idiopathic proctocolitis NOS
+ulc_colitis	Read2_5digit	Jyu41	[X]Other ulcerative colitis
+ulc_colitis	Read2_5digit	N0310	Arthropathy in ulcerative colitis
+ulc_colitis	Read2_5digit	N0454	Juvenile arthritis in ulcerative colitis
+ulc_colitis	CTV3_5digit	XM1RP	H/O: ulcerative colitis
+ulc_colitis	CTV3_5digit	J41z.	Idiopathic proctocolitis NOS
+ulc_colitis	CTV3_5digit	XE0ag	Idiopathic proctocolitis
+ulc_colitis	CTV3_5digit	XaB5z	Enterocolitis
+ulc_colitis	CTV3_5digit	J410.	Distal colitis
+ulc_colitis	CTV3_5digit	J4100	Ulcerative ileocolitis
+ulc_colitis	CTV3_5digit	J4103	Ulcerative proctitis
+ulc_colitis	CTV3_5digit	XaK6E	Exacerbation of ulcerative colitis
+ulc_colitis	CTV3_5digit	J410z	Ulcerative proctocolitis NOS
+ulc_colitis	CTV3_5digit	X3030	Ulcerative enterocolitis
+ulc_colitis	CTV3_5digit	XaYzX	Ulcerative pancolitis
+ulc_colitis	CTV3_5digit	J41y.	Other idiopathic proctocolitis
+ulc_colitis	CTV3_5digit	J41yz	Other idiopathic proctocolitis NOS
+ulc_colitis	CTV3_5digit	Jyu41	[X]Other ulcerative colitis
+ulc_colitis	CTV3_5digit	N0310	Arthropathy in ulcerative colitis
+ulc_colitis	CTV3_5digit	N0454	Juvenile arthritis in ulcerative colitis

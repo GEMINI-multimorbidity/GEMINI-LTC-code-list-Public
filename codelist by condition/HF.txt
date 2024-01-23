@@ -1,0 +1,449 @@
+condition	vocab_id	code	description
+HF	ICD10	I11.0	Hypertensive heart disease with (congestive) heart failure
+HF	ICD10	I13.0	Hypertensive heart and renal disease with (congestive) heart failure
+HF	ICD10	I13.2	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+HF	ICD10	I50	Heart failure
+HF	Read2	14A6.00	H/O: heart failure
+HF	Read2	14AM.00	H/O: Heart failure in last year
+HF	Read2	1O1..00	Heart failure confirmed
+HF	Read2	388D.00	New York Heart Association classification of heart failure symptoms
+HF	Read2	661M500	Heart failure self-management plan agreed
+HF	Read2	662f.00	New York Heart Association classification - class I
+HF	Read2	662g.00	New York Heart Association classification - class II
+HF	Read2	662h.00	New York Heart Association classification - class III
+HF	Read2	662i.00	New York Heart Association classification - class IV
+HF	Read2	662p.00	Heart failure 6 month review
+HF	Read2	662T.00	Congestive heart failure monitoring
+HF	Read2	662W.00	Heart failure annual review
+HF	Read2	679W100	Education about deteriorating heart failure
+HF	Read2	679X.00	Heart failure education
+HF	Read2	8B29.00	Cardiac failure therapy
+HF	Read2	8CeC.00	Preferred place of care for next exacerbation of heart failure
+HF	Read2	8CL3.00	Heart failure care plan discussed with patient
+HF	Read2	8CMK.00	Has heart failure management plan
+HF	Read2	8CMW800	Heart failure clinical pathway
+HF	Read2	8H2S.00	Admit heart failure emergency
+HF	Read2	8HBE.00	Heart failure follow-up
+HF	Read2	8HHz.00	Referral to heart failure exercise programme
+HF	Read2	8Hk0.00	Referred to heart failure education group
+HF	Read2	9h1..00	Exception reporting: LVD quality indicators
+HF	Read2	9h11.00	Excepted from LVD quality indicators: Patient unsuitable
+HF	Read2	9h12.00	Excepted from LVD quality indicators: Informed dissent
+HF	Read2	9hH..00	Exception reporting: heart failure quality indicators
+HF	Read2	9hH0.00	Excepted from heart failure quality indicators: Patient unsuitable
+HF	Read2	9hH1.00	Excepted from heart failure quality indicators: Informed dissent
+HF	Read2	9N2p.00	Seen by community heart failure nurse
+HF	Read2	9N6T.00	Referred by heart failure nurse specialist
+HF	Read2	9On..00	Left ventricular dysfunction monitoring administration
+HF	Read2	9On0.00	Left ventricular dysfunction monitoring first letter
+HF	Read2	9On1.00	Left ventricular dysfunction monitoring second letter
+HF	Read2	9On2.00	Left ventricular dysfunction monitoring third letter
+HF	Read2	9On3.00	Left ventricular dysfunction monitoring verbal invite
+HF	Read2	9On4.00	Left ventricular dysfunction monitoring telephone invite
+HF	Read2	9Or..00	Heart failure monitoring administration
+HF	Read2	9Or0.00	Heart failure review completed
+HF	Read2	9Or1.00	Heart failure monitoring telephone invite
+HF	Read2	9Or2.00	Heart failure monitoring verbal invite
+HF	Read2	9Or3.00	Heart failure monitoring first letter
+HF	Read2	9Or4.00	Heart failure monitoring second letter
+HF	Read2	9Or5.00	Heart failure monitoring third letter
+HF	Read2	G1yz100	Rheumatic left ventricular failure
+HF	Read2	G210100	Malignant hypertensive heart disease with congestive cardiac failure
+HF	Read2	G211100	Benign hypertensive heart disease with congestive cardiac failure
+HF	Read2	G21z100	Hypertensive heart disease NOS with congestive cardiac failure
+HF	Read2	G232.00	Hypertensive heart and renal disease with (congestive) heart failure
+HF	Read2	G234.00	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+HF	Read2	G400.00	Acute cor pulmonale
+HF	Read2	G41z.11	Chronic cor pulmonale
+HF	Read2	G554000	Congestive cardiomyopathy
+HF	Read2	G554011	Congestive obstructive cardiomyopathy
+HF	Read2	G58..00	Heart failure
+HF	Read2	G58..11	Cardiac failure
+HF	Read2	G580.00	Congestive heart failure
+HF	Read2	G580.11	Congestive cardiac failure
+HF	Read2	G580.12	Right heart failure
+HF	Read2	G580.13	Right ventricular failure
+HF	Read2	G580.14	Biventricular failure
+HF	Read2	G580000	Acute congestive heart failure
+HF	Read2	G580100	Chronic congestive heart failure
+HF	Read2	G580200	Decompensated cardiac failure
+HF	Read2	G580300	Compensated cardiac failure
+HF	Read2	G580400	Congestive heart failure due to valvular disease
+HF	Read2	G581.00	Left ventricular failure
+HF	Read2	G581.11	Asthma - cardiac
+HF	Read2	G581.13	Impaired left ventricular function
+HF	Read2	G581000	Acute left ventricular failure
+HF	Read2	G582.00	Acute heart failure
+HF	Read2	G584.00	Right ventricular failure
+HF	Read2	G58z.00	Heart failure NOS
+HF	Read2	G58z.12	Cardiac failure NOS
+HF	Read2	G5yy900	Left ventricular systolic dysfunction
+HF	Read2	G5yyA00	Left ventricular diastolic dysfunction
+HF	Read2	ZRad.00	New York Heart Assoc classification heart failure symptoms
+HF	CTV3	14A6.Ya04n	H/O: heart failure
+HF	CTV3	XaBwiYabP2	H/O: Heart failure in last year
+HF	CTV3	XaIpnYalSS	Heart failure confirmed
+HF	CTV3	XaIL7Yakk0	New York Heart Association classification of heart failure symptoms
+HF	CTV3	XaYbCYauv2	Heart failure self-management plan agreed
+HF	CTV3	XaJ9GYam6z	New York Heart Association classification - class I
+HF	CTV3	XaJ9HYam71	New York Heart Association classification - class II
+HF	CTV3	XaJ9IYam73	New York Heart Association classification - class III
+HF	CTV3	XaJ9JYam75	New York Heart Association classification - class IV
+HF	CTV3	XaLonYaovL	Heart failure 6 month review
+HF	CTV3	XaIIUYakgm	Congestive heart failure monitoring
+HF	CTV3	XaIQNYakrM	Heart failure annual review
+HF	CTV3	XaYftYauyl	Education about deteriorating heart failure
+HF	CTV3	XaNUfYaqWc	Heart failure education
+HF	CTV3	XaBLtYaafe	Cardiac failure therapy
+HF	CTV3	XaXzwYaudC	Preferred place of care for next exacerbation of heart failure
+HF	CTV3	XaLNAYaoSM	Heart failure care plan discussed with patient
+HF	CTV3	XaXkRYauUR	Has heart failure management plan
+HF	CTV3	XaZihYaviz	Heart failure clinical pathway
+HF	CTV3	XaKNWYandx	Admit heart failure emergency
+HF	CTV3	XaIQMYakrL	Heart failure follow-up
+HF	CTV3	XaLMxYaoS7	Referral to heart failure exercise programme
+HF	CTV3	XaLSIYaoY4	Referred to heart failure education group
+HF	CTV3	XaJ4NYam0F	Exception reporting: LVD quality indicators
+HF	CTV3	XaJ4YYam0b	Excepted from LVD quality indicators: Patient unsuitable
+HF	CTV3	XaJ4ZYam0d	Excepted from LVD quality indicators: Informed dissent
+HF	CTV3	XaMJ9YapU5	Exception reporting: heart failure quality indicators
+HF	CTV3	XaMJAYapU7	Excepted from heart failure quality indicators: Patient unsuitable
+HF	CTV3	XaMJBYapU9	Excepted from heart failure quality indicators: Informed dissent
+HF	CTV3	XaKNaYane4	Seen by community heart failure nurse
+HF	CTV3	XaLCjYaoGZ	Referred by heart failure nurse specialist
+HF	CTV3	XaK6WYanJM	Left ventricular dysfunction monitoring administration
+HF	CTV3	XaK6YYanJQ	Left ventricular dysfunction monitoring first letter
+HF	CTV3	XaK6ZYanJS	Left ventricular dysfunction monitoring second letter
+HF	CTV3	XaK6aYanJU	Left ventricular dysfunction monitoring third letter
+HF	CTV3	XaKc0YanwM	Left ventricular dysfunction monitoring verbal invite
+HF	CTV3	XaMGmYapRR	Left ventricular dysfunction monitoring telephone invite
+HF	CTV3	XaLN6YaoSI	Heart failure monitoring administration
+HF	CTV3	XaLN7YaoSK	Heart failure review completed
+HF	CTV3	XaMFrYapQ2	Heart failure monitoring telephone invite
+HF	CTV3	XaMGoYapRV	Heart failure monitoring verbal invite
+HF	CTV3	XaMGsYapRa	Heart failure monitoring first letter
+HF	CTV3	XaMGtYapRc	Heart failure monitoring second letter
+HF	CTV3	XaMGuYapRe	Heart failure monitoring third letter
+HF	CTV3	G1yz1Y20D3	Rheumatic left ventricular failure
+HF	CTV3	G2101Y20Ce	Malignant hypertensive heart disease with congestive cardiac failure
+HF	CTV3	G2111Y20Ci	Benign hypertensive heart disease with congestive cardiac failure
+HF	CTV3	G21z1Y20Cn	Hypertensive heart disease NOS with congestive cardiac failure
+HF	CTV3	G232.YMAkW	Hypertensive heart and renal disease with (congestive) heart failure
+HF	CTV3	G234.YMAkY	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+HF	CTV3	G400.Y20DD	Acute cor pulmonale
+HF	CTV3	X203EY20Dz	Chronic cor pulmonale
+HF	CTV3	XE0UzY207j	Congestive cardiomyopathy
+HF	CTV3	X201WY207L	Congestive obstructive cardiomyopathy
+HF	CTV3	G58..Y20Bq	Heart failure
+HF	CTV3	G58..Y20Br	Cardiac failure
+HF	CTV3	XE0V8Y20C6	Congestive heart failure
+HF	CTV3	G580.Y20C5	Biventricular failure
+HF	CTV3	XE0V8Y20C5	Biventricular failure
+HF	CTV3	XE0V8Y20C8	Congestive cardiac failure
+HF	CTV3	X202lY20C0	Right heart failure
+HF	CTV3	X202lY20By	Right ventricular failure
+HF	CTV3	G5800Ya3Ha	Acute congestive heart failure
+HF	CTV3	G5801Ya3Hb	Chronic congestive heart failure
+HF	CTV3	G5802YaYAT	Decompensated cardiac failure
+HF	CTV3	G5803YaYAS	Compensated cardiac failure
+HF	CTV3	XaO5nYaqtX	Congestive heart failure due to valvular disease
+HF	CTV3	XE2QGY20C2	Left ventricular failure
+HF	CTV3	X102YY10AG	Acute cardiac pulmonary oedema
+HF	CTV3	X102YY10AH	Cardiac asthma
+HF	CTV3	XM1QnY20C3	Impaired left ventricular function
+HF	CTV3	G5810YaYAU	Acute left ventricular failure
+HF	CTV3	G582.YaYAV	Acute heart failure
+HF	CTV3	XE0V9Y20Bw	Heart failure NOS
+HF	CTV3	XE0V9Yaad9	Cardiac failure NOS
+HF	CTV3	XaIIqYakhN	Left ventricular systolic dysfunction
+HF	CTV3	XaItGYaldA	Left ventricular diastolic dysfunction
+HF	medcodeid	18472010	Acute congestive heart failure
+HF	medcodeid	82584011	Acute cor pulmonale
+HF	medcodeid	94251011	Acute heart failure
+HF	medcodeid	139482012	Cardiac failure
+HF	medcodeid	216207010	Left ventricular systolic dysfunction
+HF	medcodeid	300179017	Decompensated cardiac failure
+HF	medcodeid	300180019	Compensated cardiac failure
+HF	medcodeid	300190010	Acute left ventricular failure
+HF	medcodeid	411506018	Impaired left ventricular function
+HF	medcodeid	451426015	Cardiac failure therapy
+HF	medcodeid	453099015	H/O: Heart failure in last year
+HF	medcodeid	1484917012	Heart failure follow-up
+HF	medcodeid	1484918019	Heart failure annual review
+HF	medcodeid	1778488011	Congestive cardiomyopathy
+HF	medcodeid	2533628012	Left ventricular dysfunction monitoring first letter
+HF	medcodeid	2533629016	Left ventricular dysfunction monitoring second letter
+HF	medcodeid	2533630014	Left ventricular dysfunction monitoring third letter
+HF	medcodeid	2549089012	Left ventricular dysfunction monitoring verbal invite
+HF	medcodeid	2645623019	Heart failure education
+HF	medcodeid	404741000000119	Heart failure 6 month review
+HF	medcodeid	407061000000112	Heart failure monitoring first letter
+HF	medcodeid	407081000000115	Heart failure monitoring second letter
+HF	medcodeid	1746171000000119	Has heart failure management plan
+HF	medcodeid	2117931000000116	Heart failure self-management plan agreed
+HF	medcodeid	2122191000000110	Education about deteriorating heart failure
+HF	medcodeid	1495417010	Asthma - cardiac
+HF	medcodeid	139061000000114	Excepted from LVD quality indicators: Patient unsuitable
+HF	medcodeid	223981000000118	Cardiac failure NOS
+HF	medcodeid	308301000000118	Heart failure care plan discussed with patient
+HF	medcodeid	407001000000113	Left ventricular dysfunction monitoring telephone invite
+HF	medcodeid	728671000006119	Malignant hypertensive heart disease with CCF
+HF	medcodeid	741681000006111	Hypertensive heart disease NOS with CCF
+HF	medcodeid	789941000006117	Hyperten heart&renal dis+both(congestv)heart and renal fail
+HF	medcodeid	1561951000006117	Excepted heart failure quality indicators: Informed dissent
+HF	medcodeid	1816101000006113	Right ventricular failure
+HF	medcodeid	2549208013	Admit heart failure emergency
+HF	medcodeid	493287011	Congestive cardiac failure
+HF	medcodeid	510016018	Biventricular failure
+HF	medcodeid	303361000000111	Referred by heart failure nurse specialist
+HF	medcodeid	308041000000118	Referral to heart failure exercise programme
+HF	medcodeid	2548316014	Seen by community heart failure nurse
+HF	medcodeid	2616472016	New York Heart Association Classification - Class III
+HF	medcodeid	72934016	Rheumatic left ventricular failure
+HF	medcodeid	1561941000006119	Excepted heart failure quality indicators: Patient unsuitabl
+HF	medcodeid	138971000000111	Exception reporting: LVD quality indicators
+HF	medcodeid	70653017	Congestive heart failure
+HF	medcodeid	2205951000000117	Heart failure clinical pathway
+HF	medcodeid	407101000000114	Heart failure monitoring third letter
+HF	medcodeid	2616470012	New York Heart Association Classification - Class I
+HF	medcodeid	2616471011	New York Heart Association Classification - Class II
+HF	medcodeid	2675255018	Congestive heart failure due to valvular disease
+HF	medcodeid	1489358014	Left ventricular diastolic dysfunction
+HF	medcodeid	206703015	Right heart failure
+HF	medcodeid	251680018	H/O: heart failure
+HF	medcodeid	226181000000110	Left ventricular dysfunction monitoring administration
+HF	medcodeid	833381000006119	New York Heart Assoc classification heart failure symptoms
+HF	medcodeid	395772015	Heart failure NOS
+HF	medcodeid	308231000000118	Heart failure monitoring administration
+HF	medcodeid	311561000000117	Referred to heart failure education group
+HF	medcodeid	2616473014	New York Heart Association Classification - Class IV
+HF	medcodeid	1488804017	Heart failure confirmed
+HF	medcodeid	350413012	Congestive obstructive cardiomyopathy
+HF	medcodeid	132655012	Chronic cor pulmonale
+HF	medcodeid	141306010	Left ventricular failure
+HF	medcodeid	147247018	Chronic congestive heart failure
+HF	medcodeid	741701000006114	Hypertensive heart&renal dis wth (congestive) heart failure
+HF	medcodeid	1784061000006118	Preferred place of care for next exacerbation heart failure
+HF	medcodeid	406801000000118	Heart failure monitoring telephone invite
+HF	medcodeid	407041000000111	Heart failure monitoring verbal invite
+HF	medcodeid	407441000000115	Exception reporting: heart failure quality indicators
+HF	medcodeid	308261000000111	Heart failure review completed
+HF	medcodeid	490972013	Right ventricular failure
+HF	medcodeid	139475013	Heart failure
+HF	medcodeid	216184014	Congestive heart failure monitoring
+HF	medcodeid	139071000000119	Excepted from LVD quality indicators: Informed dissent
+HF	medcodeid	504901000006118	Benign hypertensive heart disease with CCF
+HF	SNOMEDCT	10633002	Acute congestive heart failure
+HF	SNOMEDCT	49584005	Acute cor pulmonale
+HF	SNOMEDCT	56675007	Acute heart failure
+HF	SNOMEDCT	84114007	Cardiac failure
+HF	SNOMEDCT	134401001	Left ventricular systolic dysfunction
+HF	SNOMEDCT	195111005	Decompensated cardiac failure
+HF	SNOMEDCT	195112003	Compensated cardiac failure
+HF	SNOMEDCT	195114002	Acute left ventricular failure
+HF	SNOMEDCT	275514001	Impaired left ventricular function
+HF	SNOMEDCT	308118002	Cardiac failure therapy
+HF	SNOMEDCT	309634009	H/O: Heart failure in last year
+HF	SNOMEDCT	390884006	Heart failure follow-up
+HF	SNOMEDCT	390885007	Heart failure annual review
+HF	SNOMEDCT	399020009	Congestive cardiomyopathy
+HF	SNOMEDCT	414586001	Left ventricular dysfunction monitoring first letter
+HF	SNOMEDCT	414588000	Left ventricular dysfunction monitoring second letter
+HF	SNOMEDCT	414589008	Left ventricular dysfunction monitoring third letter
+HF	SNOMEDCT	416573008	Left ventricular dysfunction monitoring verbal invite
+HF	SNOMEDCT	423475008	Heart failure education
+HF	SNOMEDCT	247361000000100	Heart failure 6 month review
+HF	SNOMEDCT	716971000000109	Heart failure monitoring first letter
+HF	SNOMEDCT	717191000000108	Heart failure monitoring second letter
+HF	SNOMEDCT	781051000000108	Has heart failure management plan
+HF	SNOMEDCT	812001000000102	Heart failure self-management plan agreed
+HF	SNOMEDCT	813991000000101	Education about deteriorating heart failure
+HF	SNOMEDCT	71892000	Asthma - cardiac
+HF	SNOMEDCT	717181000000106	Excepted from LVD quality indicators: Patient unsuitable
+HF	SNOMEDCT	84114007	Cardiac failure NOS
+HF	SNOMEDCT	872361000000105	Heart failure care plan discussed with patient
+HF	SNOMEDCT	716411000000109	Left ventricular dysfunction monitoring telephone invite
+HF	SNOMEDCT	83105008	Malignant hypertensive heart disease with CCF
+HF	SNOMEDCT	64715009	Hypertensive heart disease NOS with CCF
+HF	SNOMEDCT	194781004	Hyperten heart&renal dis+both(congestv)heart and renal fail
+HF	SNOMEDCT	717491000000102	Excepted heart failure quality indicators: Informed dissent
+HF	SNOMEDCT	367363000	Right ventricular failure
+HF	SNOMEDCT	416683003	Admit heart failure emergency
+HF	SNOMEDCT	42343007	Congestive cardiac failure
+HF	SNOMEDCT	92506005	Biventricular failure
+HF	SNOMEDCT	200171000000102	Referred by heart failure nurse specialist
+HF	SNOMEDCT	704095000	Referral to heart failure exercise programme
+HF	SNOMEDCT	417359009	Seen by community heart failure nurse
+HF	SNOMEDCT	420913000	New York Heart Association Classification - Class III
+HF	SNOMEDCT	43736008	Rheumatic left ventricular failure
+HF	SNOMEDCT	717481000000104	Excepted heart failure quality indicators: Patient unsuitabl
+HF	SNOMEDCT	716551000000107	Exception reporting: LVD quality indicators
+HF	SNOMEDCT	42343007	Congestive heart failure
+HF	SNOMEDCT	851521000000102	Heart failure clinical pathway
+HF	SNOMEDCT	716621000000101	Heart failure monitoring third letter
+HF	SNOMEDCT	420300004	New York Heart Association Classification - Class I
+HF	SNOMEDCT	421704003	New York Heart Association Classification - Class II
+HF	SNOMEDCT	426611007	Congestive heart failure due to valvular disease
+HF	SNOMEDCT	395704004	Left ventricular diastolic dysfunction
+HF	SNOMEDCT	128404006	Right heart failure
+HF	SNOMEDCT	161505003	H/O: heart failure
+HF	SNOMEDCT	713781000000103	Left ventricular dysfunction monitoring administration
+HF	SNOMEDCT	762994006	New York Heart Assoc classification heart failure symptoms
+HF	SNOMEDCT	84114007	Heart failure NOS
+HF	SNOMEDCT	713791000000101	Heart failure monitoring administration
+HF	SNOMEDCT	203791000000106	Referred to heart failure education group
+HF	SNOMEDCT	422293003	New York Heart Association Classification - Class IV
+HF	SNOMEDCT	395105005	Heart failure confirmed
+HF	SNOMEDCT	233871002	Congestive obstructive cardiomyopathy
+HF	SNOMEDCT	79955004	Chronic cor pulmonale
+HF	SNOMEDCT	85232009	Left ventricular failure
+HF	SNOMEDCT	88805009	Chronic congestive heart failure
+HF	SNOMEDCT	194779001	Hypertensive heart&renal dis wth (congestive) heart failure
+HF	SNOMEDCT	789621000000105	Preferred place of care for next exacerbation heart failure
+HF	SNOMEDCT	717531000000102	Heart failure monitoring telephone invite
+HF	SNOMEDCT	717501000000108	Heart failure monitoring verbal invite
+HF	SNOMEDCT	715951000000107	Exception reporting: heart failure quality indicators
+HF	SNOMEDCT	202231000000106	Heart failure review completed
+HF	SNOMEDCT	84114007	Heart failure
+HF	SNOMEDCT	134378009	Congestive heart failure monitoring
+HF	SNOMEDCT	717281000000100	Excepted from LVD quality indicators: Informed dissent
+HF	SNOMEDCT	194767001	Benign hypertensive heart disease with CCF
+HF	Read2_5digit	14A6.	H/O: heart failure
+HF	Read2_5digit	14AM.	H/O: Heart failure in last year
+HF	Read2_5digit	1O1..	Heart failure confirmed
+HF	Read2_5digit	388D.	New York Heart Association classification of heart failure symptoms
+HF	Read2_5digit	661M5	Heart failure self-management plan agreed
+HF	Read2_5digit	662f.	New York Heart Association classification - class I
+HF	Read2_5digit	662g.	New York Heart Association classification - class II
+HF	Read2_5digit	662h.	New York Heart Association classification - class III
+HF	Read2_5digit	662i.	New York Heart Association classification - class IV
+HF	Read2_5digit	662p.	Heart failure 6 month review
+HF	Read2_5digit	662T.	Congestive heart failure monitoring
+HF	Read2_5digit	662W.	Heart failure annual review
+HF	Read2_5digit	679W1	Education about deteriorating heart failure
+HF	Read2_5digit	679X.	Heart failure education
+HF	Read2_5digit	8B29.	Cardiac failure therapy
+HF	Read2_5digit	8CeC.	Preferred place of care for next exacerbation of heart failure
+HF	Read2_5digit	8CL3.	Heart failure care plan discussed with patient
+HF	Read2_5digit	8CMK.	Has heart failure management plan
+HF	Read2_5digit	8CMW8	Heart failure clinical pathway
+HF	Read2_5digit	8H2S.	Admit heart failure emergency
+HF	Read2_5digit	8HBE.	Heart failure follow-up
+HF	Read2_5digit	8HHz.	Referral to heart failure exercise programme
+HF	Read2_5digit	8Hk0.	Referred to heart failure education group
+HF	Read2_5digit	9h1..	Exception reporting: LVD quality indicators
+HF	Read2_5digit	9h11.	Excepted from LVD quality indicators: Patient unsuitable
+HF	Read2_5digit	9h12.	Excepted from LVD quality indicators: Informed dissent
+HF	Read2_5digit	9hH..	Exception reporting: heart failure quality indicators
+HF	Read2_5digit	9hH0.	Excepted from heart failure quality indicators: Patient unsuitable
+HF	Read2_5digit	9hH1.	Excepted from heart failure quality indicators: Informed dissent
+HF	Read2_5digit	9N2p.	Seen by community heart failure nurse
+HF	Read2_5digit	9N6T.	Referred by heart failure nurse specialist
+HF	Read2_5digit	9On..	Left ventricular dysfunction monitoring administration
+HF	Read2_5digit	9On0.	Left ventricular dysfunction monitoring first letter
+HF	Read2_5digit	9On1.	Left ventricular dysfunction monitoring second letter
+HF	Read2_5digit	9On2.	Left ventricular dysfunction monitoring third letter
+HF	Read2_5digit	9On3.	Left ventricular dysfunction monitoring verbal invite
+HF	Read2_5digit	9On4.	Left ventricular dysfunction monitoring telephone invite
+HF	Read2_5digit	9Or..	Heart failure monitoring administration
+HF	Read2_5digit	9Or0.	Heart failure review completed
+HF	Read2_5digit	9Or1.	Heart failure monitoring telephone invite
+HF	Read2_5digit	9Or2.	Heart failure monitoring verbal invite
+HF	Read2_5digit	9Or3.	Heart failure monitoring first letter
+HF	Read2_5digit	9Or4.	Heart failure monitoring second letter
+HF	Read2_5digit	9Or5.	Heart failure monitoring third letter
+HF	Read2_5digit	G1yz1	Rheumatic left ventricular failure
+HF	Read2_5digit	G2101	Malignant hypertensive heart disease with congestive cardiac failure
+HF	Read2_5digit	G2111	Benign hypertensive heart disease with congestive cardiac failure
+HF	Read2_5digit	G21z1	Hypertensive heart disease NOS with congestive cardiac failure
+HF	Read2_5digit	G232.	Hypertensive heart and renal disease with (congestive) heart failure
+HF	Read2_5digit	G234.	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+HF	Read2_5digit	G400.	Acute cor pulmonale
+HF	Read2_5digit	G41z.	Chronic cor pulmonale
+HF	Read2_5digit	G5540	Congestive cardiomyopathy
+HF	Read2_5digit	G58..	Heart failure
+HF	Read2_5digit	G580.	Congestive heart failure
+HF	Read2_5digit	G5800	Acute congestive heart failure
+HF	Read2_5digit	G5801	Chronic congestive heart failure
+HF	Read2_5digit	G5802	Decompensated cardiac failure
+HF	Read2_5digit	G5803	Compensated cardiac failure
+HF	Read2_5digit	G5804	Congestive heart failure due to valvular disease
+HF	Read2_5digit	G581.	Left ventricular failure
+HF	Read2_5digit	G5810	Acute left ventricular failure
+HF	Read2_5digit	G582.	Acute heart failure
+HF	Read2_5digit	G584.	Right ventricular failure
+HF	Read2_5digit	G58z.	Heart failure NOS
+HF	Read2_5digit	G5yy9	Left ventricular systolic dysfunction
+HF	Read2_5digit	G5yyA	Left ventricular diastolic dysfunction
+HF	Read2_5digit	ZRad.	New York Heart Assoc classification heart failure symptoms
+HF	CTV3_5digit	14A6.	H/O: heart failure
+HF	CTV3_5digit	XaBwi	H/O: Heart failure in last year
+HF	CTV3_5digit	XaIpn	Heart failure confirmed
+HF	CTV3_5digit	XaIL7	New York Heart Association classification of heart failure symptoms
+HF	CTV3_5digit	XaYbC	Heart failure self-management plan agreed
+HF	CTV3_5digit	XaJ9G	New York Heart Association classification - class I
+HF	CTV3_5digit	XaJ9H	New York Heart Association classification - class II
+HF	CTV3_5digit	XaJ9I	New York Heart Association classification - class III
+HF	CTV3_5digit	XaJ9J	New York Heart Association classification - class IV
+HF	CTV3_5digit	XaLon	Heart failure 6 month review
+HF	CTV3_5digit	XaIIU	Congestive heart failure monitoring
+HF	CTV3_5digit	XaIQN	Heart failure annual review
+HF	CTV3_5digit	XaYft	Education about deteriorating heart failure
+HF	CTV3_5digit	XaNUf	Heart failure education
+HF	CTV3_5digit	XaBLt	Cardiac failure therapy
+HF	CTV3_5digit	XaXzw	Preferred place of care for next exacerbation of heart failure
+HF	CTV3_5digit	XaLNA	Heart failure care plan discussed with patient
+HF	CTV3_5digit	XaXkR	Has heart failure management plan
+HF	CTV3_5digit	XaZih	Heart failure clinical pathway
+HF	CTV3_5digit	XaKNW	Admit heart failure emergency
+HF	CTV3_5digit	XaIQM	Heart failure follow-up
+HF	CTV3_5digit	XaLMx	Referral to heart failure exercise programme
+HF	CTV3_5digit	XaLSI	Referred to heart failure education group
+HF	CTV3_5digit	XaJ4N	Exception reporting: LVD quality indicators
+HF	CTV3_5digit	XaJ4Y	Excepted from LVD quality indicators: Patient unsuitable
+HF	CTV3_5digit	XaJ4Z	Excepted from LVD quality indicators: Informed dissent
+HF	CTV3_5digit	XaMJ9	Exception reporting: heart failure quality indicators
+HF	CTV3_5digit	XaMJA	Excepted from heart failure quality indicators: Patient unsuitable
+HF	CTV3_5digit	XaMJB	Excepted from heart failure quality indicators: Informed dissent
+HF	CTV3_5digit	XaKNa	Seen by community heart failure nurse
+HF	CTV3_5digit	XaLCj	Referred by heart failure nurse specialist
+HF	CTV3_5digit	XaK6W	Left ventricular dysfunction monitoring administration
+HF	CTV3_5digit	XaK6Y	Left ventricular dysfunction monitoring first letter
+HF	CTV3_5digit	XaK6Z	Left ventricular dysfunction monitoring second letter
+HF	CTV3_5digit	XaK6a	Left ventricular dysfunction monitoring third letter
+HF	CTV3_5digit	XaKc0	Left ventricular dysfunction monitoring verbal invite
+HF	CTV3_5digit	XaMGm	Left ventricular dysfunction monitoring telephone invite
+HF	CTV3_5digit	XaLN6	Heart failure monitoring administration
+HF	CTV3_5digit	XaLN7	Heart failure review completed
+HF	CTV3_5digit	XaMFr	Heart failure monitoring telephone invite
+HF	CTV3_5digit	XaMGo	Heart failure monitoring verbal invite
+HF	CTV3_5digit	XaMGs	Heart failure monitoring first letter
+HF	CTV3_5digit	XaMGt	Heart failure monitoring second letter
+HF	CTV3_5digit	XaMGu	Heart failure monitoring third letter
+HF	CTV3_5digit	G1yz1	Rheumatic left ventricular failure
+HF	CTV3_5digit	G2101	Malignant hypertensive heart disease with congestive cardiac failure
+HF	CTV3_5digit	G2111	Benign hypertensive heart disease with congestive cardiac failure
+HF	CTV3_5digit	G21z1	Hypertensive heart disease NOS with congestive cardiac failure
+HF	CTV3_5digit	G232.	Hypertensive heart and renal disease with (congestive) heart failure
+HF	CTV3_5digit	G234.	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+HF	CTV3_5digit	G400.	Acute cor pulmonale
+HF	CTV3_5digit	X203E	Chronic cor pulmonale
+HF	CTV3_5digit	XE0Uz	Congestive cardiomyopathy
+HF	CTV3_5digit	X201W	Congestive obstructive cardiomyopathy
+HF	CTV3_5digit	G58..	Heart failure
+HF	CTV3_5digit	XE0V8	Congestive heart failure
+HF	CTV3_5digit	G580.	Biventricular failure
+HF	CTV3_5digit	X202l	Right heart failure
+HF	CTV3_5digit	G5800	Acute congestive heart failure
+HF	CTV3_5digit	G5801	Chronic congestive heart failure
+HF	CTV3_5digit	G5802	Decompensated cardiac failure
+HF	CTV3_5digit	G5803	Compensated cardiac failure
+HF	CTV3_5digit	XaO5n	Congestive heart failure due to valvular disease
+HF	CTV3_5digit	XE2QG	Left ventricular failure
+HF	CTV3_5digit	X102Y	Acute cardiac pulmonary oedema
+HF	CTV3_5digit	XM1Qn	Impaired left ventricular function
+HF	CTV3_5digit	G5810	Acute left ventricular failure
+HF	CTV3_5digit	G582.	Acute heart failure
+HF	CTV3_5digit	XE0V9	Heart failure NOS
+HF	CTV3_5digit	XaIIq	Left ventricular systolic dysfunction
+HF	CTV3_5digit	XaItG	Left ventricular diastolic dysfunction

@@ -1,0 +1,287 @@
+condition	vocab_id	code	description
+CKD	ICD10	N18.3	Chronic kidney disease, stage 3
+CKD	ICD10	N18.4	Chronic kidney disease, stage 4
+CKD	ICD10	N18.5	Chronic kidney disease, stage 5
+CKD	ICD10	N18.6	End stage renal disease
+CKD	ICD10	N18.9	Chronic kidney disease, unspecified
+CKD	ICD10	N19	Unspecified kidney failure
+CKD	ICD10	Z94.0	Kidney transplant status
+CKD	Read2	1Z12.00	Chronic kidney disease stage 3
+CKD	Read2	1Z13.00	Chronic kidney disease stage 4
+CKD	Read2	1Z14.00	Chronic kidney disease stage 5
+CKD	Read2	1Z15.00	Chronic kidney disease stage 3A
+CKD	Read2	1Z16.00	Chronic kidney disease stage 3B
+CKD	Read2	1Z1a.00	CKD G4A1 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1
+CKD	Read2	1Z1B.00	Chronic kidney disease stage 3 with proteinuria
+CKD	Read2	1Z1B.11	CKD stage 3 with proteinuria
+CKD	Read2	1Z1b.00	CKD G4A2 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2
+CKD	Read2	1Z1C.00	Chronic kidney disease stage 3 without proteinuria
+CKD	Read2	1Z1C.11	CKD stage 3 without proteinuria
+CKD	Read2	1Z1c.00	CKD G4A3 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3
+CKD	Read2	1Z1D.00	Chronic kidney disease stage 3A with proteinuria
+CKD	Read2	1Z1D.11	CKD stage 3A with proteinuria
+CKD	Read2	1Z1d.00	CKD G5A1 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1
+CKD	Read2	1Z1E.00	Chronic kidney disease stage 3A without proteinuria
+CKD	Read2	1Z1E.11	CKD stage 3A without proteinuria
+CKD	Read2	1Z1e.00	CKD G5A2 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2
+CKD	Read2	1Z1F.00	Chronic kidney disease stage 3B with proteinuria
+CKD	Read2	1Z1F.11	CKD stage 3B with proteinuria
+CKD	Read2	1Z1f.00	CKD G5A3 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3
+CKD	Read2	1Z1G.00	Chronic kidney disease stage 3B without proteinuria
+CKD	Read2	1Z1G.11	CKD stage 3B without proteinuria
+CKD	Read2	1Z1H.00	Chronic kidney disease stage 4 with proteinuria
+CKD	Read2	1Z1H.11	CKD stage 4 with proteinuria
+CKD	Read2	1Z1J.00	Chronic kidney disease stage 4 without proteinuria
+CKD	Read2	1Z1J.11	CKD stage 4 without proteinuria
+CKD	Read2	1Z1K.00	Chronic kidney disease stage 5 with proteinuria
+CKD	Read2	1Z1K.11	CKD stage 5 with proteinuria
+CKD	Read2	1Z1L.00	Chronic kidney disease stage 5 without proteinuria
+CKD	Read2	1Z1L.11	CKD stage 5 without proteinuria
+CKD	Read2	1Z1T.00	CKD G3aA1 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1
+CKD	Read2	1Z1V.00	CKD G3aA2 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2
+CKD	Read2	1Z1W.00	CKD G3aA3 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3
+CKD	Read2	1Z1X.00	CKD G3bA1 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1
+CKD	Read2	1Z1Y.00	CKD G3bA2 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2
+CKD	Read2	1Z1Z.00	CKD G3bA3 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3
+CKD	Read2	K053.00	Chronic kidney disease stage 3
+CKD	Read2	K054.00	Chronic kidney disease stage 4
+CKD	Read2	K055.00	Chronic kidney disease stage 5
+CKD	Read2	1Z1..00	Chronic renal impairment
+CKD	Read2	K0E..00	Acute-on-chronic renal failure
+CKD	Read2	K05..00	Chronic renal failure
+CKD	Read2	Kyu2100	[X]Other chronic renal failure
+CKD	Read2	D215000	Anaemia secondary to chronic renal failure
+CKD	Read2	K06..12	Kidney failure unspecified
+CKD	Read2	K05..11	Chronic uraemia
+CKD	Read2	K05..13	Chronic kidney disease
+CKD	Read2	6AA..00	Chronic kidney disease annual review
+CKD	Read2	66i..00	Chronic kidney disease monitoring
+CKD	Read2	661M200	Chronic kidney disease self-management plan agreed
+CKD	Read2	661N200	Chronic kidney disease self-management plan review
+CKD	CTV3	X30InY31fY	Chronic renal impairment
+CKD	CTV3	XaLHIYaoL9	Chronic kidney disease stage 3
+CKD	CTV3	XaLHJYaoLA	Chronic kidney disease stage 4
+CKD	CTV3	XaLHKYaoLB	Chronic kidney disease stage 5
+CKD	CTV3	XaNbnYaqcm	Chronic kidney disease stage 3A
+CKD	CTV3	XaNboYaqcn	Chronic kidney disease stage 3B
+CKD	CTV3	XacAbYaxrP	CKD G4A1 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1
+CKD	CTV3	XacAdYaxrQ	CKD G4A2 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2
+CKD	CTV3	XaO3tYaqrz	Chronic kidney disease stage 3 with proteinuria
+CKD	CTV3	XaO3tYaqs0	CKD stage 3 with proteinuria
+CKD	CTV3	XacAeYaxrR	CKD G4A3 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3
+CKD	CTV3	XaO3uYaqs1	Chronic kidney disease stage 3 without proteinuria
+CKD	CTV3	XaO3uYaqyX	CKD stage 3 without proteinuria
+CKD	CTV3	XacAfYaxrS	CKD G5A1 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1
+CKD	CTV3	XaO3vYaqs3	Chronic kidney disease stage 3A with proteinuria
+CKD	CTV3	XaO3vYaqs4	CKD stage 3A with proteinuria
+CKD	CTV3	XacAhYaxrU	CKD G5A2 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2
+CKD	CTV3	XaO3wYaqs5	Chronic kidney disease stage 3A without proteinuria
+CKD	CTV3	XaO3wYaqya	CKD stage 3A without proteinuria
+CKD	CTV3	XacAiYaxrV	CKD G5A3 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3
+CKD	CTV3	XaO3xYaqs7	Chronic kidney disease stage 3B with proteinuria
+CKD	CTV3	XaO3xYaqs8	CKD stage 3B with proteinuria
+CKD	CTV3	XaO3yYaqs9	Chronic kidney disease stage 3B without proteinuria
+CKD	CTV3	XaO3yYaqyb	CKD stage 3B without proteinuria
+CKD	CTV3	XaO3zYaqsB	Chronic kidney disease stage 4 with proteinuria
+CKD	CTV3	XaO3zYaqsC	CKD stage 4 with proteinuria
+CKD	CTV3	XaO40YaqsD	Chronic kidney disease stage 4 without proteinuria
+CKD	CTV3	XaO40YaqyY	CKD stage 4 without proteinuria
+CKD	CTV3	XaO41YaqsF	Chronic kidney disease stage 5 with proteinuria
+CKD	CTV3	XaO41YaqsG	CKD stage 5 with proteinuria
+CKD	CTV3	XaO42YaqsH	Chronic kidney disease stage 5 without proteinuria
+CKD	CTV3	XaO42YaqyZ	CKD stage 5 without proteinuria
+CKD	CTV3	XacAMYaxrA	CKD G3aA1 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1
+CKD	CTV3	XacANYaxrB	CKD G3aA2 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2
+CKD	CTV3	XacAOYaxrC	CKD G3aA3 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3
+CKD	CTV3	XacAVYaxrJ	CKD G3bA1 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1
+CKD	CTV3	XacAWYaxrK	CKD G3bA2 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2
+CKD	CTV3	XacAXYaxrL	CKD G3bA3 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3
+CKD	CTV3	XaYb9Yauuz	Chronic kidney disease self-management plan agreed
+CKD	CTV3	XaYZWYauti	Chronic kidney disease self-management plan review
+CKD	CTV3	XaMJDYapUC	Chronic kidney disease monitoring
+CKD	CTV3	XaMGEYapQX	Chronic kidney disease annual review
+CKD	CTV3	XaCLyYac7p	Anaemia secondary to chronic renal failure
+CKD	CTV3	XE0dfY31g7	Chronic renal failure
+CKD	CTV3	X30InYavGT	Chronic kidney disease
+CKD	CTV3	XE0dfY31g8	Chronic uraemia
+CKD	CTV3	XE0dgY31fe	Renal failure unspecified
+CKD	CTV3	X30IzY31g6	Acute-on-chronic renal failure
+CKD	CTV3	Kyu21YMAQ4	[X]Other chronic renal failure
+CKD	medcodeid	354409011	Chronic renal impairment
+CKD	medcodeid	354417015	Acute-on-chronic renal failure
+CKD	medcodeid	509111010	Chronic renal failure
+CKD	medcodeid	304111000000114	Chronic kidney disease stage 5
+CKD	medcodeid	408381000000119	Chronic kidney disease annual review
+CKD	medcodeid	557831000000110	Chronic kidney disease stage 3B
+CKD	medcodeid	595811000000117	Chronic kidney disease stage 3 with proteinuria
+CKD	medcodeid	595931000000116	Chronic kidney disease stage 3A with proteinuria
+CKD	medcodeid	596401000000111	Chronic kidney disease stage 5 without proteinuria
+CKD	medcodeid	618431000000114	CKD stage 3 with proteinuria
+CKD	medcodeid	618441000000117	CKD stage 3 without proteinuria
+CKD	medcodeid	618451000000119	CKD stage 3A with proteinuria
+CKD	medcodeid	618471000000111	CKD stage 3B with proteinuria
+CKD	medcodeid	618481000000113	CKD stage 3B without proteinuria
+CKD	medcodeid	618491000000110	CKD stage 4 with proteinuria
+CKD	medcodeid	618501000000116	CKD stage 4 without proteinuria
+CKD	medcodeid	618521000000113	CKD stage 5 without proteinuria
+CKD	medcodeid	2115881000000117	Chronic kidney disease self-management plan review
+CKD	medcodeid	1816581000006110	Kidney failure unspecified
+CKD	medcodeid	1940501000006119	CKD with GFR category G4 & albuminuria category A1
+CKD	medcodeid	1940511000006116	CKD with GFR category G4 & albuminuria category A2
+CKD	medcodeid	1940541000006117	CKD with GFR category G5 & albuminuria category A2
+CKD	medcodeid	1940631000006114	CKD with GFR category G3a & albuminuria category A2
+CKD	medcodeid	1940641000006116	CKD with GFR category G3a & albuminuria category A3
+CKD	medcodeid	1940651000006119	CKD with GFR category G3b & albuminuria category A1
+CKD	medcodeid	1940671000006112	CKD with GFR category G3b & albuminuria category A3
+CKD	medcodeid	305192017	[X]Other chronic renal failure
+CKD	medcodeid	2117811000000117	Chronic kidney disease self-management plan agreed
+CKD	medcodeid	596321000000110	Chronic kidney disease stage 5 with proteinuria
+CKD	medcodeid	618461000000116	CKD stage 3A without proteinuria
+CKD	medcodeid	557811000000119	Chronic kidney disease stage 3A
+CKD	medcodeid	2767154014	Chronic kidney disease stage 5
+CKD	medcodeid	595871000000110	Chronic kidney disease stage 3 without proteinuria
+CKD	medcodeid	509108014	Chronic uraemia
+CKD	medcodeid	1940551000006115	CKD with GFR category G5 & albuminuria category A3
+CKD	medcodeid	1940621000006111	CKD with GFR category G3a & albuminuria category A1
+CKD	medcodeid	304071000000115	Chronic kidney disease stage 3
+CKD	medcodeid	2767385013	Chronic kidney disease stage 4
+CKD	medcodeid	2773184015	Chronic kidney disease stage 3
+CKD	medcodeid	595991000000115	Chronic kidney disease stage 3A without proteinuria
+CKD	medcodeid	596131000000114	Chronic kidney disease stage 3B without proteinuria
+CKD	medcodeid	596261000000111	Chronic kidney disease stage 4 without proteinuria
+CKD	medcodeid	618511000000119	CKD stage 5 with proteinuria
+CKD	medcodeid	407481000000111	Chronic kidney disease monitoring
+CKD	medcodeid	304091000000116	Chronic kidney disease stage 4
+CKD	medcodeid	1940521000006112	CKD with GFR category G4 & albuminuria category A3
+CKD	medcodeid	596051000000115	Chronic kidney disease stage 3B with proteinuria
+CKD	medcodeid	596191000000110	Chronic kidney disease stage 4 with proteinuria
+CKD	medcodeid	2771041011	Chronic kidney disease
+CKD	medcodeid	1940531000006110	CKD with GFR category G5 & albuminuria category A1
+CKD	medcodeid	1940661000006117	CKD with GFR category G3b & albuminuria category A2
+CKD	medcodeid	480871000006117	Anaemia secondary to chronic renal failure
+CKD	SNOMEDCT	709044004	Chronic renal impairment
+CKD	SNOMEDCT	236433006	Acute-on-chronic renal failure
+CKD	SNOMEDCT	90688005	Chronic renal failure
+CKD	SNOMEDCT	433146000	Chronic kidney disease stage 5
+CKD	SNOMEDCT	249171000000102	Chronic kidney disease annual review
+CKD	SNOMEDCT	700379002	Chronic kidney disease stage 3B
+CKD	SNOMEDCT	324251000000105	Chronic kidney disease stage 3 with proteinuria
+CKD	SNOMEDCT	324311000000101	Chronic kidney disease stage 3A with proteinuria
+CKD	SNOMEDCT	324541000000105	Chronic kidney disease stage 5 without proteinuria
+CKD	SNOMEDCT	324251000000105	CKD stage 3 with proteinuria
+CKD	SNOMEDCT	324281000000104	CKD stage 3 without proteinuria
+CKD	SNOMEDCT	324311000000101	CKD stage 3A with proteinuria
+CKD	SNOMEDCT	324371000000106	CKD stage 3B with proteinuria
+CKD	SNOMEDCT	324411000000105	CKD stage 3B without proteinuria
+CKD	SNOMEDCT	324441000000106	CKD stage 4 with proteinuria
+CKD	SNOMEDCT	324471000000100	CKD stage 4 without proteinuria
+CKD	SNOMEDCT	324541000000105	CKD stage 5 without proteinuria
+CKD	SNOMEDCT	811021000000104	Chronic kidney disease self-management plan review
+CKD	SNOMEDCT	42399005	Kidney failure unspecified
+CKD	SNOMEDCT	950181000000106	CKD with GFR category G4 & albuminuria category A1
+CKD	SNOMEDCT	950211000000107	CKD with GFR category G4 & albuminuria category A2
+CKD	SNOMEDCT	950291000000103	CKD with GFR category G5 & albuminuria category A2
+CKD	SNOMEDCT	949901000000109	CKD with GFR category G3a & albuminuria category A2
+CKD	SNOMEDCT	949921000000100	CKD with GFR category G3a & albuminuria category A3
+CKD	SNOMEDCT	950061000000103	CKD with GFR category G3b & albuminuria category A1
+CKD	SNOMEDCT	950101000000101	CKD with GFR category G3b & albuminuria category A3
+CKD	SNOMEDCT	90688005	[X]Other chronic renal failure
+CKD	SNOMEDCT	811941000000105	Chronic kidney disease self-management plan agreed
+CKD	SNOMEDCT	324501000000107	Chronic kidney disease stage 5 with proteinuria
+CKD	SNOMEDCT	324341000000100	CKD stage 3A without proteinuria
+CKD	SNOMEDCT	700378005	Chronic kidney disease stage 3A
+CKD	SNOMEDCT	324281000000104	Chronic kidney disease stage 3 without proteinuria
+CKD	SNOMEDCT	90688005	Chronic uraemia
+CKD	SNOMEDCT	950311000000102	CKD with GFR category G5 & albuminuria category A3
+CKD	SNOMEDCT	949881000000106	CKD with GFR category G3a & albuminuria category A1
+CKD	SNOMEDCT	433144002	Chronic kidney disease stage 3
+CKD	SNOMEDCT	431857002	Chronic kidney disease stage 4
+CKD	SNOMEDCT	324341000000100	Chronic kidney disease stage 3A without proteinuria
+CKD	SNOMEDCT	324411000000105	Chronic kidney disease stage 3B without proteinuria
+CKD	SNOMEDCT	324471000000100	Chronic kidney disease stage 4 without proteinuria
+CKD	SNOMEDCT	324501000000107	CKD stage 5 with proteinuria
+CKD	SNOMEDCT	248721000000108	Chronic kidney disease monitoring
+CKD	SNOMEDCT	950231000000104	CKD with GFR category G4 & albuminuria category A3
+CKD	SNOMEDCT	324371000000106	Chronic kidney disease stage 3B with proteinuria
+CKD	SNOMEDCT	324441000000106	Chronic kidney disease stage 4 with proteinuria
+CKD	SNOMEDCT	709044004	Chronic kidney disease
+CKD	SNOMEDCT	950251000000106	CKD with GFR category G5 & albuminuria category A1
+CKD	SNOMEDCT	950081000000107	CKD with GFR category G3b & albuminuria category A2
+CKD	SNOMEDCT	49708008	Anaemia secondary to chronic renal failure
+CKD	Read2_5digit	1Z12.	Chronic kidney disease stage 3
+CKD	Read2_5digit	1Z13.	Chronic kidney disease stage 4
+CKD	Read2_5digit	1Z14.	Chronic kidney disease stage 5
+CKD	Read2_5digit	1Z15.	Chronic kidney disease stage 3A
+CKD	Read2_5digit	1Z16.	Chronic kidney disease stage 3B
+CKD	Read2_5digit	1Z1a.	CKD G4A1 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1
+CKD	Read2_5digit	1Z1B.	Chronic kidney disease stage 3 with proteinuria
+CKD	Read2_5digit	1Z1b.	CKD G4A2 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2
+CKD	Read2_5digit	1Z1C.	Chronic kidney disease stage 3 without proteinuria
+CKD	Read2_5digit	1Z1c.	CKD G4A3 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3
+CKD	Read2_5digit	1Z1D.	Chronic kidney disease stage 3A with proteinuria
+CKD	Read2_5digit	1Z1d.	CKD G5A1 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1
+CKD	Read2_5digit	1Z1E.	Chronic kidney disease stage 3A without proteinuria
+CKD	Read2_5digit	1Z1e.	CKD G5A2 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2
+CKD	Read2_5digit	1Z1F.	Chronic kidney disease stage 3B with proteinuria
+CKD	Read2_5digit	1Z1f.	CKD G5A3 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3
+CKD	Read2_5digit	1Z1G.	Chronic kidney disease stage 3B without proteinuria
+CKD	Read2_5digit	1Z1H.	Chronic kidney disease stage 4 with proteinuria
+CKD	Read2_5digit	1Z1J.	Chronic kidney disease stage 4 without proteinuria
+CKD	Read2_5digit	1Z1K.	Chronic kidney disease stage 5 with proteinuria
+CKD	Read2_5digit	1Z1L.	Chronic kidney disease stage 5 without proteinuria
+CKD	Read2_5digit	1Z1T.	CKD G3aA1 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1
+CKD	Read2_5digit	1Z1V.	CKD G3aA2 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2
+CKD	Read2_5digit	1Z1W.	CKD G3aA3 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3
+CKD	Read2_5digit	1Z1X.	CKD G3bA1 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1
+CKD	Read2_5digit	1Z1Y.	CKD G3bA2 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2
+CKD	Read2_5digit	1Z1Z.	CKD G3bA3 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3
+CKD	Read2_5digit	K053.	Chronic kidney disease stage 3
+CKD	Read2_5digit	K054.	Chronic kidney disease stage 4
+CKD	Read2_5digit	K055.	Chronic kidney disease stage 5
+CKD	Read2_5digit	1Z1..	Chronic renal impairment
+CKD	Read2_5digit	K0E..	Acute-on-chronic renal failure
+CKD	Read2_5digit	K05..	Chronic renal failure
+CKD	Read2_5digit	Kyu21	[X]Other chronic renal failure
+CKD	Read2_5digit	D2150	Anaemia secondary to chronic renal failure
+CKD	Read2_5digit	K06..	Kidney failure unspecified
+CKD	Read2_5digit	6AA..	Chronic kidney disease annual review
+CKD	Read2_5digit	66i..	Chronic kidney disease monitoring
+CKD	Read2_5digit	661M2	Chronic kidney disease self-management plan agreed
+CKD	Read2_5digit	661N2	Chronic kidney disease self-management plan review
+CKD	CTV3_5digit	X30In	Chronic renal impairment
+CKD	CTV3_5digit	XaLHI	Chronic kidney disease stage 3
+CKD	CTV3_5digit	XaLHJ	Chronic kidney disease stage 4
+CKD	CTV3_5digit	XaLHK	Chronic kidney disease stage 5
+CKD	CTV3_5digit	XaNbn	Chronic kidney disease stage 3A
+CKD	CTV3_5digit	XaNbo	Chronic kidney disease stage 3B
+CKD	CTV3_5digit	XacAb	CKD G4A1 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1
+CKD	CTV3_5digit	XacAd	CKD G4A2 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2
+CKD	CTV3_5digit	XaO3t	Chronic kidney disease stage 3 with proteinuria
+CKD	CTV3_5digit	XacAe	CKD G4A3 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3
+CKD	CTV3_5digit	XaO3u	Chronic kidney disease stage 3 without proteinuria
+CKD	CTV3_5digit	XacAf	CKD G5A1 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1
+CKD	CTV3_5digit	XaO3v	Chronic kidney disease stage 3A with proteinuria
+CKD	CTV3_5digit	XacAh	CKD G5A2 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2
+CKD	CTV3_5digit	XaO3w	Chronic kidney disease stage 3A without proteinuria
+CKD	CTV3_5digit	XacAi	CKD G5A3 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3
+CKD	CTV3_5digit	XaO3x	Chronic kidney disease stage 3B with proteinuria
+CKD	CTV3_5digit	XaO3y	Chronic kidney disease stage 3B without proteinuria
+CKD	CTV3_5digit	XaO3z	Chronic kidney disease stage 4 with proteinuria
+CKD	CTV3_5digit	XaO40	Chronic kidney disease stage 4 without proteinuria
+CKD	CTV3_5digit	XaO41	Chronic kidney disease stage 5 with proteinuria
+CKD	CTV3_5digit	XaO42	Chronic kidney disease stage 5 without proteinuria
+CKD	CTV3_5digit	XacAM	CKD G3aA1 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1
+CKD	CTV3_5digit	XacAN	CKD G3aA2 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2
+CKD	CTV3_5digit	XacAO	CKD G3aA3 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3
+CKD	CTV3_5digit	XacAV	CKD G3bA1 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1
+CKD	CTV3_5digit	XacAW	CKD G3bA2 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2
+CKD	CTV3_5digit	XacAX	CKD G3bA3 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3
+CKD	CTV3_5digit	XaYb9	Chronic kidney disease self-management plan agreed
+CKD	CTV3_5digit	XaYZW	Chronic kidney disease self-management plan review
+CKD	CTV3_5digit	XaMJD	Chronic kidney disease monitoring
+CKD	CTV3_5digit	XaMGE	Chronic kidney disease annual review
+CKD	CTV3_5digit	XaCLy	Anaemia secondary to chronic renal failure
+CKD	CTV3_5digit	XE0df	Chronic renal failure
+CKD	CTV3_5digit	XE0dg	Renal failure unspecified
+CKD	CTV3_5digit	X30Iz	Acute-on-chronic renal failure
+CKD	CTV3_5digit	Kyu21	[X]Other chronic renal failure

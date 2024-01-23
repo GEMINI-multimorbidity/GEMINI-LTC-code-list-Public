@@ -1,0 +1,930 @@
+condition	vocab_id	code	description
+periph_neuro	ICD10	E85.1	Neuropathic heredofamilial amyloidosis
+periph_neuro	ICD10	G56.1	Other lesions of median nerve
+periph_neuro	ICD10	G56.2	Lesion of ulnar nerve
+periph_neuro	ICD10	G56.3	Lesion of radial nerve
+periph_neuro	ICD10	G56.4	Causalgia
+periph_neuro	ICD10	G56.8	Other mononeuropathies of upper limb
+periph_neuro	ICD10	G56.9	Mononeuropathy of upper limb, unspecified
+periph_neuro	ICD10	G57	Mononeuropathies of lower limb
+periph_neuro	ICD10	G58	Other mononeuropathies
+periph_neuro	ICD10	G59	Mononeuropathy in diseases classified elsewhere
+periph_neuro	ICD10	G60	Hereditary and idiopathic neuropathy
+periph_neuro	ICD10	G61	Inflammatory polyneuropathy
+periph_neuro	ICD10	G62	Other polyneuropathies
+periph_neuro	ICD10	G63	Polyneuropathy in diseases classified elsewhere
+periph_neuro	ICD10	G64	Other disorders of peripheral nervous system
+periph_neuro	ICD10	M14.6	Neuropathic arthropathy
+periph_neuro	ICD10	M49.4	Neuropathic spondylopathy
+periph_neuro	Read2	A531300	Postherpetic polyneuropathy
+periph_neuro	Read2	A72x100	Mumps polyneuropathy
+periph_neuro	Read2	C106.12	Diabetes mellitus with neuropathy
+periph_neuro	Read2	C106.13	Diabetes mellitus with polyneuropathy
+periph_neuro	Read2	C108B00	Insulin dependent diabetes mellitus with mononeuropathy
+periph_neuro	Read2	C108B11	Type I diabetes mellitus with mononeuropathy
+periph_neuro	Read2	C108C00	Insulin dependent diabetes mellitus with polyneuropathy
+periph_neuro	Read2	C108J00	Insulin dependent diabetes mellitus with neuropathic arthropathy
+periph_neuro	Read2	C108J11	Type I diabetes mellitus with neuropathic arthropathy
+periph_neuro	Read2	C108J12	Type 1 diabetes mellitus with neuropathic arthropathy
+periph_neuro	Read2	C109A00	Non-insulin dependent diabetes mellitus with mononeuropathy
+periph_neuro	Read2	C109A11	Type II diabetes mellitus with mononeuropathy
+periph_neuro	Read2	C109B00	Non-insulin dependent diabetes mellitus with polyneuropathy
+periph_neuro	Read2	C109B11	Type II diabetes mellitus with polyneuropathy
+periph_neuro	Read2	C109B12	Type 2 diabetes mellitus with polyneuropathy
+periph_neuro	Read2	C109H00	Non-insulin dependent diabetes mellitus with neuropathic arthropathy
+periph_neuro	Read2	C109H11	Type II diabetes mellitus with neuropathic arthropathy
+periph_neuro	Read2	C109H12	Type 2 diabetes mellitus with neuropathic arthropathy
+periph_neuro	Read2	C10EB00	Type 1 diabetes mellitus with mononeuropathy
+periph_neuro	Read2	C10EC00	Type 1 diabetes mellitus with polyneuropathy
+periph_neuro	Read2	C10EC11	Type I diabetes mellitus with polyneuropathy
+periph_neuro	Read2	C10EC12	Insulin dependent diabetes mellitus with polyneuropathy
+periph_neuro	Read2	C10EJ00	Type 1 diabetes mellitus with neuropathic arthropathy
+periph_neuro	Read2	C10FA00	Type 2 diabetes mellitus with mononeuropathy
+periph_neuro	Read2	C10FA11	Type II diabetes mellitus with mononeuropathy
+periph_neuro	Read2	C10FB00	Type 2 diabetes mellitus with polyneuropathy
+periph_neuro	Read2	C10FB11	Type II diabetes mellitus with polyneuropathy
+periph_neuro	Read2	C10FH00	Type 2 diabetes mellitus with neuropathic arthropathy
+periph_neuro	Read2	C10FH11	Type II diabetes mellitus with neuropathic arthropathy
+periph_neuro	Read2	C34y400	Gouty neuritis
+periph_neuro	Read2	C373200	Familial neuropathic amyloid
+periph_neuro	Read2	C373K13	Familial amyloid polyneuropathy type III
+periph_neuro	Read2	E011100	Korsakov's alcoholic psychosis with peripheral neuritis
+periph_neuro	Read2	F34..00	Mononeuritis of upper limb and mononeuritis multiplex
+periph_neuro	Read2	F341.00	Other median nerve lesions
+periph_neuro	Read2	F341000	Median nerve neuritis
+periph_neuro	Read2	F341100	Median nerve compression in forearm
+periph_neuro	Read2	F341z00	Median nerve lesions NOS
+periph_neuro	Read2	F342.00	Ulnar nerve lesions
+periph_neuro	Read2	F342.11	Neuritis ulnar nerve
+periph_neuro	Read2	F342000	Cubital tunnel syndrome
+periph_neuro	Read2	F342100	Tardy ulnar nerve palsy
+periph_neuro	Read2	F342200	Canal of Guyon compression
+periph_neuro	Read2	F342300	Ulnar nerve entrapment
+periph_neuro	Read2	F342400	Ulnar neuropathy
+periph_neuro	Read2	F342z00	Ulnar nerve lesion NOS
+periph_neuro	Read2	F343.00	Radial nerve lesions
+periph_neuro	Read2	F343000	Acute radial nerve palsy
+periph_neuro	Read2	F343100	Sensory branch of radial nerve lesion
+periph_neuro	Read2	F343200	Posterior interosseous nerve lesion
+periph_neuro	Read2	F343z00	Radial nerve lesion NOS
+periph_neuro	Read2	F344.00	Causalgia
+periph_neuro	Read2	F345.00	Mononeuritis multiplex
+periph_neuro	Read2	F345000	Diabetic mononeuritis multiplex
+periph_neuro	Read2	F346.00	Median nerve entrapment
+periph_neuro	Read2	F34y.00	Other upper limb mononeuritis
+periph_neuro	Read2	F34z.00	Mononeuritis upper limb NOS
+periph_neuro	Read2	F35..00	Mononeuritis lower limb
+periph_neuro	Read2	F350.00	Sciatic nerve lesion
+periph_neuro	Read2	F351.00	Meralgia paraesthetica
+periph_neuro	Read2	F352.00	Femoral nerve lesions
+periph_neuro	Read2	F353.00	Common peroneal nerve lesion
+periph_neuro	Read2	F353.11	Lateral popliteal nerve lesion
+periph_neuro	Read2	F354.00	Tibial nerve lesion
+periph_neuro	Read2	F354.11	Medial popliteal nerve lesion
+periph_neuro	Read2	F355.00	Tarsal tunnel syndrome
+periph_neuro	Read2	F356.00	Plantar nerve lesion
+periph_neuro	Read2	F356000	Morton's metatarsalgia
+periph_neuro	Read2	F356100	Morton's neuralgia
+periph_neuro	Read2	F356z00	Plantar nerve lesion NOS
+periph_neuro	Read2	F357.00	Superficial peroneal nerve lesion
+periph_neuro	Read2	F358.00	Deep peroneal nerve lesion
+periph_neuro	Read2	F35x.00	Other mononeuritis lower limb
+periph_neuro	Read2	F35y.00	Unspecified mononeuritis lower limb
+periph_neuro	Read2	F35z.00	Mononeuritis of unspecified site NOS
+periph_neuro	Read2	F35z.11	Peripheral neuropathy - hereditary or idiopathic
+periph_neuro	Read2	F35z000	Diabetic mononeuritis NOS
+periph_neuro	Read2	F36..00	Hereditary and idiopathic peripheral neuropathy
+periph_neuro	Read2	F360.00	Hereditary peripheral neuropathy
+periph_neuro	Read2	F360000	Dejerine-Sottas disease
+periph_neuro	Read2	F360z00	Hereditary peripheral neuropathy NOS
+periph_neuro	Read2	F361.00	Peroneal muscular atrophy
+periph_neuro	Read2	F361000	Charcot-Marie-Tooth disease
+periph_neuro	Read2	F361011	Charcot's atrophy
+periph_neuro	Read2	F361012	Charcot-Marie-Tooth syndrome
+periph_neuro	Read2	F361z00	Peroneal muscular atrophy NOS
+periph_neuro	Read2	F362.00	Hereditary sensory neuropathy
+periph_neuro	Read2	F363.00	Refsum's disease
+periph_neuro	Read2	F364.00	Idiopathic progressive polyneuropathy
+periph_neuro	Read2	F365.00	Neuropathy in association with hereditary ataxia
+periph_neuro	Read2	F366.00	Polyneuropathy
+periph_neuro	Read2	F367.00	Peripheral neuropathy
+periph_neuro	Read2	F368.00	Hereditary motor and sensory neuropathy
+periph_neuro	Read2	F368000	Hereditary motor and sensory neuropathy type I
+periph_neuro	Read2	F368100	Hereditary motor and sensory neuropathy type II
+periph_neuro	Read2	F368200	Hereditary motor and sensory neuropathy type III
+periph_neuro	Read2	F36y.00	Other idiopathic peripheral neuropathy
+periph_neuro	Read2	F36yz00	Other idiopathic peripheral neuropathy NOS
+periph_neuro	Read2	F36z.00	Hereditary or idiopathic peripheral neuropathy NOS
+periph_neuro	Read2	F37..00	Inflammatory and toxic neuropathy
+periph_neuro	Read2	F37..11	Toxic neuropathy
+periph_neuro	Read2	F370.00	Acute infective polyneuritis
+periph_neuro	Read2	F370000	Guillain-Barre syndrome
+periph_neuro	Read2	F370100	Postinfectious polyneuritis
+periph_neuro	Read2	F370200	Miller-Fisher syndrome
+periph_neuro	Read2	F370z00	Acute infective polyneuritis NOS
+periph_neuro	Read2	F371.00	Polyneuropathy in collagen vascular disease
+periph_neuro	Read2	F371000	Polyneuropathy in disseminated lupus erythematosus
+periph_neuro	Read2	F371100	Polyneuropathy in polyarteritis nodosa
+periph_neuro	Read2	F371200	Polyneuropathy in rheumatoid arthritis
+periph_neuro	Read2	F371z00	Polyneuropathy in collagen vascular disease NOS
+periph_neuro	Read2	F372.00	Polyneuropathy in diabetes
+periph_neuro	Read2	F372.11	Diabetic polyneuropathy
+periph_neuro	Read2	F372.12	Diabetic neuropathy
+periph_neuro	Read2	F372000	Acute painful diabetic neuropathy
+periph_neuro	Read2	F372100	Chronic painful diabetic neuropathy
+periph_neuro	Read2	F372200	Asymptomatic diabetic neuropathy
+periph_neuro	Read2	F373.00	Polyneuropathy in malignant disease
+periph_neuro	Read2	F374.00	Polyneuropathy in disease EC
+periph_neuro	Read2	F374000	Polyneuropathy in amyloidosis
+periph_neuro	Read2	F374100	Polyneuropathy in beriberi
+periph_neuro	Read2	F374200	Polyneuropathy in vitamin B deficiency
+periph_neuro	Read2	F374300	Polyneuropathy in diphtheria
+periph_neuro	Read2	F374400	Polyneuropathy in herpes zoster
+periph_neuro	Read2	F374500	Polyneuropathy in hypoglycaemia
+periph_neuro	Read2	F374600	Polyneuropathy in mumps
+periph_neuro	Read2	F374800	Polyneuropathy in porphyria
+periph_neuro	Read2	F374900	Polyneuropathy in sarcoidosis
+periph_neuro	Read2	F374A00	Polyneuropathy in uraemia
+periph_neuro	Read2	F374z00	Polyneuropathy in disease NOS
+periph_neuro	Read2	F375.00	Alcoholic polyneuropathy
+periph_neuro	Read2	F376.00	Polyneuropathy due to drugs
+periph_neuro	Read2	F377.00	Other toxic agent polyneuropathy
+periph_neuro	Read2	F378.00	Intercostal neuropathy
+periph_neuro	Read2	F37X.00	Inflammatory polyneuropathy, unspecified
+periph_neuro	Read2	F37y.00	Other toxic or inflammatory neuropathy
+periph_neuro	Read2	F37y000	Serum neuropathy
+periph_neuro	Read2	F37y100	Axonal sensorimotor neuropathy
+periph_neuro	Read2	F37z.00	Toxic or inflammatory neuropathy NOS
+periph_neuro	Read2	F37z.11	Polyneuropathy unspecified
+periph_neuro	Read2	F3y..00	Other specified disorders of peripheral nervous system
+periph_neuro	Read2	F3y0.00	Diabetic mononeuropathy
+periph_neuro	Read2	F3z..00	Peripheral nervous system disorder NOS
+periph_neuro	Read2	Fyu1300	[X]Paraneoplastic neuromyopathy and neuropathy
+periph_neuro	Read2	Fyu6900	[X]Other lesions of median nerve
+periph_neuro	Read2	Fyu6A00	[X]Other mononeuropathies of upper limb
+periph_neuro	Read2	Fyu6B00	[X]Other mononeuropathies of lower limb
+periph_neuro	Read2	Fyu6C00	[X]Other specified mononeuropathies
+periph_neuro	Read2	Fyu6D00	[X]Other mononeuropathies in diseases classified elsewhere
+periph_neuro	Read2	Fyu7.00	[X]Polyneuropathies and other disorders of the peripheral nervous system
+periph_neuro	Read2	Fyu7000	[X]Other hereditary and idiopathic neuropathies
+periph_neuro	Read2	Fyu7100	[X]Other inflammatory polyneuropathies
+periph_neuro	Read2	Fyu7200	[X]Other specified polyneuropathies
+periph_neuro	Read2	Fyu7500	[X]Polyneuropathy in other endocrine and metabolic diseases classified elsewhere
+periph_neuro	Read2	Fyu7800	[X]Polyneuropathy in other musculoskeletal disorders classified elsewhere
+periph_neuro	Read2	Fyu7B00	[X]Inflammatory polyneuropathy, unspecified
+periph_neuro	Read2	Fyu7C00	[X] Polyneuropathy, unspecified
+periph_neuro	Read2	M271100	Neuropathic diabetic ulcer - foot
+periph_neuro	Read2	M271700	Neuropathic foot ulcer
+periph_neuro	Read2	N035.00	Neuropathic arthropathy
+periph_neuro	Read2	N035.12	Neuropathic arthritis
+periph_neuro	Read2	N11y200	Neuropathic spondylopathy
+periph_neuro	Read2	N134.14	Ulnar neuritis
+periph_neuro	Read2	SD72200	Neuropathic foot blister
+periph_neuro	CTV3	A5313YadXu	Post-herpetic polyneuropathy
+periph_neuro	CTV3	A72x1Y71Xx	Mumps polyneuropathy
+periph_neuro	CTV3	X00AgY00Xb	Diabetes mellitus with neuropathy
+periph_neuro	CTV3	XE15kY00Xg	Diabetes mellitus with polyneuropathy
+periph_neuro	CTV3	XaEnnYafOa	Insulin dependent diabetes mellitus with mononeuropathy
+periph_neuro	CTV3	XaEnnYagvJ	Type I diabetes mellitus with mononeuropathy
+periph_neuro	CTV3	XaEnoYafOb	Insulin dependent diabetes mellitus with polyneuropathy
+periph_neuro	CTV3	XaFmMYagvs	Insulin dependent diabetes mellitus with neuropathic arthropathy
+periph_neuro	CTV3	XaFmMYajRR	Type 1 diabetes mellitus with neuropathic arthropathy
+periph_neuro	CTV3	XaFmMYagvr	Type I diabetes mellitus with neuropathic arthropathy
+periph_neuro	CTV3	XaEnpYafOc	Non-insulin dependent diabetes mellitus with mononeuropathy
+periph_neuro	CTV3	XaEnpYagvw	Type II diabetes mellitus with mononeuropathy
+periph_neuro	CTV3	XaEnqYafOd	Non-insulin dependent diabetes mellitus with polyneuropathy
+periph_neuro	CTV3	XaEnqYajRi	Type 2 diabetes mellitus with polyneuropathy
+periph_neuro	CTV3	XaEnqYagvy	Type II diabetes mellitus with polyneuropathy
+periph_neuro	CTV3	XaFn9Yagx0	Non-insulin dependent diabetes mellitus with neuropathic arthropathy
+periph_neuro	CTV3	XaFn9YajRo	Type 2 diabetes mellitus with neuropathic arthropathy
+periph_neuro	CTV3	XaFn9Yagwz	Type II diabetes mellitus with neuropathic arthropathy
+periph_neuro	CTV3	XaEnnYajRK	Type 1 diabetes mellitus with mononeuropathy
+periph_neuro	CTV3	XaEnoYajRL	Type 1 diabetes mellitus with polyneuropathy
+periph_neuro	CTV3	XaEnoYagvK	Type I diabetes mellitus with polyneuropathy
+periph_neuro	CTV3	XaEnpYajRh	Type 2 diabetes mellitus with mononeuropathy
+periph_neuro	CTV3	C34y4Y00F0	Gouty neuritis
+periph_neuro	CTV3	C3732Y41d6	Familial neuropathic amyloidosis
+periph_neuro	CTV3	X40PqY41dI	Familial amyloid polyneuropathy type III
+periph_neuro	CTV3	E0111Y017F	Korsakov's alcoholic psychosis with peripheral neuritis
+periph_neuro	CTV3	F34..Y00Vl	Mononeuritis of upper limb and mononeuritis multiplex
+periph_neuro	CTV3	F341.Y00Vm	Other median nerve lesions
+periph_neuro	CTV3	F3410Y00Vn	Median nerve neuritis
+periph_neuro	CTV3	F3411Y00Zq	Median nerve compression in forearm
+periph_neuro	CTV3	F341zY00Vo	Median nerve lesions NOS
+periph_neuro	CTV3	XE15hY00Vp	Ulnar nerve lesions
+periph_neuro	CTV3	X00A7Y00Vq	Neuritis ulnar nerve
+periph_neuro	CTV3	F3420Y00a0	Cubital tunnel syndrome
+periph_neuro	CTV3	F3421Y00Vr	Tardy ulnar nerve palsy
+periph_neuro	CTV3	F3422Y00Zi	Canal of Guyon compression
+periph_neuro	CTV3	Xa0KsYa1TE	Ulnar nerve entrapment
+periph_neuro	CTV3	XaIrgYab2x	Ulnar neuropathy
+periph_neuro	CTV3	F342zY00Vs	Ulnar nerve lesion NOS
+periph_neuro	CTV3	F343.Y00Vt	Radial nerve lesions
+periph_neuro	CTV3	F3430Y00Vu	Acute radial nerve palsy
+periph_neuro	CTV3	F3431Y00Vv	Sensory branch of radial nerve lesion
+periph_neuro	CTV3	F3432Y00a5	Posterior interosseous nerve lesion
+periph_neuro	CTV3	F343zY00Vw	Radial nerve lesion NOS
+periph_neuro	CTV3	F344.Y00b8	Causalgia
+periph_neuro	CTV3	F345.Y00Yl	Mononeuritis multiplex
+periph_neuro	CTV3	F3450YM0lE	Diabetic mononeuritis multiplex
+periph_neuro	CTV3	X75atY00Zp	Median nerve entrapment
+periph_neuro	CTV3	F34y.Y00Vx	Other upper limb mononeuritis
+periph_neuro	CTV3	F34z.Y00Vy	Mononeuritis upper limb NOS
+periph_neuro	CTV3	F35..Y00Vz	Mononeuritis lower limb
+periph_neuro	CTV3	F350.YM0lF	Sciatic nerve lesion
+periph_neuro	CTV3	F351.Y00aD	Meralgia paraesthetica
+periph_neuro	CTV3	F352.YM0lG	Femoral nerve lesions
+periph_neuro	CTV3	F353.YM0lH	Common peroneal nerve lesion
+periph_neuro	CTV3	F353.YM0lI	Lateral popliteal nerve lesion
+periph_neuro	CTV3	F354.YM0lJ	Tibial nerve lesion
+periph_neuro	CTV3	F354.YaU1f	Tibial nerve palsy
+periph_neuro	CTV3	F355.Y00aH	Tarsal tunnel syndrome
+periph_neuro	CTV3	F356.YM0lL	Plantar nerve lesion
+periph_neuro	CTV3	F3560Y00aL	Morton metatarsalgia
+periph_neuro	CTV3	F3560Y00aM	Interdigital neuralgia
+periph_neuro	CTV3	F3560Y00aK	Morton's neuralgia
+periph_neuro	CTV3	F356zYM0lM	Plantar nerve lesion NOS
+periph_neuro	CTV3	F357.YM0lN	Superficial peroneal nerve lesion
+periph_neuro	CTV3	F358.YM0lO	Deep peroneal nerve lesion
+periph_neuro	CTV3	F35x.Y00W0	Other mononeuritis lower limb
+periph_neuro	CTV3	F35y.Y00W1	Unspecified mononeuritis lower limb
+periph_neuro	CTV3	XE15iY00W2	Mononeuritis of unspecified site NOS
+periph_neuro	CTV3	X00A8Y00W3	Peripheral neuropathy - hereditary or idiopathic
+periph_neuro	CTV3	F35z0YM0lP	Diabetic mononeuritis NOS
+periph_neuro	CTV3	F36..Y00W4	Hereditary and idiopathic peripheral neuropathy
+periph_neuro	CTV3	F3610Y00WC	Hereditary peripheral neuropathy
+periph_neuro	CTV3	F3600Y00WU	Dejerine-Sottas disease
+periph_neuro	CTV3	F360zY00WK	Hereditary peripheral neuropathy NOS
+periph_neuro	CTV3	F3610Y00WE	Peroneal muscular atrophy
+periph_neuro	CTV3	F3610Y00WH	Charcot-Marie-Tooth disease
+periph_neuro	CTV3	F3610YavYx	Charcot-Marie-Tooth syndrome
+periph_neuro	CTV3	F3610Y00WB	Hereditary motor and sensory neuropathy
+periph_neuro	CTV3	F361zY00WJ	Peroneal muscular atrophy NOS
+periph_neuro	CTV3	F362.YM0lQ	Hereditary sensory neuropathy
+periph_neuro	CTV3	F363.Y00WV	Refsum's disease
+periph_neuro	CTV3	F364.Y00am	Idiopathic progressive polyneuropathy
+periph_neuro	CTV3	F365.YMAi5	Neuropathy in association with hereditary ataxia
+periph_neuro	CTV3	F366.YMH2A	Polyneuropathy
+periph_neuro	CTV3	Xa3fBYa64a	Other peripheral neuropathy
+periph_neuro	CTV3	XC0eJYa1nH	Peripheral neuropathy
+periph_neuro	CTV3	X00A9Y00WL	Hereditary motor and sensory neuropathy type I
+periph_neuro	CTV3	X00AAY00WO	Hereditary motor and sensory neuropathy type II
+periph_neuro	CTV3	F3600Y00WR	Hereditary motor and sensory neuropathy type III
+periph_neuro	CTV3	F36y.Y00an	Other idiopathic peripheral neuropathy
+periph_neuro	CTV3	F36yzY00ao	Other idiopathic peripheral neuropathy NOS
+periph_neuro	CTV3	F36z.Y00W5	Hereditary or idiopathic peripheral neuropathy NOS
+periph_neuro	CTV3	XE15jY00W6	Inflammatory and toxic neuropathy
+periph_neuro	CTV3	X00BGY00Yo	Toxic neuropathy
+periph_neuro	CTV3	F370.Y00X5	Acute infective polyneuritis
+periph_neuro	CTV3	F3700Y00X8	Guillain-Barre syndrome
+periph_neuro	CTV3	F3701YadYp	Post-infectious polyneuritis
+periph_neuro	CTV3	X00AVY00Vf	Miller-Fisher syndrome
+periph_neuro	CTV3	F370zY00X7	Acute infective polyneuritis NOS
+periph_neuro	CTV3	F371.Y00Ya	Polyneuropathy in collagen vascular disease
+periph_neuro	CTV3	F3710Y00Yb	Polyneuropathy in disseminated lupus erythematosus
+periph_neuro	CTV3	F3711Y00Yc	Polyneuropathy in polyarteritis nodosa
+periph_neuro	CTV3	F3712Y00Yd	Polyneuropathy in rheumatoid arthritis
+periph_neuro	CTV3	F371zY00Ye	Polyneuropathy in collagen vascular disease NOS
+periph_neuro	CTV3	XE15kY00Xh	Polyneuropathy in diabetes
+periph_neuro	CTV3	X00AgY00Xa	Diabetic neuropathy
+periph_neuro	CTV3	XE15kY00Xf	Diabetic polyneuropathy
+periph_neuro	CTV3	F3720Y00Xc	Acute painful diabetic neuropathy
+periph_neuro	CTV3	F3721Y00Xd	Chronic painful diabetic neuropathy
+periph_neuro	CTV3	F3722Y00Xe	Asymptomatic diabetic neuropathy
+periph_neuro	CTV3	F373.Y00Y2	Polyneuropathy in malignant disease
+periph_neuro	CTV3	F374.Y00W7	Polyneuropathy in disease EC
+periph_neuro	CTV3	F3740Y00YC	Polyneuropathy in amyloidosis
+periph_neuro	CTV3	F3741Y00XV	Polyneuropathy in beriberi
+periph_neuro	CTV3	F3742Y00XP	Polyneuropathy in vitamin B deficiency
+periph_neuro	CTV3	X00B5Y00YQ	Polyneuropathy in diphtheria
+periph_neuro	CTV3	F3744Y00YR	Polyneuropathy in herpes zoster
+periph_neuro	CTV3	F3745Y00Xw	Polyneuropathy in hypoglycaemia
+periph_neuro	CTV3	F3746Y00YS	Polyneuropathy in mumps
+periph_neuro	CTV3	F3748Y00XM	Polyneuropathy in porphyria
+periph_neuro	CTV3	F3749Y00YJ	Polyneuropathy in sarcoidosis
+periph_neuro	CTV3	F374AY00Xz	Uraemic polyneuropathy
+periph_neuro	CTV3	F374zY00W8	Polyneuropathy in disease NOS
+periph_neuro	CTV3	F375.Y00Ys	Alcohol-related polyneuropathy
+periph_neuro	CTV3	F375.YaaDp	Alcoholic peripheral neuropathy
+periph_neuro	CTV3	F376.Y00Yr	Drug-related polyneuropathy
+periph_neuro	CTV3	F377.Y00Yp	Other toxic agent polyneuropathy
+periph_neuro	CTV3	X00C5Y00aP	Intercostal neuropathy
+periph_neuro	CTV3	Fyu7BYMAE3	[X]Inflammatory polyneuropathy, unspecified
+periph_neuro	CTV3	F37y.Y00W9	Other toxic or inflammatory neuropathy
+periph_neuro	CTV3	F37y0YMAhh	Serum neuropathy
+periph_neuro	CTV3	X00CHY00aq	Axonal sensorimotor neuropathy
+periph_neuro	CTV3	XE15mY00WA	Toxic or inflammatory neuropathy NOS
+periph_neuro	CTV3	XaB3qYMIOQ	Polyneuropathy unspecified
+periph_neuro	CTV3	F3y..Y0086	Other specified disorders of peripheral nervous system
+periph_neuro	CTV3	X00AlY00Xm	Diabetic mononeuropathy
+periph_neuro	CTV3	F3z..Y0087	Peripheral nervous system disorder NOS
+periph_neuro	CTV3	Fyu13YMAD0	[X]Paraneoplastic neuromyopathy and neuropathy
+periph_neuro	CTV3	Fyu69YMADm	[X]Other lesions of median nerve
+periph_neuro	CTV3	Fyu6AYMADn	[X]Other mononeuropathies of upper limb
+periph_neuro	CTV3	Fyu6BYMADo	[X]Other mononeuropathies of lower limb
+periph_neuro	CTV3	Fyu6CYMADp	[X]Other specified mononeuropathies
+periph_neuro	CTV3	Fyu6DYMADq	[X]Other mononeuropathies in diseases classified elsewhere
+periph_neuro	CTV3	Fyu7.YMADr	[X]Polyneuropathies and other disorders of the peripheral nervous system
+periph_neuro	CTV3	Fyu70YMADs	[X]Other hereditary and idiopathic neuropathies
+periph_neuro	CTV3	Fyu71YMADt	[X]Other inflammatory polyneuropathies
+periph_neuro	CTV3	Fyu72YMADu	[X]Other specified polyneuropathies
+periph_neuro	CTV3	Fyu75YMADx	[X]Polyneuropathy in other endocrine and metabolic diseases classified elsewhere
+periph_neuro	CTV3	Fyu78YMAE0	[X]Polyneuropathy in other musculoskeletal disorders classified elsewhere
+periph_neuro	CTV3	Fyu7CYaRkR	[X]Polyneuropathy, unspecified
+periph_neuro	CTV3	M2711Y50Uf	Neuropathic diabetic ulcer - foot
+periph_neuro	CTV3	X50BjY50Ue	Neuropathic foot ulcer
+periph_neuro	CTV3	XE2spY70GD	Neuropathic arthropathy
+periph_neuro	CTV3	N11y2YMAqB	Neuropathic spondylopathy
+periph_neuro	CTV3	Xa6q4YaU1H	Ulnar nerve lesion
+periph_neuro	CTV3	Xa6q4YaU1K	Ulnar nerve palsy
+periph_neuro	CTV3	SD722YA07u	Neuropathic foot blister
+periph_neuro	medcodeid	8879010	Acute radial nerve palsy
+periph_neuro	medcodeid	55426011	Idiopathic progressive polyneuropathy
+periph_neuro	medcodeid	68321016	Guillain-Barre syndrome
+periph_neuro	medcodeid	71168014	Peripheral neuropathy
+periph_neuro	medcodeid	108062014	Hereditary peripheral neuropathy
+periph_neuro	medcodeid	140945016	Meralgia paraesthetica
+periph_neuro	medcodeid	297489010	Sensory branch of radial nerve lesion
+periph_neuro	medcodeid	297490018	Posterior interosseous nerve lesion
+periph_neuro	medcodeid	297492014	Diabetic mononeuritis multiplex
+periph_neuro	medcodeid	297500014	Plantar nerve lesion
+periph_neuro	medcodeid	297525017	Neuropathy in association with hereditary ataxia
+periph_neuro	medcodeid	297542011	Polyneuropathy in disseminated lupus erythematosus
+periph_neuro	medcodeid	297544012	Polyneuropathy in rheumatoid arthritis
+periph_neuro	medcodeid	297551015	Chronic painful diabetic neuropathy
+periph_neuro	medcodeid	297552010	Asymptomatic diabetic neuropathy
+periph_neuro	medcodeid	297554011	Polyneuropathy in amyloidosis
+periph_neuro	medcodeid	297557016	Polyneuropathy in herpes zoster
+periph_neuro	medcodeid	297564019	Polyneuropathy in porphyria
+periph_neuro	medcodeid	297566017	Polyneuropathy in sarcoidosis
+periph_neuro	medcodeid	297575015	Serum neuropathy
+periph_neuro	medcodeid	309179013	Neuropathic diabetic ulcer - foot
+periph_neuro	medcodeid	311114015	Neuropathic spondylopathy
+periph_neuro	medcodeid	322645015	Neuropathic foot blister
+periph_neuro	medcodeid	345519017	Polyneuropathy in diphtheria
+periph_neuro	medcodeid	345580013	Intercostal neuropathy
+periph_neuro	medcodeid	413630015	Ulnar nerve entrapment
+periph_neuro	medcodeid	474333019	Superficial peroneal nerve lesion
+periph_neuro	medcodeid	478396017	Miller-Fisher syndrome
+periph_neuro	medcodeid	483022012	Femoral nerve lesions
+periph_neuro	medcodeid	490703010	Sciatic nerve lesion
+periph_neuro	medcodeid	1219655013	Hereditary motor and sensory neuropathy type III
+periph_neuro	medcodeid	1234144017	Polyneuropathy in malignant disease
+periph_neuro	medcodeid	1235651015	Familial amyloid polyneuropathy type III
+periph_neuro	medcodeid	1777664015	Hereditary motor and sensory neuropathy
+periph_neuro	medcodeid	1786163010	Hereditary motor and sensory neuropathy type II
+periph_neuro	medcodeid	1786691018	Lateral popliteal nerve lesion
+periph_neuro	medcodeid	14103017	Alcoholic polyneuropathy
+periph_neuro	medcodeid	158497012	Ulnar neuritis
+periph_neuro	medcodeid	297475017	Other median nerve lesions
+periph_neuro	medcodeid	297487012	Ulnar nerve lesion NOS
+periph_neuro	medcodeid	297493016	Other upper limb mononeuritis
+periph_neuro	medcodeid	297503011	Plantar nerve lesion NOS
+periph_neuro	medcodeid	297511018	Hereditary and idiopathic peripheral neuropathy
+periph_neuro	medcodeid	297528015	Other idiopathic peripheral neuropathy
+periph_neuro	medcodeid	297530018	Other idiopathic peripheral neuropathy NOS
+periph_neuro	medcodeid	297539017	Acute infective polyneuritis NOS
+periph_neuro	medcodeid	297574016	Other toxic or inflammatory neuropathy
+periph_neuro	medcodeid	299360019	[X]Other mononeuropathies of lower limb
+periph_neuro	medcodeid	299361015	[X]Other specified mononeuropathies
+periph_neuro	medcodeid	299362010	[X]Other mononeuropathies in diseases classified elsewhere
+periph_neuro	medcodeid	299364011	[X]Other hereditary and idiopathic neuropathies
+periph_neuro	medcodeid	299366013	[X]Other specified polyneuropathies
+periph_neuro	medcodeid	345457019	Peripheral neuropathy - hereditary or idiopathic
+periph_neuro	medcodeid	399418016	Toxic or inflammatory neuropathy NOS
+periph_neuro	medcodeid	450558019	Polyneuropathy unspecified
+periph_neuro	medcodeid	84391000006111	Type 1 diabetes mellitus with neuropathic arthropathy
+periph_neuro	medcodeid	84601000006110	Type 2 diabetes mellitus with polyneuropathy
+periph_neuro	medcodeid	211231000006113	Postherpetic polyneuropathy
+periph_neuro	medcodeid	215001000006114	Polyneuropathy in mumps
+periph_neuro	medcodeid	422981000006115	[X]Polyneuropathy/other musculoskeletal disorders CE
+periph_neuro	medcodeid	545421000006111	Charcot's atrophy
+periph_neuro	medcodeid	616451000006110	Diabetes mellitus with polyneuropathy
+periph_neuro	medcodeid	666351000006116	Familial neuropathic amyloid
+periph_neuro	medcodeid	675631000006115	Neuropathic arthritis
+periph_neuro	medcodeid	698001000006119	Mononeuritis lower limb
+periph_neuro	medcodeid	914251000006116	Type II diabetes mellitus with polyneuropathy
+periph_neuro	medcodeid	1846861000006111	Charcot-Marie-Tooth syndrome
+periph_neuro	medcodeid	771401000006115	Insulin dependent diabetes mellitus with polyneuropathy
+periph_neuro	medcodeid	778621000006116	Inflammatory polyneuropathy, unspecified
+periph_neuro	medcodeid	913801000006118	Insulin dependent diabetes mellitus with polyneuropathy
+periph_neuro	medcodeid	422921000006119	[X]Polyneuropathies & other disord of peripheral nerv syst
+periph_neuro	medcodeid	297571012	Other toxic agent polyneuropathy
+periph_neuro	medcodeid	84721000006113	Type I diabetes mellitus with mononeuropathy
+periph_neuro	medcodeid	280521000006117	Non-insulin dependent diabetes mellitus with mononeuropathy
+periph_neuro	medcodeid	914231000006111	Type II diabetes mellitus with mononeuropathy
+periph_neuro	medcodeid	914221000006113	Type 2 diabetes mellitus with mononeuropathy
+periph_neuro	medcodeid	84761000006119	Type I diabetes mellitus with neuropathic arthropathy
+periph_neuro	medcodeid	84941000006115	Type II diabetes mellitus with neuropathic arthropathy
+periph_neuro	medcodeid	297494010	Mononeuritis upper limb NOS
+periph_neuro	medcodeid	297505016	Other mononeuritis lower limb
+periph_neuro	medcodeid	297506015	Unspecified mononeuritis lower limb
+periph_neuro	medcodeid	297522019	Peroneal muscular atrophy NOS
+periph_neuro	medcodeid	297545013	Polyneuropathy in collagen vascular disease NOS
+periph_neuro	medcodeid	297658017	Peripheral nervous system disorder NOS
+periph_neuro	medcodeid	299358016	[X]Other lesions of median nerve
+periph_neuro	medcodeid	299359012	[X]Other mononeuropathies of upper limb
+periph_neuro	medcodeid	1778686017	Tibial nerve lesion
+periph_neuro	medcodeid	459296014	Type 1 diabetes mellitus with neuropathic arthropathy
+periph_neuro	medcodeid	504101018	Polyneuropathy in beriberi
+periph_neuro	medcodeid	399416017	Inflammatory and toxic neuropathy
+periph_neuro	medcodeid	345594014	Axonal sensorimotor neuropathy
+periph_neuro	medcodeid	294662017	Korsakov's alcoholic psychosis with peripheral neuritis
+periph_neuro	medcodeid	297485016	Canal of Guyon compression
+periph_neuro	medcodeid	297504017	Deep peroneal nerve lesion
+periph_neuro	medcodeid	297543018	Polyneuropathy in polyarteritis nodosa
+periph_neuro	medcodeid	19796013	Hereditary sensory neuropathy
+periph_neuro	medcodeid	52697011	Mumps polyneuropathy
+periph_neuro	medcodeid	211331000006117	Postinfectious polyneuritis
+periph_neuro	medcodeid	214921000006116	Polyneuropathy in diabetes
+periph_neuro	medcodeid	399414019	Ulnar nerve lesions
+periph_neuro	medcodeid	399415018	Mononeuritis of unspecified site NOS
+periph_neuro	medcodeid	913821000006111	Type I diabetes mellitus with polyneuropathy
+periph_neuro	medcodeid	914241000006118	Type 2 diabetes mellitus with polyneuropathy
+periph_neuro	medcodeid	297569012	Polyneuropathy in disease NOS
+periph_neuro	medcodeid	215061000006110	Polyneuropathy in uraemia
+periph_neuro	medcodeid	84571000006115	Type 2 diabetes mellitus with neuropathic arthropathy
+periph_neuro	medcodeid	84971000006111	Type II diabetes mellitus with polyneuropathy
+periph_neuro	medcodeid	297479011	Median nerve lesions NOS
+periph_neuro	medcodeid	297510017	Diabetic mononeuritis NOS
+periph_neuro	medcodeid	299365012	[X]Other inflammatory polyneuropathies
+periph_neuro	medcodeid	84200019	Peroneal muscular atrophy
+periph_neuro	medcodeid	84201015	Charcot-Marie-Tooth disease
+periph_neuro	medcodeid	1778567016	Common peroneal nerve lesion
+periph_neuro	medcodeid	1786065018	Hereditary motor and sensory neuropathy type I
+periph_neuro	medcodeid	475273015	Ulnar neuropathy
+periph_neuro	medcodeid	345487013	Diabetes mellitus with neuropathy
+periph_neuro	medcodeid	297477013	Median nerve compression in forearm
+periph_neuro	medcodeid	297488019	Radial nerve lesions
+periph_neuro	medcodeid	297553017	Polyneuropathy in disease EC
+periph_neuro	medcodeid	297555012	Polyneuropathy in vitamin B deficiency
+periph_neuro	medcodeid	50702011	Mononeuritis multiplex
+periph_neuro	medcodeid	78977014	Tarsal tunnel syndrome
+periph_neuro	medcodeid	97213016	Tardy ulnar nerve palsy
+periph_neuro	medcodeid	297531019	Hereditary or idiopathic peripheral neuropathy NOS
+periph_neuro	medcodeid	297491019	Radial nerve lesion NOS
+periph_neuro	medcodeid	84901000006117	Type II diabetes mellitus with mononeuropathy
+periph_neuro	medcodeid	913781000006117	Type 1 diabetes mellitus with mononeuropathy
+periph_neuro	medcodeid	359071000006116	[X] Polyneuropathy, unspecified
+periph_neuro	medcodeid	99281000006115	Toxic neuropathy
+periph_neuro	medcodeid	297519016	Hereditary peripheral neuropathy NOS
+periph_neuro	medcodeid	50335015	Morton's metatarsalgia
+periph_neuro	medcodeid	498448012	Neuropathic foot ulcer
+periph_neuro	medcodeid	368388010	Median nerve entrapment
+periph_neuro	medcodeid	345486016	Diabetic neuropathy
+periph_neuro	medcodeid	345492010	Diabetic mononeuropathy
+periph_neuro	medcodeid	297540015	Polyneuropathy in collagen vascular disease
+periph_neuro	medcodeid	297550019	Acute painful diabetic neuropathy
+periph_neuro	medcodeid	297558014	Polyneuropathy in hypoglycaemia
+periph_neuro	medcodeid	16455010	Gouty neuritis
+periph_neuro	medcodeid	29902012	Median nerve neuritis
+periph_neuro	medcodeid	82373015	Diabetic polyneuropathy
+periph_neuro	medcodeid	214871000006114	Polyneuropathy due to drugs
+periph_neuro	medcodeid	281181000006116	Non-insulin dependent d m with neuropathic arthropathy
+periph_neuro	medcodeid	712431000006111	Medial popliteal nerve lesion
+periph_neuro	medcodeid	422971000006118	[X]Polyneuropathy/other endocrine+metabolic diseases CE
+periph_neuro	medcodeid	913811000006115	Type 1 diabetes mellitus with polyneuropathy
+periph_neuro	medcodeid	299375010	[X]Inflammatory polyneuropathy, unspecified
+periph_neuro	medcodeid	771371000006118	Insulin dependent diabetes mellitus with mononeuropathy
+periph_neuro	medcodeid	772131000006111	Insulin dependent diab mell with neuropathic arthropathy
+periph_neuro	medcodeid	2536776010	Causalgia
+periph_neuro	medcodeid	500766011	Neuropathic arthropathy
+periph_neuro	medcodeid	459312014	Type II diabetes mellitus with neuropathic arthropathy
+periph_neuro	medcodeid	459313016	Type 2 diabetes mellitus with neuropathic arthropathy
+periph_neuro	medcodeid	297470010	Mononeuritis of upper limb and mononeuritis multiplex
+periph_neuro	medcodeid	42524012	Refsum's disease
+periph_neuro	medcodeid	50336019	Morton's neuralgia
+periph_neuro	medcodeid	70659018	Polyneuropathy
+periph_neuro	medcodeid	93418010	Cubital tunnel syndrome
+periph_neuro	medcodeid	187824013	Dejerine-Sottas disease
+periph_neuro	medcodeid	207847010	Acute infective polyneuritis
+periph_neuro	medcodeid	297656018	Other specified disorders of peripheral nervous system
+periph_neuro	medcodeid	299306010	[X]Paraneoplastic neuromyopathy and neuropathy
+periph_neuro	medcodeid	345456011	Neuritis ulnar nerve
+periph_neuro	medcodeid	280541000006112	Non-insulin dependent diabetes mellitus with polyneuropathy
+periph_neuro	SNOMEDCT	4724003	Acute radial nerve palsy
+periph_neuro	SNOMEDCT	33209009	Idiopathic progressive polyneuropathy
+periph_neuro	SNOMEDCT	40956001	Guillain-Barre syndrome
+periph_neuro	SNOMEDCT	302226006	Peripheral neuropathy
+periph_neuro	SNOMEDCT	65017003	Hereditary peripheral neuropathy
+periph_neuro	SNOMEDCT	85007004	Meralgia paraesthetica
+periph_neuro	SNOMEDCT	193138001	Sensory branch of radial nerve lesion
+periph_neuro	SNOMEDCT	193139009	Posterior interosseous nerve lesion
+periph_neuro	SNOMEDCT	193141005	Diabetic mononeuritis multiplex
+periph_neuro	SNOMEDCT	193148004	Plantar nerve lesion
+periph_neuro	SNOMEDCT	193165008	Neuropathy in association with hereditary ataxia
+periph_neuro	SNOMEDCT	193178008	Polyneuropathy in disseminated lupus erythematosus
+periph_neuro	SNOMEDCT	193180002	Polyneuropathy in rheumatoid arthritis
+periph_neuro	SNOMEDCT	193184006	Chronic painful diabetic neuropathy
+periph_neuro	SNOMEDCT	193185007	Asymptomatic diabetic neuropathy
+periph_neuro	SNOMEDCT	193187004	Polyneuropathy in amyloidosis
+periph_neuro	SNOMEDCT	193190005	Polyneuropathy in herpes zoster
+periph_neuro	SNOMEDCT	129616004	Polyneuropathy in porphyria
+periph_neuro	SNOMEDCT	193195000	Polyneuropathy in sarcoidosis
+periph_neuro	SNOMEDCT	193203006	Serum neuropathy
+periph_neuro	SNOMEDCT	201251005	Neuropathic diabetic ulcer - foot
+periph_neuro	SNOMEDCT	202700003	Neuropathic spondylopathy
+periph_neuro	SNOMEDCT	211412006	Neuropathic foot blister
+periph_neuro	SNOMEDCT	230596007	Polyneuropathy in diphtheria
+periph_neuro	SNOMEDCT	230646002	Intercostal neuropathy
+periph_neuro	SNOMEDCT	277188003	Ulnar nerve entrapment
+periph_neuro	SNOMEDCT	128194008	Superficial peroneal nerve lesion
+periph_neuro	SNOMEDCT	1767005	Miller-Fisher syndrome
+periph_neuro	SNOMEDCT	25690000	Femoral nerve lesions
+periph_neuro	SNOMEDCT	367137004	Sciatic nerve lesion
+periph_neuro	SNOMEDCT	111499002	Hereditary motor and sensory neuropathy type III
+periph_neuro	SNOMEDCT	77659000	Polyneuropathy in malignant disease
+periph_neuro	SNOMEDCT	9133005	Familial amyloid polyneuropathy type III
+periph_neuro	SNOMEDCT	398100001	Hereditary motor and sensory neuropathy
+periph_neuro	SNOMEDCT	398187000	Hereditary motor and sensory neuropathy type II
+periph_neuro	SNOMEDCT	399107008	Lateral popliteal nerve lesion
+periph_neuro	SNOMEDCT	7916009	Alcoholic polyneuropathy
+periph_neuro	SNOMEDCT	95675005	Ulnar neuritis
+periph_neuro	SNOMEDCT	397751001	Other median nerve lesions
+periph_neuro	SNOMEDCT	367475009	Ulnar nerve lesion NOS
+periph_neuro	SNOMEDCT	297945000	Other upper limb mononeuritis
+periph_neuro	SNOMEDCT	193148004	Plantar nerve lesion NOS
+periph_neuro	SNOMEDCT	302226006	Hereditary and idiopathic peripheral neuropathy
+periph_neuro	SNOMEDCT	22722001	Other idiopathic peripheral neuropathy
+periph_neuro	SNOMEDCT	22722001	Other idiopathic peripheral neuropathy NOS
+periph_neuro	SNOMEDCT	129131007	Acute infective polyneuritis NOS
+periph_neuro	SNOMEDCT	267601009	Other toxic or inflammatory neuropathy
+periph_neuro	SNOMEDCT	609592007	[X]Other mononeuropathies of lower limb
+periph_neuro	SNOMEDCT	128189008	[X]Other specified mononeuropathies
+periph_neuro	SNOMEDCT	128189008	[X]Other mononeuropathies in diseases classified elsewhere
+periph_neuro	SNOMEDCT	386033004	[X]Other hereditary and idiopathic neuropathies
+periph_neuro	SNOMEDCT	42345000	[X]Other specified polyneuropathies
+periph_neuro	SNOMEDCT	302226006	Peripheral neuropathy - hereditary or idiopathic
+periph_neuro	SNOMEDCT	267601009	Toxic or inflammatory neuropathy NOS
+periph_neuro	SNOMEDCT	42345000	Polyneuropathy unspecified
+periph_neuro	SNOMEDCT	71771000119100	Type 1 diabetes mellitus with neuropathic arthropathy
+periph_neuro	SNOMEDCT	713706002	Type 2 diabetes mellitus with polyneuropathy
+periph_neuro	SNOMEDCT	76462000	Postherpetic polyneuropathy
+periph_neuro	SNOMEDCT	31524007	Polyneuropathy in mumps
+periph_neuro	SNOMEDCT	386033004	[X]Polyneuropathy/other musculoskeletal disorders CE
+periph_neuro	SNOMEDCT	398100001	Charcot's atrophy
+periph_neuro	SNOMEDCT	49455004	Diabetes mellitus with polyneuropathy
+periph_neuro	SNOMEDCT	42295001	Familial neuropathic amyloid
+periph_neuro	SNOMEDCT	67536000	Neuropathic arthritis
+periph_neuro	SNOMEDCT	609592007	Mononeuritis lower limb
+periph_neuro	SNOMEDCT	713706002	Type II diabetes mellitus with polyneuropathy
+periph_neuro	SNOMEDCT	398100001	Charcot-Marie-Tooth syndrome
+periph_neuro	SNOMEDCT	49455004	Insulin dependent diabetes mellitus with polyneuropathy
+periph_neuro	SNOMEDCT	76886005	Inflammatory polyneuropathy, unspecified
+periph_neuro	SNOMEDCT	42658009	[X]Polyneuropathies & other disord of peripheral nerv syst
+periph_neuro	SNOMEDCT	45600000	Other toxic agent polyneuropathy
+periph_neuro	SNOMEDCT	420918009	Type I diabetes mellitus with mononeuropathy
+periph_neuro	SNOMEDCT	420436000	Non-insulin dependent diabetes mellitus with mononeuropathy
+periph_neuro	SNOMEDCT	420436000	Type II diabetes mellitus with mononeuropathy
+periph_neuro	SNOMEDCT	420436000	Type 2 diabetes mellitus with mononeuropathy
+periph_neuro	SNOMEDCT	71771000119100	Type I diabetes mellitus with neuropathic arthropathy
+periph_neuro	SNOMEDCT	314904008	Type II diabetes mellitus with neuropathic arthropathy
+periph_neuro	SNOMEDCT	609591000	Mononeuritis upper limb NOS
+periph_neuro	SNOMEDCT	609592007	Other mononeuritis lower limb
+periph_neuro	SNOMEDCT	609592007	Unspecified mononeuritis lower limb
+periph_neuro	SNOMEDCT	398100001	Peroneal muscular atrophy NOS
+periph_neuro	SNOMEDCT	193177003	Polyneuropathy in collagen vascular disease NOS
+periph_neuro	SNOMEDCT	42658009	Peripheral nervous system disorder NOS
+periph_neuro	SNOMEDCT	397751001	[X]Other lesions of median nerve
+periph_neuro	SNOMEDCT	609591000	[X]Other mononeuropathies of upper limb
+periph_neuro	SNOMEDCT	399233006	Tibial nerve lesion
+periph_neuro	SNOMEDCT	79389008	Polyneuropathy in beriberi
+periph_neuro	SNOMEDCT	267601009	Inflammatory and toxic neuropathy
+periph_neuro	SNOMEDCT	230657007	Axonal sensorimotor neuropathy
+periph_neuro	SNOMEDCT	191471000	Korsakov's alcoholic psychosis with peripheral neuritis
+periph_neuro	SNOMEDCT	193134004	Canal of Guyon compression
+periph_neuro	SNOMEDCT	193152004	Deep peroneal nerve lesion
+periph_neuro	SNOMEDCT	193179000	Polyneuropathy in polyarteritis nodosa
+periph_neuro	SNOMEDCT	11442006	Hereditary sensory neuropathy
+periph_neuro	SNOMEDCT	31524007	Mumps polyneuropathy
+periph_neuro	SNOMEDCT	193174005	Postinfectious polyneuritis
+periph_neuro	SNOMEDCT	49455004	Polyneuropathy in diabetes
+periph_neuro	SNOMEDCT	367475009	Ulnar nerve lesions
+periph_neuro	SNOMEDCT	128189008	Mononeuritis of unspecified site NOS
+periph_neuro	SNOMEDCT	713705003	Type I diabetes mellitus with polyneuropathy
+periph_neuro	SNOMEDCT	193186008	Polyneuropathy in disease NOS
+periph_neuro	SNOMEDCT	193196004	Polyneuropathy in uraemia
+periph_neuro	SNOMEDCT	314904008	Type 2 diabetes mellitus with neuropathic arthropathy
+periph_neuro	SNOMEDCT	397751001	Median nerve lesions NOS
+periph_neuro	SNOMEDCT	193141005	Diabetic mononeuritis NOS
+periph_neuro	SNOMEDCT	21018002	[X]Other inflammatory polyneuropathies
+periph_neuro	SNOMEDCT	398100001	Peroneal muscular atrophy
+periph_neuro	SNOMEDCT	398100001	Charcot-Marie-Tooth disease
+periph_neuro	SNOMEDCT	399107008	Common peroneal nerve lesion
+periph_neuro	SNOMEDCT	398040009	Hereditary motor and sensory neuropathy type I
+periph_neuro	SNOMEDCT	359837005	Ulnar neuropathy
+periph_neuro	SNOMEDCT	230572002	Diabetes mellitus with neuropathy
+periph_neuro	SNOMEDCT	193129003	Median nerve compression in forearm
+periph_neuro	SNOMEDCT	193137006	Radial nerve lesions
+periph_neuro	SNOMEDCT	193186008	Polyneuropathy in disease EC
+periph_neuro	SNOMEDCT	193188009	Polyneuropathy in vitamin B deficiency
+periph_neuro	SNOMEDCT	30292005	Mononeuritis multiplex
+periph_neuro	SNOMEDCT	47374004	Tarsal tunnel syndrome
+periph_neuro	SNOMEDCT	58497009	Tardy ulnar nerve palsy
+periph_neuro	SNOMEDCT	128123007	Hereditary or idiopathic peripheral neuropathy NOS
+periph_neuro	SNOMEDCT	193137006	Radial nerve lesion NOS
+periph_neuro	SNOMEDCT	420918009	Type 1 diabetes mellitus with mononeuropathy
+periph_neuro	SNOMEDCT	42345000	[X] Polyneuropathy, unspecified
+periph_neuro	SNOMEDCT	45600000	Toxic neuropathy
+periph_neuro	SNOMEDCT	65017003	Hereditary peripheral neuropathy NOS
+periph_neuro	SNOMEDCT	30085007	Morton's metatarsalgia
+periph_neuro	SNOMEDCT	59483006	Neuropathic foot ulcer
+periph_neuro	SNOMEDCT	246611002	Median nerve entrapment
+periph_neuro	SNOMEDCT	230572002	Diabetic neuropathy
+periph_neuro	SNOMEDCT	230577008	Diabetic mononeuropathy
+periph_neuro	SNOMEDCT	193177003	Polyneuropathy in collagen vascular disease
+periph_neuro	SNOMEDCT	193183000	Acute painful diabetic neuropathy
+periph_neuro	SNOMEDCT	193191009	Polyneuropathy in hypoglycaemia
+periph_neuro	SNOMEDCT	9386003	Gouty neuritis
+periph_neuro	SNOMEDCT	17689009	Median nerve neuritis
+periph_neuro	SNOMEDCT	49455004	Diabetic polyneuropathy
+periph_neuro	SNOMEDCT	7339009	Polyneuropathy due to drugs
+periph_neuro	SNOMEDCT	314904008	Non-insulin dependent d m with neuropathic arthropathy
+periph_neuro	SNOMEDCT	399233006	Medial popliteal nerve lesion
+periph_neuro	SNOMEDCT	230571009	[X]Polyneuropathy/other endocrine+metabolic diseases CE
+periph_neuro	SNOMEDCT	713705003	Type 1 diabetes mellitus with polyneuropathy
+periph_neuro	SNOMEDCT	76886005	[X]Inflammatory polyneuropathy, unspecified
+periph_neuro	SNOMEDCT	230577008	Insulin dependent diabetes mellitus with mononeuropathy
+periph_neuro	SNOMEDCT	201724008	Insulin dependent diab mell with neuropathic arthropathy
+periph_neuro	SNOMEDCT	408751001	Causalgia
+periph_neuro	SNOMEDCT	67536000	Neuropathic arthropathy
+periph_neuro	SNOMEDCT	193125009	Mononeuritis of upper limb and mononeuritis multiplex
+periph_neuro	SNOMEDCT	25362006	Refsum's disease
+periph_neuro	SNOMEDCT	30085007	Morton's neuralgia
+periph_neuro	SNOMEDCT	42345000	Polyneuropathy
+periph_neuro	SNOMEDCT	56177003	Cubital tunnel syndrome
+periph_neuro	SNOMEDCT	111499002	Dejerine-Sottas disease
+periph_neuro	SNOMEDCT	129131007	Acute infective polyneuritis
+periph_neuro	SNOMEDCT	42658009	Other specified disorders of peripheral nervous system
+periph_neuro	SNOMEDCT	77659000	[X]Paraneoplastic neuromyopathy and neuropathy
+periph_neuro	SNOMEDCT	95675005	Neuritis ulnar nerve
+periph_neuro	SNOMEDCT	713706002	Non-insulin dependent diabetes mellitus with polyneuropathy
+periph_neuro	Read2_5digit	A5313	Postherpetic polyneuropathy
+periph_neuro	Read2_5digit	A72x1	Mumps polyneuropathy
+periph_neuro	Read2_5digit	C106.	Diabetes mellitus with neuropathy
+periph_neuro	Read2_5digit	C108B	Insulin dependent diabetes mellitus with mononeuropathy
+periph_neuro	Read2_5digit	C108C	Insulin dependent diabetes mellitus with polyneuropathy
+periph_neuro	Read2_5digit	C108J	Insulin dependent diabetes mellitus with neuropathic arthropathy
+periph_neuro	Read2_5digit	C109A	Non-insulin dependent diabetes mellitus with mononeuropathy
+periph_neuro	Read2_5digit	C109B	Non-insulin dependent diabetes mellitus with polyneuropathy
+periph_neuro	Read2_5digit	C109H	Non-insulin dependent diabetes mellitus with neuropathic arthropathy
+periph_neuro	Read2_5digit	C10EB	Type 1 diabetes mellitus with mononeuropathy
+periph_neuro	Read2_5digit	C10EC	Type 1 diabetes mellitus with polyneuropathy
+periph_neuro	Read2_5digit	C10EJ	Type 1 diabetes mellitus with neuropathic arthropathy
+periph_neuro	Read2_5digit	C10FA	Type 2 diabetes mellitus with mononeuropathy
+periph_neuro	Read2_5digit	C10FB	Type 2 diabetes mellitus with polyneuropathy
+periph_neuro	Read2_5digit	C10FH	Type 2 diabetes mellitus with neuropathic arthropathy
+periph_neuro	Read2_5digit	C34y4	Gouty neuritis
+periph_neuro	Read2_5digit	C3732	Familial neuropathic amyloid
+periph_neuro	Read2_5digit	C373K	Familial amyloid polyneuropathy type III
+periph_neuro	Read2_5digit	E0111	Korsakov's alcoholic psychosis with peripheral neuritis
+periph_neuro	Read2_5digit	F34..	Mononeuritis of upper limb and mononeuritis multiplex
+periph_neuro	Read2_5digit	F341.	Other median nerve lesions
+periph_neuro	Read2_5digit	F3410	Median nerve neuritis
+periph_neuro	Read2_5digit	F3411	Median nerve compression in forearm
+periph_neuro	Read2_5digit	F341z	Median nerve lesions NOS
+periph_neuro	Read2_5digit	F342.	Ulnar nerve lesions
+periph_neuro	Read2_5digit	F3420	Cubital tunnel syndrome
+periph_neuro	Read2_5digit	F3421	Tardy ulnar nerve palsy
+periph_neuro	Read2_5digit	F3422	Canal of Guyon compression
+periph_neuro	Read2_5digit	F3423	Ulnar nerve entrapment
+periph_neuro	Read2_5digit	F3424	Ulnar neuropathy
+periph_neuro	Read2_5digit	F342z	Ulnar nerve lesion NOS
+periph_neuro	Read2_5digit	F343.	Radial nerve lesions
+periph_neuro	Read2_5digit	F3430	Acute radial nerve palsy
+periph_neuro	Read2_5digit	F3431	Sensory branch of radial nerve lesion
+periph_neuro	Read2_5digit	F3432	Posterior interosseous nerve lesion
+periph_neuro	Read2_5digit	F343z	Radial nerve lesion NOS
+periph_neuro	Read2_5digit	F344.	Causalgia
+periph_neuro	Read2_5digit	F345.	Mononeuritis multiplex
+periph_neuro	Read2_5digit	F3450	Diabetic mononeuritis multiplex
+periph_neuro	Read2_5digit	F346.	Median nerve entrapment
+periph_neuro	Read2_5digit	F34y.	Other upper limb mononeuritis
+periph_neuro	Read2_5digit	F34z.	Mononeuritis upper limb NOS
+periph_neuro	Read2_5digit	F35..	Mononeuritis lower limb
+periph_neuro	Read2_5digit	F350.	Sciatic nerve lesion
+periph_neuro	Read2_5digit	F351.	Meralgia paraesthetica
+periph_neuro	Read2_5digit	F352.	Femoral nerve lesions
+periph_neuro	Read2_5digit	F353.	Common peroneal nerve lesion
+periph_neuro	Read2_5digit	F354.	Tibial nerve lesion
+periph_neuro	Read2_5digit	F355.	Tarsal tunnel syndrome
+periph_neuro	Read2_5digit	F356.	Plantar nerve lesion
+periph_neuro	Read2_5digit	F3560	Morton's metatarsalgia
+periph_neuro	Read2_5digit	F3561	Morton's neuralgia
+periph_neuro	Read2_5digit	F356z	Plantar nerve lesion NOS
+periph_neuro	Read2_5digit	F357.	Superficial peroneal nerve lesion
+periph_neuro	Read2_5digit	F358.	Deep peroneal nerve lesion
+periph_neuro	Read2_5digit	F35x.	Other mononeuritis lower limb
+periph_neuro	Read2_5digit	F35y.	Unspecified mononeuritis lower limb
+periph_neuro	Read2_5digit	F35z.	Mononeuritis of unspecified site NOS
+periph_neuro	Read2_5digit	F35z0	Diabetic mononeuritis NOS
+periph_neuro	Read2_5digit	F36..	Hereditary and idiopathic peripheral neuropathy
+periph_neuro	Read2_5digit	F360.	Hereditary peripheral neuropathy
+periph_neuro	Read2_5digit	F3600	Dejerine-Sottas disease
+periph_neuro	Read2_5digit	F360z	Hereditary peripheral neuropathy NOS
+periph_neuro	Read2_5digit	F361.	Peroneal muscular atrophy
+periph_neuro	Read2_5digit	F3610	Charcot-Marie-Tooth disease
+periph_neuro	Read2_5digit	F361z	Peroneal muscular atrophy NOS
+periph_neuro	Read2_5digit	F362.	Hereditary sensory neuropathy
+periph_neuro	Read2_5digit	F363.	Refsum's disease
+periph_neuro	Read2_5digit	F364.	Idiopathic progressive polyneuropathy
+periph_neuro	Read2_5digit	F365.	Neuropathy in association with hereditary ataxia
+periph_neuro	Read2_5digit	F366.	Polyneuropathy
+periph_neuro	Read2_5digit	F367.	Peripheral neuropathy
+periph_neuro	Read2_5digit	F368.	Hereditary motor and sensory neuropathy
+periph_neuro	Read2_5digit	F3680	Hereditary motor and sensory neuropathy type I
+periph_neuro	Read2_5digit	F3681	Hereditary motor and sensory neuropathy type II
+periph_neuro	Read2_5digit	F3682	Hereditary motor and sensory neuropathy type III
+periph_neuro	Read2_5digit	F36y.	Other idiopathic peripheral neuropathy
+periph_neuro	Read2_5digit	F36yz	Other idiopathic peripheral neuropathy NOS
+periph_neuro	Read2_5digit	F36z.	Hereditary or idiopathic peripheral neuropathy NOS
+periph_neuro	Read2_5digit	F37..	Inflammatory and toxic neuropathy
+periph_neuro	Read2_5digit	F370.	Acute infective polyneuritis
+periph_neuro	Read2_5digit	F3700	Guillain-Barre syndrome
+periph_neuro	Read2_5digit	F3701	Postinfectious polyneuritis
+periph_neuro	Read2_5digit	F3702	Miller-Fisher syndrome
+periph_neuro	Read2_5digit	F370z	Acute infective polyneuritis NOS
+periph_neuro	Read2_5digit	F371.	Polyneuropathy in collagen vascular disease
+periph_neuro	Read2_5digit	F3710	Polyneuropathy in disseminated lupus erythematosus
+periph_neuro	Read2_5digit	F3711	Polyneuropathy in polyarteritis nodosa
+periph_neuro	Read2_5digit	F3712	Polyneuropathy in rheumatoid arthritis
+periph_neuro	Read2_5digit	F371z	Polyneuropathy in collagen vascular disease NOS
+periph_neuro	Read2_5digit	F372.	Polyneuropathy in diabetes
+periph_neuro	Read2_5digit	F3720	Acute painful diabetic neuropathy
+periph_neuro	Read2_5digit	F3721	Chronic painful diabetic neuropathy
+periph_neuro	Read2_5digit	F3722	Asymptomatic diabetic neuropathy
+periph_neuro	Read2_5digit	F373.	Polyneuropathy in malignant disease
+periph_neuro	Read2_5digit	F374.	Polyneuropathy in disease EC
+periph_neuro	Read2_5digit	F3740	Polyneuropathy in amyloidosis
+periph_neuro	Read2_5digit	F3741	Polyneuropathy in beriberi
+periph_neuro	Read2_5digit	F3742	Polyneuropathy in vitamin B deficiency
+periph_neuro	Read2_5digit	F3743	Polyneuropathy in diphtheria
+periph_neuro	Read2_5digit	F3744	Polyneuropathy in herpes zoster
+periph_neuro	Read2_5digit	F3745	Polyneuropathy in hypoglycaemia
+periph_neuro	Read2_5digit	F3746	Polyneuropathy in mumps
+periph_neuro	Read2_5digit	F3748	Polyneuropathy in porphyria
+periph_neuro	Read2_5digit	F3749	Polyneuropathy in sarcoidosis
+periph_neuro	Read2_5digit	F374A	Polyneuropathy in uraemia
+periph_neuro	Read2_5digit	F374z	Polyneuropathy in disease NOS
+periph_neuro	Read2_5digit	F375.	Alcoholic polyneuropathy
+periph_neuro	Read2_5digit	F376.	Polyneuropathy due to drugs
+periph_neuro	Read2_5digit	F377.	Other toxic agent polyneuropathy
+periph_neuro	Read2_5digit	F378.	Intercostal neuropathy
+periph_neuro	Read2_5digit	F37X.	Inflammatory polyneuropathy, unspecified
+periph_neuro	Read2_5digit	F37y.	Other toxic or inflammatory neuropathy
+periph_neuro	Read2_5digit	F37y0	Serum neuropathy
+periph_neuro	Read2_5digit	F37y1	Axonal sensorimotor neuropathy
+periph_neuro	Read2_5digit	F37z.	Toxic or inflammatory neuropathy NOS
+periph_neuro	Read2_5digit	F3y..	Other specified disorders of peripheral nervous system
+periph_neuro	Read2_5digit	F3y0.	Diabetic mononeuropathy
+periph_neuro	Read2_5digit	F3z..	Peripheral nervous system disorder NOS
+periph_neuro	Read2_5digit	Fyu13	[X]Paraneoplastic neuromyopathy and neuropathy
+periph_neuro	Read2_5digit	Fyu69	[X]Other lesions of median nerve
+periph_neuro	Read2_5digit	Fyu6A	[X]Other mononeuropathies of upper limb
+periph_neuro	Read2_5digit	Fyu6B	[X]Other mononeuropathies of lower limb
+periph_neuro	Read2_5digit	Fyu6C	[X]Other specified mononeuropathies
+periph_neuro	Read2_5digit	Fyu6D	[X]Other mononeuropathies in diseases classified elsewhere
+periph_neuro	Read2_5digit	Fyu7.	[X]Polyneuropathies and other disorders of the peripheral nervous system
+periph_neuro	Read2_5digit	Fyu70	[X]Other hereditary and idiopathic neuropathies
+periph_neuro	Read2_5digit	Fyu71	[X]Other inflammatory polyneuropathies
+periph_neuro	Read2_5digit	Fyu72	[X]Other specified polyneuropathies
+periph_neuro	Read2_5digit	Fyu75	[X]Polyneuropathy in other endocrine and metabolic diseases classified elsewhere
+periph_neuro	Read2_5digit	Fyu78	[X]Polyneuropathy in other musculoskeletal disorders classified elsewhere
+periph_neuro	Read2_5digit	Fyu7B	[X]Inflammatory polyneuropathy, unspecified
+periph_neuro	Read2_5digit	Fyu7C	[X] Polyneuropathy, unspecified
+periph_neuro	Read2_5digit	M2711	Neuropathic diabetic ulcer - foot
+periph_neuro	Read2_5digit	M2717	Neuropathic foot ulcer
+periph_neuro	Read2_5digit	N035.	Neuropathic arthropathy
+periph_neuro	Read2_5digit	N11y2	Neuropathic spondylopathy
+periph_neuro	Read2_5digit	N134.	Ulnar neuritis
+periph_neuro	Read2_5digit	SD722	Neuropathic foot blister
+periph_neuro	CTV3_5digit	A5313	Post-herpetic polyneuropathy
+periph_neuro	CTV3_5digit	A72x1	Mumps polyneuropathy
+periph_neuro	CTV3_5digit	X00Ag	Diabetes mellitus with neuropathy
+periph_neuro	CTV3_5digit	XE15k	Diabetes mellitus with polyneuropathy
+periph_neuro	CTV3_5digit	XaEnn	Insulin dependent diabetes mellitus with mononeuropathy
+periph_neuro	CTV3_5digit	XaEno	Insulin dependent diabetes mellitus with polyneuropathy
+periph_neuro	CTV3_5digit	XaFmM	Insulin dependent diabetes mellitus with neuropathic arthropathy
+periph_neuro	CTV3_5digit	XaEnp	Non-insulin dependent diabetes mellitus with mononeuropathy
+periph_neuro	CTV3_5digit	XaEnq	Non-insulin dependent diabetes mellitus with polyneuropathy
+periph_neuro	CTV3_5digit	XaFn9	Non-insulin dependent diabetes mellitus with neuropathic arthropathy
+periph_neuro	CTV3_5digit	C34y4	Gouty neuritis
+periph_neuro	CTV3_5digit	C3732	Familial neuropathic amyloidosis
+periph_neuro	CTV3_5digit	X40Pq	Familial amyloid polyneuropathy type III
+periph_neuro	CTV3_5digit	E0111	Korsakov's alcoholic psychosis with peripheral neuritis
+periph_neuro	CTV3_5digit	F34..	Mononeuritis of upper limb and mononeuritis multiplex
+periph_neuro	CTV3_5digit	F341.	Other median nerve lesions
+periph_neuro	CTV3_5digit	F3410	Median nerve neuritis
+periph_neuro	CTV3_5digit	F3411	Median nerve compression in forearm
+periph_neuro	CTV3_5digit	F341z	Median nerve lesions NOS
+periph_neuro	CTV3_5digit	XE15h	Ulnar nerve lesions
+periph_neuro	CTV3_5digit	X00A7	Neuritis ulnar nerve
+periph_neuro	CTV3_5digit	F3420	Cubital tunnel syndrome
+periph_neuro	CTV3_5digit	F3421	Tardy ulnar nerve palsy
+periph_neuro	CTV3_5digit	F3422	Canal of Guyon compression
+periph_neuro	CTV3_5digit	Xa0Ks	Ulnar nerve entrapment
+periph_neuro	CTV3_5digit	XaIrg	Ulnar neuropathy
+periph_neuro	CTV3_5digit	F342z	Ulnar nerve lesion NOS
+periph_neuro	CTV3_5digit	F343.	Radial nerve lesions
+periph_neuro	CTV3_5digit	F3430	Acute radial nerve palsy
+periph_neuro	CTV3_5digit	F3431	Sensory branch of radial nerve lesion
+periph_neuro	CTV3_5digit	F3432	Posterior interosseous nerve lesion
+periph_neuro	CTV3_5digit	F343z	Radial nerve lesion NOS
+periph_neuro	CTV3_5digit	F345.	Mononeuritis multiplex
+periph_neuro	CTV3_5digit	F3450	Diabetic mononeuritis multiplex
+periph_neuro	CTV3_5digit	X75at	Median nerve entrapment
+periph_neuro	CTV3_5digit	F34y.	Other upper limb mononeuritis
+periph_neuro	CTV3_5digit	F34z.	Mononeuritis upper limb NOS
+periph_neuro	CTV3_5digit	F35..	Mononeuritis lower limb
+periph_neuro	CTV3_5digit	F350.	Sciatic nerve lesion
+periph_neuro	CTV3_5digit	F351.	Meralgia paraesthetica
+periph_neuro	CTV3_5digit	F352.	Femoral nerve lesions
+periph_neuro	CTV3_5digit	F353.	Common peroneal nerve lesion
+periph_neuro	CTV3_5digit	F354.	Tibial nerve lesion
+periph_neuro	CTV3_5digit	F355.	Tarsal tunnel syndrome
+periph_neuro	CTV3_5digit	F356.	Plantar nerve lesion
+periph_neuro	CTV3_5digit	F3560	Morton metatarsalgia
+periph_neuro	CTV3_5digit	F356z	Plantar nerve lesion NOS
+periph_neuro	CTV3_5digit	F357.	Superficial peroneal nerve lesion
+periph_neuro	CTV3_5digit	F358.	Deep peroneal nerve lesion
+periph_neuro	CTV3_5digit	F35x.	Other mononeuritis lower limb
+periph_neuro	CTV3_5digit	F35y.	Unspecified mononeuritis lower limb
+periph_neuro	CTV3_5digit	XE15i	Mononeuritis of unspecified site NOS
+periph_neuro	CTV3_5digit	X00A8	Peripheral neuropathy - hereditary or idiopathic
+periph_neuro	CTV3_5digit	F35z0	Diabetic mononeuritis NOS
+periph_neuro	CTV3_5digit	F36..	Hereditary and idiopathic peripheral neuropathy
+periph_neuro	CTV3_5digit	F3610	Hereditary peripheral neuropathy
+periph_neuro	CTV3_5digit	F3600	Dejerine-Sottas disease
+periph_neuro	CTV3_5digit	F360z	Hereditary peripheral neuropathy NOS
+periph_neuro	CTV3_5digit	F361z	Peroneal muscular atrophy NOS
+periph_neuro	CTV3_5digit	F362.	Hereditary sensory neuropathy
+periph_neuro	CTV3_5digit	F364.	Idiopathic progressive polyneuropathy
+periph_neuro	CTV3_5digit	F365.	Neuropathy in association with hereditary ataxia
+periph_neuro	CTV3_5digit	F366.	Polyneuropathy
+periph_neuro	CTV3_5digit	Xa3fB	Other peripheral neuropathy
+periph_neuro	CTV3_5digit	XC0eJ	Peripheral neuropathy
+periph_neuro	CTV3_5digit	X00A9	Hereditary motor and sensory neuropathy type I
+periph_neuro	CTV3_5digit	X00AA	Hereditary motor and sensory neuropathy type II
+periph_neuro	CTV3_5digit	F36y.	Other idiopathic peripheral neuropathy
+periph_neuro	CTV3_5digit	F36yz	Other idiopathic peripheral neuropathy NOS
+periph_neuro	CTV3_5digit	F36z.	Hereditary or idiopathic peripheral neuropathy NOS
+periph_neuro	CTV3_5digit	XE15j	Inflammatory and toxic neuropathy
+periph_neuro	CTV3_5digit	X00BG	Toxic neuropathy
+periph_neuro	CTV3_5digit	F370.	Acute infective polyneuritis
+periph_neuro	CTV3_5digit	F3700	Guillain-Barre syndrome
+periph_neuro	CTV3_5digit	F3701	Post-infectious polyneuritis
+periph_neuro	CTV3_5digit	X00AV	Miller-Fisher syndrome
+periph_neuro	CTV3_5digit	F370z	Acute infective polyneuritis NOS
+periph_neuro	CTV3_5digit	F371.	Polyneuropathy in collagen vascular disease
+periph_neuro	CTV3_5digit	F3710	Polyneuropathy in disseminated lupus erythematosus
+periph_neuro	CTV3_5digit	F3711	Polyneuropathy in polyarteritis nodosa
+periph_neuro	CTV3_5digit	F3712	Polyneuropathy in rheumatoid arthritis
+periph_neuro	CTV3_5digit	F371z	Polyneuropathy in collagen vascular disease NOS
+periph_neuro	CTV3_5digit	F3720	Acute painful diabetic neuropathy
+periph_neuro	CTV3_5digit	F3721	Chronic painful diabetic neuropathy
+periph_neuro	CTV3_5digit	F3722	Asymptomatic diabetic neuropathy
+periph_neuro	CTV3_5digit	F373.	Polyneuropathy in malignant disease
+periph_neuro	CTV3_5digit	F374.	Polyneuropathy in disease EC
+periph_neuro	CTV3_5digit	F3740	Polyneuropathy in amyloidosis
+periph_neuro	CTV3_5digit	F3741	Polyneuropathy in beriberi
+periph_neuro	CTV3_5digit	F3742	Polyneuropathy in vitamin B deficiency
+periph_neuro	CTV3_5digit	X00B5	Polyneuropathy in diphtheria
+periph_neuro	CTV3_5digit	F3744	Polyneuropathy in herpes zoster
+periph_neuro	CTV3_5digit	F3745	Polyneuropathy in hypoglycaemia
+periph_neuro	CTV3_5digit	F3746	Polyneuropathy in mumps
+periph_neuro	CTV3_5digit	F3748	Polyneuropathy in porphyria
+periph_neuro	CTV3_5digit	F3749	Polyneuropathy in sarcoidosis
+periph_neuro	CTV3_5digit	F374A	Uraemic polyneuropathy
+periph_neuro	CTV3_5digit	F374z	Polyneuropathy in disease NOS
+periph_neuro	CTV3_5digit	F375.	Alcohol-related polyneuropathy
+periph_neuro	CTV3_5digit	F376.	Drug-related polyneuropathy
+periph_neuro	CTV3_5digit	F377.	Other toxic agent polyneuropathy
+periph_neuro	CTV3_5digit	X00C5	Intercostal neuropathy
+periph_neuro	CTV3_5digit	Fyu7B	[X]Inflammatory polyneuropathy, unspecified
+periph_neuro	CTV3_5digit	F37y.	Other toxic or inflammatory neuropathy
+periph_neuro	CTV3_5digit	F37y0	Serum neuropathy
+periph_neuro	CTV3_5digit	X00CH	Axonal sensorimotor neuropathy
+periph_neuro	CTV3_5digit	XE15m	Toxic or inflammatory neuropathy NOS
+periph_neuro	CTV3_5digit	XaB3q	Polyneuropathy unspecified
+periph_neuro	CTV3_5digit	F3y..	Other specified disorders of peripheral nervous system
+periph_neuro	CTV3_5digit	X00Al	Diabetic mononeuropathy
+periph_neuro	CTV3_5digit	F3z..	Peripheral nervous system disorder NOS
+periph_neuro	CTV3_5digit	Fyu13	[X]Paraneoplastic neuromyopathy and neuropathy
+periph_neuro	CTV3_5digit	Fyu69	[X]Other lesions of median nerve
+periph_neuro	CTV3_5digit	Fyu6A	[X]Other mononeuropathies of upper limb
+periph_neuro	CTV3_5digit	Fyu6B	[X]Other mononeuropathies of lower limb
+periph_neuro	CTV3_5digit	Fyu6C	[X]Other specified mononeuropathies
+periph_neuro	CTV3_5digit	Fyu6D	[X]Other mononeuropathies in diseases classified elsewhere
+periph_neuro	CTV3_5digit	Fyu7.	[X]Polyneuropathies and other disorders of the peripheral nervous system
+periph_neuro	CTV3_5digit	Fyu70	[X]Other hereditary and idiopathic neuropathies
+periph_neuro	CTV3_5digit	Fyu71	[X]Other inflammatory polyneuropathies
+periph_neuro	CTV3_5digit	Fyu72	[X]Other specified polyneuropathies
+periph_neuro	CTV3_5digit	Fyu75	[X]Polyneuropathy in other endocrine and metabolic diseases classified elsewhere
+periph_neuro	CTV3_5digit	Fyu78	[X]Polyneuropathy in other musculoskeletal disorders classified elsewhere
+periph_neuro	CTV3_5digit	Fyu7C	[X]Polyneuropathy, unspecified
+periph_neuro	CTV3_5digit	M2711	Neuropathic diabetic ulcer - foot
+periph_neuro	CTV3_5digit	X50Bj	Neuropathic foot ulcer
+periph_neuro	CTV3_5digit	XE2sp	Neuropathic arthropathy
+periph_neuro	CTV3_5digit	N11y2	Neuropathic spondylopathy
+periph_neuro	CTV3_5digit	Xa6q4	Ulnar nerve lesion
+periph_neuro	CTV3_5digit	SD722	Neuropathic foot blister

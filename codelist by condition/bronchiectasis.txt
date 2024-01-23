@@ -1,0 +1,32 @@
+condition	vocab_id	code	description
+bronchiectasis	ICD10	J47	Bronchiectasis
+bronchiectasis	Read2	A115.00	Tuberculous bronchiectasis
+bronchiectasis	Read2	H34..00	Bronchiectasis
+bronchiectasis	Read2	H340.00	Recurrent bronchiectasis
+bronchiectasis	Read2	H341.00	Post-infective bronchiectasis
+bronchiectasis	Read2	H34z.00	Bronchiectasis NOS
+bronchiectasis	CTV3	A115.Y103f	Tuberculous bronchiectasis
+bronchiectasis	CTV3	H34..Y103S	Bronchiectasis
+bronchiectasis	CTV3	H340.Y103T	Recurrent bronchiectasis
+bronchiectasis	CTV3	H341.Y103e	Post-infective bronchiectasis
+bronchiectasis	CTV3	H34z.Y103U	Bronchiectasis NOS
+bronchiectasis	medcodeid	21163015	Bronchiectasis
+bronchiectasis	medcodeid	301524014	Recurrent bronchiectasis
+bronchiectasis	medcodeid	301525010	Post-infective bronchiectasis
+bronchiectasis	medcodeid	301526011	Bronchiectasis NOS
+bronchiectasis	medcodeid	38677017	Tuberculous bronchiectasis
+bronchiectasis	SNOMEDCT	12295008	Bronchiectasis
+bronchiectasis	SNOMEDCT	195984007	Recurrent bronchiectasis
+bronchiectasis	SNOMEDCT	195985008	Post-infective bronchiectasis
+bronchiectasis	SNOMEDCT	12295008	Bronchiectasis NOS
+bronchiectasis	SNOMEDCT	23022004	Tuberculous bronchiectasis
+bronchiectasis	Read2_5digit	A115.	Tuberculous bronchiectasis
+bronchiectasis	Read2_5digit	H34..	Bronchiectasis
+bronchiectasis	Read2_5digit	H340.	Recurrent bronchiectasis
+bronchiectasis	Read2_5digit	H341.	Post-infective bronchiectasis
+bronchiectasis	Read2_5digit	H34z.	Bronchiectasis NOS
+bronchiectasis	CTV3_5digit	A115.	Tuberculous bronchiectasis
+bronchiectasis	CTV3_5digit	H34..	Bronchiectasis
+bronchiectasis	CTV3_5digit	H340.	Recurrent bronchiectasis
+bronchiectasis	CTV3_5digit	H341.	Post-infective bronchiectasis
+bronchiectasis	CTV3_5digit	H34z.	Bronchiectasis NOS

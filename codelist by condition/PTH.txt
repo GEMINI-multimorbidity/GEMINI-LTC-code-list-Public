@@ -1,0 +1,66 @@
+condition	vocab_id	code	description
+PTH	ICD10	E21.0	Primary hyperparathyroidism
+PTH	ICD10	E21.1	Secondary hyperparathyroidism, not elsewhere classified
+PTH	ICD10	E21.2	Other hyperparathyroidism
+PTH	ICD10	E21.3	Hyperparathyroidism, unspecified
+PTH	Read2	C120.00	Hyperparathyroidism
+PTH	Read2	C120.11	Osteitis fibrosa cystica
+PTH	Read2	C120.12	Von Recklinghausen's bone disease
+PTH	Read2	C120000	Primary hyperparathyroidism
+PTH	Read2	C120100	Hyperparathyroid bone disease
+PTH	Read2	C120111	Osteitis fibrosa cystica
+PTH	Read2	C120112	Von Recklinghausen's bone disease
+PTH	Read2	C120200	Tertiary hyperparathyroidism
+PTH	Read2	C1z3100	Ectopic hyperparathyroidism
+PTH	Read2	Cyu4100	[X]Other hyperparathyroidism
+PTH	Read2	K08y100	Secondary hyperparathyroidism
+PTH	Read2	N332500	Brown tumour of hyperparathyroidism
+PTH	CTV3	XE10MY41SE	Hyperparathyroidism
+PTH	CTV3	X40RFY41gT	Osteitis fibrosa cystica
+PTH	CTV3	X40RFY41gS	Hyperparathyroid bone disease
+PTH	CTV3	X40RFYada5	von Recklinghausen's bone disease
+PTH	CTV3	X40KJY41SF	Primary hyperparathyroidism
+PTH	CTV3	X40KNY41SJ	Tertiary hyperparathyroidism
+PTH	CTV3	C1z31Y41aq	Ectopic hyperparathyroidism
+PTH	CTV3	Cyu41YMABZ	[X]Other hyperparathyroidism
+PTH	CTV3	K08y1Y41SI	Secondary hyperparathyroidism
+PTH	CTV3	N3325YM0nc	Brown tumour of hyperparathyroidism
+PTH	medcodeid	49080014	Ectopic hyperparathyroidism
+PTH	medcodeid	129770011	Tertiary hyperparathyroidism
+PTH	medcodeid	140466019	Osteitis fibrosa cystica
+PTH	medcodeid	312190010	Brown tumour of hyperparathyroidism
+PTH	medcodeid	293766019	[X]Other hyperparathyroidism
+PTH	medcodeid	830981000006111	Hyperparathyroid bone disease
+PTH	medcodeid	41211000006118	Osteitis fibrosa cystica
+PTH	medcodeid	63791000006110	Von Recklinghausen's bone disease
+PTH	medcodeid	60663012	Primary hyperparathyroidism
+PTH	medcodeid	111289013	Hyperparathyroidism
+PTH	medcodeid	151534010	Secondary hyperparathyroidism
+PTH	medcodeid	1234973018	von Recklinghausen's bone disease
+PTH	SNOMEDCT	29326002	Ectopic hyperparathyroidism
+PTH	SNOMEDCT	78200003	Tertiary hyperparathyroidism
+PTH	SNOMEDCT	84727000	Osteitis fibrosa cystica
+PTH	SNOMEDCT	203471008	Brown tumour of hyperparathyroidism
+PTH	SNOMEDCT	66999008	[X]Other hyperparathyroidism
+PTH	SNOMEDCT	84727000	Hyperparathyroid bone disease
+PTH	SNOMEDCT	84727000	Von Recklinghausen's bone disease
+PTH	SNOMEDCT	36348003	Primary hyperparathyroidism
+PTH	SNOMEDCT	66999008	Hyperparathyroidism
+PTH	SNOMEDCT	91478007	Secondary hyperparathyroidism
+PTH	SNOMEDCT	84727000	von Recklinghausen's bone disease
+PTH	Read2_5digit	C120.	Hyperparathyroidism
+PTH	Read2_5digit	C1200	Primary hyperparathyroidism
+PTH	Read2_5digit	C1201	Hyperparathyroid bone disease
+PTH	Read2_5digit	C1202	Tertiary hyperparathyroidism
+PTH	Read2_5digit	C1z31	Ectopic hyperparathyroidism
+PTH	Read2_5digit	Cyu41	[X]Other hyperparathyroidism
+PTH	Read2_5digit	K08y1	Secondary hyperparathyroidism
+PTH	Read2_5digit	N3325	Brown tumour of hyperparathyroidism
+PTH	CTV3_5digit	XE10M	Hyperparathyroidism
+PTH	CTV3_5digit	X40RF	Osteitis fibrosa cystica
+PTH	CTV3_5digit	X40KJ	Primary hyperparathyroidism
+PTH	CTV3_5digit	X40KN	Tertiary hyperparathyroidism
+PTH	CTV3_5digit	C1z31	Ectopic hyperparathyroidism
+PTH	CTV3_5digit	Cyu41	[X]Other hyperparathyroidism
+PTH	CTV3_5digit	K08y1	Secondary hyperparathyroidism
+PTH	CTV3_5digit	N3325	Brown tumour of hyperparathyroidism

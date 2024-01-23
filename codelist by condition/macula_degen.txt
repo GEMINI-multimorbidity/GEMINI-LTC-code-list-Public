@@ -1,0 +1,72 @@
+condition	vocab_id	code	description
+macula_degen	ICD10	H35.3	Degeneration of macula and posterior pole
+macula_degen	Read2	2BBH.00	Retinal drusen
+macula_degen	Read2	F424200	Retinal pigment epithelium serous detachment
+macula_degen	Read2	F424300	Retinal pigment epithelium haemorrhagic detachment
+macula_degen	Read2	F424400	Retinal pigment epithelial detachment
+macula_degen	Read2	F425.00	Degeneration of macula and posterior pole
+macula_degen	Read2	F425.11	Senile macular degeneration
+macula_degen	Read2	F425000	Unspecified senile macular degeneration
+macula_degen	Read2	F425100	Dry senile macular degeneration
+macula_degen	Read2	F425200	Wet senile macular degeneration
+macula_degen	Read2	F425211	Kuhnt - Junius degeneration
+macula_degen	Read2	F425700	Drusen
+macula_degen	Read2	F425z00	Degeneration of macula or posterior pole NOS
+macula_degen	CTV3	X75moY7CbE	Retinal drusen
+macula_degen	CTV3	F4242Y020a	Retinal pigment epithelium serous detachment
+macula_degen	CTV3	F4243Y020Z	Retinal pigment epithelium haemorrhagic detachment
+macula_degen	CTV3	X00eGY020W	Retinal pigment epithelial detachment
+macula_degen	CTV3	XE15xY01wA	Degeneration of macula and posterior pole
+macula_degen	CTV3	XE18jYMH2G	Senile macular degeneration
+macula_degen	CTV3	F4250Y020P	Unspecified senile macular degeneration
+macula_degen	CTV3	F4251Y020e	Dry senile macular degeneration
+macula_degen	CTV3	F4252Y020i	Wet senile macular degeneration
+macula_degen	CTV3	F4252Y020g	Subretinal neovascularisation of macula
+macula_degen	CTV3	F4252Y020j	Junius-Kuhnt degeneration
+macula_degen	CTV3	F4257Y020V	Drusen
+macula_degen	CTV3	F425zY01wB	Degeneration of macula or posterior pole NOS
+macula_degen	medcodeid	347719019	Retinal pigment epithelial detachment
+macula_degen	medcodeid	399676018	Senile macular degeneration
+macula_degen	medcodeid	1216693019	Retinal pigment epithelium haemorrhagic detachment
+macula_degen	medcodeid	1231068014	Retinal pigment epithelium serous detachment
+macula_degen	medcodeid	31523017	Drusen
+macula_degen	medcodeid	297816017	Degeneration of macula or posterior pole NOS
+macula_degen	medcodeid	78571000006118	Unspecified senile macular degeneration
+macula_degen	medcodeid	2537365016	Dry senile macular degeneration
+macula_degen	medcodeid	2538088014	Wet senile macular degeneration
+macula_degen	medcodeid	753461000006116	Kuhnt - Junius degeneration
+macula_degen	medcodeid	399433012	Degeneration of macula and posterior pole
+macula_degen	medcodeid	369092019	Retinal drusen
+macula_degen	SNOMEDCT	232067008	Retinal pigment epithelial detachment
+macula_degen	SNOMEDCT	267718000	Senile macular degeneration
+macula_degen	SNOMEDCT	50165004	Retinal pigment epithelium haemorrhagic detachment
+macula_degen	SNOMEDCT	52002008	Retinal pigment epithelium serous detachment
+macula_degen	SNOMEDCT	18695008	Drusen
+macula_degen	SNOMEDCT	267611002	Degeneration of macula or posterior pole NOS
+macula_degen	SNOMEDCT	267718000	Unspecified senile macular degeneration
+macula_degen	SNOMEDCT	414875008	Dry senile macular degeneration
+macula_degen	SNOMEDCT	414173003	Wet senile macular degeneration
+macula_degen	SNOMEDCT	414173003	Kuhnt - Junius degeneration
+macula_degen	SNOMEDCT	267611002	Degeneration of macula and posterior pole
+macula_degen	SNOMEDCT	247153005	Retinal drusen
+macula_degen	Read2_5digit	2BBH.	Retinal drusen
+macula_degen	Read2_5digit	F4242	Retinal pigment epithelium serous detachment
+macula_degen	Read2_5digit	F4243	Retinal pigment epithelium haemorrhagic detachment
+macula_degen	Read2_5digit	F4244	Retinal pigment epithelial detachment
+macula_degen	Read2_5digit	F425.	Degeneration of macula and posterior pole
+macula_degen	Read2_5digit	F4250	Unspecified senile macular degeneration
+macula_degen	Read2_5digit	F4251	Dry senile macular degeneration
+macula_degen	Read2_5digit	F4252	Wet senile macular degeneration
+macula_degen	Read2_5digit	F4257	Drusen
+macula_degen	Read2_5digit	F425z	Degeneration of macula or posterior pole NOS
+macula_degen	CTV3_5digit	X75mo	Retinal drusen
+macula_degen	CTV3_5digit	F4242	Retinal pigment epithelium serous detachment
+macula_degen	CTV3_5digit	F4243	Retinal pigment epithelium haemorrhagic detachment
+macula_degen	CTV3_5digit	X00eG	Retinal pigment epithelial detachment
+macula_degen	CTV3_5digit	XE15x	Degeneration of macula and posterior pole
+macula_degen	CTV3_5digit	XE18j	Senile macular degeneration
+macula_degen	CTV3_5digit	F4250	Unspecified senile macular degeneration
+macula_degen	CTV3_5digit	F4251	Dry senile macular degeneration
+macula_degen	CTV3_5digit	F4252	Wet senile macular degeneration
+macula_degen	CTV3_5digit	F4257	Drusen
+macula_degen	CTV3_5digit	F425z	Degeneration of macula or posterior pole NOS

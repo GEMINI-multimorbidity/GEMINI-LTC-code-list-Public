@@ -1,6 +1,8 @@
 # GEMINI-LTC-code-list-Public
 
-long term condition (ltc) codes used in the GEMINI project
+Diagnostic codes for the long-term conditions (LTCs) used in the GEMINI project. For details on the derivation see our [paper](https://doi.org/10.1101/2024.05.13.24307009). If you use these codes please cite:
+
+> Murrin _et al._ (2024) A systematic analysis of the contribution of genetics to multimorbidity and comparisons with primary care data. medRxiv [https://doi.org/10.1101/2024.05.13.24307009](https://doi.org/10.1101/2024.05.13.24307009)
 
 |name                                                                          |file_prefix             |
 |:-----------------------------------------------------------------------------|:-----------------------|

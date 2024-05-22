@@ -1,10 +1,17 @@
 # GEMINI-LTC-code-list-Public
 
-Diagnostic codes for the long-term conditions (LTCs) used in the GEMINI project. For details on the derivation see our [paper](https://doi.org/10.1101/2024.05.13.24307009). If you use these codes please cite:
+[![](https://img.shields.io/badge/version-0.1.0-informational.svg)](https://github.com/GEMINI-multimorbidity/GEMINI-LTC-code-list-Public)
+[![](https://img.shields.io/github/last-commit/GEMINI-multimorbidity/GEMINI-LTC-code-list-Public.svg)](https://github.com/GEMINI-multimorbidity/GEMINI-LTC-code-list-Public/commits/master)
+
+Diagnostic codes for the long-term conditions (LTCs) used in the GEMINI project. See the [releases](https://github.com/GEMINI-multimorbidity/GEMINI-LTC-code-list-Public/releases) page for codelist versions.
+
+For details on the derivation see our [paper](https://doi.org/10.1101/2024.05.13.24307009). If you use these codes please cite:
 
 > Murrin _et al._ (2024) A systematic analysis of the contribution of genetics to multimorbidity and comparisons with primary care data. medRxiv [https://doi.org/10.1101/2024.05.13.24307009](https://doi.org/10.1101/2024.05.13.24307009)
 
-|name                                                                          |file_prefix             |
+## List of long-term conditions
+
+|Name                                                                          |prefix                  |
 |:-----------------------------------------------------------------------------|:-----------------------|
 |Abdominal aortic aneurysm                                                     |AAA                     |
 |Atrial fibrillation                                                           |AF                      |
